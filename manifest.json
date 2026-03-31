@@ -1,0 +1,2104 @@
+{
+  "app": "Academic Tutor Repo Builder V3",
+  "generated_at": "2026-03-31T01:21:53",
+  "course": {
+    "course_name": "Inteligencia Artificial",
+    "course_slug": "inteligencia-artificial",
+    "semester": "6",
+    "professor": "Silvia Maria",
+    "institution": "PUCRS"
+  },
+  "options": {
+    "default_processing_mode": "auto",
+    "default_ocr_language": "por,eng",
+    "image_format": "png",
+    "stall_timeout": 600
+  },
+  "environment": {
+    "python": "3.11.9",
+    "pymupdf": true,
+    "pymupdf4llm": true,
+    "pdfplumber": true,
+    "docling_cli": true,
+    "marker_cli": true
+  },
+  "entries": [
+    {
+      "id": "redesperceptron2023-02",
+      "title": "Redesperceptron2023 02",
+      "category": "material-de-aula",
+      "file_type": "pdf",
+      "source_path": "C:/Users/Humberto/Downloads/InteligenciaArtificial/RedesPerceptron2023_02.pdf",
+      "tags": "",
+      "notes": "",
+      "professor_signal": "",
+      "include_in_bundle": true,
+      "relevant_for_exam": true,
+      "processing_mode": "high_fidelity",
+      "document_profile": "math_heavy",
+      "preferred_backend": "marker",
+      "raw_target": "raw/pdfs/material-de-aula/redesperceptron2023-02.pdf",
+      "document_report": {
+        "page_count": 77,
+        "text_chars": 13904,
+        "images_count": 105,
+        "table_candidates": 0,
+        "text_density": 180.57,
+        "suspected_scan": false,
+        "suggested_profile": "math_heavy",
+        "notes": [
+          "Perfil definido manualmente pelo usuário."
+        ]
+      },
+      "pipeline_decision": {
+        "entry_id": "redesperceptron2023-02",
+        "processing_mode": "high_fidelity",
+        "effective_profile": "math_heavy",
+        "base_backend": "pymupdf4llm",
+        "advanced_backend": "marker",
+        "reasons": [
+          "Backend preferido manualmente: marker.",
+          "Documento math_heavy pede backend avançado com enrich-formula."
+        ]
+      },
+      "base_markdown": null,
+      "advanced_markdown": null,
+      "advanced_backend": "marker",
+      "base_backend": "pymupdf4llm",
+      "images_dir": "staging/assets/images/redesperceptron2023-02",
+      "tables_dir": "staging/assets/tables/redesperceptron2023-02",
+      "table_detection_dir": "staging/assets/table-detections/redesperceptron2023-02",
+      "manual_review": null,
+      "effective_profile": "math_heavy",
+      "advanced_asset_dir": "staging/markdown-auto/marker/redesperceptron2023-02",
+      "advanced_metadata_path": "staging/markdown-auto/marker/redesperceptron2023-02/marker-run.json",
+      "image_curation": {
+        "status": "pending",
+        "curated_at": "2026-03-31T11:33:53",
+        "pages": {
+          "0": {
+            "include_page": true,
+            "images": {
+              "redesperceptron2023-02-_page_0_Picture_2.png": {
+                "type": "genérico",
+                "include": true,
+                "description": null,
+                "described_at": null
+              }
+            }
+          },
+          "1": {
+            "include_page": false,
+            "images": {}
+          },
+          "9": {
+            "include_page": true,
+            "images": {
+              "redesperceptron2023-02-_page_9_Picture_3.png": {
+                "type": "genérico",
+                "include": true,
+                "description": null,
+                "described_at": null
+              }
+            }
+          },
+          "17": {
+            "include_page": true,
+            "images": {
+              "redesperceptron2023-02-_page_17_Picture_1.png": {
+                "type": "genérico",
+                "include": true,
+                "description": null,
+                "described_at": null
+              }
+            }
+          },
+          "16": {
+            "include_page": true,
+            "images": {
+              "redesperceptron2023-02-_page_16_Picture_1.png": {
+                "type": "genérico",
+                "include": true,
+                "description": null,
+                "described_at": null
+              }
+            }
+          },
+          "23": {
+            "include_page": true,
+            "images": {
+              "redesperceptron2023-02-_page_23_Picture_1.png": {
+                "type": "genérico",
+                "include": true,
+                "description": null,
+                "described_at": null
+              }
+            }
+          },
+          "28": {
+            "include_page": true,
+            "images": {
+              "redesperceptron2023-02-_page_28_Picture_1.png": {
+                "type": "genérico",
+                "include": true,
+                "description": null,
+                "described_at": null
+              }
+            }
+          },
+          "42": {
+            "include_page": true,
+            "images": {
+              "redesperceptron2023-02-_page_42_Picture_2.png": {
+                "type": "genérico",
+                "include": true,
+                "description": null,
+                "described_at": null
+              }
+            }
+          },
+          "4": {
+            "include_page": true,
+            "images": {
+              "aula01-introducao-ia-aula01-introducao-ia.pdf-0004-09.png": {
+                "type": "genérico",
+                "include": true,
+                "description": null,
+                "described_at": null
+              },
+              "aula01-introducao-ia-aula01-introducao-ia.pdf-0004-10.png": {
+                "type": "genérico",
+                "include": true,
+                "description": null,
+                "described_at": null
+              },
+              "aula01-introducao-ia-aula01-introducao-ia.pdf-0004-11.png": {
+                "type": "genérico",
+                "include": true,
+                "description": null,
+                "described_at": null
+              }
+            }
+          },
+          "46": {
+            "include_page": true,
+            "images": {
+              "redesperceptron2023-02-redesperceptron2023-02.pdf-0046-02.png": {
+                "type": "genérico",
+                "include": true,
+                "description": null,
+                "described_at": null
+              },
+              "redesperceptron2023-02-redesperceptron2023-02.pdf-0046-03.png": {
+                "type": "genérico",
+                "include": true,
+                "description": null,
+                "described_at": null
+              }
+            }
+          }
+        }
+      },
+      "approved_markdown": "content/curated/redesperceptron2023-02.md",
+      "curated_markdown": "content/curated/redesperceptron2023-02.md",
+      "approved_source_markdown": "staging/markdown-auto/marker/redesperceptron2023-02/redesperceptron2023-02/redesperceptron2023-02.md",
+      "approved_at": "2026-03-31T11:42:13",
+      "review_status": "approved"
+    },
+    {
+      "id": "o-que-é-inteligência-artificial-ia-oracle-brasil-43437f",
+      "title": "O que é Inteligência Artificial (IA)? | Oracle Brasil",
+      "category": "references",
+      "file_type": "url",
+      "source_path": "https://www.oracle.com/br/artificial-intelligence/what-is-ai/",
+      "tags": "",
+      "notes": "",
+      "professor_signal": "",
+      "include_in_bundle": true,
+      "relevant_for_exam": true,
+      "processing_mode": "auto",
+      "document_profile": "general",
+      "preferred_backend": "url_fetcher",
+      "document_report": null,
+      "pipeline_decision": null,
+      "base_markdown": null,
+      "advanced_markdown": null,
+      "advanced_backend": null,
+      "base_backend": "url_fetcher",
+      "manual_review": null,
+      "approved_markdown": "content/curated/o-que-é-inteligência-artificial-ia-oracle-brasil-43437f.md",
+      "curated_markdown": "content/curated/o-que-é-inteligência-artificial-ia-oracle-brasil-43437f.md",
+      "approved_source_markdown": "staging/markdown-auto/url_fetcher/o-que-é-inteligência-artificial-ia-oracle-brasil-43437f.md",
+      "approved_at": "2026-03-31T11:42:26",
+      "review_status": "approved"
+    },
+    {
+      "id": "ia-responsável-7c4626",
+      "title": "IA Responsável",
+      "category": "references",
+      "file_type": "url",
+      "source_path": "https://www.microsoft.com/pt-br/ai/responsible-ai?activetab=pivot1:primaryr6",
+      "tags": "",
+      "notes": "",
+      "professor_signal": "",
+      "include_in_bundle": true,
+      "relevant_for_exam": true,
+      "processing_mode": "auto",
+      "document_profile": "general",
+      "preferred_backend": "url_fetcher",
+      "document_report": null,
+      "pipeline_decision": null,
+      "base_markdown": null,
+      "advanced_markdown": null,
+      "advanced_backend": null,
+      "base_backend": "url_fetcher",
+      "manual_review": null,
+      "approved_markdown": "content/curated/ia-responsável-7c4626.md",
+      "curated_markdown": "content/curated/ia-responsável-7c4626.md",
+      "approved_source_markdown": "staging/markdown-auto/url_fetcher/ia-responsável-7c4626.md",
+      "approved_at": "2026-03-31T14:38:50",
+      "review_status": "approved"
+    },
+    {
+      "id": "k-nn-exemplo2",
+      "title": "K Nn Exemplo2",
+      "category": "codigo-professor",
+      "file_type": "code",
+      "source_path": "C:/Users/Humberto/Downloads/InteligenciaArtificial/CodigosMoodle/k_NN_exemplo2.ipynb",
+      "tags": "ipynb",
+      "notes": "",
+      "professor_signal": "",
+      "include_in_bundle": true,
+      "relevant_for_exam": true,
+      "processing_mode": "auto",
+      "document_profile": "auto",
+      "preferred_backend": "auto",
+      "raw_target": "raw/code/professor/k-nn-exemplo2.ipynb",
+      "manual_review": "manual-review/code/k-nn-exemplo2.md",
+      "base_markdown": "code/professor/k-nn-exemplo2.md",
+      "language": "json"
+    },
+    {
+      "id": "exemploknn",
+      "title": "Exemploknn",
+      "category": "codigo-professor",
+      "file_type": "zip",
+      "source_path": "C:/Users/Humberto/Downloads/InteligenciaArtificial/CodigosMoodle/ExemploKnn.zip",
+      "tags": "",
+      "notes": "",
+      "professor_signal": "",
+      "include_in_bundle": true,
+      "relevant_for_exam": true,
+      "processing_mode": "auto",
+      "document_profile": "auto",
+      "preferred_backend": "auto",
+      "raw_target": "raw/zip/exemploknn.zip",
+      "extracted_files": [
+        {
+          "manual_review": "manual-review/code/knn.md",
+          "base_markdown": "code/professor/knn.md",
+          "language": "java",
+          "title": "ExemploKnn\\arquivosIris\\Knn.java"
+        }
+      ],
+      "base_markdown": null,
+      "extraction_error": null,
+      "file_count": 1
+    },
+    {
+      "id": "til2007-1",
+      "title": "Til2007 (1)",
+      "category": "bibliografia",
+      "file_type": "pdf",
+      "source_path": "C:/Users/Humberto/Downloads/InteligenciaArtificial/TIL2007 (1).pdf",
+      "tags": "",
+      "notes": "",
+      "professor_signal": "",
+      "include_in_bundle": true,
+      "relevant_for_exam": true,
+      "processing_mode": "auto",
+      "document_profile": "auto",
+      "preferred_backend": "auto",
+      "raw_target": "raw/pdfs/bibliografia/til2007-1.pdf",
+      "document_report": {
+        "page_count": 10,
+        "text_chars": 32788,
+        "images_count": 10,
+        "table_candidates": 5,
+        "text_density": 3278.8,
+        "suspected_scan": false,
+        "suggested_profile": "layout_heavy",
+        "notes": [
+          "Layout com tabelas/imagens relevantes."
+        ]
+      },
+      "pipeline_decision": {
+        "entry_id": "til2007-1",
+        "processing_mode": "auto",
+        "effective_profile": "layout_heavy",
+        "base_backend": "pymupdf4llm",
+        "advanced_backend": "docling",
+        "reasons": [
+          "Modo auto detectou perfil layout_heavy e ativou camada avançada."
+        ]
+      },
+      "base_markdown": null,
+      "advanced_markdown": null,
+      "advanced_backend": "docling",
+      "base_backend": "pymupdf4llm",
+      "images_dir": "staging/assets/images/til2007-1",
+      "tables_dir": "staging/assets/tables/til2007-1",
+      "table_detection_dir": "staging/assets/table-detections/til2007-1",
+      "manual_review": null,
+      "effective_profile": "layout_heavy",
+      "advanced_asset_dir": "staging/markdown-auto/docling/til2007-1",
+      "advanced_metadata_path": "staging/markdown-auto/docling/til2007-1/docling-run.json",
+      "approved_markdown": "content/curated/til2007-1.md",
+      "curated_markdown": "content/curated/til2007-1.md",
+      "approved_source_markdown": "staging/markdown-auto/pymupdf4llm/til2007-1.md",
+      "approved_at": "2026-03-31T11:42:29",
+      "review_status": "approved"
+    },
+    {
+      "id": "caracteristicasdosdados",
+      "title": "Caracteristicasdosdados",
+      "category": "material-de-aula",
+      "file_type": "pdf",
+      "source_path": "C:/Users/Humberto/Downloads/InteligenciaArtificial/CaracteristicasDosDados.pdf",
+      "tags": "",
+      "notes": "",
+      "professor_signal": "",
+      "include_in_bundle": true,
+      "relevant_for_exam": true,
+      "processing_mode": "high_fidelity",
+      "document_profile": "math_heavy",
+      "preferred_backend": "marker",
+      "raw_target": "raw/pdfs/material-de-aula/caracteristicasdosdados.pdf",
+      "document_report": {
+        "page_count": 47,
+        "text_chars": 12512,
+        "images_count": 108,
+        "table_candidates": 15,
+        "text_density": 266.21,
+        "suspected_scan": false,
+        "suggested_profile": "math_heavy",
+        "notes": [
+          "Perfil definido manualmente pelo usuário."
+        ]
+      },
+      "pipeline_decision": {
+        "entry_id": "caracteristicasdosdados",
+        "processing_mode": "high_fidelity",
+        "effective_profile": "math_heavy",
+        "base_backend": "pymupdf4llm",
+        "advanced_backend": "marker",
+        "reasons": [
+          "Backend preferido manualmente: marker.",
+          "Documento math_heavy pede backend avançado com enrich-formula."
+        ]
+      },
+      "base_markdown": null,
+      "advanced_markdown": null,
+      "advanced_backend": "marker",
+      "base_backend": "pymupdf4llm",
+      "images_dir": "staging/assets/images/caracteristicasdosdados",
+      "tables_dir": "staging/assets/tables/caracteristicasdosdados",
+      "table_detection_dir": "staging/assets/table-detections/caracteristicasdosdados",
+      "manual_review": null,
+      "effective_profile": "math_heavy",
+      "advanced_asset_dir": "staging/markdown-auto/marker/caracteristicasdosdados",
+      "advanced_metadata_path": "staging/markdown-auto/marker/caracteristicasdosdados/marker-run.json",
+      "image_curation": {
+        "status": "pending",
+        "curated_at": "2026-03-31T10:49:13",
+        "pages": {
+          "25": {
+            "include_page": true,
+            "images": {
+              "caracteristicasdosdados-caracteristicasdosdados.pdf-0025-00.png": {
+                "type": "genérico",
+                "include": true,
+                "description": null,
+                "described_at": null
+              },
+              "caracteristicasdosdados-caracteristicasdosdados.pdf-0025-01.png": {
+                "type": "genérico",
+                "include": true,
+                "description": null,
+                "described_at": null
+              },
+              "caracteristicasdosdados-caracteristicasdosdados.pdf-0025-02.png": {
+                "type": "genérico",
+                "include": true,
+                "description": null,
+                "described_at": null
+              },
+              "caracteristicasdosdados-caracteristicasdosdados.pdf-0025-03.png": {
+                "type": "genérico",
+                "include": true,
+                "description": null,
+                "described_at": null
+              },
+              "caracteristicasdosdados-caracteristicasdosdados.pdf-0025-04.png": {
+                "type": "genérico",
+                "include": true,
+                "description": null,
+                "described_at": null
+              }
+            }
+          },
+          "24": {
+            "include_page": true,
+            "images": {
+              "caracteristicasdosdados-_page_24_Figure_0.png": {
+                "type": "genérico",
+                "include": true,
+                "description": null,
+                "described_at": null
+              },
+              "caracteristicasdosdados-_page_24_Figure_1.png": {
+                "type": "genérico",
+                "include": true,
+                "description": null,
+                "described_at": null
+              },
+              "caracteristicasdosdados-_page_24_Figure_2.png": {
+                "type": "genérico",
+                "include": true,
+                "description": null,
+                "described_at": null
+              },
+              "caracteristicasdosdados-_page_24_Figure_3.png": {
+                "type": "genérico",
+                "include": true,
+                "description": null,
+                "described_at": null
+              },
+              "caracteristicasdosdados-caracteristicasdosdados.pdf-0024-01.png": {
+                "type": "genérico",
+                "include": true,
+                "description": null,
+                "described_at": null
+              }
+            }
+          },
+          "23": {
+            "include_page": true,
+            "images": {
+              "caracteristicasdosdados-caracteristicasdosdados.pdf-0023-01.png": {
+                "type": "genérico",
+                "include": true,
+                "description": null,
+                "described_at": null
+              }
+            }
+          },
+          "22": {
+            "include_page": true,
+            "images": {
+              "caracteristicasdosdados-_page_22_Picture_1.png": {
+                "type": "genérico",
+                "include": true,
+                "description": null,
+                "described_at": null
+              }
+            }
+          },
+          "16": {
+            "include_page": true,
+            "images": {
+              "caracteristicasdosdados-caracteristicasdosdados.pdf-0016-01.png": {
+                "type": "genérico",
+                "include": true,
+                "description": null,
+                "described_at": null
+              }
+            }
+          },
+          "15": {
+            "include_page": true,
+            "images": {
+              "caracteristicasdosdados-caracteristicasdosdados.pdf-0015-00.png": {
+                "type": "genérico",
+                "include": true,
+                "description": null,
+                "described_at": null
+              }
+            }
+          },
+          "14": {
+            "include_page": true,
+            "images": {
+              "caracteristicasdosdados-caracteristicasdosdados.pdf-0014-12.png": {
+                "type": "genérico",
+                "include": true,
+                "description": null,
+                "described_at": null
+              }
+            }
+          },
+          "10": {
+            "include_page": true,
+            "images": {
+              "caracteristicasdosdados-caracteristicasdosdados.pdf-0010-02.png": {
+                "type": "genérico",
+                "include": true,
+                "description": null,
+                "described_at": null
+              }
+            }
+          },
+          "11": {
+            "include_page": true,
+            "images": {
+              "caracteristicasdosdados-caracteristicasdosdados.pdf-0011-04.png": {
+                "type": "genérico",
+                "include": true,
+                "description": null,
+                "described_at": null
+              },
+              "caracteristicasdosdados-page-011-manual-112525.png": {
+                "type": "genérico",
+                "include": true,
+                "description": null,
+                "described_at": null
+              }
+            }
+          },
+          "8": {
+            "include_page": true,
+            "images": {
+              "caracteristicasdosdados-caracteristicasdosdados.pdf-0008-01.png": {
+                "type": "genérico",
+                "include": true,
+                "description": null,
+                "described_at": null
+              }
+            }
+          },
+          "7": {
+            "include_page": true,
+            "images": {
+              "caracteristicasdosdados-caracteristicasdosdados.pdf-0007-02.png": {
+                "type": "genérico",
+                "include": true,
+                "description": null,
+                "described_at": null
+              }
+            }
+          },
+          "6": {
+            "include_page": true,
+            "images": {
+              "caracteristicasdosdados-caracteristicasdosdados.pdf-0006-01.png": {
+                "type": "genérico",
+                "include": true,
+                "description": null,
+                "described_at": null
+              }
+            }
+          },
+          "5": {
+            "include_page": true,
+            "images": {
+              "caracteristicasdosdados-caracteristicasdosdados.pdf-0005-01.png": {
+                "type": "genérico",
+                "include": true,
+                "description": null,
+                "described_at": null
+              }
+            }
+          },
+          "4": {
+            "include_page": true,
+            "images": {
+              "caracteristicasdosdados-_page_4_Picture_1.png": {
+                "type": "genérico",
+                "include": true,
+                "description": null,
+                "described_at": null
+              }
+            }
+          },
+          "3": {
+            "include_page": true,
+            "images": {
+              "caracteristicasdosdados-_page_3_Picture_1.png": {
+                "type": "genérico",
+                "include": true,
+                "description": null,
+                "described_at": null
+              },
+              "caracteristicasdosdados-caracteristicasdosdados.pdf-0003-01.png": {
+                "type": "genérico",
+                "include": true,
+                "description": null,
+                "described_at": null
+              }
+            }
+          },
+          "2": {
+            "include_page": true,
+            "images": {
+              "caracteristicasdosdados-caracteristicasdosdados.pdf-0002-01.png": {
+                "type": "genérico",
+                "include": true,
+                "description": null,
+                "described_at": null
+              }
+            }
+          },
+          "1": {
+            "include_page": true,
+            "images": {
+              "caracteristicasdosdados-_page_1_Picture_1.png": {
+                "type": "genérico",
+                "include": true,
+                "description": null,
+                "described_at": null
+              }
+            }
+          },
+          "0": {
+            "include_page": true,
+            "images": {
+              "caracteristicasdosdados-_page_0_Figure_0.png": {
+                "type": "genérico",
+                "include": true,
+                "description": null,
+                "described_at": null
+              }
+            }
+          },
+          "34": {
+            "include_page": true,
+            "images": {
+              "caracteristicasdosdados-page-034-manual-112741.png": {
+                "type": "genérico",
+                "include": true,
+                "description": null,
+                "described_at": null
+              }
+            }
+          },
+          "17": {
+            "include_page": true,
+            "images": {
+              "caracteristicasdosdados-page-017-manual-112815.png": {
+                "type": "genérico",
+                "include": true,
+                "description": null,
+                "described_at": null
+              }
+            }
+          },
+          "18": {
+            "include_page": true,
+            "images": {
+              "caracteristicasdosdados-page-018-manual-112834.png": {
+                "type": "genérico",
+                "include": true,
+                "description": null,
+                "described_at": null
+              }
+            }
+          }
+        }
+      },
+      "approved_markdown": "content/curated/caracteristicasdosdados.md",
+      "curated_markdown": "content/curated/caracteristicasdosdados.md",
+      "approved_source_markdown": "staging/markdown-auto/marker/caracteristicasdosdados/caracteristicasdosdados/caracteristicasdosdados.md",
+      "approved_at": "2026-03-31T11:37:28",
+      "review_status": "approved"
+    },
+    {
+      "id": "introducaoredesneurais-2023-02",
+      "title": "Introducaoredesneurais 2023 02",
+      "category": "material-de-aula",
+      "file_type": "pdf",
+      "source_path": "C:/Users/Humberto/Downloads/InteligenciaArtificial/IntroducaoRedesNeurais_2023_02.pdf",
+      "tags": "",
+      "notes": "",
+      "professor_signal": "",
+      "include_in_bundle": true,
+      "relevant_for_exam": true,
+      "processing_mode": "high_fidelity",
+      "document_profile": "layout_heavy",
+      "preferred_backend": "marker",
+      "raw_target": "raw/pdfs/material-de-aula/introducaoredesneurais-2023-02.pdf",
+      "document_report": {
+        "page_count": 30,
+        "text_chars": 6009,
+        "images_count": 35,
+        "table_candidates": 0,
+        "text_density": 200.3,
+        "suspected_scan": false,
+        "suggested_profile": "layout_heavy",
+        "notes": [
+          "Perfil definido manualmente pelo usuário."
+        ]
+      },
+      "pipeline_decision": {
+        "entry_id": "introducaoredesneurais-2023-02",
+        "processing_mode": "high_fidelity",
+        "effective_profile": "layout_heavy",
+        "base_backend": "pymupdf4llm",
+        "advanced_backend": "marker",
+        "reasons": [
+          "Backend preferido manualmente: marker.",
+          "Documento com layout/scan/exam pede backend avançado."
+        ]
+      },
+      "base_markdown": null,
+      "advanced_markdown": null,
+      "advanced_backend": "marker",
+      "base_backend": "pymupdf4llm",
+      "images_dir": "staging/assets/images/introducaoredesneurais-2023-02",
+      "tables_dir": "staging/assets/tables/introducaoredesneurais-2023-02",
+      "table_detection_dir": "staging/assets/table-detections/introducaoredesneurais-2023-02",
+      "manual_review": null,
+      "effective_profile": "layout_heavy",
+      "advanced_asset_dir": "staging/markdown-auto/marker/introducaoredesneurais-2023-02",
+      "advanced_metadata_path": "staging/markdown-auto/marker/introducaoredesneurais-2023-02/marker-run.json",
+      "approved_markdown": "content/curated/introducaoredesneurais-2023-02.md",
+      "curated_markdown": "content/curated/introducaoredesneurais-2023-02.md",
+      "approved_source_markdown": "staging/markdown-auto/marker/introducaoredesneurais-2023-02/introducaoredesneurais-2023-02/introducaoredesneurais-2023-02.md",
+      "approved_at": "2026-03-31T14:38:40",
+      "review_status": "approved"
+    },
+    {
+      "id": "aprendizadosupervisionado-classificacao-knn",
+      "title": "Aprendizadosupervisionado Classificacao Knn",
+      "category": "material-de-aula",
+      "file_type": "pdf",
+      "source_path": "C:/Users/Humberto/Downloads/InteligenciaArtificial/AprendizadoSupervisionado-Classificacao - kNN.pdf",
+      "tags": "",
+      "notes": "",
+      "professor_signal": "",
+      "include_in_bundle": true,
+      "relevant_for_exam": true,
+      "processing_mode": "high_fidelity",
+      "document_profile": "layout_heavy",
+      "preferred_backend": "marker",
+      "raw_target": "raw/pdfs/material-de-aula/aprendizadosupervisionado-classificacao-knn.pdf",
+      "document_report": {
+        "page_count": 29,
+        "text_chars": 7396,
+        "images_count": 63,
+        "table_candidates": 4,
+        "text_density": 255.03,
+        "suspected_scan": false,
+        "suggested_profile": "layout_heavy",
+        "notes": [
+          "Perfil definido manualmente pelo usuário."
+        ]
+      },
+      "pipeline_decision": {
+        "entry_id": "aprendizadosupervisionado-classificacao-knn",
+        "processing_mode": "high_fidelity",
+        "effective_profile": "layout_heavy",
+        "base_backend": "pymupdf4llm",
+        "advanced_backend": "marker",
+        "reasons": [
+          "Backend preferido manualmente: marker.",
+          "Documento com layout/scan/exam pede backend avançado."
+        ]
+      },
+      "base_markdown": null,
+      "advanced_markdown": null,
+      "advanced_backend": "marker",
+      "base_backend": "pymupdf4llm",
+      "images_dir": "staging/assets/images/aprendizadosupervisionado-classificacao-knn",
+      "tables_dir": "staging/assets/tables/aprendizadosupervisionado-classificacao-knn",
+      "table_detection_dir": "staging/assets/table-detections/aprendizadosupervisionado-classificacao-knn",
+      "manual_review": null,
+      "effective_profile": "layout_heavy",
+      "advanced_asset_dir": "staging/markdown-auto/marker/aprendizadosupervisionado-classificacao-knn",
+      "advanced_metadata_path": "staging/markdown-auto/marker/aprendizadosupervisionado-classificacao-knn/marker-run.json",
+      "approved_markdown": "content/curated/aprendizadosupervisionado-classificacao-knn.md",
+      "curated_markdown": "content/curated/aprendizadosupervisionado-classificacao-knn.md",
+      "approved_source_markdown": "staging/markdown-auto/marker/aprendizadosupervisionado-classificacao-knn/aprendizadosupervisionado-classificacao-knn/aprendizadosupervisionado-classificacao-knn.md",
+      "approved_at": "2026-03-31T13:36:04",
+      "review_status": "approved"
+    },
+    {
+      "id": "introducaoml-atualização2025",
+      "title": "Introducaoml Atualização2025",
+      "category": "material-de-aula",
+      "file_type": "pdf",
+      "source_path": "C:/Users/Humberto/Downloads/InteligenciaArtificial/IntroducaoML - atualização2025.pdf",
+      "tags": "",
+      "notes": "",
+      "professor_signal": "",
+      "include_in_bundle": true,
+      "relevant_for_exam": true,
+      "processing_mode": "high_fidelity",
+      "document_profile": "layout_heavy",
+      "preferred_backend": "marker",
+      "raw_target": "raw/pdfs/material-de-aula/introducaoml-atualização2025.pdf",
+      "document_report": {
+        "page_count": 41,
+        "text_chars": 16102,
+        "images_count": 120,
+        "table_candidates": 2,
+        "text_density": 392.73,
+        "suspected_scan": false,
+        "suggested_profile": "layout_heavy",
+        "notes": [
+          "Perfil definido manualmente pelo usuário."
+        ]
+      },
+      "pipeline_decision": {
+        "entry_id": "introducaoml-atualização2025",
+        "processing_mode": "high_fidelity",
+        "effective_profile": "layout_heavy",
+        "base_backend": "pymupdf4llm",
+        "advanced_backend": "marker",
+        "reasons": [
+          "Backend preferido manualmente: marker.",
+          "Documento com layout/scan/exam pede backend avançado."
+        ]
+      },
+      "base_markdown": null,
+      "advanced_markdown": null,
+      "advanced_backend": "marker",
+      "base_backend": "pymupdf4llm",
+      "images_dir": "staging/assets/images/introducaoml-atualização2025",
+      "tables_dir": "staging/assets/tables/introducaoml-atualização2025",
+      "table_detection_dir": "staging/assets/table-detections/introducaoml-atualização2025",
+      "manual_review": null,
+      "effective_profile": "layout_heavy",
+      "backend_errors": [
+        {
+          "marker": "marker travou (sem output por 600s). Último output:\nRecognizing Layout:  78%|#######8  | 32/41 [09:37<02:01, 13.50s/it]"
+        }
+      ],
+      "approved_markdown": "content/curated/introducaoml-atualização2025.md",
+      "curated_markdown": "content/curated/introducaoml-atualização2025.md",
+      "approved_source_markdown": "staging/markdown-auto/pymupdf4llm/introducaoml-atualização2025.md",
+      "approved_at": "2026-03-31T14:39:17",
+      "review_status": "approved"
+    },
+    {
+      "id": "perceptron-equaçãodereta",
+      "title": "Perceptron Equaçãodereta",
+      "category": "material-de-aula",
+      "file_type": "pdf",
+      "source_path": "C:/Users/Humberto/Downloads/InteligenciaArtificial/Perceptron-equaçãodeReta.pdf",
+      "tags": "",
+      "notes": "",
+      "professor_signal": "",
+      "include_in_bundle": true,
+      "relevant_for_exam": true,
+      "processing_mode": "high_fidelity",
+      "document_profile": "layout_heavy",
+      "preferred_backend": "marker",
+      "raw_target": "raw/pdfs/material-de-aula/perceptron-equaçãodereta.pdf",
+      "document_report": {
+        "page_count": 9,
+        "text_chars": 2804,
+        "images_count": 0,
+        "table_candidates": 0,
+        "text_density": 311.56,
+        "suspected_scan": false,
+        "suggested_profile": "layout_heavy",
+        "notes": [
+          "Perfil definido manualmente pelo usuário."
+        ]
+      },
+      "pipeline_decision": {
+        "entry_id": "perceptron-equaçãodereta",
+        "processing_mode": "high_fidelity",
+        "effective_profile": "layout_heavy",
+        "base_backend": "pymupdf4llm",
+        "advanced_backend": "marker",
+        "reasons": [
+          "Backend preferido manualmente: marker.",
+          "Documento com layout/scan/exam pede backend avançado."
+        ]
+      },
+      "base_markdown": null,
+      "advanced_markdown": null,
+      "advanced_backend": "marker",
+      "base_backend": "pymupdf4llm",
+      "images_dir": "staging/assets/images/perceptron-equaçãodereta",
+      "tables_dir": "staging/assets/tables/perceptron-equaçãodereta",
+      "table_detection_dir": "staging/assets/table-detections/perceptron-equaçãodereta",
+      "manual_review": null,
+      "effective_profile": "layout_heavy",
+      "advanced_asset_dir": "staging/markdown-auto/marker/perceptron-equaçãodereta",
+      "advanced_metadata_path": "staging/markdown-auto/marker/perceptron-equaçãodereta/marker-run.json",
+      "approved_markdown": "content/curated/perceptron-equaçãodereta.md",
+      "curated_markdown": "content/curated/perceptron-equaçãodereta.md",
+      "approved_source_markdown": "staging/markdown-auto/marker/perceptron-equaçãodereta/perceptron-equaçãodereta/perceptron-equaçãodereta.md",
+      "approved_at": "2026-03-31T13:36:39",
+      "review_status": "approved"
+    },
+    {
+      "id": "mlp-novaversao",
+      "title": "Mlp Novaversao",
+      "category": "material-de-aula",
+      "file_type": "pdf",
+      "source_path": "C:/Users/Humberto/Downloads/InteligenciaArtificial/mlp_novaVersao.pdf",
+      "tags": "",
+      "notes": "",
+      "professor_signal": "",
+      "include_in_bundle": true,
+      "relevant_for_exam": true,
+      "processing_mode": "high_fidelity",
+      "document_profile": "math_heavy",
+      "preferred_backend": "marker",
+      "raw_target": "raw/pdfs/material-de-aula/mlp-novaversao.pdf",
+      "document_report": {
+        "page_count": 116,
+        "text_chars": 31770,
+        "images_count": 290,
+        "table_candidates": 0,
+        "text_density": 273.88,
+        "suspected_scan": false,
+        "suggested_profile": "math_heavy",
+        "notes": [
+          "Perfil definido manualmente pelo usuário."
+        ]
+      },
+      "pipeline_decision": {
+        "entry_id": "mlp-novaversao",
+        "processing_mode": "high_fidelity",
+        "effective_profile": "math_heavy",
+        "base_backend": "pymupdf4llm",
+        "advanced_backend": "marker",
+        "reasons": [
+          "Backend preferido manualmente: marker.",
+          "Documento math_heavy pede backend avançado com enrich-formula."
+        ]
+      },
+      "base_markdown": "staging/markdown-auto/pymupdf4llm/mlp-novaversao.md",
+      "advanced_markdown": "staging/markdown-auto/marker/mlp-novaversao/mlp-novaversao/mlp-novaversao.md",
+      "advanced_backend": "marker",
+      "base_backend": "pymupdf4llm",
+      "images_dir": "staging/assets/images/mlp-novaversao",
+      "tables_dir": "staging/assets/tables/mlp-novaversao",
+      "table_detection_dir": "staging/assets/table-detections/mlp-novaversao",
+      "manual_review": "manual-review/pdfs/mlp-novaversao.md",
+      "effective_profile": "math_heavy",
+      "advanced_asset_dir": "staging/markdown-auto/marker/mlp-novaversao",
+      "advanced_metadata_path": "staging/markdown-auto/marker/mlp-novaversao/marker-run.json"
+    },
+    {
+      "id": "aula01-introducao-ia",
+      "title": "Aula01 Introducao Ia",
+      "category": "material-de-aula",
+      "file_type": "pdf",
+      "source_path": "C:/Users/Humberto/Downloads/InteligenciaArtificial/aula01_Introducao_IA.pdf",
+      "tags": "",
+      "notes": "",
+      "professor_signal": "",
+      "include_in_bundle": true,
+      "relevant_for_exam": true,
+      "processing_mode": "high_fidelity",
+      "document_profile": "math_heavy",
+      "preferred_backend": "marker",
+      "raw_target": "raw/pdfs/material-de-aula/aula01-introducao-ia.pdf",
+      "document_report": {
+        "page_count": 60,
+        "text_chars": 15776,
+        "images_count": 98,
+        "table_candidates": 1,
+        "text_density": 262.93,
+        "suspected_scan": false,
+        "suggested_profile": "math_heavy",
+        "notes": [
+          "Perfil definido manualmente pelo usuário."
+        ]
+      },
+      "pipeline_decision": {
+        "entry_id": "aula01-introducao-ia",
+        "processing_mode": "high_fidelity",
+        "effective_profile": "math_heavy",
+        "base_backend": "pymupdf4llm",
+        "advanced_backend": "marker",
+        "reasons": [
+          "Backend preferido manualmente: marker.",
+          "Documento math_heavy pede backend avançado com enrich-formula."
+        ]
+      },
+      "base_markdown": "staging/markdown-auto/pymupdf4llm/aula01-introducao-ia.md",
+      "advanced_markdown": null,
+      "advanced_backend": "marker",
+      "base_backend": "pymupdf4llm",
+      "images_dir": "staging/assets/images/aula01-introducao-ia",
+      "tables_dir": "staging/assets/tables/aula01-introducao-ia",
+      "table_detection_dir": "staging/assets/table-detections/aula01-introducao-ia",
+      "manual_review": "manual-review/pdfs/aula01-introducao-ia.md",
+      "effective_profile": "math_heavy",
+      "backend_errors": [
+        {
+          "marker": "marker travou (sem output por 600s). Último output:\nRecognizing Layout:  82%|########1 | 49/60 [13:47<02:26, 13.29s/it]"
+        }
+      ]
+    }
+  ],
+  "logs": [
+    {
+      "entry": "redesperceptron2023-02",
+      "step": "pymupdf4llm",
+      "layer": "base",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/pymupdf4llm/redesperceptron2023-02.md",
+      "asset_dir": "staging/assets/inline-images/redesperceptron2023-02",
+      "metadata_path": null,
+      "notes": [
+        "Markdown gerado com PyMuPDF4LLM."
+      ]
+    },
+    {
+      "entry": "redesperceptron2023-02",
+      "step": "marker",
+      "layer": "advanced",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/marker/redesperceptron2023-02/redesperceptron2023-02/redesperceptron2023-02.md",
+      "asset_dir": "staging/markdown-auto/marker/redesperceptron2023-02",
+      "metadata_path": "staging/markdown-auto/marker/redesperceptron2023-02/marker-run.json",
+      "notes": [
+        "Saída avançada gerada com Marker CLI."
+      ],
+      "command": [
+        "C:\\Users\\Humberto\\Documents\\GitHub\\GPT-Tutor-Generator\\.venv\\Scripts\\marker_single.EXE",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Inteligencia-Artifical-Tutor\\raw\\pdfs\\material-de-aula\\redesperceptron2023-02.pdf",
+        "--output_format",
+        "markdown",
+        "--output_dir",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Inteligencia-Artifical-Tutor\\staging\\markdown-auto\\marker\\redesperceptron2023-02",
+        "--page_range",
+        "0-76",
+        "--force_ocr"
+      ]
+    },
+    {
+      "entry": "redesperceptron2023-02",
+      "step": "extract_images",
+      "status": "ok",
+      "count": 54
+    },
+    {
+      "entry": "redesperceptron2023-02",
+      "step": "extract_tables_pdfplumber",
+      "status": "ok",
+      "count": 43
+    },
+    {
+      "entry": "redesperceptron2023-02",
+      "step": "detect_tables_pymupdf",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "aula01-introducao-ia",
+      "step": "pymupdf4llm",
+      "layer": "base",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/pymupdf4llm/aula01-introducao-ia.md",
+      "asset_dir": "staging/assets/inline-images/aula01-introducao-ia",
+      "metadata_path": null,
+      "notes": [
+        "Markdown gerado com PyMuPDF4LLM."
+      ]
+    },
+    {
+      "entry": "aula01-introducao-ia",
+      "step": "docling",
+      "layer": "advanced",
+      "status": "ok",
+      "markdown_path": null,
+      "asset_dir": "staging/markdown-auto/docling/aula01-introducao-ia",
+      "metadata_path": "staging/markdown-auto/docling/aula01-introducao-ia/docling-run.json",
+      "notes": [
+        "Saída avançada gerada com Docling CLI."
+      ],
+      "command": [
+        "C:\\Users\\Humberto\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\docling.EXE",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Inteligencia-Artifical-Tutor\\raw\\pdfs\\material-de-aula\\aula01-introducao-ia.pdf",
+        "--to",
+        "md",
+        "--output",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Inteligencia-Artifical-Tutor\\staging\\markdown-auto\\docling\\aula01-introducao-ia",
+        "--image-export-mode",
+        "referenced",
+        "--tables",
+        "--ocr",
+        "--ocr-lang",
+        "por,eng",
+        "--table-mode",
+        "accurate",
+        "-vv",
+        "--enrich-picture-classes"
+      ]
+    },
+    {
+      "entry": "aula01-introducao-ia",
+      "step": "extract_images",
+      "status": "ok",
+      "count": 79
+    },
+    {
+      "entry": "aula01-introducao-ia",
+      "step": "extract_tables_pdfplumber",
+      "status": "ok",
+      "count": 9
+    },
+    {
+      "entry": "aula01-introducao-ia",
+      "step": "detect_tables_pymupdf",
+      "status": "ok",
+      "count": 1
+    },
+    {
+      "entry": "mlp-novaversao",
+      "step": "pymupdf4llm",
+      "layer": "base",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/pymupdf4llm/mlp-novaversao.md",
+      "asset_dir": "staging/assets/inline-images/mlp-novaversao",
+      "metadata_path": null,
+      "notes": [
+        "Markdown gerado com PyMuPDF4LLM."
+      ]
+    },
+    {
+      "entry": "mlp-novaversao",
+      "step": "marker",
+      "layer": "advanced",
+      "status": "error",
+      "markdown_path": null,
+      "asset_dir": null,
+      "metadata_path": null,
+      "notes": [],
+      "command": [
+        "C:\\Users\\Humberto\\Documents\\GitHub\\GPT-Tutor-Generator\\.venv\\Scripts\\marker_single.EXE",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Inteligencia-Artifical-Tutor\\raw\\pdfs\\material-de-aula\\mlp-novaversao.pdf",
+        "--output_format",
+        "markdown",
+        "--output_dir",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Inteligencia-Artifical-Tutor\\staging\\markdown-auto\\marker\\mlp-novaversao",
+        "--page_range",
+        "0-115",
+        "--force_ocr"
+      ],
+      "error": "marker travou (sem output por 600s). Último output:\nRecognizing Layout:   0%|          | 0/116 [00:00<?, ?it/s]"
+    },
+    {
+      "entry": "mlp-novaversao",
+      "step": "extract_images",
+      "status": "ok",
+      "count": 54
+    },
+    {
+      "entry": "mlp-novaversao",
+      "step": "extract_tables_pdfplumber",
+      "status": "ok",
+      "count": 128
+    },
+    {
+      "entry": "mlp-novaversao",
+      "step": "detect_tables_pymupdf",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "o-que-é-inteligência-artificial-ia-oracle-brasil-43437f",
+      "step": "url_fetch",
+      "status": "ok"
+    },
+    {
+      "entry": "ia-responsável-7c4626",
+      "step": "url_fetch",
+      "status": "error",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "entry": "perceptron-or-exemplo1-atualizado",
+      "step": "code_import",
+      "status": "ok",
+      "language": "json"
+    },
+    {
+      "entry": "perceptron-or-exemplo1",
+      "step": "code_import",
+      "status": "ok",
+      "language": "json"
+    },
+    {
+      "entry": "aula-eda",
+      "step": "code_import",
+      "status": "ok",
+      "language": "json"
+    },
+    {
+      "entry": "k-nn-exemplo",
+      "step": "code_import",
+      "status": "ok",
+      "language": "json"
+    },
+    {
+      "entry": "k-nn-exemplo2",
+      "step": "code_import",
+      "status": "ok",
+      "language": "json"
+    },
+    {
+      "entry": "analiseexploratóriaplantairis",
+      "step": "code_import",
+      "status": "ok",
+      "language": "json"
+    },
+    {
+      "entry": "knn",
+      "step": "code_import",
+      "status": "ok",
+      "language": "java"
+    },
+    {
+      "entry": "exemploknn",
+      "step": "zip_extract",
+      "status": "ok",
+      "file_count": 1
+    },
+    {
+      "entry": "til2007-1",
+      "step": "pymupdf4llm",
+      "layer": "base",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/pymupdf4llm/til2007-1.md",
+      "asset_dir": "staging/assets/inline-images/til2007-1",
+      "metadata_path": null,
+      "notes": [
+        "Markdown gerado com PyMuPDF4LLM."
+      ]
+    },
+    {
+      "entry": "til2007-1",
+      "step": "docling",
+      "layer": "advanced",
+      "status": "ok",
+      "markdown_path": null,
+      "asset_dir": "staging/markdown-auto/docling/til2007-1",
+      "metadata_path": "staging/markdown-auto/docling/til2007-1/docling-run.json",
+      "notes": [
+        "Saída avançada gerada com Docling CLI."
+      ],
+      "command": [
+        "C:\\Users\\Humberto\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\docling.EXE",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Inteligencia-Artifical-Tutor\\raw\\pdfs\\bibliografia\\til2007-1.pdf",
+        "--to",
+        "md",
+        "--output",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Inteligencia-Artifical-Tutor\\staging\\markdown-auto\\docling\\til2007-1",
+        "--image-export-mode",
+        "referenced",
+        "--tables",
+        "--ocr",
+        "--ocr-lang",
+        "por,eng",
+        "--table-mode",
+        "accurate",
+        "-vv",
+        "--enrich-picture-classes"
+      ]
+    },
+    {
+      "entry": "til2007-1",
+      "step": "extract_images",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "til2007-1",
+      "step": "extract_tables_pdfplumber",
+      "status": "ok",
+      "count": 5
+    },
+    {
+      "entry": "til2007-1",
+      "step": "detect_tables_pymupdf",
+      "status": "ok",
+      "count": 5
+    },
+    {
+      "entry": "perceptron-equaçãodereta",
+      "step": "pymupdf4llm",
+      "layer": "base",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/pymupdf4llm/perceptron-equaçãodereta.md",
+      "asset_dir": "staging/assets/inline-images/perceptron-equaçãodereta",
+      "metadata_path": null,
+      "notes": [
+        "Markdown gerado com PyMuPDF4LLM."
+      ]
+    },
+    {
+      "entry": "perceptron-equaçãodereta",
+      "step": "docling",
+      "layer": "advanced",
+      "status": "error",
+      "markdown_path": null,
+      "asset_dir": null,
+      "metadata_path": null,
+      "notes": [],
+      "command": [
+        "C:\\Users\\Humberto\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\docling.EXE",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Inteligencia-Artifical-Tutor\\raw\\pdfs\\material-de-aula\\perceptron-equaçãodereta.pdf",
+        "--to",
+        "md",
+        "--output",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Inteligencia-Artifical-Tutor\\staging\\markdown-auto\\docling\\perceptron-equaçãodereta",
+        "--image-export-mode",
+        "referenced",
+        "--tables",
+        "--ocr",
+        "--ocr-lang",
+        "por,eng",
+        "--table-mode",
+        "accurate",
+        "-vv",
+        "--enrich-picture-classes"
+      ],
+      "error": ": Going to convert document batch...\n2026-03-31 09:17:00,891\tWARNING\tdocling.document_converter: Input document C:\\Users\\Humberto\\AppData\\Local\\Temp\\tmp2542oiss\\perceptron-equaçãodereta.pdf is not valid, skipping conversion.\n2026-03-31 09:17:00,891\tINFO\tdocling.document_converter: Finished converting document perceptron-equaçãodereta.pdf in 0.05 sec.\n2026-03-31 09:17:00,891\tWARNING\tdocling.cli.main: Document C:\\Users\\Humberto\\AppData\\Local\\Temp\\tmp2542oiss\\perceptron-equaçãodereta.pdf failed to convert.\n2026-03-31 09:17:00,891\tINFO\tdocling.cli.main: Processed 1 docs, of which 1 failed\nTraceback (most recent call last):\n  File \"C:\\Users\\Humberto\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\shutil.py\", line 632, in _rmtree_unsafe\n    os.unlink(fullname)\nPermissionError: [WinError 32] O arquivo já está sendo usado por outro processo: 'C:\\\\Users\\\\Humberto\\\\AppData\\\\Local\\\\Temp\\\\tmp2542oiss\\\\perceptron-equaçãodereta.pdf'\nDuring handling of the above exception, another exception occurred:\nTraceback (most recent call last):\n  File \"<frozen runpy>\", line 198, in _run_module_as_main\n  File \"<frozen runpy>\", line 88, in _run_code\n  File \"C:\\Users\\Humberto\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\docling.EXE\\__main__.py\", line 7, in <module>\n  File \"C:\\Users\\Humberto\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\typer\\main.py\", line 1149, in __call__\n    raise e\n  File \"C:\\Users\\Humberto\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\typer\\main.py\", line 1132, in __call__\n    return get_command(self)(*args, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\Humberto\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\click\\core.py\", line 1485, in __call__\n    return self.main(*args, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\Humberto\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\typer\\core.py\", line 726, in main\n    return _main(\n           ^^^^^^\n  File \"C:\\Users\\Humberto\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\typer\\core.py\", line 190, in _main\n    rv = self.invoke(ctx)\n         ^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\Humberto\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\click\\core.py\", line 1269, in invoke\n    return ctx.invoke(self.callback, **ctx.params)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\Humberto\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\click\\core.py\", line 824, in invoke\n    return callback(*args, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\Humberto\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\typer\\main.py\", line 1511, in wrapper\n    return callback(**use_params)\n           ^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\Humberto\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\docling\\cli\\main.py\", line 643, in convert\n    with tempfile.TemporaryDirectory() as tempdir:\n  File \"C:\\Users\\Humberto\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tempfile.py\", line 943, in __exit__\n    self.cleanup()\n  File \"C:\\Users\\Humberto\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tempfile.py\", line 947, in cleanup\n    self._rmtree(self.name, ignore_errors=self._ignore_cleanup_errors)\n  File \"C:\\Users\\Humberto\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tempfile.py\", line 929, in _rmtree\n    _shutil.rmtree(name, onerror=onerror)\n  File \"C:\\Users\\Humberto\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\shutil.py\", line 787, in rmtree\n    return _rmtree_unsafe(path, onerror)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\Humberto\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\shutil.py\", line 634, in _rmtree_unsafe\n    onerror(os.unlink, fullname, sys.exc_info())\n  File \"C:\\Users\\Humberto\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tempfile.py\", line 893, in onerror\n    _os.unlink(path)\nPermissionError: [WinError 32] O arquivo já está sendo usado por outro processo: 'C:\\\\Users\\\\Humberto\\\\AppData\\\\Local\\\\Temp\\\\tmp2542oiss\\\\perceptron-equaçãodereta.pdf'"
+    },
+    {
+      "entry": "perceptron-equaçãodereta",
+      "step": "extract_images",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "perceptron-equaçãodereta",
+      "step": "extract_tables_pdfplumber",
+      "status": "ok",
+      "count": 8
+    },
+    {
+      "entry": "perceptron-equaçãodereta",
+      "step": "detect_tables_pymupdf",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "introducaoredesneurais-2023-02",
+      "step": "pymupdf4llm",
+      "layer": "base",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/pymupdf4llm/introducaoredesneurais-2023-02.md",
+      "asset_dir": "staging/assets/inline-images/introducaoredesneurais-2023-02",
+      "metadata_path": null,
+      "notes": [
+        "Markdown gerado com PyMuPDF4LLM."
+      ]
+    },
+    {
+      "entry": "introducaoredesneurais-2023-02",
+      "step": "docling",
+      "layer": "advanced",
+      "status": "ok",
+      "markdown_path": null,
+      "asset_dir": "staging/markdown-auto/docling/introducaoredesneurais-2023-02",
+      "metadata_path": "staging/markdown-auto/docling/introducaoredesneurais-2023-02/docling-run.json",
+      "notes": [
+        "Saída avançada gerada com Docling CLI."
+      ],
+      "command": [
+        "C:\\Users\\Humberto\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\docling.EXE",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Inteligencia-Artifical-Tutor\\raw\\pdfs\\material-de-aula\\introducaoredesneurais-2023-02.pdf",
+        "--to",
+        "md",
+        "--output",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Inteligencia-Artifical-Tutor\\staging\\markdown-auto\\docling\\introducaoredesneurais-2023-02",
+        "--image-export-mode",
+        "referenced",
+        "--tables",
+        "--ocr",
+        "--ocr-lang",
+        "por,eng",
+        "--table-mode",
+        "accurate",
+        "-vv",
+        "--enrich-picture-classes"
+      ]
+    },
+    {
+      "entry": "introducaoredesneurais-2023-02",
+      "step": "extract_images",
+      "status": "ok",
+      "count": 13
+    },
+    {
+      "entry": "introducaoredesneurais-2023-02",
+      "step": "extract_tables_pdfplumber",
+      "status": "ok",
+      "count": 1
+    },
+    {
+      "entry": "introducaoredesneurais-2023-02",
+      "step": "detect_tables_pymupdf",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "aprendizadosupervisionado-classificacao-knn",
+      "step": "pymupdf4llm",
+      "layer": "base",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/pymupdf4llm/aprendizadosupervisionado-classificacao-knn.md",
+      "asset_dir": "staging/assets/inline-images/aprendizadosupervisionado-classificacao-knn",
+      "metadata_path": null,
+      "notes": [
+        "Markdown gerado com PyMuPDF4LLM."
+      ]
+    },
+    {
+      "entry": "aprendizadosupervisionado-classificacao-knn",
+      "step": "docling",
+      "layer": "advanced",
+      "status": "ok",
+      "markdown_path": null,
+      "asset_dir": "staging/markdown-auto/docling/aprendizadosupervisionado-classificacao-knn",
+      "metadata_path": "staging/markdown-auto/docling/aprendizadosupervisionado-classificacao-knn/docling-run.json",
+      "notes": [
+        "Saída avançada gerada com Docling CLI."
+      ],
+      "command": [
+        "C:\\Users\\Humberto\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\docling.EXE",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Inteligencia-Artifical-Tutor\\raw\\pdfs\\material-de-aula\\aprendizadosupervisionado-classificacao-knn.pdf",
+        "--to",
+        "md",
+        "--output",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Inteligencia-Artifical-Tutor\\staging\\markdown-auto\\docling\\aprendizadosupervisionado-classificacao-knn",
+        "--image-export-mode",
+        "referenced",
+        "--tables",
+        "--ocr",
+        "--ocr-lang",
+        "por,eng",
+        "--table-mode",
+        "accurate",
+        "-vv",
+        "--enrich-picture-classes"
+      ]
+    },
+    {
+      "entry": "aprendizadosupervisionado-classificacao-knn",
+      "step": "extract_images",
+      "status": "ok",
+      "count": 31
+    },
+    {
+      "entry": "aprendizadosupervisionado-classificacao-knn",
+      "step": "extract_tables_pdfplumber",
+      "status": "ok",
+      "count": 16
+    },
+    {
+      "entry": "aprendizadosupervisionado-classificacao-knn",
+      "step": "detect_tables_pymupdf",
+      "status": "ok",
+      "count": 3
+    },
+    {
+      "entry": "caracteristicasdosdados",
+      "step": "pymupdf4llm",
+      "layer": "base",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/pymupdf4llm/caracteristicasdosdados.md",
+      "asset_dir": "staging/assets/inline-images/caracteristicasdosdados",
+      "metadata_path": null,
+      "notes": [
+        "Markdown gerado com PyMuPDF4LLM."
+      ]
+    },
+    {
+      "entry": "caracteristicasdosdados",
+      "step": "marker",
+      "layer": "advanced",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/marker/caracteristicasdosdados/caracteristicasdosdados/caracteristicasdosdados.md",
+      "asset_dir": "staging/markdown-auto/marker/caracteristicasdosdados",
+      "metadata_path": "staging/markdown-auto/marker/caracteristicasdosdados/marker-run.json",
+      "notes": [
+        "Saída avançada gerada com Marker CLI."
+      ],
+      "command": [
+        "C:\\Users\\Humberto\\Documents\\GitHub\\GPT-Tutor-Generator\\.venv\\Scripts\\marker_single.EXE",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Inteligencia-Artifical-Tutor\\raw\\pdfs\\material-de-aula\\caracteristicasdosdados.pdf",
+        "--output_format",
+        "markdown",
+        "--output_dir",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Inteligencia-Artifical-Tutor\\staging\\markdown-auto\\marker\\caracteristicasdosdados",
+        "--page_range",
+        "0-46",
+        "--force_ocr"
+      ]
+    },
+    {
+      "entry": "caracteristicasdosdados",
+      "step": "extract_images",
+      "status": "ok",
+      "count": 39
+    },
+    {
+      "entry": "caracteristicasdosdados",
+      "step": "extract_tables_pdfplumber",
+      "status": "ok",
+      "count": 38
+    },
+    {
+      "entry": "caracteristicasdosdados",
+      "step": "detect_tables_pymupdf",
+      "status": "ok",
+      "count": 14
+    },
+    {
+      "entry": "introducaoml-atualização2025",
+      "step": "pymupdf4llm",
+      "layer": "base",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/pymupdf4llm/introducaoml-atualização2025.md",
+      "asset_dir": "staging/assets/inline-images/introducaoml-atualização2025",
+      "metadata_path": null,
+      "notes": [
+        "Markdown gerado com PyMuPDF4LLM."
+      ]
+    },
+    {
+      "entry": "introducaoml-atualização2025",
+      "step": "docling",
+      "layer": "advanced",
+      "status": "error",
+      "markdown_path": null,
+      "asset_dir": null,
+      "metadata_path": null,
+      "notes": [],
+      "command": [
+        "C:\\Users\\Humberto\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\docling.EXE",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Inteligencia-Artifical-Tutor\\raw\\pdfs\\material-de-aula\\introducaoml-atualização2025.pdf",
+        "--to",
+        "md",
+        "--output",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Inteligencia-Artifical-Tutor\\staging\\markdown-auto\\docling\\introducaoml-atualização2025",
+        "--image-export-mode",
+        "referenced",
+        "--tables",
+        "--ocr",
+        "--ocr-lang",
+        "por,eng",
+        "--table-mode",
+        "accurate",
+        "-vv",
+        "--enrich-picture-classes"
+      ],
+      "error": "ocument batch...\n2026-03-31 10:02:27,901\tWARNING\tdocling.document_converter: Input document C:\\Users\\Humberto\\AppData\\Local\\Temp\\tmpzdhhchem\\introducaoml-atualização2025.pdf is not valid, skipping conversion.\n2026-03-31 10:02:27,901\tINFO\tdocling.document_converter: Finished converting document introducaoml-atualização2025.pdf in 0.06 sec.\n2026-03-31 10:02:27,901\tWARNING\tdocling.cli.main: Document C:\\Users\\Humberto\\AppData\\Local\\Temp\\tmpzdhhchem\\introducaoml-atualização2025.pdf failed to convert.\n2026-03-31 10:02:27,901\tINFO\tdocling.cli.main: Processed 1 docs, of which 1 failed\nTraceback (most recent call last):\n  File \"C:\\Users\\Humberto\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\shutil.py\", line 632, in _rmtree_unsafe\n    os.unlink(fullname)\nPermissionError: [WinError 32] O arquivo já está sendo usado por outro processo: 'C:\\\\Users\\\\Humberto\\\\AppData\\\\Local\\\\Temp\\\\tmpzdhhchem\\\\introducaoml-atualização2025.pdf'\nDuring handling of the above exception, another exception occurred:\nTraceback (most recent call last):\n  File \"<frozen runpy>\", line 198, in _run_module_as_main\n  File \"<frozen runpy>\", line 88, in _run_code\n  File \"C:\\Users\\Humberto\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\docling.EXE\\__main__.py\", line 7, in <module>\n  File \"C:\\Users\\Humberto\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\typer\\main.py\", line 1149, in __call__\n    raise e\n  File \"C:\\Users\\Humberto\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\typer\\main.py\", line 1132, in __call__\n    return get_command(self)(*args, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\Humberto\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\click\\core.py\", line 1485, in __call__\n    return self.main(*args, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\Humberto\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\typer\\core.py\", line 726, in main\n    return _main(\n           ^^^^^^\n  File \"C:\\Users\\Humberto\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\typer\\core.py\", line 190, in _main\n    rv = self.invoke(ctx)\n         ^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\Humberto\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\click\\core.py\", line 1269, in invoke\n    return ctx.invoke(self.callback, **ctx.params)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\Humberto\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\click\\core.py\", line 824, in invoke\n    return callback(*args, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\Humberto\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\typer\\main.py\", line 1511, in wrapper\n    return callback(**use_params)\n           ^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\Humberto\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\docling\\cli\\main.py\", line 643, in convert\n    with tempfile.TemporaryDirectory() as tempdir:\n  File \"C:\\Users\\Humberto\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tempfile.py\", line 943, in __exit__\n    self.cleanup()\n  File \"C:\\Users\\Humberto\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tempfile.py\", line 947, in cleanup\n    self._rmtree(self.name, ignore_errors=self._ignore_cleanup_errors)\n  File \"C:\\Users\\Humberto\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tempfile.py\", line 929, in _rmtree\n    _shutil.rmtree(name, onerror=onerror)\n  File \"C:\\Users\\Humberto\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\shutil.py\", line 787, in rmtree\n    return _rmtree_unsafe(path, onerror)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\Humberto\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\shutil.py\", line 634, in _rmtree_unsafe\n    onerror(os.unlink, fullname, sys.exc_info())\n  File \"C:\\Users\\Humberto\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tempfile.py\", line 893, in onerror\n    _os.unlink(path)\nPermissionError: [WinError 32] O arquivo já está sendo usado por outro processo: 'C:\\\\Users\\\\Humberto\\\\AppData\\\\Local\\\\Temp\\\\tmpzdhhchem\\\\introducaoml-atualização2025.pdf'"
+    },
+    {
+      "entry": "introducaoml-atualização2025",
+      "step": "extract_images",
+      "status": "ok",
+      "count": 49
+    },
+    {
+      "entry": "introducaoml-atualização2025",
+      "step": "extract_tables_pdfplumber",
+      "status": "ok",
+      "count": 37
+    },
+    {
+      "entry": "introducaoml-atualização2025",
+      "step": "detect_tables_pymupdf",
+      "status": "ok",
+      "count": 1
+    },
+    {
+      "entry": "xor-mlp",
+      "step": "code_import",
+      "status": "ok",
+      "language": "json"
+    },
+    {
+      "entry": "mlp-iris-atualizado",
+      "step": "code_import",
+      "status": "ok",
+      "language": "json"
+    },
+    {
+      "entry": "backpropagtion-xor",
+      "step": "code_import",
+      "status": "ok",
+      "language": "json"
+    },
+    {
+      "entry": "caracteristicasdosdados",
+      "step": "curator_approve",
+      "status": "ok",
+      "approved_markdown": "content/curated/caracteristicasdosdados.md",
+      "approved_source_markdown": "staging/markdown-auto/marker/caracteristicasdosdados/caracteristicasdosdados/caracteristicasdosdados.md",
+      "category": "material-de-aula"
+    },
+    {
+      "entry": "redesperceptron2023-02",
+      "step": "curator_approve",
+      "status": "ok",
+      "approved_markdown": "content/curated/redesperceptron2023-02.md",
+      "approved_source_markdown": "staging/markdown-auto/marker/redesperceptron2023-02/redesperceptron2023-02/redesperceptron2023-02.md",
+      "category": "material-de-aula"
+    },
+    {
+      "entry": "perceptron-equaçãodereta",
+      "step": "curator_approve",
+      "status": "ok",
+      "approved_markdown": "content/curated/perceptron-equaçãodereta.md",
+      "approved_source_markdown": "staging/markdown-auto/pymupdf4llm/perceptron-equaçãodereta.md",
+      "category": "material-de-aula"
+    },
+    {
+      "entry": "o-que-é-inteligência-artificial-ia-oracle-brasil-43437f",
+      "step": "curator_approve",
+      "status": "ok",
+      "approved_markdown": "content/curated/o-que-é-inteligência-artificial-ia-oracle-brasil-43437f.md",
+      "approved_source_markdown": "staging/markdown-auto/url_fetcher/o-que-é-inteligência-artificial-ia-oracle-brasil-43437f.md",
+      "category": "references"
+    },
+    {
+      "entry": "til2007-1",
+      "step": "curator_approve",
+      "status": "ok",
+      "approved_markdown": "content/curated/til2007-1.md",
+      "approved_source_markdown": "staging/markdown-auto/pymupdf4llm/til2007-1.md",
+      "category": "bibliografia"
+    },
+    {
+      "entry": "analiseexploratóriaplantairis",
+      "step": "curator_reject",
+      "status": "ok"
+    },
+    {
+      "entry": "aula01-introducao-ia",
+      "step": "pymupdf4llm",
+      "layer": "base",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/pymupdf4llm/aula01-introducao-ia.md",
+      "asset_dir": "staging/assets/inline-images/aula01-introducao-ia",
+      "metadata_path": null,
+      "notes": [
+        "Markdown gerado com PyMuPDF4LLM."
+      ]
+    },
+    {
+      "entry": "aula01-introducao-ia",
+      "step": "marker",
+      "layer": "advanced",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/marker/aula01-introducao-ia/aula01-introducao-ia/aula01-introducao-ia.md",
+      "asset_dir": "staging/markdown-auto/marker/aula01-introducao-ia",
+      "metadata_path": "staging/markdown-auto/marker/aula01-introducao-ia/marker-run.json",
+      "notes": [
+        "Saída avançada gerada com Marker CLI."
+      ],
+      "command": [
+        "C:\\Users\\Humberto\\Documents\\GitHub\\GPT-Tutor-Generator\\.venv\\Scripts\\marker_single.EXE",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Inteligencia-Artifical-Tutor\\raw\\pdfs\\material-de-aula\\aula01-introducao-ia.pdf",
+        "--output_format",
+        "markdown",
+        "--output_dir",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Inteligencia-Artifical-Tutor\\staging\\markdown-auto\\marker\\aula01-introducao-ia",
+        "--page_range",
+        "0-59"
+      ]
+    },
+    {
+      "entry": "aula01-introducao-ia",
+      "step": "extract_images",
+      "status": "ok",
+      "count": 79
+    },
+    {
+      "entry": "aula01-introducao-ia",
+      "step": "extract_tables_pdfplumber",
+      "status": "ok",
+      "count": 9
+    },
+    {
+      "entry": "aula01-introducao-ia",
+      "step": "detect_tables_pymupdf",
+      "status": "ok",
+      "count": 1
+    },
+    {
+      "entry": "introducaoredesneurais-2023-02",
+      "step": "pymupdf4llm",
+      "layer": "base",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/pymupdf4llm/introducaoredesneurais-2023-02.md",
+      "asset_dir": "staging/assets/inline-images/introducaoredesneurais-2023-02",
+      "metadata_path": null,
+      "notes": [
+        "Markdown gerado com PyMuPDF4LLM."
+      ]
+    },
+    {
+      "entry": "introducaoredesneurais-2023-02",
+      "step": "marker",
+      "layer": "advanced",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/marker/introducaoredesneurais-2023-02/introducaoredesneurais-2023-02/introducaoredesneurais-2023-02.md",
+      "asset_dir": "staging/markdown-auto/marker/introducaoredesneurais-2023-02",
+      "metadata_path": "staging/markdown-auto/marker/introducaoredesneurais-2023-02/marker-run.json",
+      "notes": [
+        "Saída avançada gerada com Marker CLI."
+      ],
+      "command": [
+        "C:\\Users\\Humberto\\Documents\\GitHub\\GPT-Tutor-Generator\\.venv\\Scripts\\marker_single.EXE",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Inteligencia-Artifical-Tutor\\raw\\pdfs\\material-de-aula\\introducaoredesneurais-2023-02.pdf",
+        "--output_format",
+        "markdown",
+        "--output_dir",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Inteligencia-Artifical-Tutor\\staging\\markdown-auto\\marker\\introducaoredesneurais-2023-02",
+        "--page_range",
+        "0-29"
+      ]
+    },
+    {
+      "entry": "introducaoredesneurais-2023-02",
+      "step": "extract_images",
+      "status": "ok",
+      "count": 13
+    },
+    {
+      "entry": "introducaoredesneurais-2023-02",
+      "step": "extract_tables_pdfplumber",
+      "status": "ok",
+      "count": 1
+    },
+    {
+      "entry": "introducaoredesneurais-2023-02",
+      "step": "detect_tables_pymupdf",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "aprendizadosupervisionado-classificacao-knn",
+      "step": "pymupdf4llm",
+      "layer": "base",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/pymupdf4llm/aprendizadosupervisionado-classificacao-knn.md",
+      "asset_dir": "staging/assets/inline-images/aprendizadosupervisionado-classificacao-knn",
+      "metadata_path": null,
+      "notes": [
+        "Markdown gerado com PyMuPDF4LLM."
+      ]
+    },
+    {
+      "entry": "aprendizadosupervisionado-classificacao-knn",
+      "step": "marker",
+      "layer": "advanced",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/marker/aprendizadosupervisionado-classificacao-knn/aprendizadosupervisionado-classificacao-knn/aprendizadosupervisionado-classificacao-knn.md",
+      "asset_dir": "staging/markdown-auto/marker/aprendizadosupervisionado-classificacao-knn",
+      "metadata_path": "staging/markdown-auto/marker/aprendizadosupervisionado-classificacao-knn/marker-run.json",
+      "notes": [
+        "Saída avançada gerada com Marker CLI."
+      ],
+      "command": [
+        "C:\\Users\\Humberto\\Documents\\GitHub\\GPT-Tutor-Generator\\.venv\\Scripts\\marker_single.EXE",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Inteligencia-Artifical-Tutor\\raw\\pdfs\\material-de-aula\\aprendizadosupervisionado-classificacao-knn.pdf",
+        "--output_format",
+        "markdown",
+        "--output_dir",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Inteligencia-Artifical-Tutor\\staging\\markdown-auto\\marker\\aprendizadosupervisionado-classificacao-knn",
+        "--page_range",
+        "0-28"
+      ]
+    },
+    {
+      "entry": "aprendizadosupervisionado-classificacao-knn",
+      "step": "extract_images",
+      "status": "ok",
+      "count": 31
+    },
+    {
+      "entry": "aprendizadosupervisionado-classificacao-knn",
+      "step": "extract_tables_pdfplumber",
+      "status": "ok",
+      "count": 16
+    },
+    {
+      "entry": "aprendizadosupervisionado-classificacao-knn",
+      "step": "detect_tables_pymupdf",
+      "status": "ok",
+      "count": 3
+    },
+    {
+      "entry": "introducaoml-atualização2025",
+      "step": "pymupdf4llm",
+      "layer": "base",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/pymupdf4llm/introducaoml-atualização2025.md",
+      "asset_dir": "staging/assets/inline-images/introducaoml-atualização2025",
+      "metadata_path": null,
+      "notes": [
+        "Markdown gerado com PyMuPDF4LLM."
+      ]
+    },
+    {
+      "entry": "introducaoml-atualização2025",
+      "step": "marker",
+      "layer": "advanced",
+      "status": "error",
+      "markdown_path": null,
+      "asset_dir": null,
+      "metadata_path": null,
+      "notes": [],
+      "command": [
+        "C:\\Users\\Humberto\\Documents\\GitHub\\GPT-Tutor-Generator\\.venv\\Scripts\\marker_single.EXE",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Inteligencia-Artifical-Tutor\\raw\\pdfs\\material-de-aula\\introducaoml-atualização2025.pdf",
+        "--output_format",
+        "markdown",
+        "--output_dir",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Inteligencia-Artifical-Tutor\\staging\\markdown-auto\\marker\\introducaoml-atualização2025",
+        "--page_range",
+        "0-40"
+      ],
+      "error": "marker travou (sem output por 600s). Último output:\nRecognizing Layout:  78%|#######8  | 32/41 [09:37<02:01, 13.50s/it]"
+    },
+    {
+      "entry": "introducaoml-atualização2025",
+      "step": "extract_images",
+      "status": "ok",
+      "count": 49
+    },
+    {
+      "entry": "introducaoml-atualização2025",
+      "step": "extract_tables_pdfplumber",
+      "status": "ok",
+      "count": 37
+    },
+    {
+      "entry": "introducaoml-atualização2025",
+      "step": "detect_tables_pymupdf",
+      "status": "ok",
+      "count": 1
+    },
+    {
+      "entry": "perceptron-equaçãodereta",
+      "step": "pymupdf4llm",
+      "layer": "base",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/pymupdf4llm/perceptron-equaçãodereta.md",
+      "asset_dir": "staging/assets/inline-images/perceptron-equaçãodereta",
+      "metadata_path": null,
+      "notes": [
+        "Markdown gerado com PyMuPDF4LLM."
+      ]
+    },
+    {
+      "entry": "perceptron-equaçãodereta",
+      "step": "marker",
+      "layer": "advanced",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/marker/perceptron-equaçãodereta/perceptron-equaçãodereta/perceptron-equaçãodereta.md",
+      "asset_dir": "staging/markdown-auto/marker/perceptron-equaçãodereta",
+      "metadata_path": "staging/markdown-auto/marker/perceptron-equaçãodereta/marker-run.json",
+      "notes": [
+        "Saída avançada gerada com Marker CLI."
+      ],
+      "command": [
+        "C:\\Users\\Humberto\\Documents\\GitHub\\GPT-Tutor-Generator\\.venv\\Scripts\\marker_single.EXE",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Inteligencia-Artifical-Tutor\\raw\\pdfs\\material-de-aula\\perceptron-equaçãodereta.pdf",
+        "--output_format",
+        "markdown",
+        "--output_dir",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Inteligencia-Artifical-Tutor\\staging\\markdown-auto\\marker\\perceptron-equaçãodereta",
+        "--page_range",
+        "0-8"
+      ]
+    },
+    {
+      "entry": "perceptron-equaçãodereta",
+      "step": "extract_images",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "perceptron-equaçãodereta",
+      "step": "extract_tables_pdfplumber",
+      "status": "ok",
+      "count": 8
+    },
+    {
+      "entry": "perceptron-equaçãodereta",
+      "step": "detect_tables_pymupdf",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "aprendizadosupervisionado-classificacao-knn",
+      "step": "curator_approve",
+      "status": "ok",
+      "approved_markdown": "content/curated/aprendizadosupervisionado-classificacao-knn.md",
+      "approved_source_markdown": "staging/markdown-auto/marker/aprendizadosupervisionado-classificacao-knn/aprendizadosupervisionado-classificacao-knn/aprendizadosupervisionado-classificacao-knn.md",
+      "category": "material-de-aula"
+    },
+    {
+      "entry": "perceptron-equaçãodereta",
+      "step": "curator_approve",
+      "status": "ok",
+      "approved_markdown": "content/curated/perceptron-equaçãodereta.md",
+      "approved_source_markdown": "staging/markdown-auto/marker/perceptron-equaçãodereta/perceptron-equaçãodereta/perceptron-equaçãodereta.md",
+      "category": "material-de-aula"
+    },
+    {
+      "entry": "introducaoredesneurais-2023-02",
+      "step": "curator_approve",
+      "status": "ok",
+      "approved_markdown": "content/curated/introducaoredesneurais-2023-02.md",
+      "approved_source_markdown": "staging/markdown-auto/marker/introducaoredesneurais-2023-02/introducaoredesneurais-2023-02/introducaoredesneurais-2023-02.md",
+      "category": "material-de-aula"
+    },
+    {
+      "entry": "ia-responsável-7c4626",
+      "step": "curator_approve",
+      "status": "ok",
+      "approved_markdown": "content/curated/ia-responsável-7c4626.md",
+      "approved_source_markdown": "staging/markdown-auto/url_fetcher/ia-responsável-7c4626.md",
+      "category": "references"
+    },
+    {
+      "entry": "introducaoml-atualização2025",
+      "step": "curator_approve",
+      "status": "ok",
+      "approved_markdown": "content/curated/introducaoml-atualização2025.md",
+      "approved_source_markdown": "staging/markdown-auto/pymupdf4llm/introducaoml-atualização2025.md",
+      "category": "material-de-aula"
+    },
+    {
+      "entry": "xor-mlp",
+      "step": "curator_approve",
+      "status": "ok",
+      "approved_markdown": "content/curated/xor-mlp.md",
+      "approved_source_markdown": "code/professor/xor-mlp.md",
+      "category": "codigo-professor"
+    },
+    {
+      "entry": "backpropagtion-xor",
+      "step": "curator_reject",
+      "status": "ok"
+    },
+    {
+      "entry": "k-nn-exemplo",
+      "step": "curator_reject",
+      "status": "ok"
+    },
+    {
+      "entry": "mlp-novaversao",
+      "step": "pymupdf4llm",
+      "layer": "base",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/pymupdf4llm/mlp-novaversao.md",
+      "asset_dir": "staging/assets/inline-images/mlp-novaversao",
+      "metadata_path": null,
+      "notes": [
+        "Markdown gerado com PyMuPDF4LLM."
+      ]
+    },
+    {
+      "entry": "mlp-novaversao",
+      "step": "marker",
+      "layer": "advanced",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/marker/mlp-novaversao/mlp-novaversao/mlp-novaversao.md",
+      "asset_dir": "staging/markdown-auto/marker/mlp-novaversao",
+      "metadata_path": "staging/markdown-auto/marker/mlp-novaversao/marker-run.json",
+      "notes": [
+        "Saída avançada gerada com Marker CLI."
+      ],
+      "command": [
+        "C:\\Users\\Humberto\\Documents\\GitHub\\GPT-Tutor-Generator\\.venv\\Scripts\\marker_single.EXE",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Inteligencia-Artifical-Tutor\\raw\\pdfs\\material-de-aula\\mlp-novaversao.pdf",
+        "--output_format",
+        "markdown",
+        "--output_dir",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Inteligencia-Artifical-Tutor\\staging\\markdown-auto\\marker\\mlp-novaversao",
+        "--page_range",
+        "0-115",
+        "--force_ocr"
+      ]
+    },
+    {
+      "entry": "mlp-novaversao",
+      "step": "extract_images",
+      "status": "ok",
+      "count": 54
+    },
+    {
+      "entry": "mlp-novaversao",
+      "step": "extract_tables_pdfplumber",
+      "status": "ok",
+      "count": 128
+    },
+    {
+      "entry": "mlp-novaversao",
+      "step": "detect_tables_pymupdf",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "aula01-introducao-ia",
+      "step": "pymupdf4llm",
+      "layer": "base",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/pymupdf4llm/aula01-introducao-ia.md",
+      "asset_dir": "staging/assets/inline-images/aula01-introducao-ia",
+      "metadata_path": null,
+      "notes": [
+        "Markdown gerado com PyMuPDF4LLM."
+      ]
+    },
+    {
+      "entry": "aula01-introducao-ia",
+      "step": "marker",
+      "layer": "advanced",
+      "status": "error",
+      "markdown_path": null,
+      "asset_dir": null,
+      "metadata_path": null,
+      "notes": [],
+      "command": [
+        "C:\\Users\\Humberto\\Documents\\GitHub\\GPT-Tutor-Generator\\.venv\\Scripts\\marker_single.EXE",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Inteligencia-Artifical-Tutor\\raw\\pdfs\\material-de-aula\\aula01-introducao-ia.pdf",
+        "--output_format",
+        "markdown",
+        "--output_dir",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Inteligencia-Artifical-Tutor\\staging\\markdown-auto\\marker\\aula01-introducao-ia",
+        "--page_range",
+        "0-59",
+        "--force_ocr"
+      ],
+      "error": "marker travou (sem output por 600s). Último output:\nRecognizing Layout:  82%|########1 | 49/60 [13:47<02:26, 13.29s/it]"
+    },
+    {
+      "entry": "aula01-introducao-ia",
+      "step": "extract_images",
+      "status": "ok",
+      "count": 79
+    },
+    {
+      "entry": "aula01-introducao-ia",
+      "step": "extract_tables_pdfplumber",
+      "status": "ok",
+      "count": 9
+    },
+    {
+      "entry": "aula01-introducao-ia",
+      "step": "detect_tables_pymupdf",
+      "status": "ok",
+      "count": 1
+    }
+  ],
+  "updated_at": "2026-03-31T16:28:28"
+}

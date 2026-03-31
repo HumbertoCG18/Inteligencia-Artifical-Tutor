@@ -1,0 +1,132 @@
+generated_at: 2026-03-31T01:21:53
+sources:
+  - id: redesperceptron2023-02
+    title: "Redesperceptron2023 02"
+    category: material-de-aula
+    file_type: pdf
+    source_path: "C:/Users/Humberto/Downloads/InteligenciaArtificial/RedesPerceptron2023_02.pdf"
+    raw_target: "raw/pdfs/material-de-aula/redesperceptron2023-02.pdf"
+    processing_mode: high_fidelity
+    effective_profile: math_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: o-que-é-inteligência-artificial-ia-oracle-brasil-43437f
+    title: "O que é Inteligência Artificial (IA)? | Oracle Brasil"
+    category: references
+    file_type: url
+    source_path: "https://www.oracle.com/br/artificial-intelligence/what-is-ai/"
+    raw_target: null
+    processing_mode: auto
+    effective_profile: general
+    include_in_bundle: true
+    professor_signal: ""
+  - id: ia-responsável-7c4626
+    title: "IA Responsável"
+    category: references
+    file_type: url
+    source_path: "https://www.microsoft.com/pt-br/ai/responsible-ai?activetab=pivot1:primaryr6"
+    raw_target: null
+    processing_mode: auto
+    effective_profile: general
+    include_in_bundle: true
+    professor_signal: ""
+  - id: k-nn-exemplo2
+    title: "K Nn Exemplo2"
+    category: codigo-professor
+    file_type: code
+    source_path: "C:/Users/Humberto/Downloads/InteligenciaArtificial/CodigosMoodle/k_NN_exemplo2.ipynb"
+    raw_target: "raw/code/professor/k-nn-exemplo2.ipynb"
+    processing_mode: auto
+    effective_profile: general
+    include_in_bundle: true
+    professor_signal: ""
+  - id: exemploknn
+    title: "Exemploknn"
+    category: codigo-professor
+    file_type: zip
+    source_path: "C:/Users/Humberto/Downloads/InteligenciaArtificial/CodigosMoodle/ExemploKnn.zip"
+    raw_target: "raw/zip/exemploknn.zip"
+    processing_mode: auto
+    effective_profile: general
+    include_in_bundle: true
+    professor_signal: ""
+  - id: til2007-1
+    title: "Til2007 (1)"
+    category: bibliografia
+    file_type: pdf
+    source_path: "C:/Users/Humberto/Downloads/InteligenciaArtificial/TIL2007 (1).pdf"
+    raw_target: "raw/pdfs/bibliografia/til2007-1.pdf"
+    processing_mode: auto
+    effective_profile: layout_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: caracteristicasdosdados
+    title: "Caracteristicasdosdados"
+    category: material-de-aula
+    file_type: pdf
+    source_path: "C:/Users/Humberto/Downloads/InteligenciaArtificial/CaracteristicasDosDados.pdf"
+    raw_target: "raw/pdfs/material-de-aula/caracteristicasdosdados.pdf"
+    processing_mode: high_fidelity
+    effective_profile: math_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: introducaoredesneurais-2023-02
+    title: "Introducaoredesneurais 2023 02"
+    category: material-de-aula
+    file_type: pdf
+    source_path: "C:/Users/Humberto/Downloads/InteligenciaArtificial/IntroducaoRedesNeurais_2023_02.pdf"
+    raw_target: "raw/pdfs/material-de-aula/introducaoredesneurais-2023-02.pdf"
+    processing_mode: high_fidelity
+    effective_profile: layout_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: aprendizadosupervisionado-classificacao-knn
+    title: "Aprendizadosupervisionado Classificacao Knn"
+    category: material-de-aula
+    file_type: pdf
+    source_path: "C:/Users/Humberto/Downloads/InteligenciaArtificial/AprendizadoSupervisionado-Classificacao - kNN.pdf"
+    raw_target: "raw/pdfs/material-de-aula/aprendizadosupervisionado-classificacao-knn.pdf"
+    processing_mode: high_fidelity
+    effective_profile: layout_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: introducaoml-atualização2025
+    title: "Introducaoml Atualização2025"
+    category: material-de-aula
+    file_type: pdf
+    source_path: "C:/Users/Humberto/Downloads/InteligenciaArtificial/IntroducaoML - atualização2025.pdf"
+    raw_target: "raw/pdfs/material-de-aula/introducaoml-atualização2025.pdf"
+    processing_mode: high_fidelity
+    effective_profile: layout_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: perceptron-equaçãodereta
+    title: "Perceptron Equaçãodereta"
+    category: material-de-aula
+    file_type: pdf
+    source_path: "C:/Users/Humberto/Downloads/InteligenciaArtificial/Perceptron-equaçãodeReta.pdf"
+    raw_target: "raw/pdfs/material-de-aula/perceptron-equaçãodereta.pdf"
+    processing_mode: high_fidelity
+    effective_profile: layout_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: mlp-novaversao
+    title: "Mlp Novaversao"
+    category: material-de-aula
+    file_type: pdf
+    source_path: "C:/Users/Humberto/Downloads/InteligenciaArtificial/mlp_novaVersao.pdf"
+    raw_target: "raw/pdfs/material-de-aula/mlp-novaversao.pdf"
+    processing_mode: high_fidelity
+    effective_profile: math_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: aula01-introducao-ia
+    title: "Aula01 Introducao Ia"
+    category: material-de-aula
+    file_type: pdf
+    source_path: "C:/Users/Humberto/Downloads/InteligenciaArtificial/aula01_Introducao_IA.pdf"
+    raw_target: "raw/pdfs/material-de-aula/aula01-introducao-ia.pdf"
+    processing_mode: high_fidelity
+    effective_profile: math_heavy
+    include_in_bundle: true
+    professor_signal: ""
