@@ -4,11 +4,10 @@
 > O tutor consulta este arquivo quando o aluno pede fontes
 > ou quando uma explicação pode ser aprofundada com leitura adicional.
 
-## Referências importadas
+## Referências
 
-### Til2007 (1)
-- **URL:** C:/Users/Humberto/Downloads/InteligenciaArtificial/TIL2007 (1).pdf
-- **Incluir no bundle:** sim
+<!-- Adicione referências aqui, importe links pelo app,
+     ou preencha o Plano de Ensino no Gerenciador de Matérias. -->
 
 ## Mapa de relevância por tópico
 

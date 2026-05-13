@@ -1,3 +1,26 @@
+<!-- EXEC_SUMMARY_START -->
+## Sumário
+> *Leia antes de varrer o arquivo. Vá direto à seção relevante para a pergunta do aluno.*
+
+- **Conteúdo Extraído**
+- **Termos da Inteligência Artificial**
+- **IA e desenvolvedores**
+- **Como a tecnologia de IA pode ajudar as organizações**
+- **IA na Empresa**
+- **Como as Empresas Usam a IA**
+- **O que Está Motivando a Adoção da IA?**
+- **Treinamento e desenvolvimento de modelos de IA**
+- **Os Benefícios e Desafios da Operacionalização da IA**
+- **Histórias de Sucesso de IA**
+- **IA Pronta para Uso Está Tornando a Operacionalização da IA mais Fácil**
+- **Como Começar com a IA**
+- **Criando a Cultura Certa**
+- **Da Inteligência Artificial à Inteligência Adaptativa**
+- **IA como Obrigatoriedade Estratégica e Vantagem Competitiva**
+- **Melhores Práticas para Obter o Máximo da IA**
+- **Obtendo Ajuda com sua Jornada de IA**
+
+<!-- EXEC_SUMMARY_END -->
 # O que é Inteligência Artificial (IA)? | Oracle Brasil
 
 A IA (Inteligência artificial) oferece crescimento comercial, ajuda a melhorar as decisões e transforma os negócios para que se tornem mais inteligentes, automatizados e escalonáveis. Aprenda tudo o que você precisa saber sobre IA aqui.

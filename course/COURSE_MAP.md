@@ -1,36 +1,49 @@
 # COURSE_MAP — Inteligencia Artificial
 
-> **Como usar:** Este arquivo define a ordem pedagógica dos tópicos.
-> O tutor consulta este mapa para saber o que o aluno já deveria ter visto
-> e o que ainda não foi apresentado formalmente.
-> Cronograma completo disponível em `course/SYLLABUS.md`
+> Mapa pedagógico curto da disciplina.
+> Use este arquivo para ordem, dependências e foco atual; os detalhes vivem nos materiais referenciados.
+> Não replique explicações longas aqui.
+> Cronograma completo disponível em `course/SYLLABUS.md`.
 
 ## Estrutura do curso
 
-<!--
-INSTRUÇÃO PARA O MANTENEDOR:
-Preencha os tópicos abaixo em ordem pedagógica.
-Use indentação para indicar subtópicos.
-Marque dependências com '→ requer: [tópico]'
--->
+### Unidade de Aprendizagem 1 — Visão Geral (5%)
+- [ ] Conceituação
+- [ ] Breve Histórico de IA
+- [ ] Subáreas e disciplinas afins
+- [ ] Questões filosóficas de IA
 
-### Unidade 1 — [Nome da unidade]
-- [ ] Tópico 1.1
-- [ ] Tópico 1.2
+### Unidade de Aprendizagem 2 — Solução de Problemas (10%)
+- [ ] Introdução a agentes em ambientes determinísticos
+- [ ] Representação de problemas
+- [ ] Busca informada (heurística)
+- [ ] Algoritmos de Busca com Informação
+- [ ] Problemas de Otimização
+- [ ] Busca Adversária
 
-### Unidade 2 — [Nome da unidade]
-- [ ] Tópico 2.1 → requer: Tópico 1.2
-- [ ] Tópico 2.2
+### Unidade de Aprendizagem 3 — Raciocínio, Planejamento e Representação de Conhecimento
+- [ ] Agentes em Lógica
+- [ ] Planejamento Clássico
 
-## Tópicos de alta incidência em prova
+### Unidade de Aprendizagem 4 — Raciocínio sob Incerteza
+- [ ] Revisão de probabilidade
+- [ ] Independência e Permutabilidade
+- [ ] Regra de Bayes
 
-> ⏳ **Aguardando análise do tutor** — na primeira sessão, o tutor cruzará as provas
-> em `exams/` com as unidades acima e preencherá esta tabela.
+### Unidade de Aprendizagem 5 — Aprendizado de máquina
+- [ ] Introdução ao aprendizado de máquina
+- [ ] Paradigmas de aprendizado
+- [ ] Modelos Preditivos
+- [ ] Modelos Descritivos
+- [ ] Métricas de Avaliação
 
-| Tópico | Unidade | Incidência |
+## Timeline — Cronograma x Unidades
+
+| Unidade | Período | Slug |
 |---|---|---|
+| Unidade de Aprendizagem 1 — Visão Geral (5%) | 04/03/2026 | `unidade-de-aprendizagem-01-visao-geral-5` |
+| Unidade de Aprendizagem 2 — Solução de Problemas (10%) | 18/03/2026 a 08/06/2026 | `unidade-de-aprendizagem-02-solucao-de-problemas-10` |
+| Unidade de Aprendizagem 3 — Raciocínio, Planejamento e Representação de Conhecimento | 20/04/2026 a 15/06/2026 | `unidade-de-aprendizagem-03-raciocinio-planejamento-e-representacao-de-conhecimento` |
+| Unidade de Aprendizagem 5 — Aprendizado de máquina | 11/03/2026 a 16/03/2026 | `unidade-de-aprendizagem-05-aprendizado-de-maquina` |
 
-## Notas do professor
-
-> ⏳ **Aguardando análise do tutor** — padrões de cobrança serão identificados
-> a partir das provas e gabaritos disponíveis.
+> Unidades sem período explícito foram omitidas para manter o mapa enxuto.

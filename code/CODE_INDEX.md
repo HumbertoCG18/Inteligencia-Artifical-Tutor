@@ -8,7 +8,6 @@
 | Arquivo | Linguagem | Unidade | Conceito demonstrado | Notas |
 |---|---|---|---|---|
 | k_NN_exemplo2.ipynb | ipynb |  | [a preencher] | |
-| ExemploKnn.zip |  |  | [a preencher] | |
 
 ## Padrões de estilo do professor
 
