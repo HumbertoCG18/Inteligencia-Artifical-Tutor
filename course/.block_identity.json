@@ -1,0 +1,353 @@
+[
+  {
+    "uuid": "43b6f936-7dc9-49fa-8f19-a88b66dc9b98",
+    "anchor": {
+      "period_start": "2026-03-02",
+      "period_end": "2026-03-02",
+      "topic_tokens": [
+        "avaliacao",
+        "bibliografia",
+        "cronograma",
+        "datas",
+        "ensino",
+        "forma",
+        "historico",
+        "plano",
+        "programatico"
+      ]
+    },
+    "display_id_last": "bloco-01",
+    "first_seen": "2026-06-20",
+    "last_seen": "2026-06-20"
+  },
+  {
+    "uuid": "55691241-63a8-4053-aea8-8a835c90f4f7",
+    "anchor": {
+      "period_start": "2026-03-04",
+      "period_end": "2026-03-04",
+      "topic_tokens": [
+        "geral",
+        "visao"
+      ]
+    },
+    "display_id_last": "bloco-02",
+    "first_seen": "2026-06-20",
+    "last_seen": "2026-06-20"
+  },
+  {
+    "uuid": "fbf15f4c-54b1-489d-bb02-f9bd33dc1bd3",
+    "anchor": {
+      "period_start": "2026-03-09",
+      "period_end": "2026-03-09",
+      "topic_tokens": [
+        "introducao"
+      ]
+    },
+    "display_id_last": "bloco-03",
+    "first_seen": "2026-06-20",
+    "last_seen": "2026-06-20"
+  },
+  {
+    "uuid": "af22fe17-ee73-407f-9af5-d730739d71e0",
+    "anchor": {
+      "period_start": "2026-03-11",
+      "period_end": "2026-03-16",
+      "topic_tokens": [
+        "dados",
+        "preparacao",
+        "tipos"
+      ]
+    },
+    "display_id_last": "bloco-04",
+    "first_seen": "2026-06-20",
+    "last_seen": "2026-06-20"
+  },
+  {
+    "uuid": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
+    "anchor": {
+      "period_start": "2026-03-18",
+      "period_end": "2026-04-15",
+      "topic_tokens": [
+        "abordagem",
+        "analise",
+        "arvores",
+        "decisao",
+        "introducao",
+        "means",
+        "neural",
+        "perceptron",
+        "rede",
+        "resultados",
+        "supervisionada"
+      ]
+    },
+    "display_id_last": "bloco-05",
+    "first_seen": "2026-06-20",
+    "last_seen": "2026-06-20"
+  },
+  {
+    "uuid": "17ea65f3-5f84-47c7-9357-e090ee1f80ed",
+    "anchor": {
+      "period_start": "2026-04-20",
+      "period_end": "2026-04-27",
+      "topic_tokens": [
+        "abordagem",
+        "analise",
+        "hierarquico",
+        "means",
+        "resultados",
+        "supervisionada",
+        "suspensao"
+      ]
+    },
+    "display_id_last": "bloco-06",
+    "first_seen": "2026-06-20",
+    "last_seen": "2026-06-20"
+  },
+  {
+    "uuid": "696e2177-a69e-4dbb-9b79-73e03f3e8c85",
+    "anchor": {
+      "period_start": "2026-04-29",
+      "period_end": "2026-04-29",
+      "topic_tokens": [
+        "duvidas"
+      ]
+    },
+    "display_id_last": "bloco-07",
+    "first_seen": "2026-06-20",
+    "last_seen": "2026-06-20"
+  },
+  {
+    "uuid": "5256ec08-7e5d-4c55-8a3c-e1a7f981ac71",
+    "anchor": {
+      "period_start": "2026-05-04",
+      "period_end": "2026-05-04",
+      "topic_tokens": [
+        "trabalho"
+      ]
+    },
+    "display_id_last": "bloco-08",
+    "first_seen": "2026-06-20",
+    "last_seen": "2026-06-20"
+  },
+  {
+    "uuid": "55c7cdd4-b450-458e-880b-7c5e4ffb1ba4",
+    "anchor": {
+      "period_start": "2026-05-06",
+      "period_end": "2026-05-06",
+      "topic_tokens": [
+        "trabalho"
+      ]
+    },
+    "display_id_last": "bloco-09",
+    "first_seen": "2026-06-20",
+    "last_seen": "2026-06-20"
+  },
+  {
+    "uuid": "7eb6a214-73e1-48c7-a4a7-8bf66cf66385",
+    "anchor": {
+      "period_start": "2026-05-11",
+      "period_end": "2026-05-11",
+      "topic_tokens": [
+        "gerais"
+      ]
+    },
+    "display_id_last": "bloco-10",
+    "first_seen": "2026-06-20",
+    "last_seen": "2026-06-20"
+  },
+  {
+    "uuid": "f611d54d-9f6a-4534-b54c-01a600d38d8f",
+    "anchor": {
+      "period_start": "2026-05-13",
+      "period_end": "2026-05-13",
+      "topic_tokens": []
+    },
+    "display_id_last": "bloco-11",
+    "first_seen": "2026-06-20",
+    "last_seen": "2026-06-20"
+  },
+  {
+    "uuid": "0b986383-663a-4a54-b000-4b97ebce59c4",
+    "anchor": {
+      "period_start": "2026-05-18",
+      "period_end": "2026-05-20",
+      "topic_tokens": [
+        "agentes",
+        "correcao",
+        "introducao"
+      ]
+    },
+    "display_id_last": "bloco-12",
+    "first_seen": "2026-06-20",
+    "last_seen": "2026-06-20"
+  },
+  {
+    "uuid": "ab4631aa-d8e3-4c85-833c-369de28d773a",
+    "anchor": {
+      "period_start": "2026-05-25",
+      "period_end": "2026-05-25",
+      "topic_tokens": [
+        "algoritmos",
+        "busca"
+      ]
+    },
+    "display_id_last": "bloco-13",
+    "first_seen": "2026-06-20",
+    "last_seen": "2026-06-20"
+  },
+  {
+    "uuid": "d75c82cf-f46d-4b1e-8a65-9b890166dc7d",
+    "anchor": {
+      "period_start": "2026-05-27",
+      "period_end": "2026-05-27",
+      "topic_tokens": [
+        "academico",
+        "evento"
+      ]
+    },
+    "display_id_last": "bloco-14",
+    "first_seen": "2026-06-20",
+    "last_seen": "2026-06-20"
+  },
+  {
+    "uuid": "1de905a2-724e-4841-8d7b-a62bf7a42212",
+    "anchor": {
+      "period_start": "2026-06-01",
+      "period_end": "2026-06-08",
+      "topic_tokens": [
+        "algoritmos",
+        "busca"
+      ]
+    },
+    "display_id_last": "bloco-15",
+    "first_seen": "2026-06-20",
+    "last_seen": "2026-06-20"
+  },
+  {
+    "uuid": "4062d883-01e9-47d1-be03-61ea23b0adff",
+    "anchor": {
+      "period_start": "2026-06-10",
+      "period_end": "2026-06-15",
+      "topic_tokens": [
+        "planejamento"
+      ]
+    },
+    "display_id_last": "bloco-16",
+    "first_seen": "2026-06-20",
+    "last_seen": "2026-06-20"
+  },
+  {
+    "uuid": "bfaa3df7-b5b1-4d7b-8f7e-1e38f29ed016",
+    "anchor": {
+      "period_start": "2026-06-17",
+      "period_end": "2026-06-17",
+      "topic_tokens": [
+        "duvidas"
+      ]
+    },
+    "display_id_last": "bloco-17",
+    "first_seen": "2026-06-20",
+    "last_seen": "2026-06-20"
+  },
+  {
+    "uuid": "f431d36f-a2ba-4fe1-9072-ff0472d24e42",
+    "anchor": {
+      "period_start": "2026-06-22",
+      "period_end": "2026-06-22",
+      "topic_tokens": [
+        "trabalho"
+      ]
+    },
+    "display_id_last": "bloco-18",
+    "first_seen": "2026-06-20",
+    "last_seen": "2026-06-20"
+  },
+  {
+    "uuid": "851995f0-743a-480f-bc63-304f8354919d",
+    "anchor": {
+      "period_start": "2026-06-24",
+      "period_end": "2026-06-24",
+      "topic_tokens": [
+        "trabalho"
+      ]
+    },
+    "display_id_last": "bloco-19",
+    "first_seen": "2026-06-20",
+    "last_seen": "2026-06-20"
+  },
+  {
+    "uuid": "5f917e10-322b-40f4-807d-cef684be70fd",
+    "anchor": {
+      "period_start": "2026-06-29",
+      "period_end": "2026-06-29",
+      "topic_tokens": [
+        "gerias"
+      ]
+    },
+    "display_id_last": "bloco-20",
+    "first_seen": "2026-06-20",
+    "last_seen": "2026-06-20"
+  },
+  {
+    "uuid": "421fe467-6e6d-40b5-911e-95abfa402def",
+    "anchor": {
+      "period_start": "2026-07-01",
+      "period_end": "2026-07-01",
+      "topic_tokens": []
+    },
+    "display_id_last": "bloco-21",
+    "first_seen": "2026-06-20",
+    "last_seen": "2026-06-20"
+  },
+  {
+    "uuid": "38627373-95a6-4a0b-8504-de82c6ce8723",
+    "anchor": {
+      "period_start": "2026-07-06",
+      "period_end": "2026-07-06",
+      "topic_tokens": [
+        "substituicao"
+      ]
+    },
+    "display_id_last": "bloco-22",
+    "first_seen": "2026-06-20",
+    "last_seen": "2026-06-20"
+  },
+  {
+    "uuid": "ec23115c-f511-45dc-bbee-c13f4df83a6e",
+    "anchor": {
+      "period_start": "2026-07-08",
+      "period_end": "2026-07-08",
+      "topic_tokens": [
+        "atendimento",
+        "divulgacao",
+        "resultados"
+      ]
+    },
+    "display_id_last": "bloco-23",
+    "first_seen": "2026-06-20",
+    "last_seen": "2026-06-20"
+  },
+  {
+    "uuid": "60d8cfd2-eb1f-40fe-aa3d-1f55f56d9e5b",
+    "anchor": {
+      "period_start": "2026-07-13",
+      "period_end": "2026-07-13",
+      "topic_tokens": []
+    },
+    "display_id_last": "bloco-24",
+    "first_seen": "2026-06-20",
+    "last_seen": "2026-06-20"
+  },
+  {
+    "uuid": "d0e31a6f-832e-44f1-b550-dc711edb9196",
+    "anchor": {
+      "period_start": "2026-07-15",
+      "period_end": "2026-07-15",
+      "topic_tokens": []
+    },
+    "display_id_last": "bloco-25",
+    "first_seen": "2026-06-20",
+    "last_seen": "2026-06-20"
+  }
+]
