@@ -1,0 +1,323 @@
+{
+  "version": 1,
+  "entries": {
+    "programa-exemplo-ag": {
+      "content_hash": "797587b7ddf7d0888abfc95076200fb0778107e4",
+      "matcher_version": 2,
+      "model": "gemini-2.5-flash",
+      "generated_at": "2026-06-19T04:26:40",
+      "summary": {
+        "inferred_title": "Implementação de Algoritmo Genético para o Problema das N-Rainhas em Java",
+        "language": "java",
+        "pedagogical_role": "exemplo_demonstrativo",
+        "concepts": [
+          "Algoritmos Genéticos",
+          "Problema das N-Rainhas",
+          "Representação de Indivíduo",
+          "Função de Aptidão",
+          "Seleção por Torneio",
+          "Crossover",
+          "Mutação",
+          "Elitismo"
+        ],
+        "summary": "Este bundle demonstra um Algoritmo Genético (AG) implementado em Java para resolver o clássico Problema das N-Rainhas. Ele ilustra a evolução de uma população de soluções através de operadores genéticos como seleção, crossover e mutação, buscando uma configuração de rainhas sem colisões, com uma interface gráfica para visualização do tabuleiro e do progresso do AG.",
+        "files": [
+          {
+            "name": "src\\dominio\\Individuo.java",
+            "role": "Representação de Indivíduo (solução potencial)"
+          },
+          {
+            "name": "src\\dominio\\Populacao.java",
+            "role": "Gerenciamento da População de Indivíduos"
+          },
+          {
+            "name": "src\\dominio\\Tabuleiro.java",
+            "role": "Modelo do Tabuleiro e Lógica de Conflitos"
+          },
+          {
+            "name": "src\\ihm\\Chart.java",
+            "role": "Componente para Gráfico de Desempenho do AG"
+          },
+          {
+            "name": "src\\ihm\\Frame.java",
+            "role": "Interface Gráfica do Usuário (GUI) e Controles"
+          },
+          {
+            "name": "src\\ihm\\TabuleiroVisual.java",
+            "role": "Componente de Renderização Visual do Tabuleiro"
+          },
+          {
+            "name": "src\\operacao\\Algoritimo.java",
+            "role": "Implementação Core do Algoritmo Genético"
+          }
+        ],
+        "suggested_block_id": "bloco-13",
+        "suggested_secondary_ids": [],
+        "match_rationale": "O código implementa um algoritmo genético, uma heurística de busca para resolver o Problema das N-Rainhas, alinhado com o tema de algoritmos de busca.",
+        "primary_block_id": "bloco-13",
+        "secondary_block_ids": [],
+        "block_match_confidence": 0.6,
+        "block_match_method": "llm_only"
+      }
+    },
+    "ag-feito-em-aula-pelo-luca": {
+      "content_hash": "240de82ce84186e77b621133cb2b04c23fb1fdbc",
+      "matcher_version": 2,
+      "model": "gemini-2.5-flash",
+      "generated_at": "2026-06-19T04:26:45",
+      "summary": {
+        "inferred_title": "Implementação de Algoritmo Genético para o Problema da Soma dos Subconjuntos",
+        "language": "python",
+        "pedagogical_role": "exemplo_demonstrativo",
+        "concepts": [
+          "Algoritmos Genéticos",
+          "Função de Aptidão",
+          "Elitismo",
+          "Seleção por Torneio",
+          "Crossover",
+          "Mutação",
+          "População (GA)",
+          "Geração"
+        ],
+        "summary": "Este script Python demonstra uma implementação básica de um Algoritmo Genético (AG). Ele busca resolver um problema de otimização onde o objetivo é dividir uma lista de números em dois subconjuntos para minimizar a diferença absoluta de suas somas. O código ilustra os principais operadores de um AG, como inicialização da população, cálculo de aptidão, elitismo, seleção por torneio, crossover e mutação.",
+        "files": [
+          {
+            "name": "ag-feito-em-aula-pelo-luca.py",
+            "role": "código-fonte principal"
+          }
+        ],
+        "suggested_block_id": "bloco-13",
+        "suggested_secondary_ids": [],
+        "match_rationale": "O código demonstra um algoritmo de busca meta-heurística, o que se alinha com o tema de 'Algoritmos busca'.",
+        "primary_block_id": "bloco-13",
+        "secondary_block_ids": [],
+        "block_match_confidence": 0.75,
+        "block_match_method": "consensus"
+      }
+    },
+    "programas-exemplo-hc-sa-versao-para-nrainhas-e-distribuicao-de-cargas": {
+      "content_hash": "d4a8ecd4abae1012cf6f537f90527abc09b97f7c",
+      "matcher_version": 2,
+      "model": "gemini-2.5-flash",
+      "generated_at": "2026-06-19T04:26:52",
+      "summary": {
+        "inferred_title": "Implementação de Simulated Annealing para Distribuição de Cargas",
+        "language": "java",
+        "pedagogical_role": "exemplo_demonstrativo",
+        "concepts": [
+          "Simulated Annealing",
+          "Otimização combinatória",
+          "Função heurística",
+          "Estado (solução)",
+          "Vizinhos (solução)",
+          "Temperatura (SA)",
+          "Distribuição de cargas"
+        ],
+        "summary": "Este código implementa o algoritmo Simulated Annealing para resolver o problema de distribuição de cargas, visando balancear a soma das cargas entre dois grupos. Ele demonstra como a heurística e o parâmetro de temperatura são usados para escapar de ótimos locais e explorar o espaço de busca.",
+        "files": [
+          {
+            "name": "DistribuicaoDeCargas.java",
+            "role": "implementacao_sa"
+          }
+        ],
+        "suggested_block_id": "bloco-13",
+        "suggested_secondary_ids": [],
+        "match_rationale": "O material demonstra um algoritmo de busca meta-heurístico (Simulated Annealing) aplicado a um problema de otimização.",
+        "primary_block_id": "bloco-13",
+        "secondary_block_ids": [],
+        "block_match_confidence": 0.6,
+        "block_match_method": "llm_only"
+      }
+    },
+    "implementacaominimax": {
+      "content_hash": "ae9866228de11b58d48a77843cef3d7f37a7017e",
+      "matcher_version": 2,
+      "model": "gemini-2.5-flash",
+      "generated_at": "2026-06-19T04:27:00",
+      "summary": {
+        "inferred_title": "Implementação do Algoritmo Minimax com Poda Alpha-Beta para Jogo da Velha",
+        "language": "java",
+        "pedagogical_role": "solucao_referencia",
+        "concepts": [
+          "Algoritmo Minimax",
+          "Poda Alpha-Beta",
+          "Algoritmos de busca adversária",
+          "Função de utilidade",
+          "Árvore de busca",
+          "Estados de jogo",
+          "Jogo da Velha"
+        ],
+        "summary": "Este bundle demonstra a implementação do algoritmo Minimax, incluindo sua otimização com poda Alpha-Beta, aplicada ao jogo da velha. Ele exemplifica como um agente inteligente pode tomar decisões ideais em jogos de soma zero, avaliando futuros estados do tabuleiro. O código oferece uma referência prática para a compreensão de estratégias de IA em jogos.",
+        "files": [
+          {
+            "name": "JogoVelha.java",
+            "role": "Lógica de interface e interação"
+          },
+          {
+            "name": "Minimax.java",
+            "role": "Implementação do algoritmo"
+          },
+          {
+            "name": "Sucessor.java",
+            "role": "Modelo de estado e sucessor"
+          },
+          {
+            "name": "TestaMinimax.java",
+            "role": "Adaptador e orquestrador"
+          }
+        ],
+        "suggested_block_id": "bloco-13",
+        "suggested_secondary_ids": [
+          "bloco-12",
+          "bloco-21"
+        ],
+        "match_rationale": "O material implementa o algoritmo Minimax, um método fundamental de busca para jogos de inteligência artificial.",
+        "primary_block_id": "bloco-13",
+        "secondary_block_ids": [
+          "bloco-12",
+          "bloco-21"
+        ],
+        "block_match_confidence": 0.75,
+        "block_match_method": "consensus"
+      }
+    },
+    "analise-exploratoria-dos-dados-exemplo-2": {
+      "content_hash": "71aa203a196b856178807cdd69f11a07129d35e8",
+      "matcher_version": 2,
+      "model": "gemini-2.5-flash",
+      "generated_at": "2026-06-19T04:27:04",
+      "summary": {
+        "inferred_title": "Análise Exploratória de Dados com ydata-profiling em Python",
+        "language": "jupyter",
+        "pedagogical_role": "exemplo_demonstrativo",
+        "concepts": [
+          "Análise Exploratória de Dados (AED)",
+          "Data Profiling",
+          "ydata-profiling",
+          "Pandas",
+          "Dataset IRIS",
+          "Dataset TIC TAC TOE",
+          "visualização de dados"
+        ],
+        "summary": "Este notebook demonstra como realizar Análise Exploratória de Dados (AED) utilizando a biblioteca `ydata-profiling` no Pandas. Ele gera relatórios HTML interativos e abrangentes para diversos conjuntos de dados, como IRIS, evidenciando a facilidade e economia de tempo na compreensão da estrutura e qualidade dos dados.",
+        "files": [
+          {
+            "name": "analise-exploratoria-dos-dados-exemplo-2.ipynb",
+            "role": "notebook de demonstração"
+          }
+        ],
+        "suggested_block_id": "bloco-04",
+        "suggested_secondary_ids": [],
+        "match_rationale": "O material foca diretamente na preparação e análise de dados usando ferramentas de profiling, alinhando-se perfeitamente com os tópicos de 'Tipos dados preparacao' do bloco-04.",
+        "primary_block_id": "bloco-04",
+        "secondary_block_ids": [],
+        "block_match_confidence": 0.75,
+        "block_match_method": "consensus"
+      }
+    },
+    "exemplo-de-programa-com-k-nn-em-java": {
+      "content_hash": "6315590841ad504c55e110bca4e85c59722ddedd",
+      "matcher_version": 2,
+      "model": "gemini-2.5-flash",
+      "generated_at": "2026-06-19T04:27:09",
+      "summary": {
+        "inferred_title": "Implementação do Algoritmo k-NN (K-Nearest Neighbors) para Classificação de Dados",
+        "language": "java",
+        "pedagogical_role": "exemplo_demonstrativo",
+        "concepts": [
+          "k-Nearest Neighbors (k-NN)",
+          "Classificação supervisionada",
+          "Distância Euclidiana",
+          "Base de dados Iris",
+          "Conjunto de treino e teste",
+          "Votação por maioria",
+          "Métricas de distância"
+        ],
+        "summary": "Este código Java implementa o algoritmo k-Nearest Neighbors (k-NN) para classificação de dados. Ele demonstra como carregar dados, calcular a distância euclidiana entre pontos, ordenar vizinhos e aplicar uma votação por maioria para predizer a classe, utilizando a base de dados Iris como exemplo.",
+        "files": [
+          {
+            "name": "arquivosIris\\Knn.java",
+            "role": "implementacao_principal"
+          }
+        ],
+        "suggested_block_id": "bloco-05",
+        "suggested_secondary_ids": [],
+        "match_rationale": "O algoritmo k-NN é um método fundamental de aprendizado de máquina supervisionado, alinhando-se diretamente com o tópico 'Abordagem supervisionada' do bloco.",
+        "primary_block_id": "bloco-05",
+        "secondary_block_ids": [],
+        "block_match_confidence": 0.6,
+        "block_match_method": "llm_only"
+      }
+    },
+    "agrupamento-usando-k-means-exemplo-1-ipynb": {
+      "content_hash": "f6cf297131eba75e9a415e23bcf1cd8e54654452",
+      "matcher_version": 2,
+      "model": "gemini-2.5-flash",
+      "generated_at": "2026-06-19T04:27:20",
+      "summary": {
+        "inferred_title": "Agrupamento k-Means e seleção do número ótimo de clusters",
+        "language": "jupyter",
+        "pedagogical_role": "exemplo_demonstrativo",
+        "concepts": [
+          "Aprendizado não supervisionado",
+          "Algoritmo k-Means",
+          "Agrupamento (Clustering)",
+          "Método do Cotovelo",
+          "Distorção",
+          "Inércia",
+          "Coeficiente de Silhueta",
+          "Centróides"
+        ],
+        "summary": "Este notebook demonstra a aplicação do algoritmo de agrupamento k-Means em uma lista de pontos, utilizando a biblioteca scikit-learn. Ele ilustra métodos para determinar o número ideal de clusters (k), como a análise de distorção, inércia (método do cotovelo) e o coeficiente de silhueta, sendo essencial para entender a avaliação de modelos de agrupamento.",
+        "files": [
+          {
+            "name": "agrupamento-usando-k-means-exemplo-1-ipynb.ipynb",
+            "role": "notebook principal"
+          }
+        ],
+        "suggested_block_id": "bloco-06",
+        "suggested_secondary_ids": [],
+        "match_rationale": "O título do bloco faz menção a 'means' e 'hierárquico análise', que se alinham com algoritmos de agrupamento, apesar do tópico principal indicado ser 'abordagem supervisionada'.",
+        "primary_block_id": "bloco-06",
+        "secondary_block_ids": [],
+        "block_match_confidence": 0.6,
+        "block_match_method": "llm_only"
+      }
+    },
+    "agrupamento-usando-k-means-exemplo-2-ipynb": {
+      "content_hash": "fbce8f7b03758bf71f943fff52de5a6d42832792",
+      "matcher_version": 2,
+      "model": "gemini-2.5-flash",
+      "generated_at": "2026-06-19T04:27:25",
+      "summary": {
+        "inferred_title": "Agrupamento não supervisionado com k-Means no dataset Iris",
+        "language": "jupyter",
+        "pedagogical_role": "exemplo_demonstrativo",
+        "concepts": [
+          "Aprendizado não supervisionado",
+          "Agrupamento (Clustering)",
+          "k-Means",
+          "Dataset Iris",
+          "Método do Cotovelo",
+          "Inércia (WCSS)",
+          "Centróides",
+          "Visualização de clusters"
+        ],
+        "summary": "Este notebook demonstra a aplicação do algoritmo de agrupamento k-Means no dataset da planta Iris, partindo da carga e exploração dos dados. Ele ilustra o uso do método do cotovelo para estimar o número ideal de clusters e a visualização dos resultados do agrupamento e dos centróides.",
+        "files": [
+          {
+            "name": "agrupamento-usando-k-means-exemplo-2-ipynb.ipynb",
+            "role": "notebook_principal"
+          }
+        ],
+        "suggested_block_id": "bloco-06",
+        "suggested_secondary_ids": [],
+        "match_rationale": "O material aborda o algoritmo k-Means para agrupamento, que é explicitamente mencionado no tópico 'means' do bloco-06, dentro do contexto de abordagens de aprendizado.",
+        "primary_block_id": "bloco-06",
+        "secondary_block_ids": [],
+        "block_match_confidence": 0.6,
+        "block_match_method": "llm_only"
+      }
+    }
+  }
+}

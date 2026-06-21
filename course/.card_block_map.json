@@ -1,0 +1,191 @@
+{
+ "Semana 1 - 02.03 a 06.03 - Plano de Ensino e Introdução a IA": {
+  "block_ids": [
+   "bloco-01",
+   "bloco-02"
+  ],
+  "source": "labels",
+  "format": "B",
+  "dates": [
+   "2026-03-02",
+   "2026-03-04"
+  ]
+ },
+ "Semana 2 - 09.03 a 13.03 - Introdução a IA (continuação) e Introdução a ML": {
+  "block_ids": [
+   "bloco-03",
+   "bloco-04"
+  ],
+  "source": "labels",
+  "format": "B",
+  "dates": [
+   "2026-03-09",
+   "2026-03-11"
+  ]
+ },
+ "Semana 3 - 16.03 a 20.03 - Machine Learning e Dados": {
+  "block_ids": [
+   "bloco-04",
+   "bloco-05"
+  ],
+  "source": "labels",
+  "format": "B",
+  "dates": [
+   "2026-03-16",
+   "2026-03-18"
+  ]
+ },
+ "Semana 4 - 23.03 a 27.03 - Machine Learning Aprendizado Supervisionado": {
+  "block_ids": [
+   "bloco-05"
+  ],
+  "source": "labels",
+  "format": "B",
+  "dates": [
+   "2026-03-23",
+   "2026-03-25"
+  ]
+ },
+ "Semana 5 -30.03 a 01.04 ML - Aprendizado Supervisionado": {
+  "block_ids": [
+   "bloco-05"
+  ],
+  "source": "labels",
+  "format": "B",
+  "dates": [
+   "2026-03-30",
+   "2026-04-01"
+  ]
+ },
+ "Semana 6 - 06.04 a 10.04 - ML - Aprendizado Supervisionado": {
+  "block_ids": [
+   "bloco-05"
+  ],
+  "source": "labels",
+  "format": "B",
+  "dates": [
+   "2026-04-06",
+   "2026-04-08"
+  ]
+ },
+ "Semana 7 - 13.04 a 17.04 - ML - Aprendizado Supervisionado": {
+  "block_ids": [
+   "bloco-05"
+  ],
+  "source": "labels",
+  "format": "B",
+  "dates": [
+   "2026-04-13",
+   "2026-04-15"
+  ]
+ },
+ "Semana 8 - 20.04 a 24.04 - ML - Aprendizado Não Supervisionado": {
+  "block_ids": [
+   "bloco-06"
+  ],
+  "source": "labels",
+  "format": "B",
+  "dates": [
+   "2026-04-20",
+   "2026-04-22"
+  ]
+ },
+ "Semana 9 - 27.04 a 01.05 - ML - Aprendizado Não Supervisionado": {
+  "block_ids": [
+   "bloco-06",
+   "bloco-07"
+  ],
+  "source": "labels",
+  "format": "B",
+  "dates": [
+   "2026-04-27",
+   "2026-04-29"
+  ]
+ },
+ "Semana 10 - 04.04 a 08.04 - Avaliações": {
+  "block_ids": [
+   "bloco-05"
+  ],
+  "source": "labels",
+  "format": "B",
+  "dates": [
+   "2026-04-04",
+   "2026-04-06"
+  ]
+ },
+ "Semana 11 -11.05 a 15.05 - Avaliações": {
+  "block_ids": [
+   "bloco-10",
+   "bloco-11"
+  ],
+  "source": "labels",
+  "format": "B",
+  "dates": [
+   "2026-05-11",
+   "2026-05-13"
+  ]
+ },
+ "Semana 12 - 18.05 a 22.05 - Algoritmos de Busca com Informação": {
+  "block_ids": [
+   "bloco-12"
+  ],
+  "source": "labels",
+  "format": "B",
+  "dates": [
+   "2026-05-18",
+   "2026-05-20"
+  ]
+ },
+ "Semana 13 - 25.05 a 29.05 - Algoritmos de Busca com Informação": {
+  "block_ids": [
+   "bloco-13",
+   "bloco-14"
+  ],
+  "source": "labels",
+  "format": "B",
+  "dates": [
+   "2026-05-25",
+   "2026-05-27"
+  ]
+ },
+ "Semana 14 - 01.06 a 05.06 - Algoritmos de Busca com Informação": {
+  "block_ids": [
+   "bloco-15"
+  ],
+  "source": "labels",
+  "format": "B",
+  "dates": [
+   "2026-06-01",
+   "2026-06-03"
+  ]
+ },
+ "Semana 15 - 08.06 a 12.06 - Algoritmos de Busca": {
+  "block_ids": [
+   "bloco-15",
+   "bloco-16"
+  ],
+  "source": "labels",
+  "format": "B",
+  "dates": [
+   "2026-06-08",
+   "2026-06-10"
+  ]
+ },
+ "Semana 16 - 15.06 a 19.06 - Algoritmos de Busca e Agentes": {
+  "block_ids": [
+   "bloco-16",
+   "bloco-17"
+  ],
+  "source": "labels",
+  "format": "B",
+  "dates": [
+   "2026-06-15",
+   "2026-06-17"
+  ]
+ },
+ "TDE Trabalho Discente Efetivo": {
+  "block_ids": [],
+  "source": "labels",
+  "assign_due": "2026-05-04"
+ }
+}

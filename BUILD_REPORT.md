@@ -25,3 +25,8 @@ Os três arquivos de instruções foram gerados:
 - PDFs com fórmulas, scans, layout complexo ou provas: camada avançada + revisão manual.
 - O conhecimento final do tutor deve sair de `manual-review/` e depois ser promovido.
 - Atualizar `student/STUDENT_STATE.md` após cada sessão de estudo.
+
+## Custos e qualidade do build
+- páginas processadas via Datalab: 1708 (em 40 arquivo(s)) — proxy de custo (Datalab cobra por página)
+- parse_quality médio (Datalab): 4.58
+- PDFs escaneados: 0 de 40 (0%) · 0 de 1708 páginas

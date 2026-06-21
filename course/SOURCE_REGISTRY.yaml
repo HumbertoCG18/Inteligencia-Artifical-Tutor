@@ -160,3 +160,343 @@ sources:
     effective_profile: diagram_heavy
     include_in_bundle: true
     professor_signal: ""
+  - id: visao-geral-introducao-e-historico
+    title: "Visão Geral - Introdução e Histórico"
+    category: material-de-aula
+    file_type: pdf
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\inteligencia-artificial\\Semana 1 - 02.03 a 06.03 - Plano de Ensino e Introdução a IA\\Visão Geral - Introdução e Histórico.pdf"
+    raw_target: "raw/pdfs/material-de-aula/visao-geral-introducao-e-historico.pdf"
+    processing_mode: high_fidelity
+    effective_profile: diagram_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: cap-sobre-algoritmos-geneticos-lacerda-e-outros
+    title: "Cap. sobre Algoritmos Geneticos (Lacerda e outros)"
+    category: material-de-aula
+    file_type: pdf
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\inteligencia-artificial\\Semana 12 - 18.05 a 22.05 - Algoritmos de Busca com Informação\\Cap. sobre Algoritmos Geneticos (Lacerda e outros).pdf"
+    raw_target: "raw/pdfs/material-de-aula/cap-sobre-algoritmos-geneticos-lacerda-e-outros.pdf"
+    processing_mode: high_fidelity
+    effective_profile: diagram_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: minimax-teoria
+    title: "minimax-teoria"
+    category: material-de-aula
+    file_type: pdf
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\inteligencia-artificial\\Semana 15 - 08.06 a 12.06 - Algoritmos de Busca\\minimax-teoria.pdf"
+    raw_target: "raw/pdfs/material-de-aula/minimax-teoria.pdf"
+    processing_mode: high_fidelity
+    effective_profile: diagram_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: rede-perceptron
+    title: "Rede Perceptron"
+    category: material-de-aula
+    file_type: pdf
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\inteligencia-artificial\\Semana 4 - 23.03 a 27.03 - Machine Learning Aprendizado Supervisionado\\Rede Perceptron.pdf"
+    raw_target: "raw/pdfs/material-de-aula/rede-perceptron.pdf"
+    processing_mode: high_fidelity
+    effective_profile: diagram_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: mlp
+    title: "MLP"
+    category: material-de-aula
+    file_type: pdf
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\inteligencia-artificial\\Semana 5 -30.03 a 01.04 ML - Aprendizado Supervisionado\\MLP.pdf"
+    raw_target: "raw/pdfs/material-de-aula/mlp.pdf"
+    processing_mode: high_fidelity
+    effective_profile: diagram_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: arvores-de-decisao
+    title: "Árvores de Decisão"
+    category: material-de-aula
+    file_type: pdf
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\inteligencia-artificial\\Semana 7 - 13.04 a 17.04 - ML - Aprendizado Supervisionado\\Árvores de Decisão.pdf"
+    raw_target: "raw/pdfs/material-de-aula/arvores-de-decisao.pdf"
+    processing_mode: high_fidelity
+    effective_profile: diagram_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: aula-sobre-agrupamento-parte-1-particional
+    title: "Aula sobre Agrupamento - parte 1 (particional)"
+    category: material-de-aula
+    file_type: pdf
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\inteligencia-artificial\\Semana 8 - 20.04 a 24.04 - ML - Aprendizado Não Supervisionado\\Aula sobre Agrupamento - parte 1 (particional).pdf"
+    raw_target: "raw/pdfs/material-de-aula/aula-sobre-agrupamento-parte-1-particional.pdf"
+    processing_mode: high_fidelity
+    effective_profile: diagram_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: aula-sobre-agrupamento-parte-2-hierarquico
+    title: "Aula sobre Agrupamento - parte 2 (hierarquico)"
+    category: material-de-aula
+    file_type: pdf
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\inteligencia-artificial\\Semana 9 - 27.04 a 01.05 - ML - Aprendizado Não Supervisionado\\Aula sobre Agrupamento - parte 2 (hierarquico).pdf"
+    raw_target: "raw/pdfs/material-de-aula/aula-sobre-agrupamento-parte-2-hierarquico.pdf"
+    processing_mode: high_fidelity
+    effective_profile: diagram_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: minimax
+    title: "Minimax"
+    category: material-de-aula
+    file_type: pdf
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\inteligencia-artificial\\Semana 15 - 08.06 a 12.06 - Algoritmos de Busca\\Minimax.pdf"
+    raw_target: "raw/pdfs/material-de-aula/minimax.pdf"
+    processing_mode: high_fidelity
+    effective_profile: diagram_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: algoritmo-genetico
+    title: "Algoritmo Genetico"
+    category: material-de-aula
+    file_type: pdf
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\inteligencia-artificial\\Semana 12 - 18.05 a 22.05 - Algoritmos de Busca com Informação\\Algoritmo Genetico.pdf"
+    raw_target: "raw/pdfs/material-de-aula/algoritmo-genetico.pdf"
+    processing_mode: high_fidelity
+    effective_profile: diagram_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: introducao-a-busca-informada
+    title: "Introducao a busca informada"
+    category: material-de-aula
+    file_type: pdf
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\inteligencia-artificial\\Semana 12 - 18.05 a 22.05 - Algoritmos de Busca com Informação\\Introducao a busca informada.pdf"
+    raw_target: "raw/pdfs/material-de-aula/introducao-a-busca-informada.pdf"
+    processing_mode: high_fidelity
+    effective_profile: diagram_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: outros-operadores
+    title: "Outros operadores"
+    category: material-de-aula
+    file_type: pdf
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\inteligencia-artificial\\Semana 12 - 18.05 a 22.05 - Algoritmos de Busca com Informação\\Outros operadores.pdf"
+    raw_target: "raw/pdfs/material-de-aula/outros-operadores.pdf"
+    processing_mode: high_fidelity
+    effective_profile: diagram_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: programa-exemplo-ag
+    title: "programa-exemplo AG"
+    category: codigo-professor
+    file_type: zip
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\inteligencia-artificial\\Semana 12 - 18.05 a 22.05 - Algoritmos de Busca com Informação\\programa-exemplo AG.zip"
+    raw_target: "raw/zip/programa-exemplo-ag.zip"
+    processing_mode: high_fidelity
+    effective_profile: auto
+    include_in_bundle: true
+    professor_signal: ""
+  - id: ag-feito-em-aula-pelo-luca
+    title: "AG feito em aula pelo Luca"
+    category: codigo-professor
+    file_type: code
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\inteligencia-artificial\\Semana 13 - 25.05 a 29.05 - Algoritmos de Busca com Informação\\AG feito em aula pelo Luca.py"
+    raw_target: "raw/code/professor/ag-feito-em-aula-pelo-luca.py"
+    processing_mode: high_fidelity
+    effective_profile: auto
+    include_in_bundle: true
+    professor_signal: ""
+  - id: algoritmo-dijkstra
+    title: "Algoritmo Dijkstra"
+    category: material-de-aula
+    file_type: pdf
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\inteligencia-artificial\\Semana 14 - 01.06 a 05.06 - Algoritmos de Busca com Informação\\Algoritmo Dijkstra.pdf"
+    raw_target: "raw/pdfs/material-de-aula/algoritmo-dijkstra.pdf"
+    processing_mode: high_fidelity
+    effective_profile: diagram_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: hill-climbing-e-simulated-annealing
+    title: "Hill Climbing e Simulated Annealing"
+    category: material-de-aula
+    file_type: pdf
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\inteligencia-artificial\\Semana 14 - 01.06 a 05.06 - Algoritmos de Busca com Informação\\Hill Climbing e Simulated Annealing.pdf"
+    raw_target: "raw/pdfs/material-de-aula/hill-climbing-e-simulated-annealing.pdf"
+    processing_mode: high_fidelity
+    effective_profile: diagram_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: programas-exemplo-hc-sa-versao-para-nrainhas-e-distribuicao-de-cargas
+    title: "Programas-exemplo HC, SA (versão para NRainhas e Distribuição de Cargas)"
+    category: codigo-professor
+    file_type: zip
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\inteligencia-artificial\\Semana 14 - 01.06 a 05.06 - Algoritmos de Busca com Informação\\Programas-exemplo HC, SA (versão para NRainhas e Distribuição de Cargas).zip"
+    raw_target: "raw/zip/programas-exemplo-hc-sa-versao-para-nrainhas-e-distribuicao-de-cargas.zip"
+    processing_mode: high_fidelity
+    effective_profile: auto
+    include_in_bundle: true
+    professor_signal: ""
+  - id: implementacaominimax
+    title: "ImplementacaoMinimax"
+    category: codigo-professor
+    file_type: zip
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\inteligencia-artificial\\Semana 15 - 08.06 a 12.06 - Algoritmos de Busca\\ImplementacaoMinimax.zip"
+    raw_target: "raw/zip/implementacaominimax.zip"
+    processing_mode: high_fidelity
+    effective_profile: auto
+    include_in_bundle: true
+    professor_signal: ""
+  - id: lista1
+    title: "lista1"
+    category: listas
+    file_type: pdf
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\inteligencia-artificial\\Semana 15 - 08.06 a 12.06 - Algoritmos de Busca\\lista1.pdf"
+    raw_target: "raw/pdfs/listas/lista1.pdf"
+    processing_mode: high_fidelity
+    effective_profile: diagram_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: caracteristicas-dos-dados
+    title: "Características dos Dados"
+    category: material-de-aula
+    file_type: pdf
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\inteligencia-artificial\\Semana 2 - 09.03 a 13.03 - Introdução a IA (continuação) e Introdução a ML\\Características dos Dados.pdf"
+    raw_target: "raw/pdfs/material-de-aula/caracteristicas-dos-dados.pdf"
+    processing_mode: high_fidelity
+    effective_profile: diagram_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: introducao-a-ml
+    title: "Introdução a ML"
+    category: material-de-aula
+    file_type: pdf
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\inteligencia-artificial\\Semana 2 - 09.03 a 13.03 - Introdução a IA (continuação) e Introdução a ML\\Introdução a ML.pdf"
+    raw_target: "raw/pdfs/material-de-aula/introducao-a-ml.pdf"
+    processing_mode: high_fidelity
+    effective_profile: diagram_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: algoritmo-de-classificacao-k-nn
+    title: "Algoritmo de Classificação k-NN"
+    category: material-de-aula
+    file_type: pdf
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\inteligencia-artificial\\Semana 3 - 16.03 a 20.03 - Machine Learning e Dados\\Algoritmo de Classificação k-NN.pdf"
+    raw_target: "raw/pdfs/material-de-aula/algoritmo-de-classificacao-k-nn.pdf"
+    processing_mode: high_fidelity
+    effective_profile: diagram_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: analise-exploratoria-dos-dados-exemplo-2
+    title: "Analise Exploratória dos Dados - Exemplo 2"
+    category: codigo-professor
+    file_type: code
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\inteligencia-artificial\\Semana 3 - 16.03 a 20.03 - Machine Learning e Dados\\Analise Exploratória dos Dados - Exemplo 2.ipynb"
+    raw_target: "raw/code/professor/analise-exploratoria-dos-dados-exemplo-2.ipynb"
+    processing_mode: high_fidelity
+    effective_profile: auto
+    include_in_bundle: true
+    professor_signal: ""
+  - id: artigo-usando-k-nn-em-texto
+    title: "Artigo usando k-NN em texto"
+    category: bibliografia
+    file_type: pdf
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\inteligencia-artificial\\Semana 3 - 16.03 a 20.03 - Machine Learning e Dados\\Artigo usando k-NN em texto.pdf"
+    raw_target: "raw/pdfs/bibliografia/artigo-usando-k-nn-em-texto.pdf"
+    processing_mode: high_fidelity
+    effective_profile: diagram_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: exemplo-de-programa-com-k-nn-em-java
+    title: "Exemplo de programa com k-NN (em java)"
+    category: codigo-professor
+    file_type: zip
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\inteligencia-artificial\\Semana 3 - 16.03 a 20.03 - Machine Learning e Dados\\Exemplo de programa com k-NN (em java).zip"
+    raw_target: "raw/zip/exemplo-de-programa-com-k-nn-em-java.zip"
+    processing_mode: high_fidelity
+    effective_profile: auto
+    include_in_bundle: true
+    professor_signal: ""
+  - id: introducao-a-redes-neurais
+    title: "Introducao a redes neurais"
+    category: material-de-aula
+    file_type: pdf
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\inteligencia-artificial\\Semana 4 - 23.03 a 27.03 - Machine Learning Aprendizado Supervisionado\\Introducao a redes neurais.pdf"
+    raw_target: "raw/pdfs/material-de-aula/introducao-a-redes-neurais.pdf"
+    processing_mode: high_fidelity
+    effective_profile: diagram_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: rede-perceptron-e-equacao-de-reta
+    title: "Rede Perceptron e Equação de Reta"
+    category: material-de-aula
+    file_type: pdf
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\inteligencia-artificial\\Semana 5 -30.03 a 01.04 ML - Aprendizado Supervisionado\\Rede Perceptron e Equação de Reta.pdf"
+    raw_target: "raw/pdfs/material-de-aula/rede-perceptron-e-equacao-de-reta.pdf"
+    processing_mode: high_fidelity
+    effective_profile: diagram_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: como-analisar-resultados-acc-pr-re-e-f1
+    title: "Como analisar resultados Acc, Pr, Re e F1"
+    category: material-de-aula
+    file_type: pdf
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\inteligencia-artificial\\Semana 6 - 06.04 a 10.04 - ML - Aprendizado Supervisionado\\Como analisar resultados Acc, Pr, Re e F1.pdf"
+    raw_target: "raw/pdfs/material-de-aula/como-analisar-resultados-acc-pr-re-e-f1.pdf"
+    processing_mode: high_fidelity
+    effective_profile: diagram_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: agrupamento-usando-k-means-exemplo-1-ipynb
+    title: "agrupamento usando k-Means exemplo 1 (.ipynb)"
+    category: codigo-professor
+    file_type: code
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\inteligencia-artificial\\Semana 8 - 20.04 a 24.04 - ML - Aprendizado Não Supervisionado\\agrupamento usando k-Means exemplo 1 (.ipynb).ipynb"
+    raw_target: "raw/code/professor/agrupamento-usando-k-means-exemplo-1-ipynb.ipynb"
+    processing_mode: high_fidelity
+    effective_profile: auto
+    include_in_bundle: true
+    professor_signal: ""
+  - id: agrupamento-usando-k-means-exemplo-2-ipynb
+    title: "agrupamento usando k-Means exemplo 2 (.ipynb)"
+    category: codigo-professor
+    file_type: code
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\inteligencia-artificial\\Semana 8 - 20.04 a 24.04 - ML - Aprendizado Não Supervisionado\\agrupamento usando k-Means exemplo 2 (.ipynb).ipynb"
+    raw_target: "raw/code/professor/agrupamento-usando-k-means-exemplo-2-ipynb.ipynb"
+    processing_mode: high_fidelity
+    effective_profile: auto
+    include_in_bundle: true
+    professor_signal: ""
+  - id: artigo-usando-agrupamento
+    title: "Artigo usando agrupamento"
+    category: bibliografia
+    file_type: pdf
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\inteligencia-artificial\\Semana 8 - 20.04 a 24.04 - ML - Aprendizado Não Supervisionado\\Artigo usando agrupamento.pdf"
+    raw_target: "raw/pdfs/bibliografia/artigo-usando-agrupamento.pdf"
+    processing_mode: high_fidelity
+    effective_profile: diagram_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: survey-on-clustering
+    title: "Survey on Clustering"
+    category: material-de-aula
+    file_type: pdf
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\inteligencia-artificial\\Semana 8 - 20.04 a 24.04 - ML - Aprendizado Não Supervisionado\\Survey on Clustering.pdf"
+    raw_target: "raw/pdfs/material-de-aula/survey-on-clustering.pdf"
+    processing_mode: high_fidelity
+    effective_profile: diagram_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: prova-1-2024-02
+    title: "Prova 1 2024 02"
+    category: provas
+    file_type: pdf
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\inteligencia-artificial\\TDE Trabalho Discente Efetivo\\Prova 1 2024 02.pdf"
+    raw_target: "raw/pdfs/provas/prova-1-2024-02.pdf"
+    processing_mode: high_fidelity
+    effective_profile: diagram_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: lista-de-exercicios-i
+    title: "Lista de Exercicios I"
+    category: listas
+    file_type: pdf
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\inteligencia-artificial\\Semana 15 - 08.06 a 12.06 - Algoritmos de Busca\\Lista de Exercicios I.pdf"
+    raw_target: "raw/pdfs/listas/lista-de-exercicios-i.pdf"
+    processing_mode: high_fidelity
+    effective_profile: diagram_heavy
+    include_in_bundle: true
+    professor_signal: ""

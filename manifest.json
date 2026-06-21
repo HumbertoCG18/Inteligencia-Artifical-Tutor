@@ -404,7 +404,7 @@
       "approved_at": "2026-05-13T13:47:43",
       "review_status": "approved",
       "computed_unit_slug": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
-      "computed_block_id": "bloco-06",
+      "computed_block_id": "17ea65f3-5f84-47c7-9357-e090ee1f80ed",
       "computed_block_confidence": 0.85,
       "computed_block_band": "alta",
       "source_section": "Semana 8 - 20.04 a 24.04 - ML - Aprendizado Não Supervisionado",
@@ -413,7 +413,9 @@
       "posting_date_created": "2026-04-22",
       "computed_block_method": "card",
       "unit_block_conflict": {},
-      "computed_subunit_slug": "introducao-ao-aprendizado-de-maquina"
+      "computed_subunit_slug": "introducao-ao-aprendizado-de-maquina",
+      "temporal_block_id": "17ea65f3-5f84-47c7-9357-e090ee1f80ed",
+      "temporal_block_method": "anchor"
     },
     {
       "id": "aprendizadonaosupervisionado-agrupamento-parte2",
@@ -906,7 +908,7 @@
       "approved_at": "2026-05-13T13:47:55",
       "review_status": "approved",
       "computed_unit_slug": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
-      "computed_block_id": "bloco-07",
+      "computed_block_id": "696e2177-a69e-4dbb-9b79-73e03f3e8c85",
       "computed_block_confidence": 0.6755725582828385,
       "computed_block_band": "alta",
       "source_section": "Semana 9 - 27.04 a 01.05 - ML - Aprendizado Não Supervisionado",
@@ -915,7 +917,9 @@
       "posting_date_created": "2026-02-24",
       "computed_block_method": "card+scorer",
       "unit_block_conflict": {},
-      "computed_subunit_slug": "introducao-ao-aprendizado-de-maquina"
+      "computed_subunit_slug": "introducao-ao-aprendizado-de-maquina",
+      "temporal_block_id": "17ea65f3-5f84-47c7-9357-e090ee1f80ed",
+      "temporal_block_method": "anchor"
     },
     {
       "id": "aprendizadosupervisionado-arvoresdedecisao-duncan",
@@ -1520,14 +1524,14 @@
       "approved_at": "2026-05-13T13:48:04",
       "review_status": "approved",
       "computed_unit_slug": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
-      "computed_block_id": "bloco-04",
+      "computed_block_id": "af22fe17-ee73-407f-9af5-d730739d71e0",
       "computed_block_confidence": 0.1371694754860194,
       "computed_block_band": "baixa",
       "computed_block_method": "scorer_only",
       "unit_block_conflict": {
         "unit": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
         "block_unit": "unidade-de-aprendizagem-01-visao-geral-5",
-        "block_id": "bloco-04"
+        "block_id": "af22fe17-ee73-407f-9af5-d730739d71e0"
       },
       "computed_subunit_slug": "introducao-ao-aprendizado-de-maquina"
     },
@@ -2547,7 +2551,7 @@
       "unit_match_reasons": [
         "winner_score=35.01",
         "topic_score=3.42",
-        "herdada_do_bloco=bloco-05"
+        "herdada_do_bloco=2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f"
       ],
       "unit_match_confidence": 0.3682057276446523,
       "subunit_match_reasons": [
@@ -2560,7 +2564,7 @@
       "approved_at": "2026-05-13T13:50:13",
       "review_status": "approved",
       "computed_unit_slug": "unidade-de-aprendizagem-01-visao-geral-5",
-      "computed_block_id": "bloco-05",
+      "computed_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
       "computed_block_confidence": 0.85,
       "computed_block_band": "alta",
       "source_section": "Semana 5 -30.03 a 01.04 ML - Aprendizado Supervisionado",
@@ -2569,7 +2573,9 @@
       "posting_date_created": "2026-02-24",
       "computed_block_method": "card",
       "unit_block_conflict": {},
-      "computed_subunit_slug": "introducao-ao-aprendizado-de-maquina"
+      "computed_subunit_slug": "introducao-ao-aprendizado-de-maquina",
+      "temporal_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
+      "temporal_block_method": "anchor"
     },
     {
       "id": "redesperceptron2023-02",
@@ -3328,7 +3334,7 @@
       "unit_match_reasons": [
         "winner_score=25.08",
         "topic_score=1.30",
-        "herdada_do_bloco=bloco-05"
+        "herdada_do_bloco=2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f"
       ],
       "unit_match_confidence": 0.33110540392519683,
       "subunit_match_reasons": [
@@ -3341,7 +3347,7 @@
       "approved_at": "2026-05-13T13:50:46",
       "review_status": "approved",
       "computed_unit_slug": "unidade-de-aprendizagem-01-visao-geral-5",
-      "computed_block_id": "bloco-05",
+      "computed_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
       "computed_block_confidence": 0.85,
       "computed_block_band": "alta",
       "source_section": "Semana 4 - 23.03 a 27.03 - Machine Learning Aprendizado Supervisionado",
@@ -3350,7 +3356,9 @@
       "posting_date_created": "2026-02-24",
       "computed_block_method": "card",
       "unit_block_conflict": {},
-      "computed_subunit_slug": "introducao-ao-aprendizado-de-maquina"
+      "computed_subunit_slug": "introducao-ao-aprendizado-de-maquina",
+      "temporal_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
+      "temporal_block_method": "anchor"
     },
     {
       "id": "aula01-introducao-ia",
@@ -4124,7 +4132,7 @@
       "approved_at": "2026-05-13T13:48:24",
       "review_status": "approved",
       "computed_unit_slug": "",
-      "computed_block_id": "bloco-01",
+      "computed_block_id": "43b6f936-7dc9-49fa-8f19-a88b66dc9b98",
       "computed_block_confidence": 0.5357137833344114,
       "computed_block_band": "alta",
       "source_section": "Semana 1 - 02.03 a 06.03 - Plano de Ensino e Introdução a IA",
@@ -4133,7 +4141,9 @@
       "posting_date_created": "2026-02-24",
       "computed_block_method": "card+scorer",
       "unit_block_conflict": {},
-      "computed_subunit_slug": "introducao-a-agentes-em-ambientes-deterministicos"
+      "computed_subunit_slug": "introducao-a-agentes-em-ambientes-deterministicos",
+      "temporal_block_id": "43b6f936-7dc9-49fa-8f19-a88b66dc9b98",
+      "temporal_block_method": "anchor"
     },
     {
       "id": "p1-2024-02-ia",
@@ -4227,7 +4237,7 @@
       "review_status": "approved",
       "manual_subunit_slug": "conceituacao",
       "computed_unit_slug": "unidade-de-aprendizagem-01-visao-geral-5",
-      "computed_block_id": "bloco-08",
+      "computed_block_id": "5256ec08-7e5d-4c55-8a3c-e1a7f981ac71",
       "computed_block_confidence": 1.0,
       "computed_block_band": "alta",
       "source_section": "TDE Trabalho Discente Efetivo",
@@ -4379,7 +4389,7 @@
       "unit_match_reasons": [
         "winner_score=21.72",
         "topic_score=8.97",
-        "herdada_do_bloco=bloco-05"
+        "herdada_do_bloco=2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f"
       ],
       "unit_match_confidence": 0.502788311398617,
       "subunit_match_reasons": [
@@ -4392,7 +4402,7 @@
       "approved_at": "2026-05-13T13:48:51",
       "review_status": "approved",
       "computed_unit_slug": "unidade-de-aprendizagem-01-visao-geral-5",
-      "computed_block_id": "bloco-05",
+      "computed_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
       "computed_block_confidence": 0.85,
       "computed_block_band": "alta",
       "source_section": "Semana 6 - 06.04 a 10.04 - ML - Aprendizado Supervisionado",
@@ -4401,7 +4411,9 @@
       "posting_date_created": "2026-04-08",
       "computed_block_method": "card",
       "unit_block_conflict": {},
-      "computed_subunit_slug": "introducao-ao-aprendizado-de-maquina"
+      "computed_subunit_slug": "introducao-ao-aprendizado-de-maquina",
+      "temporal_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
+      "temporal_block_method": "anchor"
     },
     {
       "id": "inteligencia-artificial-aula-29-aprendizagem-de-maquina-medidas-de-avaliacao",
@@ -4544,7 +4556,7 @@
       "unit_match_reasons": [
         "winner_score=24.60",
         "topic_score=8.97",
-        "herdada_do_bloco=bloco-04"
+        "herdada_do_bloco=af22fe17-ee73-407f-9af5-d730739d71e0"
       ],
       "unit_match_confidence": 0.502788311398617,
       "subunit_match_reasons": [
@@ -4557,7 +4569,7 @@
       "approved_at": "2026-05-13T13:49:38",
       "review_status": "approved",
       "computed_unit_slug": "unidade-de-aprendizagem-01-visao-geral-5",
-      "computed_block_id": "bloco-04",
+      "computed_block_id": "af22fe17-ee73-407f-9af5-d730739d71e0",
       "computed_block_confidence": 0.12435905356150452,
       "computed_block_band": "baixa",
       "computed_block_method": "scorer_only",
@@ -4656,7 +4668,7 @@
       "approved_at": "2026-05-13T13:50:38",
       "review_status": "approved",
       "computed_unit_slug": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
-      "computed_block_id": "bloco-05",
+      "computed_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
       "computed_block_confidence": 0.85,
       "computed_block_band": "alta",
       "source_section": "Semana 5 -30.03 a 01.04 ML - Aprendizado Supervisionado",
@@ -4667,9 +4679,11 @@
       "unit_block_conflict": {
         "unit": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
         "block_unit": "unidade-de-aprendizagem-01-visao-geral-5",
-        "block_id": "bloco-05"
+        "block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f"
       },
-      "computed_subunit_slug": "introducao-ao-aprendizado-de-maquina"
+      "computed_subunit_slug": "introducao-ao-aprendizado-de-maquina",
+      "temporal_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
+      "temporal_block_method": "anchor"
     },
     {
       "id": "introducaoredesneurais-2023-02",
@@ -5012,7 +5026,7 @@
       "unit_match_reasons": [
         "winner_score=19.71",
         "topic_score=6.56",
-        "reconciliada_do_bloco=bloco-05"
+        "reconciliada_do_bloco=2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f"
       ],
       "unit_match_confidence": 0.782815356489945,
       "subunit_match_reasons": [
@@ -5025,7 +5039,7 @@
       "approved_at": "2026-05-13T13:50:04",
       "review_status": "approved",
       "computed_unit_slug": "unidade-de-aprendizagem-01-visao-geral-5",
-      "computed_block_id": "bloco-05",
+      "computed_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
       "computed_block_confidence": 0.85,
       "computed_block_band": "alta",
       "source_section": "Semana 4 - 23.03 a 27.03 - Machine Learning Aprendizado Supervisionado",
@@ -5034,7 +5048,9 @@
       "posting_date_created": "2026-02-24",
       "computed_block_method": "card",
       "unit_block_conflict": {},
-      "computed_subunit_slug": "introducao-a-agentes-em-ambientes-deterministicos"
+      "computed_subunit_slug": "introducao-a-agentes-em-ambientes-deterministicos",
+      "temporal_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
+      "temporal_block_method": "anchor"
     },
     {
       "id": "aprendizadosupervisionado-classificacao-knn",
@@ -5346,7 +5362,7 @@
       "approved_at": "2026-05-13T13:48:13",
       "review_status": "approved",
       "computed_unit_slug": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
-      "computed_block_id": "bloco-04",
+      "computed_block_id": "af22fe17-ee73-407f-9af5-d730739d71e0",
       "computed_block_confidence": 0.7943485978682597,
       "computed_block_band": "alta",
       "source_section": "Semana 3 - 16.03 a 20.03 - Machine Learning e Dados",
@@ -5357,9 +5373,11 @@
       "unit_block_conflict": {
         "unit": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
         "block_unit": "unidade-de-aprendizagem-01-visao-geral-5",
-        "block_id": "bloco-04"
+        "block_id": "af22fe17-ee73-407f-9af5-d730739d71e0"
       },
-      "computed_subunit_slug": "introducao-ao-aprendizado-de-maquina"
+      "computed_subunit_slug": "introducao-ao-aprendizado-de-maquina",
+      "temporal_block_id": "af22fe17-ee73-407f-9af5-d730739d71e0",
+      "temporal_block_method": "anchor"
     },
     {
       "id": "caracteristicasdosdados",
@@ -5733,7 +5751,7 @@
       "unit_match_reasons": [
         "winner_score=24.56",
         "topic_score=1.30",
-        "herdada_do_bloco=bloco-04"
+        "herdada_do_bloco=af22fe17-ee73-407f-9af5-d730739d71e0"
       ],
       "unit_match_confidence": 0.5251379783089684,
       "subunit_match_reasons": [
@@ -5746,7 +5764,7 @@
       "approved_at": "2026-05-13T13:48:43",
       "review_status": "approved",
       "computed_unit_slug": "unidade-de-aprendizagem-01-visao-geral-5",
-      "computed_block_id": "bloco-04",
+      "computed_block_id": "af22fe17-ee73-407f-9af5-d730739d71e0",
       "computed_block_confidence": 0.8,
       "computed_block_band": "alta",
       "source_section": "Semana 2 - 09.03 a 13.03 - Introdução a IA (continuação) e Introdução a ML",
@@ -6244,7 +6262,7 @@
       "unit_match_reasons": [
         "winner_score=83.70",
         "topic_score=16.26",
-        "herdada_do_bloco=bloco-04"
+        "herdada_do_bloco=af22fe17-ee73-407f-9af5-d730739d71e0"
       ],
       "unit_match_confidence": 0.5902815694867423,
       "subunit_match_reasons": [
@@ -6257,7 +6275,7 @@
       "approved_at": "2026-05-13T13:49:47",
       "review_status": "approved",
       "computed_unit_slug": "unidade-de-aprendizagem-01-visao-geral-5",
-      "computed_block_id": "bloco-04",
+      "computed_block_id": "af22fe17-ee73-407f-9af5-d730739d71e0",
       "computed_block_confidence": 0.8,
       "computed_block_band": "alta",
       "source_section": "Semana 2 - 09.03 a 13.03 - Introdução a IA (continuação) e Introdução a ML",
@@ -7007,7 +7025,7 @@
       },
       "computed_unit_slug": "",
       "computed_block_method": "card+scorer",
-      "computed_block_id": "bloco-01",
+      "computed_block_id": "43b6f936-7dc9-49fa-8f19-a88b66dc9b98",
       "computed_block_confidence": 0.4629348252108687,
       "computed_block_band": "media",
       "unit_match_reasons": [
@@ -7026,7 +7044,9 @@
       "curated_markdown": "content/curated/visao-geral-introducao-e-historico.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/visao-geral-introducao-e-historico/visao-geral-introducao-e-historico.md",
       "approved_at": "2026-06-19T08:11:06",
-      "review_status": "approved"
+      "review_status": "approved",
+      "temporal_block_id": "43b6f936-7dc9-49fa-8f19-a88b66dc9b98",
+      "temporal_block_method": "anchor"
     },
     {
       "id": "cap-sobre-algoritmos-geneticos-lacerda-e-outros",
@@ -7260,7 +7280,7 @@
       },
       "computed_unit_slug": "unidade-de-aprendizagem-02-solucao-de-problemas-10",
       "computed_block_method": "card",
-      "computed_block_id": "bloco-12",
+      "computed_block_id": "0b986383-663a-4a54-b000-4b97ebce59c4",
       "computed_block_confidence": 0.85,
       "computed_block_band": "alta",
       "unit_match_reasons": [
@@ -7636,7 +7656,7 @@
       },
       "computed_unit_slug": "unidade-de-aprendizagem-02-solucao-de-problemas-10",
       "computed_block_method": "card+scorer",
-      "computed_block_id": "bloco-15",
+      "computed_block_id": "1de905a2-724e-4841-8d7b-a62bf7a42212",
       "computed_block_confidence": 0.8,
       "computed_block_band": "alta",
       "unit_match_reasons": [
@@ -7654,7 +7674,9 @@
       "curated_markdown": "content/curated/minimax-teoria.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/minimax-teoria/minimax-teoria.md",
       "approved_at": "2026-06-19T08:12:40",
-      "review_status": "approved"
+      "review_status": "approved",
+      "temporal_block_id": "1de905a2-724e-4841-8d7b-a62bf7a42212",
+      "temporal_block_method": "anchor"
     },
     {
       "id": "rede-perceptron",
@@ -8459,13 +8481,13 @@
       },
       "computed_unit_slug": "unidade-de-aprendizagem-01-visao-geral-5",
       "computed_block_method": "card",
-      "computed_block_id": "bloco-05",
+      "computed_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
       "computed_block_confidence": 0.85,
       "computed_block_band": "alta",
       "unit_match_reasons": [
         "winner_score=25.08",
         "topic_score=1.30",
-        "herdada_do_bloco=bloco-05"
+        "herdada_do_bloco=2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f"
       ],
       "unit_match_confidence": 0.38096104048025436,
       "unit_block_conflict": {},
@@ -8478,7 +8500,9 @@
       "curated_markdown": "content/curated/rede-perceptron.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/rede-perceptron/rede-perceptron.md",
       "approved_at": "2026-06-19T08:11:32",
-      "review_status": "approved"
+      "review_status": "approved",
+      "temporal_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
+      "temporal_block_method": "anchor"
     },
     {
       "id": "mlp",
@@ -9467,14 +9491,14 @@
       },
       "computed_unit_slug": "unidade-de-aprendizagem-01-visao-geral-5",
       "computed_block_method": "card",
-      "computed_block_id": "bloco-05",
+      "computed_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
       "computed_block_confidence": 0.85,
       "computed_block_band": "alta",
       "unit_match_reasons": [
         "winner_score=27.89",
         "topic_score=1.56",
         "ambiguous",
-        "herdada_do_bloco=bloco-05"
+        "herdada_do_bloco=2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f"
       ],
       "unit_match_confidence": 0.04533002162077927,
       "unit_block_conflict": {},
@@ -9487,7 +9511,9 @@
       "curated_markdown": "content/curated/mlp.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/mlp/mlp.md",
       "approved_at": "2026-06-19T08:12:18",
-      "review_status": "approved"
+      "review_status": "approved",
+      "temporal_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
+      "temporal_block_method": "anchor"
     },
     {
       "id": "arvores-de-decisao",
@@ -10136,7 +10162,7 @@
       },
       "computed_unit_slug": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
       "computed_block_method": "card",
-      "computed_block_id": "bloco-05",
+      "computed_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
       "computed_block_confidence": 0.85,
       "computed_block_band": "alta",
       "unit_match_reasons": [
@@ -10147,7 +10173,7 @@
       "unit_block_conflict": {
         "unit": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
         "block_unit": "unidade-de-aprendizagem-01-visao-geral-5",
-        "block_id": "bloco-05"
+        "block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f"
       },
       "computed_subunit_slug": "introducao-ao-aprendizado-de-maquina",
       "subunit_match_reasons": [
@@ -10158,7 +10184,9 @@
       "curated_markdown": "content/curated/arvores-de-decisao.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/arvores-de-decisao/arvores-de-decisao.md",
       "approved_at": "2026-06-19T08:10:53",
-      "review_status": "approved"
+      "review_status": "approved",
+      "temporal_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
+      "temporal_block_method": "anchor"
     },
     {
       "id": "aula-sobre-agrupamento-parte-1-particional",
@@ -10450,7 +10478,7 @@
       },
       "computed_unit_slug": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
       "computed_block_method": "card",
-      "computed_block_id": "bloco-06",
+      "computed_block_id": "17ea65f3-5f84-47c7-9357-e090ee1f80ed",
       "computed_block_confidence": 0.85,
       "computed_block_band": "alta",
       "unit_match_reasons": [
@@ -10468,7 +10496,9 @@
       "curated_markdown": "content/curated/aula-sobre-agrupamento-parte-1-particional.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/aula-sobre-agrupamento-parte-1-particional/aula-sobre-agrupamento-parte-1-particional.md",
       "approved_at": "2026-06-19T08:14:44",
-      "review_status": "approved"
+      "review_status": "approved",
+      "temporal_block_id": "17ea65f3-5f84-47c7-9357-e090ee1f80ed",
+      "temporal_block_method": "anchor"
     },
     {
       "id": "aula-sobre-agrupamento-parte-2-hierarquico",
@@ -10970,7 +11000,7 @@
       },
       "computed_unit_slug": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
       "computed_block_method": "card+scorer",
-      "computed_block_id": "bloco-07",
+      "computed_block_id": "696e2177-a69e-4dbb-9b79-73e03f3e8c85",
       "computed_block_confidence": 0.675437121721587,
       "computed_block_band": "alta",
       "unit_match_reasons": [
@@ -10988,7 +11018,9 @@
       "curated_markdown": "content/curated/aula-sobre-agrupamento-parte-2-hierarquico.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/aula-sobre-agrupamento-parte-2-hierarquico/aula-sobre-agrupamento-parte-2-hierarquico.md",
       "approved_at": "2026-06-19T08:14:32",
-      "review_status": "approved"
+      "review_status": "approved",
+      "temporal_block_id": "17ea65f3-5f84-47c7-9357-e090ee1f80ed",
+      "temporal_block_method": "anchor"
     },
     {
       "id": "minimax",
@@ -11346,7 +11378,7 @@
       },
       "computed_unit_slug": "unidade-de-aprendizagem-02-solucao-de-problemas-10",
       "computed_block_method": "card+scorer",
-      "computed_block_id": "bloco-15",
+      "computed_block_id": "1de905a2-724e-4841-8d7b-a62bf7a42212",
       "computed_block_confidence": 0.8,
       "computed_block_band": "alta",
       "unit_match_reasons": [
@@ -11364,7 +11396,9 @@
       "curated_markdown": "content/curated/minimax.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/minimax/minimax.md",
       "approved_at": "2026-06-19T08:12:30",
-      "review_status": "approved"
+      "review_status": "approved",
+      "temporal_block_id": "1de905a2-724e-4841-8d7b-a62bf7a42212",
+      "temporal_block_method": "anchor"
     },
     {
       "id": "algoritmo-genetico",
@@ -11554,7 +11588,7 @@
       },
       "computed_unit_slug": "unidade-de-aprendizagem-02-solucao-de-problemas-10",
       "computed_block_method": "card",
-      "computed_block_id": "bloco-12",
+      "computed_block_id": "0b986383-663a-4a54-b000-4b97ebce59c4",
       "computed_block_confidence": 0.85,
       "computed_block_band": "alta",
       "unit_match_reasons": [
@@ -11783,7 +11817,7 @@
       },
       "computed_unit_slug": "unidade-de-aprendizagem-02-solucao-de-problemas-10",
       "computed_block_method": "card",
-      "computed_block_id": "bloco-12",
+      "computed_block_id": "0b986383-663a-4a54-b000-4b97ebce59c4",
       "computed_block_confidence": 0.85,
       "computed_block_band": "alta",
       "unit_match_reasons": [
@@ -11884,13 +11918,13 @@
       },
       "computed_unit_slug": "unidade-de-aprendizagem-02-solucao-de-problemas-10",
       "computed_block_method": "card",
-      "computed_block_id": "bloco-12",
+      "computed_block_id": "0b986383-663a-4a54-b000-4b97ebce59c4",
       "computed_block_confidence": 0.85,
       "computed_block_band": "alta",
       "unit_match_reasons": [
         "winner_score=8.48",
         "topic_score=0.11",
-        "herdada_do_bloco=bloco-12"
+        "herdada_do_bloco=0b986383-663a-4a54-b000-4b97ebce59c4"
       ],
       "unit_match_confidence": 0.47995283018867924,
       "unit_block_conflict": {},
@@ -11986,14 +12020,14 @@
       "file_count": 7,
       "computed_unit_slug": "unidade-de-aprendizagem-02-solucao-de-problemas-10",
       "computed_block_method": "llm_only",
-      "computed_block_id": "bloco-12",
+      "computed_block_id": "0b986383-663a-4a54-b000-4b97ebce59c4",
       "computed_block_confidence": 0.85,
       "computed_block_band": "alta",
       "unit_match_reasons": [
         "winner_score=0.01",
         "topic_score=0.00",
         "ambiguous",
-        "herdada_do_bloco=bloco-12"
+        "herdada_do_bloco=0b986383-663a-4a54-b000-4b97ebce59c4"
       ],
       "unit_match_confidence": 0.0,
       "unit_block_conflict": {},
@@ -12045,7 +12079,7 @@
       "curated_markdown": "code/professor/ag-feito-em-aula-pelo-luca.md",
       "computed_unit_slug": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
       "computed_block_method": "consensus",
-      "computed_block_id": "bloco-13",
+      "computed_block_id": "ab4631aa-d8e3-4c85-833c-369de28d773a",
       "computed_block_confidence": 0.85,
       "computed_block_band": "alta",
       "unit_match_reasons": [
@@ -12056,7 +12090,7 @@
       "unit_block_conflict": {
         "unit": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
         "block_unit": "unidade-de-aprendizagem-02-solucao-de-problemas-10",
-        "block_id": "bloco-13"
+        "block_id": "ab4631aa-d8e3-4c85-833c-369de28d773a"
       },
       "computed_subunit_slug": "introducao-ao-aprendizado-de-maquina",
       "subunit_match_reasons": [
@@ -12064,7 +12098,9 @@
       ],
       "subunit_match_confidence": 1.0,
       "computed_block_rationale": "O código demonstra um algoritmo de busca meta-heurística, o que se alinha com o tema de 'Algoritmos busca'.",
-      "computed_block_match_confidence": 0.75
+      "computed_block_match_confidence": 0.75,
+      "temporal_block_id": "ab4631aa-d8e3-4c85-833c-369de28d773a",
+      "temporal_block_method": "anchor"
     },
     {
       "id": "algoritmo-dijkstra",
@@ -12361,7 +12397,7 @@
       },
       "computed_unit_slug": "unidade-de-aprendizagem-02-solucao-de-problemas-10",
       "computed_block_method": "card",
-      "computed_block_id": "bloco-15",
+      "computed_block_id": "1de905a2-724e-4841-8d7b-a62bf7a42212",
       "computed_block_confidence": 0.85,
       "computed_block_band": "alta",
       "unit_match_reasons": [
@@ -12379,7 +12415,9 @@
       "curated_markdown": "content/curated/algoritmo-dijkstra.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/algoritmo-dijkstra/algoritmo-dijkstra.md",
       "approved_at": "2026-06-19T08:10:00",
-      "review_status": "approved"
+      "review_status": "approved",
+      "temporal_block_id": "1de905a2-724e-4841-8d7b-a62bf7a42212",
+      "temporal_block_method": "anchor"
     },
     {
       "id": "hill-climbing-e-simulated-annealing",
@@ -12505,7 +12543,7 @@
       },
       "computed_unit_slug": "unidade-de-aprendizagem-02-solucao-de-problemas-10",
       "computed_block_method": "card",
-      "computed_block_id": "bloco-15",
+      "computed_block_id": "1de905a2-724e-4841-8d7b-a62bf7a42212",
       "computed_block_confidence": 0.85,
       "computed_block_band": "alta",
       "unit_match_reasons": [
@@ -12523,7 +12561,9 @@
       "curated_markdown": "content/curated/hill-climbing-e-simulated-annealing.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/hill-climbing-e-simulated-annealing/hill-climbing-e-simulated-annealing.md",
       "approved_at": "2026-06-19T08:13:47",
-      "review_status": "approved"
+      "review_status": "approved",
+      "temporal_block_id": "1de905a2-724e-4841-8d7b-a62bf7a42212",
+      "temporal_block_method": "anchor"
     },
     {
       "id": "programas-exemplo-hc-sa-versao-para-nrainhas-e-distribuicao-de-cargas",
@@ -12582,14 +12622,14 @@
       "file_count": 3,
       "computed_unit_slug": "unidade-de-aprendizagem-02-solucao-de-problemas-10",
       "computed_block_method": "llm_only",
-      "computed_block_id": "bloco-15",
+      "computed_block_id": "1de905a2-724e-4841-8d7b-a62bf7a42212",
       "computed_block_confidence": 0.85,
       "computed_block_band": "alta",
       "unit_match_reasons": [
         "winner_score=0.01",
         "topic_score=0.00",
         "ambiguous",
-        "herdada_do_bloco=bloco-15"
+        "herdada_do_bloco=1de905a2-724e-4841-8d7b-a62bf7a42212"
       ],
       "unit_match_confidence": 0.0,
       "unit_block_conflict": {},
@@ -12599,7 +12639,9 @@
       ],
       "subunit_match_confidence": 0.0,
       "computed_block_rationale": "O material demonstra um algoritmo de busca meta-heurístico (Simulated Annealing) aplicado a um problema de otimização.",
-      "computed_block_match_confidence": 0.6
+      "computed_block_match_confidence": 0.6,
+      "temporal_block_id": "1de905a2-724e-4841-8d7b-a62bf7a42212",
+      "temporal_block_method": "anchor"
     },
     {
       "id": "implementacaominimax",
@@ -12664,14 +12706,14 @@
       "file_count": 4,
       "computed_unit_slug": "unidade-de-aprendizagem-02-solucao-de-problemas-10",
       "computed_block_method": "consensus",
-      "computed_block_id": "bloco-15",
+      "computed_block_id": "1de905a2-724e-4841-8d7b-a62bf7a42212",
       "computed_block_confidence": 0.0,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
         "winner_score=0.01",
         "topic_score=0.00",
         "ambiguous",
-        "herdada_do_bloco=bloco-15"
+        "herdada_do_bloco=1de905a2-724e-4841-8d7b-a62bf7a42212"
       ],
       "unit_match_confidence": 0.0,
       "unit_block_conflict": {},
@@ -12681,7 +12723,9 @@
       ],
       "subunit_match_confidence": 0.0,
       "computed_block_rationale": "O material implementa o algoritmo Minimax, um método fundamental de busca para jogos de inteligência artificial.",
-      "computed_block_match_confidence": 0.75
+      "computed_block_match_confidence": 0.75,
+      "temporal_block_id": "1de905a2-724e-4841-8d7b-a62bf7a42212",
+      "temporal_block_method": "anchor"
     },
     {
       "id": "lista1",
@@ -12779,7 +12823,7 @@
       },
       "computed_unit_slug": "unidade-de-aprendizagem-02-solucao-de-problemas-10",
       "computed_block_method": "card+scorer",
-      "computed_block_id": "bloco-15",
+      "computed_block_id": "1de905a2-724e-4841-8d7b-a62bf7a42212",
       "computed_block_confidence": 0.8,
       "computed_block_band": "alta",
       "unit_match_reasons": [
@@ -12797,7 +12841,9 @@
       "curated_markdown": "exercises/lists/lista1.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/lista1/lista1.md",
       "approved_at": "2026-06-19T08:12:50",
-      "review_status": "approved"
+      "review_status": "approved",
+      "temporal_block_id": "1de905a2-724e-4841-8d7b-a62bf7a42212",
+      "temporal_block_method": "anchor"
     },
     {
       "id": "caracteristicas-dos-dados",
@@ -13142,13 +13188,13 @@
       },
       "computed_unit_slug": "unidade-de-aprendizagem-01-visao-geral-5",
       "computed_block_method": "card+scorer",
-      "computed_block_id": "bloco-04",
+      "computed_block_id": "af22fe17-ee73-407f-9af5-d730739d71e0",
       "computed_block_confidence": 0.8,
       "computed_block_band": "alta",
       "unit_match_reasons": [
         "winner_score=20.55",
         "topic_score=1.30",
-        "herdada_do_bloco=bloco-04"
+        "herdada_do_bloco=af22fe17-ee73-407f-9af5-d730739d71e0"
       ],
       "unit_match_confidence": 0.4324628088447625,
       "unit_block_conflict": {},
@@ -13749,13 +13795,13 @@
       },
       "computed_unit_slug": "unidade-de-aprendizagem-01-visao-geral-5",
       "computed_block_method": "card+scorer",
-      "computed_block_id": "bloco-04",
+      "computed_block_id": "af22fe17-ee73-407f-9af5-d730739d71e0",
       "computed_block_confidence": 0.8,
       "computed_block_band": "alta",
       "unit_match_reasons": [
         "winner_score=78.20",
         "topic_score=16.26",
-        "herdada_do_bloco=bloco-04"
+        "herdada_do_bloco=af22fe17-ee73-407f-9af5-d730739d71e0"
       ],
       "unit_match_confidence": 0.5659748819353776,
       "unit_block_conflict": {},
@@ -14067,7 +14113,7 @@
       },
       "computed_unit_slug": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
       "computed_block_method": "card+scorer",
-      "computed_block_id": "bloco-04",
+      "computed_block_id": "af22fe17-ee73-407f-9af5-d730739d71e0",
       "computed_block_confidence": 0.7695689464701699,
       "computed_block_band": "alta",
       "unit_match_reasons": [
@@ -14078,7 +14124,7 @@
       "unit_block_conflict": {
         "unit": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
         "block_unit": "unidade-de-aprendizagem-01-visao-geral-5",
-        "block_id": "bloco-04"
+        "block_id": "af22fe17-ee73-407f-9af5-d730739d71e0"
       },
       "computed_subunit_slug": "introducao-ao-aprendizado-de-maquina",
       "subunit_match_reasons": [
@@ -14089,7 +14135,9 @@
       "curated_markdown": "content/curated/algoritmo-de-classificacao-k-nn.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/algoritmo-de-classificacao-k-nn/algoritmo-de-classificacao-k-nn.md",
       "approved_at": "2026-06-19T08:09:48",
-      "review_status": "approved"
+      "review_status": "approved",
+      "temporal_block_id": "af22fe17-ee73-407f-9af5-d730739d71e0",
+      "temporal_block_method": "anchor"
     },
     {
       "id": "analise-exploratoria-dos-dados-exemplo-2",
@@ -14131,7 +14179,7 @@
       "curated_markdown": "code/professor/analise-exploratoria-dos-dados-exemplo-2.md",
       "computed_unit_slug": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
       "computed_block_method": "consensus",
-      "computed_block_id": "bloco-04",
+      "computed_block_id": "af22fe17-ee73-407f-9af5-d730739d71e0",
       "computed_block_confidence": 0.8,
       "computed_block_band": "alta",
       "unit_match_reasons": [
@@ -14142,7 +14190,7 @@
       "unit_block_conflict": {
         "unit": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
         "block_unit": "unidade-de-aprendizagem-01-visao-geral-5",
-        "block_id": "bloco-04"
+        "block_id": "af22fe17-ee73-407f-9af5-d730739d71e0"
       },
       "computed_subunit_slug": "introducao-ao-aprendizado-de-maquina",
       "subunit_match_reasons": [
@@ -14150,7 +14198,9 @@
       ],
       "subunit_match_confidence": 0.8812698412698412,
       "computed_block_rationale": "O material foca diretamente na preparação e análise de dados usando ferramentas de profiling, alinhando-se perfeitamente com os tópicos de 'Tipos dados preparacao' do bloco-04.",
-      "computed_block_match_confidence": 0.75
+      "computed_block_match_confidence": 0.75,
+      "temporal_block_id": "af22fe17-ee73-407f-9af5-d730739d71e0",
+      "temporal_block_method": "anchor"
     },
     {
       "id": "artigo-usando-k-nn-em-texto",
@@ -14301,14 +14351,14 @@
       "file_count": 1,
       "computed_unit_slug": "unidade-de-aprendizagem-01-visao-geral-5",
       "computed_block_method": "llm_only",
-      "computed_block_id": "bloco-04",
+      "computed_block_id": "af22fe17-ee73-407f-9af5-d730739d71e0",
       "computed_block_confidence": 0.3612424342105263,
       "computed_block_band": "media",
       "unit_match_reasons": [
         "winner_score=0.01",
         "topic_score=0.00",
         "ambiguous",
-        "herdada_do_bloco=bloco-04"
+        "herdada_do_bloco=af22fe17-ee73-407f-9af5-d730739d71e0"
       ],
       "unit_match_confidence": 0.0,
       "unit_block_conflict": {},
@@ -14318,7 +14368,9 @@
       ],
       "subunit_match_confidence": 0.0,
       "computed_block_rationale": "O algoritmo k-NN é um método fundamental de aprendizado de máquina supervisionado, alinhando-se diretamente com o tópico 'Abordagem supervisionada' do bloco.",
-      "computed_block_match_confidence": 0.6
+      "computed_block_match_confidence": 0.6,
+      "temporal_block_id": "af22fe17-ee73-407f-9af5-d730739d71e0",
+      "temporal_block_method": "anchor"
     },
     {
       "id": "introducao-a-redes-neurais",
@@ -14668,7 +14720,7 @@
       },
       "computed_unit_slug": "unidade-de-aprendizagem-02-solucao-de-problemas-10",
       "computed_block_method": "card",
-      "computed_block_id": "bloco-05",
+      "computed_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
       "computed_block_confidence": 0.85,
       "computed_block_band": "alta",
       "unit_match_reasons": [
@@ -14679,7 +14731,7 @@
       "unit_block_conflict": {
         "unit": "unidade-de-aprendizagem-02-solucao-de-problemas-10",
         "block_unit": "unidade-de-aprendizagem-01-visao-geral-5",
-        "block_id": "bloco-05"
+        "block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f"
       },
       "computed_subunit_slug": "introducao-a-agentes-em-ambientes-deterministicos",
       "subunit_match_reasons": [
@@ -14690,7 +14742,9 @@
       "curated_markdown": "content/curated/introducao-a-redes-neurais.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/introducao-a-redes-neurais/introducao-a-redes-neurais.md",
       "approved_at": "2026-06-19T08:13:10",
-      "review_status": "approved"
+      "review_status": "approved",
+      "temporal_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
+      "temporal_block_method": "anchor"
     },
     {
       "id": "rede-perceptron-e-equacao-de-reta",
@@ -14789,7 +14843,7 @@
       },
       "computed_unit_slug": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
       "computed_block_method": "card",
-      "computed_block_id": "bloco-05",
+      "computed_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
       "computed_block_confidence": 0.85,
       "computed_block_band": "alta",
       "unit_match_reasons": [
@@ -14800,7 +14854,7 @@
       "unit_block_conflict": {
         "unit": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
         "block_unit": "unidade-de-aprendizagem-01-visao-geral-5",
-        "block_id": "bloco-05"
+        "block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f"
       },
       "computed_subunit_slug": "introducao-ao-aprendizado-de-maquina",
       "subunit_match_reasons": [
@@ -14811,7 +14865,9 @@
       "curated_markdown": "content/curated/rede-perceptron-e-equacao-de-reta.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/rede-perceptron-e-equacao-de-reta/rede-perceptron-e-equacao-de-reta.md",
       "approved_at": "2026-06-19T08:11:42",
-      "review_status": "approved"
+      "review_status": "approved",
+      "temporal_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
+      "temporal_block_method": "anchor"
     },
     {
       "id": "como-analisar-resultados-acc-pr-re-e-f1",
@@ -14961,13 +15017,13 @@
       },
       "computed_unit_slug": "unidade-de-aprendizagem-01-visao-geral-5",
       "computed_block_method": "card",
-      "computed_block_id": "bloco-05",
+      "computed_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
       "computed_block_confidence": 0.85,
       "computed_block_band": "alta",
       "unit_match_reasons": [
         "winner_score=21.72",
         "topic_score=8.97",
-        "herdada_do_bloco=bloco-05"
+        "herdada_do_bloco=2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f"
       ],
       "unit_match_confidence": 0.502788311398617,
       "unit_block_conflict": {},
@@ -14980,7 +15036,9 @@
       "curated_markdown": "content/curated/como-analisar-resultados-acc-pr-re-e-f1.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/como-analisar-resultados-acc-pr-re-e-f1/como-analisar-resultados-acc-pr-re-e-f1.md",
       "approved_at": "2026-06-19T08:14:00",
-      "review_status": "approved"
+      "review_status": "approved",
+      "temporal_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
+      "temporal_block_method": "anchor"
     },
     {
       "id": "agrupamento-usando-k-means-exemplo-1-ipynb",
@@ -15022,7 +15080,7 @@
       "curated_markdown": "code/professor/agrupamento-usando-k-means-exemplo-1-ipynb.md",
       "computed_unit_slug": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
       "computed_block_method": "llm_only",
-      "computed_block_id": "bloco-06",
+      "computed_block_id": "17ea65f3-5f84-47c7-9357-e090ee1f80ed",
       "computed_block_confidence": 0.85,
       "computed_block_band": "alta",
       "unit_match_reasons": [
@@ -15037,7 +15095,9 @@
       ],
       "subunit_match_confidence": 0.8306830907054872,
       "computed_block_rationale": "O título do bloco faz menção a 'means' e 'hierárquico análise', que se alinham com algoritmos de agrupamento, apesar do tópico principal indicado ser 'abordagem supervisionada'.",
-      "computed_block_match_confidence": 0.6
+      "computed_block_match_confidence": 0.6,
+      "temporal_block_id": "17ea65f3-5f84-47c7-9357-e090ee1f80ed",
+      "temporal_block_method": "anchor"
     },
     {
       "id": "agrupamento-usando-k-means-exemplo-2-ipynb",
@@ -15081,7 +15141,7 @@
       "curated_markdown": "code/professor/agrupamento-usando-k-means-exemplo-2-ipynb.md",
       "computed_unit_slug": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
       "computed_block_method": "llm_only",
-      "computed_block_id": "bloco-06",
+      "computed_block_id": "17ea65f3-5f84-47c7-9357-e090ee1f80ed",
       "computed_block_confidence": 0.85,
       "computed_block_band": "alta",
       "unit_match_reasons": [
@@ -15096,7 +15156,9 @@
       ],
       "subunit_match_confidence": 0.9932480818414323,
       "computed_block_rationale": "O material aborda o algoritmo k-Means para agrupamento, que é explicitamente mencionado no tópico 'means' do bloco-06, dentro do contexto de abordagens de aprendizado.",
-      "computed_block_match_confidence": 0.6
+      "computed_block_match_confidence": 0.6,
+      "temporal_block_id": "17ea65f3-5f84-47c7-9357-e090ee1f80ed",
+      "temporal_block_method": "anchor"
     },
     {
       "id": "artigo-usando-agrupamento",
@@ -15282,7 +15344,7 @@
       },
       "computed_unit_slug": "",
       "computed_block_method": "card",
-      "computed_block_id": "bloco-06",
+      "computed_block_id": "17ea65f3-5f84-47c7-9357-e090ee1f80ed",
       "computed_block_confidence": 0.85,
       "computed_block_band": "alta",
       "unit_match_reasons": [
@@ -15300,7 +15362,9 @@
       "curated_markdown": "content/curated/survey-on-clustering.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/survey-on-clustering/survey-on-clustering.md",
       "approved_at": "2026-06-19T08:11:19",
-      "review_status": "approved"
+      "review_status": "approved",
+      "temporal_block_id": "17ea65f3-5f84-47c7-9357-e090ee1f80ed",
+      "temporal_block_method": "anchor"
     },
     {
       "id": "prova-1-2024-02",
@@ -15382,7 +15446,7 @@
       },
       "computed_unit_slug": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
       "computed_block_method": "scorer_only",
-      "computed_block_id": "bloco-04",
+      "computed_block_id": "af22fe17-ee73-407f-9af5-d730739d71e0",
       "computed_block_confidence": 0.18081995971672168,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
@@ -15393,7 +15457,7 @@
       "unit_block_conflict": {
         "unit": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
         "block_unit": "unidade-de-aprendizagem-01-visao-geral-5",
-        "block_id": "bloco-04"
+        "block_id": "af22fe17-ee73-407f-9af5-d730739d71e0"
       },
       "computed_subunit_slug": "introducao-ao-aprendizado-de-maquina",
       "subunit_match_reasons": [
@@ -15502,7 +15566,7 @@
       },
       "computed_unit_slug": "unidade-de-aprendizagem-02-solucao-de-problemas-10",
       "computed_block_method": "card+scorer",
-      "computed_block_id": "bloco-15",
+      "computed_block_id": "1de905a2-724e-4841-8d7b-a62bf7a42212",
       "computed_block_confidence": 0.8,
       "computed_block_band": "alta",
       "unit_match_reasons": [
@@ -15520,7 +15584,9 @@
       "curated_markdown": "exercises/lists/lista-de-exercicios-i.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/lista-de-exercicios-i/lista-de-exercicios-i.md",
       "approved_at": "2026-06-19T08:13:01",
-      "review_status": "approved"
+      "review_status": "approved",
+      "temporal_block_id": "1de905a2-724e-4841-8d7b-a62bf7a42212",
+      "temporal_block_method": "anchor"
     }
   ],
   "logs": [
@@ -17222,7 +17288,7 @@
       "category": "material-de-aula"
     }
   ],
-  "updated_at": "2026-06-19T08:17:22",
+  "updated_at": "2026-06-21T14:38:23",
   "failed_entries": [
     {
       "id": "k-nn-exemplocardio",

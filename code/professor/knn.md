@@ -1,15 +1,15 @@
 ---
 entry_id: "knn"
-title: "ExemploKnn\\arquivosIris\\Knn.java"
+title: "arquivosIris\\Knn.java"
 language: "java"
 category: "codigo-professor"
 unit: ""
 source: "raw/code/professor/knn.java"
 ---
-# ExemploKnn\arquivosIris\Knn.java
+# arquivosIris\Knn.java
 
 > **Linguagem:** java
-> Extraído de: Exemploknn
+> Extraído de: Exemplo de programa com k-NN (em java)
 
 ```java
 /**

@@ -41,9 +41,8 @@
 
 | Unidade | Período | Slug |
 |---|---|---|
-| Unidade de Aprendizagem 1 — Visão Geral (5%) | 04/03/2026 | `unidade-de-aprendizagem-01-visao-geral-5` |
-| Unidade de Aprendizagem 2 — Solução de Problemas (10%) | 18/03/2026 a 08/06/2026 | `unidade-de-aprendizagem-02-solucao-de-problemas-10` |
-| Unidade de Aprendizagem 3 — Raciocínio, Planejamento e Representação de Conhecimento | 20/04/2026 a 15/06/2026 | `unidade-de-aprendizagem-03-raciocinio-planejamento-e-representacao-de-conhecimento` |
-| Unidade de Aprendizagem 5 — Aprendizado de máquina | 11/03/2026 a 16/03/2026 | `unidade-de-aprendizagem-05-aprendizado-de-maquina` |
+| Unidade de Aprendizagem 1 — Visão Geral (5%) | 5 blocos · 04/03/2026 a 11/05/2026 | `unidade-de-aprendizagem-01-visao-geral-5` |
+| Unidade de Aprendizagem 2 — Solução de Problemas (10%) | 3 blocos · 18/05/2026 a 08/06/2026 | `unidade-de-aprendizagem-02-solucao-de-problemas-10` |
+| Unidade de Aprendizagem 3 — Raciocínio, Planejamento e Representação de Conhecimento | 2 blocos · 29/06/2026 a 15/07/2026 | `unidade-de-aprendizagem-03-raciocinio-planejamento-e-representacao-de-conhecimento` |
 
 > Unidades sem período explícito foram omitidas para manter o mapa enxuto.

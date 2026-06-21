@@ -1,0 +1,20 @@
+{
+  "entries": {
+    "artigo-usando-k-nn-em-texto": {
+      "ref_summary": "",
+      "ref_concepts": [],
+      "computed_ref_unit": "",
+      "computed_ref_topics": [],
+      "content_hash": "0c8a228ead22a654ed3bfa4cca29ba25b6368ba6",
+      "matcher_version": 1
+    },
+    "artigo-usando-agrupamento": {
+      "ref_summary": "",
+      "ref_concepts": [],
+      "computed_ref_unit": "",
+      "computed_ref_topics": [],
+      "content_hash": "3e963e3b4902151917e089f89b2785761e4b2421",
+      "matcher_version": 1
+    }
+  }
+}

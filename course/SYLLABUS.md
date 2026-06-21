@@ -50,3 +50,87 @@ schedule: Seg/Qua 21:00-22:30
 | 37 | QUA | 08/07/2026 | NP 21:00 - 22:30 | Atendimento. Divulgação dos resultados da G1 até 04/12 | Aula | Kit Cabo 1 |
 |  | SEG | 13/07/2026 | NP 21:00 - 22:30 | Prova G2 | Prova de G2 |  |
 |  | QUA | 15/07/2026 | NP 21:00 - 22:30 |  | Aula |  |
+
+## Cronograma de Aulas
+
+- (02/03/2026) SEG — Plano de ensino (conteúdo programático, cronograma, forma e datas de avaliação, bibliografia). Histórico. [Aula] @Kit Cabo 1
+- (04/03/2026) QUA — Visão Geral da IA [Aula] @Kit Cabo 1
+- (09/03/2026) SEG — ML - Introdução à ML [Aula] @Kit Cabo 1
+- (11/03/2026) QUA — ML - Tipos de Dados e Preparação de Dados [Aula] @Laboratório 309/312
+- (16/03/2026) SEG — ML - Preparação de Dados [Aula] @Laboratório 309/312
+- (18/03/2026) QUA — ML - Abordagem Supervisionada: k-NN [Aula] @Kit Cabo 1
+- (23/03/2026) SEG — ML - Abordagem Supervisionada: k-NN [Aula] @Auditório - 517
+- (25/03/2026) QUA — ML - Abordagem Supervisionada: Rede Neural (Introdução) [Aula] @Auditório - 517
+- (30/03/2026) SEG — ML - Abordagem Supervisionada: Rede Neural. Perceptron [Aula] @Laboratório 309/312
+- (01/04/2026) QUA — ML - Abordagem Supervisionada. MLP [Aula] @Auditório - 517
+- (06/04/2026) SEG — ML - Abordagem Supervisionada: Rede Neural MLP. Exercícios. [Aula] @Laboratório 309/312
+- (08/04/2026) QUA — ML - Abordagem Supervisionada: Análise dos Resultados [Aula] @Laboratório 309/312
+- (13/04/2026) SEG — Exercicios com regressao [Aula] @Laboratório 309/312
+- (15/04/2026) QUA — ML - Abordagem Supervisionada: Árvores de Decisão [Aula] @Laboratório 309/312
+- (20/04/2026) SEG — Suspensão de aulas [Aula]
+- (22/04/2026) QUA — ML - Abordagem Não Supervisionada: k-Means. Exercicios [Aula] @Laboratório 309/312
+- (27/04/2026) SEG — ML - Abordagem Não Supervisionada: Hierarquico, exercicios. Analise de Resultados. [Aula] @Laboratório 309/312
+- (29/04/2026) QUA — Dúvidas para T1 [Aula] @Laboratório 309/312
+- (04/05/2026) SEG — Apresentação do T1 [Trabalho] @Laboratório 309/312 {kind=deliverable}
+- (06/05/2026) QUA — Apresentação do T1 [Trabalho] @Auditório - 517 LaD - 418 {kind=deliverable}
+- (11/05/2026) SEG — Exercicios gerais [Aula] @Kit Cabo 1
+- (13/05/2026) QUA — Prova 1 [Prova] {kind=assessment}
+- (18/05/2026) SEG — Correção P1 e Algoritmos de Busca [Aula] @Kit Cabo 1
+- (20/05/2026) QUA — Algoritmos de busca [Aula] @Laboratório 309/312
+- (25/05/2026) SEG — Algoritmos de busca [Aula] @Laboratório 309/312
+- (27/05/2026) QUA — ES Day [Evento Acadêmico] {kind=event}
+- (01/06/2026) SEG — Algoritmos de busca [Aula] @Laboratório 309/312
+- (03/06/2026) QUA — Algoritmos de busca [Aula] @Laboratório 309/312
+- (08/06/2026) SEG — Algoritmos de busca [Aula] @Laboratório 309/312
+- (10/06/2026) QUA — Correção da P1. Dúvidas T2. [Aula] @Laboratório 409/412
+- (15/06/2026) SEG — Algoritmos de busca. Exercícios [Aula] @Laboratório 409/412
+- (17/06/2026) QUA — Introdução a agentes e planejamento [Aula] @Laboratório 409/412
+- (22/06/2026) SEG — Introdução a agentes e planejamento. Exercicios [Aula] @Laboratório 409/412
+- (24/06/2026) QUA — Suspensao de atividades [Feriado] {kind=holiday}
+- (29/06/2026) SEG — Apresentação T2 [Trabalho] @Laboratório 409/412 {kind=deliverable}
+- (01/07/2026) QUA — Prova P2 [Prova] {kind=assessment}
+- (06/07/2026) SEG — Prova PS [Prova de Substituição] {kind=assessment}
+- (08/07/2026) QUA — Atendimento. Divulgação dos resultados da G1 até 04/12 [Aula] @Kit Cabo 1
+- (13/07/2026) SEG — Prova G2 [Prova de G2] {kind=assessment}
+
+## Cronograma de Aulas
+
+- (02/03/2026) SEG — Plano de ensino (conteúdo programático, cronograma, forma e datas de avaliação, bibliografia). Histórico. [Aula] @Kit Cabo 1
+- (04/03/2026) QUA — Visão Geral da IA [Aula] @Kit Cabo 1
+- (09/03/2026) SEG — ML - Introdução à ML [Aula] @Kit Cabo 1
+- (11/03/2026) QUA — ML - Tipos de Dados e Preparação de Dados [Aula] @Laboratório 309/312
+- (16/03/2026) SEG — ML - Preparação de Dados [Aula] @Laboratório 309/312
+- (18/03/2026) QUA — ML - Abordagem Supervisionada: k-NN [Aula] @Kit Cabo 1
+- (23/03/2026) SEG — ML - Abordagem Supervisionada: k-NN [Aula] @Auditório - 517
+- (25/03/2026) QUA — ML - Abordagem Supervisionada: Rede Neural (Introdução) [Aula] @Auditório - 517
+- (30/03/2026) SEG — ML - Abordagem Supervisionada: Rede Neural. Perceptron [Aula] @Laboratório 309/312
+- (01/04/2026) QUA — ML - Abordagem Supervisionada. MLP [Aula] @Auditório - 517
+- (06/04/2026) SEG — ML - Abordagem Supervisionada: Rede Neural MLP. Exercícios. [Aula] @Laboratório 309/312
+- (08/04/2026) QUA — ML - Abordagem Supervisionada: Análise dos Resultados [Aula] @Laboratório 309/312
+- (13/04/2026) SEG — Exercicios com regressao [Aula] @Laboratório 309/312
+- (15/04/2026) QUA — ML - Abordagem Supervisionada: Árvores de Decisão [Aula] @Laboratório 309/312
+- (20/04/2026) SEG — Suspensão de aulas [Aula]
+- (22/04/2026) QUA — ML - Abordagem Não Supervisionada: k-Means. Exercicios [Aula] @Laboratório 309/312
+- (27/04/2026) SEG — ML - Abordagem Não Supervisionada: Hierarquico, exercicios. Analise de Resultados. [Aula] @Laboratório 309/312
+- (29/04/2026) QUA — Dúvidas para T1 [Aula] @Laboratório 309/312
+- (04/05/2026) SEG — Apresentação do T1 [Trabalho] @Laboratório 309/312 {kind=deliverable}
+- (06/05/2026) QUA — Apresentação do T1 [Trabalho] @Auditório - 517 LaD - 418 {kind=deliverable}
+- (11/05/2026) SEG — Exercicios gerais [Aula] @Kit Cabo 1
+- (13/05/2026) QUA — Prova 1 [Prova] {kind=assessment}
+- (18/05/2026) SEG — Correção P1 e Algoritmos de Busca [Aula] @Kit Cabo 1
+- (20/05/2026) QUA — Algoritmos de busca [Aula] @Laboratório 309/312
+- (25/05/2026) SEG — Algoritmos de busca [Aula] @Laboratório 309/312
+- (27/05/2026) QUA — ES Day [Evento Acadêmico] {kind=event}
+- (01/06/2026) SEG — Algoritmos de busca [Aula] @Laboratório 309/312
+- (03/06/2026) QUA — Algoritmos de busca [Aula] @Laboratório 309/312
+- (08/06/2026) SEG — Algoritmos de busca [Aula] @Laboratório 309/312
+- (10/06/2026) QUA — Correção da P1. Dúvidas T2. [Aula] @Laboratório 409/412
+- (15/06/2026) SEG — Algoritmos de busca. Exercícios [Aula] @Laboratório 409/412
+- (17/06/2026) QUA — Introdução a agentes e planejamento [Aula] @Laboratório 409/412
+- (22/06/2026) SEG — Introdução a agentes e planejamento. Exercicios [Aula] @Laboratório 409/412
+- (24/06/2026) QUA — Suspensao de atividades [Feriado] {kind=holiday}
+- (29/06/2026) SEG — Apresentação T2 [Trabalho] @Laboratório 409/412 {kind=deliverable}
+- (01/07/2026) QUA — Prova P2 [Prova] {kind=assessment}
+- (06/07/2026) SEG — Prova PS [Prova de Substituição] {kind=assessment}
+- (08/07/2026) QUA — Atendimento. Divulgação dos resultados da G1 até 04/12 [Aula] @Kit Cabo 1
+- (13/07/2026) SEG — Prova G2 [Prova de G2] {kind=assessment}
