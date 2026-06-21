@@ -1,0 +1,2761 @@
+{
+  "version": 3,
+  "blocks": [
+    {
+      "id": "bloco-01",
+      "period_start": "2026-03-02",
+      "period_end": "2026-03-02",
+      "period_label": "1 dia · 02/03/2026",
+      "unit_slug": "",
+      "unit_confidence": 0.0,
+      "primary_topic_slug": "",
+      "primary_topic_label": "Plano ensino programatico cronograma forma datas avaliacao b…",
+      "primary_topic_confidence": 0.0,
+      "topic_ambiguous": true,
+      "topic_candidates": [],
+      "topic_text": "plano ensino programatico cronograma forma datas avaliacao bibliografia historico",
+      "topics": [
+        "plano ensino programatico cronograma forma datas avaliacao bibliografia historico"
+      ],
+      "aliases": [
+        "plano",
+        "ensino",
+        "programatico",
+        "cronograma",
+        "forma",
+        "datas"
+      ],
+      "card_evidence": [],
+      "sessions": [
+        {
+          "id": "bloco-01-sessao-2026-03-02",
+          "date": "2026-03-02",
+          "kind": "class",
+          "label": "plano de ensino conteudo programatico cronograma forma e datas de avaliacao bibliografia historico aula",
+          "signals": [
+            "2026-03-02",
+            "02 03 2026",
+            "02",
+            "03",
+            "2026",
+            "02 03",
+            "03 2026",
+            "plano de ensino conteudo programatico cronograma forma e datas de avaliacao bibliografia historico aula",
+            "plano",
+            "de",
+            "ensino",
+            "conteudo",
+            "programatico",
+            "cronograma",
+            "forma",
+            "e",
+            "datas",
+            "avaliacao",
+            "bibliografia",
+            "historico",
+            "aula",
+            "plano de",
+            "de ensino",
+            "ensino conteudo",
+            "conteudo programatico",
+            "programatico cronograma",
+            "cronograma forma",
+            "forma e",
+            "e datas",
+            "datas de",
+            "de avaliacao",
+            "avaliacao bibliografia",
+            "bibliografia historico",
+            "historico aula",
+            "plano de ensino",
+            "de ensino conteudo",
+            "ensino conteudo programatico",
+            "conteudo programatico cronograma",
+            "programatico cronograma forma",
+            "cronograma forma e",
+            "forma e datas",
+            "e datas de",
+            "datas de avaliacao",
+            "de avaliacao bibliografia",
+            "avaliacao bibliografia historico",
+            "bibliografia historico aula",
+            "plano de ensino conteudo",
+            "de ensino conteudo programatico",
+            "ensino conteudo programatico cronograma",
+            "conteudo programatico cronograma forma",
+            "programatico cronograma forma e",
+            "cronograma forma e datas",
+            "forma e datas de",
+            "e datas de avaliacao",
+            "datas de avaliacao bibliografia",
+            "de avaliacao bibliografia historico",
+            "avaliacao bibliografia historico aula"
+          ]
+        }
+      ],
+      "source_rows": [
+        0
+      ],
+      "topic_source": "topic_text_fallback",
+      "auto_unit_slug": "unidade-de-aprendizagem-01-visao-geral-5",
+      "kind": "overview"
+    },
+    {
+      "id": "bloco-02",
+      "period_start": "2026-03-04",
+      "period_end": "2026-03-04",
+      "period_label": "1 dia · 04/03/2026",
+      "unit_slug": "unidade-de-aprendizagem-01-visao-geral-5",
+      "unit_confidence": 0.4,
+      "primary_topic_slug": "conceituacao",
+      "primary_topic_label": "Conceituação",
+      "primary_topic_confidence": 1.0,
+      "topic_ambiguous": false,
+      "topic_candidates": [
+        {
+          "topic_slug": "conceituacao",
+          "topic_label": "Conceituação",
+          "unit_slug": "unidade-de-aprendizagem-01-visao-geral-5",
+          "kind": "topic",
+          "aliases": [
+            "Conceituação",
+            "visão geral"
+          ],
+          "score": 6.016,
+          "confidence": 1.0
+        },
+        {
+          "topic_slug": "algoritmos-de-busca-com-informacao",
+          "topic_label": "Algoritmos de Busca com Informação",
+          "unit_slug": "unidade-de-aprendizagem-02-solucao-de-problemas-10",
+          "kind": "topic",
+          "aliases": [
+            "Agentes e Algoritmos de Busca",
+            "Algoritmos de Busca com Informação",
+            "Aula 05 - Agentes e Algoritmos de Busca<sup>1</sup>",
+            "Aula 06- Solução de Problemas (Busca com Informação - Algoritmos por Refinamentos Sucessivos)<sup>1</sup>",
+            "search algorithms"
+          ],
+          "score": 0.122,
+          "confidence": 0.02
+        },
+        {
+          "topic_slug": "busca-adversaria",
+          "topic_label": "Busca Adversária",
+          "unit_slug": "unidade-de-aprendizagem-02-solucao-de-problemas-10",
+          "kind": "topic",
+          "aliases": [
+            "Aula 07- Solução de Problemas (Busca Adversária)<sup>1</sup>",
+            "Busca Adversária",
+            "jogos adversariais"
+          ],
+          "score": 0.122,
+          "confidence": 0.02
+        },
+        {
+          "topic_slug": "introducao-ao-aprendizado-de-maquina",
+          "topic_label": "Introdução ao aprendizado de máquina",
+          "unit_slug": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
+          "kind": "topic",
+          "aliases": [
+            "**Aula 02 - Aprendizado não Supervisionado: agrupamento com k-Means** - Exemplo 2",
+            "Aprendizado Não Supervisionado",
+            "Aprendizado Supervisionado",
+            "Aprendizado Supervisionado Parte 2",
+            "Aprendizado SupervisionadoParte 1",
+            "Aprendizado não supervisionado: parte 1",
+            "Aprendizado não supervisionado: parte 2",
+            "Aula 29 - Aprendizagem de Máquina: Medidas de Avaliação <sup>1</sup>",
+            "Introdução ao aprendizado de máquina",
+            "machine learning"
+          ],
+          "score": 0.122,
+          "confidence": 0.02
+        }
+      ],
+      "topic_text": "visao geral",
+      "topics": [
+        "visao geral"
+      ],
+      "aliases": [
+        "visao",
+        "geral"
+      ],
+      "card_evidence": [],
+      "sessions": [
+        {
+          "id": "bloco-02-sessao-2026-03-04",
+          "date": "2026-03-04",
+          "kind": "class",
+          "label": "visao geral da ia aula",
+          "signals": [
+            "2026-03-04",
+            "04 03 2026",
+            "04",
+            "03",
+            "2026",
+            "04 03",
+            "03 2026",
+            "visao geral da ia aula",
+            "visao",
+            "geral",
+            "da",
+            "ia",
+            "aula",
+            "visao geral",
+            "geral da",
+            "da ia",
+            "ia aula",
+            "visao geral da",
+            "geral da ia",
+            "da ia aula",
+            "visao geral da ia",
+            "geral da ia aula"
+          ]
+        }
+      ],
+      "source_rows": [
+        1
+      ],
+      "topic_source": "taxonomy",
+      "auto_unit_slug": "unidade-de-aprendizagem-01-visao-geral-5",
+      "kind": "class"
+    },
+    {
+      "id": "bloco-03",
+      "period_start": "2026-03-09",
+      "period_end": "2026-03-09",
+      "period_label": "1 dia · 09/03/2026",
+      "unit_slug": "unidade-de-aprendizagem-01-visao-geral-5",
+      "unit_confidence": 0.4,
+      "primary_topic_slug": "introducao-a-agentes-em-ambientes-deterministicos",
+      "primary_topic_label": "Introdução a agentes em ambientes determinísticos",
+      "primary_topic_confidence": 1.0,
+      "topic_ambiguous": false,
+      "topic_candidates": [
+        {
+          "topic_slug": "introducao-a-agentes-em-ambientes-deterministicos",
+          "topic_label": "Introdução a agentes em ambientes determinísticos",
+          "unit_slug": "unidade-de-aprendizagem-02-solucao-de-problemas-10",
+          "kind": "topic",
+          "aliases": [
+            "INTRODUÇÃO AOS ALGORITMOS",
+            "Introdução",
+            "Introdução a agentes em ambientes determinísticos",
+            "agentes racionais"
+          ],
+          "score": 5.006,
+          "confidence": 1.0
+        },
+        {
+          "topic_slug": "introducao-ao-aprendizado-de-maquina",
+          "topic_label": "Introdução ao aprendizado de máquina",
+          "unit_slug": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
+          "kind": "topic",
+          "aliases": [
+            "**Aula 02 - Aprendizado não Supervisionado: agrupamento com k-Means** - Exemplo 2",
+            "Aprendizado Não Supervisionado",
+            "Aprendizado Supervisionado",
+            "Aprendizado Supervisionado Parte 2",
+            "Aprendizado SupervisionadoParte 1",
+            "Aprendizado não supervisionado: parte 1",
+            "Aprendizado não supervisionado: parte 2",
+            "Aula 29 - Aprendizagem de Máquina: Medidas de Avaliação <sup>1</sup>",
+            "Introdução ao aprendizado de máquina",
+            "machine learning"
+          ],
+          "score": 0.907,
+          "confidence": 0.181
+        },
+        {
+          "topic_slug": "algoritmos-de-busca-com-informacao",
+          "topic_label": "Algoritmos de Busca com Informação",
+          "unit_slug": "unidade-de-aprendizagem-02-solucao-de-problemas-10",
+          "kind": "topic",
+          "aliases": [
+            "Agentes e Algoritmos de Busca",
+            "Algoritmos de Busca com Informação",
+            "Aula 05 - Agentes e Algoritmos de Busca<sup>1</sup>",
+            "Aula 06- Solução de Problemas (Busca com Informação - Algoritmos por Refinamentos Sucessivos)<sup>1</sup>",
+            "search algorithms"
+          ],
+          "score": 0.122,
+          "confidence": 0.024
+        },
+        {
+          "topic_slug": "busca-adversaria",
+          "topic_label": "Busca Adversária",
+          "unit_slug": "unidade-de-aprendizagem-02-solucao-de-problemas-10",
+          "kind": "topic",
+          "aliases": [
+            "Aula 07- Solução de Problemas (Busca Adversária)<sup>1</sup>",
+            "Busca Adversária",
+            "jogos adversariais"
+          ],
+          "score": 0.122,
+          "confidence": 0.024
+        }
+      ],
+      "topic_text": "introducao",
+      "topics": [
+        "introducao"
+      ],
+      "aliases": [
+        "introducao"
+      ],
+      "card_evidence": [],
+      "sessions": [
+        {
+          "id": "bloco-03-sessao-2026-03-09",
+          "date": "2026-03-09",
+          "kind": "class",
+          "label": "ml introducao a ml aula",
+          "signals": [
+            "2026-03-09",
+            "09 03 2026",
+            "09",
+            "03",
+            "2026",
+            "09 03",
+            "03 2026",
+            "ml introducao a ml aula",
+            "ml",
+            "introducao",
+            "a",
+            "aula",
+            "ml introducao",
+            "introducao a",
+            "a ml",
+            "ml aula",
+            "ml introducao a",
+            "introducao a ml",
+            "a ml aula",
+            "ml introducao a ml",
+            "introducao a ml aula"
+          ]
+        }
+      ],
+      "source_rows": [
+        2
+      ],
+      "topic_source": "taxonomy",
+      "auto_unit_slug": "unidade-de-aprendizagem-01-visao-geral-5",
+      "kind": "class"
+    },
+    {
+      "id": "bloco-04",
+      "period_start": "2026-03-11",
+      "period_end": "2026-03-16",
+      "period_label": "2 dias · 11/03/2026 a 16/03/2026",
+      "unit_slug": "unidade-de-aprendizagem-01-visao-geral-5",
+      "unit_confidence": 0.4,
+      "primary_topic_slug": "",
+      "primary_topic_label": "Tipos dados preparacao",
+      "primary_topic_confidence": 0.024480000000000002,
+      "topic_ambiguous": true,
+      "topic_candidates": [
+        {
+          "topic_slug": "algoritmos-de-busca-com-informacao",
+          "topic_label": "Algoritmos de Busca com Informação",
+          "unit_slug": "unidade-de-aprendizagem-02-solucao-de-problemas-10",
+          "kind": "topic",
+          "aliases": [
+            "Agentes e Algoritmos de Busca",
+            "Algoritmos de Busca com Informação",
+            "Aula 05 - Agentes e Algoritmos de Busca<sup>1</sup>",
+            "Aula 06- Solução de Problemas (Busca com Informação - Algoritmos por Refinamentos Sucessivos)<sup>1</sup>",
+            "search algorithms"
+          ],
+          "score": 0.122,
+          "confidence": 1.0
+        },
+        {
+          "topic_slug": "busca-adversaria",
+          "topic_label": "Busca Adversária",
+          "unit_slug": "unidade-de-aprendizagem-02-solucao-de-problemas-10",
+          "kind": "topic",
+          "aliases": [
+            "Aula 07- Solução de Problemas (Busca Adversária)<sup>1</sup>",
+            "Busca Adversária",
+            "jogos adversariais"
+          ],
+          "score": 0.122,
+          "confidence": 1.0
+        },
+        {
+          "topic_slug": "introducao-ao-aprendizado-de-maquina",
+          "topic_label": "Introdução ao aprendizado de máquina",
+          "unit_slug": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
+          "kind": "topic",
+          "aliases": [
+            "**Aula 02 - Aprendizado não Supervisionado: agrupamento com k-Means** - Exemplo 2",
+            "Aprendizado Não Supervisionado",
+            "Aprendizado Supervisionado",
+            "Aprendizado Supervisionado Parte 2",
+            "Aprendizado SupervisionadoParte 1",
+            "Aprendizado não supervisionado: parte 1",
+            "Aprendizado não supervisionado: parte 2",
+            "Aula 29 - Aprendizagem de Máquina: Medidas de Avaliação <sup>1</sup>",
+            "Introdução ao aprendizado de máquina",
+            "machine learning"
+          ],
+          "score": 0.122,
+          "confidence": 1.0
+        },
+        {
+          "topic_slug": "paradigmas-de-aprendizado",
+          "topic_label": "Paradigmas de aprendizado",
+          "unit_slug": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
+          "kind": "topic",
+          "aliases": [
+            "Paradigmas de aprendizado",
+            "tipos de aprendizado"
+          ],
+          "score": 0.122,
+          "confidence": 1.0
+        }
+      ],
+      "topic_text": "tipos dados preparacao",
+      "topics": [
+        "tipos dados preparacao dados",
+        "preparacao dados"
+      ],
+      "aliases": [
+        "tipos",
+        "dados",
+        "preparacao"
+      ],
+      "card_evidence": [],
+      "sessions": [
+        {
+          "id": "bloco-04-sessao-2026-03-11",
+          "date": "2026-03-11",
+          "kind": "class",
+          "label": "ml tipos de dados e preparacao de dados aula",
+          "signals": [
+            "2026-03-11",
+            "11 03 2026",
+            "11",
+            "03",
+            "2026",
+            "11 03",
+            "03 2026",
+            "ml tipos de dados e preparacao de dados aula",
+            "ml",
+            "tipos",
+            "de",
+            "dados",
+            "e",
+            "preparacao",
+            "aula",
+            "ml tipos",
+            "tipos de",
+            "de dados",
+            "dados e",
+            "e preparacao",
+            "preparacao de",
+            "dados aula",
+            "ml tipos de",
+            "tipos de dados",
+            "de dados e",
+            "dados e preparacao",
+            "e preparacao de",
+            "preparacao de dados",
+            "de dados aula",
+            "ml tipos de dados",
+            "tipos de dados e",
+            "de dados e preparacao",
+            "dados e preparacao de",
+            "e preparacao de dados",
+            "preparacao de dados aula"
+          ]
+        },
+        {
+          "id": "bloco-04-sessao-2026-03-16",
+          "date": "2026-03-16",
+          "kind": "class",
+          "label": "ml preparacao de dados aula",
+          "signals": [
+            "2026-03-16",
+            "16 03 2026",
+            "16",
+            "03",
+            "2026",
+            "16 03",
+            "03 2026",
+            "ml preparacao de dados aula",
+            "ml",
+            "preparacao",
+            "de",
+            "dados",
+            "aula",
+            "ml preparacao",
+            "preparacao de",
+            "de dados",
+            "dados aula",
+            "ml preparacao de",
+            "preparacao de dados",
+            "de dados aula",
+            "ml preparacao de dados",
+            "preparacao de dados aula"
+          ]
+        }
+      ],
+      "source_rows": [
+        3,
+        4
+      ],
+      "topic_source": "topic_text_fallback",
+      "auto_unit_slug": "unidade-de-aprendizagem-01-visao-geral-5",
+      "kind": "class"
+    },
+    {
+      "id": "bloco-05",
+      "period_start": "2026-03-18",
+      "period_end": "2026-04-15",
+      "period_label": "9 dias · 18/03/2026 a 15/04/2026",
+      "unit_slug": "unidade-de-aprendizagem-01-visao-geral-5",
+      "unit_confidence": 0.4,
+      "primary_topic_slug": "introducao-a-agentes-em-ambientes-deterministicos",
+      "primary_topic_label": "Introdução a agentes em ambientes determinísticos",
+      "primary_topic_confidence": 1.0,
+      "topic_ambiguous": false,
+      "topic_candidates": [
+        {
+          "topic_slug": "introducao-a-agentes-em-ambientes-deterministicos",
+          "topic_label": "Introdução a agentes em ambientes determinísticos",
+          "unit_slug": "unidade-de-aprendizagem-02-solucao-de-problemas-10",
+          "kind": "topic",
+          "aliases": [
+            "INTRODUÇÃO AOS ALGORITMOS",
+            "Introdução",
+            "Introdução a agentes em ambientes determinísticos",
+            "agentes racionais"
+          ],
+          "score": 5.006,
+          "confidence": 1.0
+        },
+        {
+          "topic_slug": "introducao-ao-aprendizado-de-maquina",
+          "topic_label": "Introdução ao aprendizado de máquina",
+          "unit_slug": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
+          "kind": "topic",
+          "aliases": [
+            "**Aula 02 - Aprendizado não Supervisionado: agrupamento com k-Means** - Exemplo 2",
+            "Aprendizado Não Supervisionado",
+            "Aprendizado Supervisionado",
+            "Aprendizado Supervisionado Parte 2",
+            "Aprendizado SupervisionadoParte 1",
+            "Aprendizado não supervisionado: parte 1",
+            "Aprendizado não supervisionado: parte 2",
+            "Aula 29 - Aprendizagem de Máquina: Medidas de Avaliação <sup>1</sup>",
+            "Introdução ao aprendizado de máquina",
+            "machine learning"
+          ],
+          "score": 1.037,
+          "confidence": 0.207
+        },
+        {
+          "topic_slug": "algoritmos-de-busca-com-informacao",
+          "topic_label": "Algoritmos de Busca com Informação",
+          "unit_slug": "unidade-de-aprendizagem-02-solucao-de-problemas-10",
+          "kind": "topic",
+          "aliases": [
+            "Agentes e Algoritmos de Busca",
+            "Algoritmos de Busca com Informação",
+            "Aula 05 - Agentes e Algoritmos de Busca<sup>1</sup>",
+            "Aula 06- Solução de Problemas (Busca com Informação - Algoritmos por Refinamentos Sucessivos)<sup>1</sup>",
+            "search algorithms"
+          ],
+          "score": 0.122,
+          "confidence": 0.024
+        },
+        {
+          "topic_slug": "busca-adversaria",
+          "topic_label": "Busca Adversária",
+          "unit_slug": "unidade-de-aprendizagem-02-solucao-de-problemas-10",
+          "kind": "topic",
+          "aliases": [
+            "Aula 07- Solução de Problemas (Busca Adversária)<sup>1</sup>",
+            "Busca Adversária",
+            "jogos adversariais"
+          ],
+          "score": 0.122,
+          "confidence": 0.024
+        }
+      ],
+      "topic_text": "abordagem supervisionada rede neural introducao perceptron analise resultados arvores decisao means",
+      "topics": [
+        "abordagem supervisionada"
+      ],
+      "aliases": [
+        "abordagem",
+        "supervisionada"
+      ],
+      "card_evidence": [],
+      "sessions": [
+        {
+          "id": "bloco-05-sessao-2026-03-18",
+          "date": "2026-03-18",
+          "kind": "class",
+          "label": "ml abordagem supervisionada k nn aula",
+          "signals": [
+            "2026-03-18",
+            "18 03 2026",
+            "18",
+            "03",
+            "2026",
+            "18 03",
+            "03 2026",
+            "ml abordagem supervisionada k nn aula",
+            "ml",
+            "abordagem",
+            "supervisionada",
+            "k",
+            "nn",
+            "aula",
+            "ml abordagem",
+            "abordagem supervisionada",
+            "supervisionada k",
+            "k nn",
+            "nn aula",
+            "ml abordagem supervisionada",
+            "abordagem supervisionada k",
+            "supervisionada k nn",
+            "k nn aula",
+            "ml abordagem supervisionada k",
+            "abordagem supervisionada k nn",
+            "supervisionada k nn aula"
+          ]
+        },
+        {
+          "id": "bloco-05-sessao-2026-03-23",
+          "date": "2026-03-23",
+          "kind": "class",
+          "label": "ml abordagem supervisionada k nn aula",
+          "signals": [
+            "2026-03-23",
+            "23 03 2026",
+            "23",
+            "03",
+            "2026",
+            "23 03",
+            "03 2026",
+            "ml abordagem supervisionada k nn aula",
+            "ml",
+            "abordagem",
+            "supervisionada",
+            "k",
+            "nn",
+            "aula",
+            "ml abordagem",
+            "abordagem supervisionada",
+            "supervisionada k",
+            "k nn",
+            "nn aula",
+            "ml abordagem supervisionada",
+            "abordagem supervisionada k",
+            "supervisionada k nn",
+            "k nn aula",
+            "ml abordagem supervisionada k",
+            "abordagem supervisionada k nn",
+            "supervisionada k nn aula"
+          ]
+        },
+        {
+          "id": "bloco-05-sessao-2026-03-25",
+          "date": "2026-03-25",
+          "kind": "class",
+          "label": "ml abordagem supervisionada rede neural introducao aula",
+          "signals": [
+            "2026-03-25",
+            "25 03 2026",
+            "25",
+            "03",
+            "2026",
+            "25 03",
+            "03 2026",
+            "ml abordagem supervisionada rede neural introducao aula",
+            "ml",
+            "abordagem",
+            "supervisionada",
+            "rede",
+            "neural",
+            "introducao",
+            "aula",
+            "ml abordagem",
+            "abordagem supervisionada",
+            "supervisionada rede",
+            "rede neural",
+            "neural introducao",
+            "introducao aula",
+            "ml abordagem supervisionada",
+            "abordagem supervisionada rede",
+            "supervisionada rede neural",
+            "rede neural introducao",
+            "neural introducao aula",
+            "ml abordagem supervisionada rede",
+            "abordagem supervisionada rede neural",
+            "supervisionada rede neural introducao",
+            "rede neural introducao aula"
+          ]
+        },
+        {
+          "id": "bloco-05-sessao-2026-03-30",
+          "date": "2026-03-30",
+          "kind": "class",
+          "label": "ml abordagem supervisionada rede neural perceptron aula",
+          "signals": [
+            "2026-03-30",
+            "30 03 2026",
+            "30",
+            "03",
+            "2026",
+            "30 03",
+            "03 2026",
+            "ml abordagem supervisionada rede neural perceptron aula",
+            "ml",
+            "abordagem",
+            "supervisionada",
+            "rede",
+            "neural",
+            "perceptron",
+            "aula",
+            "ml abordagem",
+            "abordagem supervisionada",
+            "supervisionada rede",
+            "rede neural",
+            "neural perceptron",
+            "perceptron aula",
+            "ml abordagem supervisionada",
+            "abordagem supervisionada rede",
+            "supervisionada rede neural",
+            "rede neural perceptron",
+            "neural perceptron aula",
+            "ml abordagem supervisionada rede",
+            "abordagem supervisionada rede neural",
+            "supervisionada rede neural perceptron",
+            "rede neural perceptron aula"
+          ]
+        },
+        {
+          "id": "bloco-05-sessao-2026-04-01",
+          "date": "2026-04-01",
+          "kind": "class",
+          "label": "ml abordagem supervisionada mlp aula",
+          "signals": [
+            "2026-04-01",
+            "01 04 2026",
+            "01",
+            "04",
+            "2026",
+            "01 04",
+            "04 2026",
+            "ml abordagem supervisionada mlp aula",
+            "ml",
+            "abordagem",
+            "supervisionada",
+            "mlp",
+            "aula",
+            "ml abordagem",
+            "abordagem supervisionada",
+            "supervisionada mlp",
+            "mlp aula",
+            "ml abordagem supervisionada",
+            "abordagem supervisionada mlp",
+            "supervisionada mlp aula",
+            "ml abordagem supervisionada mlp",
+            "abordagem supervisionada mlp aula"
+          ]
+        },
+        {
+          "id": "bloco-05-sessao-2026-04-06",
+          "date": "2026-04-06",
+          "kind": "class",
+          "label": "ml abordagem supervisionada rede neural mlp exercicios aula",
+          "signals": [
+            "2026-04-06",
+            "06 04 2026",
+            "06",
+            "04",
+            "2026",
+            "06 04",
+            "04 2026",
+            "ml abordagem supervisionada rede neural mlp exercicios aula",
+            "ml",
+            "abordagem",
+            "supervisionada",
+            "rede",
+            "neural",
+            "mlp",
+            "exercicios",
+            "aula",
+            "ml abordagem",
+            "abordagem supervisionada",
+            "supervisionada rede",
+            "rede neural",
+            "neural mlp",
+            "mlp exercicios",
+            "exercicios aula",
+            "ml abordagem supervisionada",
+            "abordagem supervisionada rede",
+            "supervisionada rede neural",
+            "rede neural mlp",
+            "neural mlp exercicios",
+            "mlp exercicios aula",
+            "ml abordagem supervisionada rede",
+            "abordagem supervisionada rede neural",
+            "supervisionada rede neural mlp",
+            "rede neural mlp exercicios",
+            "neural mlp exercicios aula"
+          ]
+        },
+        {
+          "id": "bloco-05-sessao-2026-04-08",
+          "date": "2026-04-08",
+          "kind": "class",
+          "label": "ml abordagem supervisionada analise dos resultados aula",
+          "signals": [
+            "2026-04-08",
+            "08 04 2026",
+            "08",
+            "04",
+            "2026",
+            "08 04",
+            "04 2026",
+            "ml abordagem supervisionada analise dos resultados aula",
+            "ml",
+            "abordagem",
+            "supervisionada",
+            "analise",
+            "dos",
+            "resultados",
+            "aula",
+            "ml abordagem",
+            "abordagem supervisionada",
+            "supervisionada analise",
+            "analise dos",
+            "dos resultados",
+            "resultados aula",
+            "ml abordagem supervisionada",
+            "abordagem supervisionada analise",
+            "supervisionada analise dos",
+            "analise dos resultados",
+            "dos resultados aula",
+            "ml abordagem supervisionada analise",
+            "abordagem supervisionada analise dos",
+            "supervisionada analise dos resultados",
+            "analise dos resultados aula"
+          ]
+        },
+        {
+          "id": "bloco-05-sessao-2026-04-13",
+          "date": "2026-04-13",
+          "kind": "class",
+          "label": "ml abordagem supervisionada arvores de decisao aula",
+          "signals": [
+            "2026-04-13",
+            "13 04 2026",
+            "13",
+            "04",
+            "2026",
+            "13 04",
+            "04 2026",
+            "ml abordagem supervisionada arvores de decisao aula",
+            "ml",
+            "abordagem",
+            "supervisionada",
+            "arvores",
+            "de",
+            "decisao",
+            "aula",
+            "ml abordagem",
+            "abordagem supervisionada",
+            "supervisionada arvores",
+            "arvores de",
+            "de decisao",
+            "decisao aula",
+            "ml abordagem supervisionada",
+            "abordagem supervisionada arvores",
+            "supervisionada arvores de",
+            "arvores de decisao",
+            "de decisao aula",
+            "ml abordagem supervisionada arvores",
+            "abordagem supervisionada arvores de",
+            "supervisionada arvores de decisao",
+            "arvores de decisao aula"
+          ]
+        },
+        {
+          "id": "bloco-05-sessao-2026-04-15",
+          "date": "2026-04-15",
+          "kind": "class",
+          "label": "ml abordagem nao supervisionada k means exercicios aula",
+          "signals": [
+            "2026-04-15",
+            "15 04 2026",
+            "15",
+            "04",
+            "2026",
+            "15 04",
+            "04 2026",
+            "ml abordagem nao supervisionada k means exercicios aula",
+            "ml",
+            "abordagem",
+            "nao",
+            "supervisionada",
+            "k",
+            "means",
+            "exercicios",
+            "aula",
+            "ml abordagem",
+            "abordagem nao",
+            "nao supervisionada",
+            "supervisionada k",
+            "k means",
+            "means exercicios",
+            "exercicios aula",
+            "ml abordagem nao",
+            "abordagem nao supervisionada",
+            "nao supervisionada k",
+            "supervisionada k means",
+            "k means exercicios",
+            "means exercicios aula",
+            "ml abordagem nao supervisionada",
+            "abordagem nao supervisionada k",
+            "nao supervisionada k means",
+            "supervisionada k means exercicios",
+            "k means exercicios aula"
+          ]
+        }
+      ],
+      "source_rows": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "topic_source": "taxonomy",
+      "auto_unit_slug": "unidade-de-aprendizagem-01-visao-geral-5",
+      "kind": "class"
+    },
+    {
+      "id": "bloco-06",
+      "period_start": "2026-04-20",
+      "period_end": "2026-04-27",
+      "period_label": "3 dias · 20/04/2026 a 27/04/2026",
+      "unit_slug": "",
+      "unit_confidence": 0.0,
+      "primary_topic_slug": "",
+      "primary_topic_label": "Suspensao abordagem supervisionada means hierarquico analise…",
+      "primary_topic_confidence": 0.45,
+      "topic_ambiguous": true,
+      "topic_candidates": [
+        {
+          "topic_slug": "introducao-ao-aprendizado-de-maquina",
+          "topic_label": "Introdução ao aprendizado de máquina",
+          "unit_slug": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
+          "kind": "topic",
+          "aliases": [
+            "**Aula 02 - Aprendizado não Supervisionado: agrupamento com k-Means** - Exemplo 2",
+            "Aprendizado Não Supervisionado",
+            "Aprendizado Supervisionado",
+            "Aprendizado Supervisionado Parte 2",
+            "Aprendizado SupervisionadoParte 1",
+            "Aprendizado não supervisionado: parte 1",
+            "Aprendizado não supervisionado: parte 2",
+            "Aula 29 - Aprendizagem de Máquina: Medidas de Avaliação <sup>1</sup>",
+            "Introdução ao aprendizado de máquina",
+            "machine learning"
+          ],
+          "score": 0.907,
+          "confidence": 1.0
+        },
+        {
+          "topic_slug": "algoritmos-de-busca-com-informacao",
+          "topic_label": "Algoritmos de Busca com Informação",
+          "unit_slug": "unidade-de-aprendizagem-02-solucao-de-problemas-10",
+          "kind": "topic",
+          "aliases": [
+            "Agentes e Algoritmos de Busca",
+            "Algoritmos de Busca com Informação",
+            "Aula 05 - Agentes e Algoritmos de Busca<sup>1</sup>",
+            "Aula 06- Solução de Problemas (Busca com Informação - Algoritmos por Refinamentos Sucessivos)<sup>1</sup>",
+            "search algorithms"
+          ],
+          "score": 0.122,
+          "confidence": 0.135
+        },
+        {
+          "topic_slug": "busca-adversaria",
+          "topic_label": "Busca Adversária",
+          "unit_slug": "unidade-de-aprendizagem-02-solucao-de-problemas-10",
+          "kind": "topic",
+          "aliases": [
+            "Aula 07- Solução de Problemas (Busca Adversária)<sup>1</sup>",
+            "Busca Adversária",
+            "jogos adversariais"
+          ],
+          "score": 0.122,
+          "confidence": 0.135
+        }
+      ],
+      "topic_text": "suspensao abordagem supervisionada means hierarquico analise resultados",
+      "topics": [
+        "suspensao",
+        "abordagem supervisionada"
+      ],
+      "aliases": [
+        "suspensao",
+        "abordagem",
+        "supervisionada"
+      ],
+      "card_evidence": [],
+      "sessions": [
+        {
+          "id": "bloco-06-sessao-2026-04-20",
+          "date": "2026-04-20",
+          "kind": "class",
+          "label": "suspensao de aulas aula",
+          "signals": [
+            "2026-04-20",
+            "20 04 2026",
+            "20",
+            "04",
+            "2026",
+            "20 04",
+            "04 2026",
+            "suspensao de aulas aula",
+            "suspensao",
+            "de",
+            "aulas",
+            "aula",
+            "suspensao de",
+            "de aulas",
+            "aulas aula",
+            "suspensao de aulas",
+            "de aulas aula"
+          ]
+        },
+        {
+          "id": "bloco-06-sessao-2026-04-22",
+          "date": "2026-04-22",
+          "kind": "class",
+          "label": "ml abordagem nao supervisionada k means exercicios aula",
+          "signals": [
+            "2026-04-22",
+            "22 04 2026",
+            "22",
+            "04",
+            "2026",
+            "22 04",
+            "04 2026",
+            "ml abordagem nao supervisionada k means exercicios aula",
+            "ml",
+            "abordagem",
+            "nao",
+            "supervisionada",
+            "k",
+            "means",
+            "exercicios",
+            "aula",
+            "ml abordagem",
+            "abordagem nao",
+            "nao supervisionada",
+            "supervisionada k",
+            "k means",
+            "means exercicios",
+            "exercicios aula",
+            "ml abordagem nao",
+            "abordagem nao supervisionada",
+            "nao supervisionada k",
+            "supervisionada k means",
+            "k means exercicios",
+            "means exercicios aula",
+            "ml abordagem nao supervisionada",
+            "abordagem nao supervisionada k",
+            "nao supervisionada k means",
+            "supervisionada k means exercicios",
+            "k means exercicios aula"
+          ]
+        },
+        {
+          "id": "bloco-06-sessao-2026-04-27",
+          "date": "2026-04-27",
+          "kind": "class",
+          "label": "ml abordagem nao supervisionada hierarquico exercicios analise de resultados aula",
+          "signals": [
+            "2026-04-27",
+            "27 04 2026",
+            "27",
+            "04",
+            "2026",
+            "27 04",
+            "04 2026",
+            "ml abordagem nao supervisionada hierarquico exercicios analise de resultados aula",
+            "ml",
+            "abordagem",
+            "nao",
+            "supervisionada",
+            "hierarquico",
+            "exercicios",
+            "analise",
+            "de",
+            "resultados",
+            "aula",
+            "ml abordagem",
+            "abordagem nao",
+            "nao supervisionada",
+            "supervisionada hierarquico",
+            "hierarquico exercicios",
+            "exercicios analise",
+            "analise de",
+            "de resultados",
+            "resultados aula",
+            "ml abordagem nao",
+            "abordagem nao supervisionada",
+            "nao supervisionada hierarquico",
+            "supervisionada hierarquico exercicios",
+            "hierarquico exercicios analise",
+            "exercicios analise de",
+            "analise de resultados",
+            "de resultados aula",
+            "ml abordagem nao supervisionada",
+            "abordagem nao supervisionada hierarquico",
+            "nao supervisionada hierarquico exercicios",
+            "supervisionada hierarquico exercicios analise",
+            "hierarquico exercicios analise de",
+            "exercicios analise de resultados",
+            "analise de resultados aula"
+          ]
+        }
+      ],
+      "source_rows": [
+        14,
+        15,
+        16
+      ],
+      "topic_source": "topic_text_fallback",
+      "auto_unit_slug": "unidade-de-aprendizagem-01-visao-geral-5",
+      "kind": "suspended"
+    },
+    {
+      "id": "bloco-07",
+      "period_start": "2026-04-29",
+      "period_end": "2026-04-29",
+      "period_label": "1 dia · 29/04/2026",
+      "unit_slug": "",
+      "unit_confidence": 0.0,
+      "primary_topic_slug": "",
+      "primary_topic_label": "Duvidas",
+      "primary_topic_confidence": 0.024480000000000002,
+      "topic_ambiguous": true,
+      "topic_candidates": [
+        {
+          "topic_slug": "algoritmos-de-busca-com-informacao",
+          "topic_label": "Algoritmos de Busca com Informação",
+          "unit_slug": "unidade-de-aprendizagem-02-solucao-de-problemas-10",
+          "kind": "topic",
+          "aliases": [
+            "Agentes e Algoritmos de Busca",
+            "Algoritmos de Busca com Informação",
+            "Aula 05 - Agentes e Algoritmos de Busca<sup>1</sup>",
+            "Aula 06- Solução de Problemas (Busca com Informação - Algoritmos por Refinamentos Sucessivos)<sup>1</sup>",
+            "search algorithms"
+          ],
+          "score": 0.122,
+          "confidence": 1.0
+        },
+        {
+          "topic_slug": "busca-adversaria",
+          "topic_label": "Busca Adversária",
+          "unit_slug": "unidade-de-aprendizagem-02-solucao-de-problemas-10",
+          "kind": "topic",
+          "aliases": [
+            "Aula 07- Solução de Problemas (Busca Adversária)<sup>1</sup>",
+            "Busca Adversária",
+            "jogos adversariais"
+          ],
+          "score": 0.122,
+          "confidence": 1.0
+        },
+        {
+          "topic_slug": "introducao-ao-aprendizado-de-maquina",
+          "topic_label": "Introdução ao aprendizado de máquina",
+          "unit_slug": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
+          "kind": "topic",
+          "aliases": [
+            "**Aula 02 - Aprendizado não Supervisionado: agrupamento com k-Means** - Exemplo 2",
+            "Aprendizado Não Supervisionado",
+            "Aprendizado Supervisionado",
+            "Aprendizado Supervisionado Parte 2",
+            "Aprendizado SupervisionadoParte 1",
+            "Aprendizado não supervisionado: parte 1",
+            "Aprendizado não supervisionado: parte 2",
+            "Aula 29 - Aprendizagem de Máquina: Medidas de Avaliação <sup>1</sup>",
+            "Introdução ao aprendizado de máquina",
+            "machine learning"
+          ],
+          "score": 0.122,
+          "confidence": 1.0
+        }
+      ],
+      "topic_text": "duvidas para",
+      "topics": [
+        "duvidas para"
+      ],
+      "aliases": [
+        "duvidas"
+      ],
+      "card_evidence": [],
+      "sessions": [
+        {
+          "id": "bloco-07-sessao-2026-04-29",
+          "date": "2026-04-29",
+          "kind": "class",
+          "label": "duvidas para t1 aula",
+          "signals": [
+            "2026-04-29",
+            "29 04 2026",
+            "29",
+            "04",
+            "2026",
+            "29 04",
+            "04 2026",
+            "duvidas para t1 aula",
+            "duvidas",
+            "para",
+            "t1",
+            "aula",
+            "duvidas para",
+            "para t1",
+            "t1 aula",
+            "duvidas para t1",
+            "para t1 aula"
+          ]
+        }
+      ],
+      "source_rows": [
+        17
+      ],
+      "topic_source": "topic_text_fallback",
+      "auto_unit_slug": "unidade-de-aprendizagem-01-visao-geral-5",
+      "kind": "office_hours"
+    },
+    {
+      "id": "bloco-08",
+      "period_start": "2026-05-04",
+      "period_end": "2026-05-04",
+      "period_label": "1 dia · 04/05/2026",
+      "unit_slug": "",
+      "unit_confidence": 0.0,
+      "primary_topic_slug": "",
+      "primary_topic_label": "Trabalho",
+      "primary_topic_confidence": 0.0,
+      "topic_ambiguous": true,
+      "topic_candidates": [],
+      "topic_text": "trabalho",
+      "topics": [
+        "trabalho"
+      ],
+      "aliases": [
+        "trabalho"
+      ],
+      "card_evidence": [],
+      "sessions": [
+        {
+          "id": "bloco-08-sessao-2026-05-04",
+          "date": "2026-05-04",
+          "kind": "class",
+          "label": "apresentacao do t1 trabalho",
+          "signals": [
+            "2026-05-04",
+            "04 05 2026",
+            "04",
+            "05",
+            "2026",
+            "04 05",
+            "05 2026",
+            "apresentacao do t1 trabalho",
+            "apresentacao",
+            "do",
+            "t1",
+            "trabalho",
+            "apresentacao do",
+            "do t1",
+            "t1 trabalho",
+            "apresentacao do t1",
+            "do t1 trabalho"
+          ]
+        }
+      ],
+      "source_rows": [
+        18
+      ],
+      "source_kind": "deliverable",
+      "topic_source": "topic_text_fallback",
+      "kind": "deliverable"
+    },
+    {
+      "id": "bloco-09",
+      "period_start": "2026-05-06",
+      "period_end": "2026-05-06",
+      "period_label": "1 dia · 06/05/2026",
+      "unit_slug": "",
+      "unit_confidence": 0.0,
+      "primary_topic_slug": "",
+      "primary_topic_label": "Trabalho",
+      "primary_topic_confidence": 0.0,
+      "topic_ambiguous": true,
+      "topic_candidates": [],
+      "topic_text": "trabalho",
+      "topics": [
+        "trabalho"
+      ],
+      "aliases": [
+        "trabalho"
+      ],
+      "card_evidence": [],
+      "sessions": [
+        {
+          "id": "bloco-09-sessao-2026-05-06",
+          "date": "2026-05-06",
+          "kind": "class",
+          "label": "apresentacao do t1 trabalho",
+          "signals": [
+            "2026-05-06",
+            "06 05 2026",
+            "06",
+            "05",
+            "2026",
+            "06 05",
+            "05 2026",
+            "apresentacao do t1 trabalho",
+            "apresentacao",
+            "do",
+            "t1",
+            "trabalho",
+            "apresentacao do",
+            "do t1",
+            "t1 trabalho",
+            "apresentacao do t1",
+            "do t1 trabalho"
+          ]
+        }
+      ],
+      "source_rows": [
+        19
+      ],
+      "source_kind": "deliverable",
+      "topic_source": "topic_text_fallback",
+      "kind": "deliverable"
+    },
+    {
+      "id": "bloco-10",
+      "period_start": "2026-05-11",
+      "period_end": "2026-05-11",
+      "period_label": "1 dia · 11/05/2026",
+      "unit_slug": "unidade-de-aprendizagem-01-visao-geral-5",
+      "unit_confidence": 0.4,
+      "primary_topic_slug": "",
+      "primary_topic_label": "Gerais",
+      "primary_topic_confidence": 0.0,
+      "topic_ambiguous": true,
+      "topic_candidates": [],
+      "topic_text": "gerais",
+      "topics": [
+        "gerais"
+      ],
+      "aliases": [
+        "gerais"
+      ],
+      "card_evidence": [],
+      "sessions": [
+        {
+          "id": "bloco-10-sessao-2026-05-11",
+          "date": "2026-05-11",
+          "kind": "class",
+          "label": "exercicios gerais aula",
+          "signals": [
+            "2026-05-11",
+            "11 05 2026",
+            "11",
+            "05",
+            "2026",
+            "11 05",
+            "05 2026",
+            "exercicios gerais aula",
+            "exercicios",
+            "gerais",
+            "aula",
+            "exercicios gerais",
+            "gerais aula"
+          ]
+        }
+      ],
+      "source_rows": [
+        20
+      ],
+      "topic_source": "topic_text_fallback",
+      "auto_unit_slug": "unidade-de-aprendizagem-01-visao-geral-5",
+      "kind": "class"
+    },
+    {
+      "id": "bloco-11",
+      "period_start": "2026-05-13",
+      "period_end": "2026-05-13",
+      "period_label": "1 dia · 13/05/2026",
+      "unit_slug": "",
+      "unit_confidence": 0.0,
+      "primary_topic_slug": "",
+      "primary_topic_label": "Conteúdo: unidade-de-aprendizagem-01-visao-geral-5",
+      "primary_topic_confidence": 0.0,
+      "topic_ambiguous": true,
+      "topic_candidates": [],
+      "topic_text": "",
+      "topics": [],
+      "aliases": [],
+      "card_evidence": [],
+      "sessions": [
+        {
+          "id": "bloco-11-sessao-2026-05-13",
+          "date": "2026-05-13",
+          "kind": "class",
+          "label": "prova 1 prova",
+          "signals": [
+            "2026-05-13",
+            "13 05 2026",
+            "13",
+            "05",
+            "2026",
+            "13 05",
+            "05 2026",
+            "prova 1 prova",
+            "prova",
+            "1",
+            "prova 1",
+            "1 prova"
+          ]
+        }
+      ],
+      "source_rows": [
+        21
+      ],
+      "source_kind": "assessment",
+      "topic_source": "",
+      "kind": "assessment",
+      "scope_unit_slugs": [
+        "unidade-de-aprendizagem-01-visao-geral-5"
+      ]
+    },
+    {
+      "id": "bloco-12",
+      "period_start": "2026-05-18",
+      "period_end": "2026-05-20",
+      "period_label": "2 dias · 18/05/2026 a 20/05/2026",
+      "unit_slug": "unidade-de-aprendizagem-02-solucao-de-problemas-10",
+      "unit_confidence": 0.4,
+      "primary_topic_slug": "introducao-a-agentes-em-ambientes-deterministicos",
+      "primary_topic_label": "Introdução a agentes em ambientes determinísticos",
+      "primary_topic_confidence": 1.0,
+      "topic_ambiguous": false,
+      "topic_candidates": [
+        {
+          "topic_slug": "introducao-a-agentes-em-ambientes-deterministicos",
+          "topic_label": "Introdução a agentes em ambientes determinísticos",
+          "unit_slug": "unidade-de-aprendizagem-02-solucao-de-problemas-10",
+          "kind": "topic",
+          "aliases": [
+            "INTRODUÇÃO AOS ALGORITMOS",
+            "Introdução",
+            "Introdução a agentes em ambientes determinísticos",
+            "agentes racionais"
+          ],
+          "score": 6.016,
+          "confidence": 1.0
+        },
+        {
+          "topic_slug": "algoritmos-de-busca-com-informacao",
+          "topic_label": "Algoritmos de Busca com Informação",
+          "unit_slug": "unidade-de-aprendizagem-02-solucao-de-problemas-10",
+          "kind": "topic",
+          "aliases": [
+            "Agentes e Algoritmos de Busca",
+            "Algoritmos de Busca com Informação",
+            "Aula 05 - Agentes e Algoritmos de Busca<sup>1</sup>",
+            "Aula 06- Solução de Problemas (Busca com Informação - Algoritmos por Refinamentos Sucessivos)<sup>1</sup>",
+            "search algorithms"
+          ],
+          "score": 0.907,
+          "confidence": 0.151
+        },
+        {
+          "topic_slug": "introducao-ao-aprendizado-de-maquina",
+          "topic_label": "Introdução ao aprendizado de máquina",
+          "unit_slug": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
+          "kind": "topic",
+          "aliases": [
+            "**Aula 02 - Aprendizado não Supervisionado: agrupamento com k-Means** - Exemplo 2",
+            "Aprendizado Não Supervisionado",
+            "Aprendizado Supervisionado",
+            "Aprendizado Supervisionado Parte 2",
+            "Aprendizado SupervisionadoParte 1",
+            "Aprendizado não supervisionado: parte 1",
+            "Aprendizado não supervisionado: parte 2",
+            "Aula 29 - Aprendizagem de Máquina: Medidas de Avaliação <sup>1</sup>",
+            "Introdução ao aprendizado de máquina",
+            "machine learning"
+          ],
+          "score": 0.907,
+          "confidence": 0.151
+        },
+        {
+          "topic_slug": "busca-adversaria",
+          "topic_label": "Busca Adversária",
+          "unit_slug": "unidade-de-aprendizagem-02-solucao-de-problemas-10",
+          "kind": "topic",
+          "aliases": [
+            "Aula 07- Solução de Problemas (Busca Adversária)<sup>1</sup>",
+            "Busca Adversária",
+            "jogos adversariais"
+          ],
+          "score": 0.122,
+          "confidence": 0.02
+        },
+        {
+          "topic_slug": "agentes-em-logica",
+          "topic_label": "Agentes em Lógica",
+          "unit_slug": "unidade-de-aprendizagem-03-raciocinio-planejamento-e-representacao-de-conhecimento",
+          "kind": "topic",
+          "aliases": [
+            "Agentes em Lógica",
+            "agentes racionais"
+          ],
+          "score": 0.122,
+          "confidence": 0.02
+        }
+      ],
+      "topic_text": "correcao introducao agentes",
+      "topics": [
+        "correcao introducao agentes",
+        "introducao agentes"
+      ],
+      "aliases": [
+        "correcao",
+        "introducao",
+        "agentes"
+      ],
+      "card_evidence": [],
+      "sessions": [
+        {
+          "id": "bloco-12-sessao-2026-05-18",
+          "date": "2026-05-18",
+          "kind": "class",
+          "label": "correcao p1 e introducao a agentes aula",
+          "signals": [
+            "2026-05-18",
+            "18 05 2026",
+            "18",
+            "05",
+            "2026",
+            "18 05",
+            "05 2026",
+            "correcao p1 e introducao a agentes aula",
+            "correcao",
+            "p1",
+            "e",
+            "introducao",
+            "a",
+            "agentes",
+            "aula",
+            "correcao p1",
+            "p1 e",
+            "e introducao",
+            "introducao a",
+            "a agentes",
+            "agentes aula",
+            "correcao p1 e",
+            "p1 e introducao",
+            "e introducao a",
+            "introducao a agentes",
+            "a agentes aula",
+            "correcao p1 e introducao",
+            "p1 e introducao a",
+            "e introducao a agentes",
+            "introducao a agentes aula"
+          ]
+        },
+        {
+          "id": "bloco-12-sessao-2026-05-20",
+          "date": "2026-05-20",
+          "kind": "class",
+          "label": "introducao a agentes aula",
+          "signals": [
+            "2026-05-20",
+            "20 05 2026",
+            "20",
+            "05",
+            "2026",
+            "20 05",
+            "05 2026",
+            "introducao a agentes aula",
+            "introducao",
+            "a",
+            "agentes",
+            "aula",
+            "introducao a",
+            "a agentes",
+            "agentes aula",
+            "introducao a agentes",
+            "a agentes aula"
+          ]
+        }
+      ],
+      "source_rows": [
+        22,
+        23
+      ],
+      "topic_source": "taxonomy",
+      "auto_unit_slug": "unidade-de-aprendizagem-02-solucao-de-problemas-10",
+      "kind": "class"
+    },
+    {
+      "id": "bloco-13",
+      "period_start": "2026-05-25",
+      "period_end": "2026-05-25",
+      "period_label": "1 dia · 25/05/2026",
+      "unit_slug": "unidade-de-aprendizagem-02-solucao-de-problemas-10",
+      "unit_confidence": 0.6,
+      "primary_topic_slug": "",
+      "primary_topic_label": "Algoritmos busca",
+      "primary_topic_confidence": 0.3369599999999999,
+      "topic_ambiguous": true,
+      "topic_candidates": [
+        {
+          "topic_slug": "algoritmos-de-busca-com-informacao",
+          "topic_label": "Algoritmos de Busca com Informação",
+          "unit_slug": "unidade-de-aprendizagem-02-solucao-de-problemas-10",
+          "kind": "topic",
+          "aliases": [
+            "Agentes e Algoritmos de Busca",
+            "Algoritmos de Busca com Informação",
+            "Aula 05 - Agentes e Algoritmos de Busca<sup>1</sup>",
+            "Aula 06- Solução de Problemas (Busca com Informação - Algoritmos por Refinamentos Sucessivos)<sup>1</sup>",
+            "search algorithms"
+          ],
+          "score": 1.037,
+          "confidence": 1.0
+        },
+        {
+          "topic_slug": "busca-adversaria",
+          "topic_label": "Busca Adversária",
+          "unit_slug": "unidade-de-aprendizagem-02-solucao-de-problemas-10",
+          "kind": "topic",
+          "aliases": [
+            "Aula 07- Solução de Problemas (Busca Adversária)<sup>1</sup>",
+            "Busca Adversária",
+            "jogos adversariais"
+          ],
+          "score": 0.907,
+          "confidence": 0.875
+        },
+        {
+          "topic_slug": "introducao-a-agentes-em-ambientes-deterministicos",
+          "topic_label": "Introdução a agentes em ambientes determinísticos",
+          "unit_slug": "unidade-de-aprendizagem-02-solucao-de-problemas-10",
+          "kind": "topic",
+          "aliases": [
+            "INTRODUÇÃO AOS ALGORITMOS",
+            "Introdução",
+            "Introdução a agentes em ambientes determinísticos",
+            "agentes racionais"
+          ],
+          "score": 0.122,
+          "confidence": 0.118
+        },
+        {
+          "topic_slug": "busca-informada-heuristica",
+          "topic_label": "Busca informada (heurística)",
+          "unit_slug": "unidade-de-aprendizagem-02-solucao-de-problemas-10",
+          "kind": "topic",
+          "aliases": [
+            "Busca informada (heurística)",
+            "busca heurística"
+          ],
+          "score": 0.122,
+          "confidence": 0.118
+        },
+        {
+          "topic_slug": "introducao-ao-aprendizado-de-maquina",
+          "topic_label": "Introdução ao aprendizado de máquina",
+          "unit_slug": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
+          "kind": "topic",
+          "aliases": [
+            "**Aula 02 - Aprendizado não Supervisionado: agrupamento com k-Means** - Exemplo 2",
+            "Aprendizado Não Supervisionado",
+            "Aprendizado Supervisionado",
+            "Aprendizado Supervisionado Parte 2",
+            "Aprendizado SupervisionadoParte 1",
+            "Aprendizado não supervisionado: parte 1",
+            "Aprendizado não supervisionado: parte 2",
+            "Aula 29 - Aprendizagem de Máquina: Medidas de Avaliação <sup>1</sup>",
+            "Introdução ao aprendizado de máquina",
+            "machine learning"
+          ],
+          "score": 0.122,
+          "confidence": 0.118
+        }
+      ],
+      "topic_text": "algoritmos busca",
+      "topics": [
+        "algoritmos busca"
+      ],
+      "aliases": [
+        "algoritmos",
+        "busca"
+      ],
+      "card_evidence": [],
+      "sessions": [
+        {
+          "id": "bloco-13-sessao-2026-05-25",
+          "date": "2026-05-25",
+          "kind": "class",
+          "label": "algoritmos de busca aula",
+          "signals": [
+            "2026-05-25",
+            "25 05 2026",
+            "25",
+            "05",
+            "2026",
+            "25 05",
+            "05 2026",
+            "algoritmos de busca aula",
+            "algoritmos",
+            "de",
+            "busca",
+            "aula",
+            "algoritmos de",
+            "de busca",
+            "busca aula",
+            "algoritmos de busca",
+            "de busca aula"
+          ]
+        }
+      ],
+      "source_rows": [
+        24
+      ],
+      "topic_source": "topic_text_fallback",
+      "auto_unit_slug": "unidade-de-aprendizagem-02-solucao-de-problemas-10",
+      "kind": "class"
+    },
+    {
+      "id": "bloco-14",
+      "period_start": "2026-05-27",
+      "period_end": "2026-05-27",
+      "period_label": "1 dia · 27/05/2026",
+      "unit_slug": "",
+      "unit_confidence": 0.0,
+      "primary_topic_slug": "",
+      "primary_topic_label": "Evento academico",
+      "primary_topic_confidence": 0.0,
+      "topic_ambiguous": true,
+      "topic_candidates": [],
+      "topic_text": "evento academico",
+      "topics": [
+        "evento academico"
+      ],
+      "aliases": [
+        "evento",
+        "academico"
+      ],
+      "card_evidence": [],
+      "sessions": [
+        {
+          "id": "bloco-14-sessao-2026-05-27",
+          "date": "2026-05-27",
+          "kind": "class",
+          "label": "es day evento academico",
+          "signals": [
+            "2026-05-27",
+            "27 05 2026",
+            "27",
+            "05",
+            "2026",
+            "27 05",
+            "05 2026",
+            "es day evento academico",
+            "es",
+            "day",
+            "evento",
+            "academico",
+            "es day",
+            "day evento",
+            "evento academico",
+            "es day evento",
+            "day evento academico"
+          ]
+        }
+      ],
+      "source_rows": [
+        25
+      ],
+      "topic_source": "topic_text_fallback",
+      "auto_unit_slug": "unidade-de-aprendizagem-02-solucao-de-problemas-10",
+      "kind": "academic_event"
+    },
+    {
+      "id": "bloco-15",
+      "period_start": "2026-06-01",
+      "period_end": "2026-06-08",
+      "period_label": "3 dias · 01/06/2026 a 08/06/2026",
+      "unit_slug": "unidade-de-aprendizagem-02-solucao-de-problemas-10",
+      "unit_confidence": 0.6,
+      "primary_topic_slug": "",
+      "primary_topic_label": "Algoritmos busca",
+      "primary_topic_confidence": 0.3369599999999999,
+      "topic_ambiguous": true,
+      "topic_candidates": [
+        {
+          "topic_slug": "algoritmos-de-busca-com-informacao",
+          "topic_label": "Algoritmos de Busca com Informação",
+          "unit_slug": "unidade-de-aprendizagem-02-solucao-de-problemas-10",
+          "kind": "topic",
+          "aliases": [
+            "Agentes e Algoritmos de Busca",
+            "Algoritmos de Busca com Informação",
+            "Aula 05 - Agentes e Algoritmos de Busca<sup>1</sup>",
+            "Aula 06- Solução de Problemas (Busca com Informação - Algoritmos por Refinamentos Sucessivos)<sup>1</sup>",
+            "search algorithms"
+          ],
+          "score": 1.037,
+          "confidence": 1.0
+        },
+        {
+          "topic_slug": "busca-adversaria",
+          "topic_label": "Busca Adversária",
+          "unit_slug": "unidade-de-aprendizagem-02-solucao-de-problemas-10",
+          "kind": "topic",
+          "aliases": [
+            "Aula 07- Solução de Problemas (Busca Adversária)<sup>1</sup>",
+            "Busca Adversária",
+            "jogos adversariais"
+          ],
+          "score": 0.907,
+          "confidence": 0.875
+        },
+        {
+          "topic_slug": "introducao-a-agentes-em-ambientes-deterministicos",
+          "topic_label": "Introdução a agentes em ambientes determinísticos",
+          "unit_slug": "unidade-de-aprendizagem-02-solucao-de-problemas-10",
+          "kind": "topic",
+          "aliases": [
+            "INTRODUÇÃO AOS ALGORITMOS",
+            "Introdução",
+            "Introdução a agentes em ambientes determinísticos",
+            "agentes racionais"
+          ],
+          "score": 0.122,
+          "confidence": 0.118
+        },
+        {
+          "topic_slug": "busca-informada-heuristica",
+          "topic_label": "Busca informada (heurística)",
+          "unit_slug": "unidade-de-aprendizagem-02-solucao-de-problemas-10",
+          "kind": "topic",
+          "aliases": [
+            "Busca informada (heurística)",
+            "busca heurística"
+          ],
+          "score": 0.122,
+          "confidence": 0.118
+        },
+        {
+          "topic_slug": "introducao-ao-aprendizado-de-maquina",
+          "topic_label": "Introdução ao aprendizado de máquina",
+          "unit_slug": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
+          "kind": "topic",
+          "aliases": [
+            "**Aula 02 - Aprendizado não Supervisionado: agrupamento com k-Means** - Exemplo 2",
+            "Aprendizado Não Supervisionado",
+            "Aprendizado Supervisionado",
+            "Aprendizado Supervisionado Parte 2",
+            "Aprendizado SupervisionadoParte 1",
+            "Aprendizado não supervisionado: parte 1",
+            "Aprendizado não supervisionado: parte 2",
+            "Aula 29 - Aprendizagem de Máquina: Medidas de Avaliação <sup>1</sup>",
+            "Introdução ao aprendizado de máquina",
+            "machine learning"
+          ],
+          "score": 0.122,
+          "confidence": 0.118
+        }
+      ],
+      "topic_text": "algoritmos busca",
+      "topics": [
+        "algoritmos busca"
+      ],
+      "aliases": [
+        "algoritmos",
+        "busca"
+      ],
+      "card_evidence": [],
+      "sessions": [
+        {
+          "id": "bloco-15-sessao-2026-06-01",
+          "date": "2026-06-01",
+          "kind": "class",
+          "label": "algoritmos de busca aula",
+          "signals": [
+            "2026-06-01",
+            "01 06 2026",
+            "01",
+            "06",
+            "2026",
+            "01 06",
+            "06 2026",
+            "algoritmos de busca aula",
+            "algoritmos",
+            "de",
+            "busca",
+            "aula",
+            "algoritmos de",
+            "de busca",
+            "busca aula",
+            "algoritmos de busca",
+            "de busca aula"
+          ]
+        },
+        {
+          "id": "bloco-15-sessao-2026-06-03",
+          "date": "2026-06-03",
+          "kind": "class",
+          "label": "algoritmos de busca aula",
+          "signals": [
+            "2026-06-03",
+            "03 06 2026",
+            "03",
+            "06",
+            "2026",
+            "03 06",
+            "06 2026",
+            "algoritmos de busca aula",
+            "algoritmos",
+            "de",
+            "busca",
+            "aula",
+            "algoritmos de",
+            "de busca",
+            "busca aula",
+            "algoritmos de busca",
+            "de busca aula"
+          ]
+        },
+        {
+          "id": "bloco-15-sessao-2026-06-08",
+          "date": "2026-06-08",
+          "kind": "class",
+          "label": "algoritmos de busca aula",
+          "signals": [
+            "2026-06-08",
+            "08 06 2026",
+            "08",
+            "06",
+            "2026",
+            "08 06",
+            "06 2026",
+            "algoritmos de busca aula",
+            "algoritmos",
+            "de",
+            "busca",
+            "aula",
+            "algoritmos de",
+            "de busca",
+            "busca aula",
+            "algoritmos de busca",
+            "de busca aula"
+          ]
+        }
+      ],
+      "source_rows": [
+        26,
+        27,
+        28
+      ],
+      "topic_source": "topic_text_fallback",
+      "auto_unit_slug": "unidade-de-aprendizagem-02-solucao-de-problemas-10",
+      "kind": "class"
+    },
+    {
+      "id": "bloco-16",
+      "period_start": "2026-06-10",
+      "period_end": "2026-06-15",
+      "period_label": "2 dias · 10/06/2026 a 15/06/2026",
+      "unit_slug": "",
+      "unit_confidence": 0.0,
+      "primary_topic_slug": "",
+      "primary_topic_label": "Planejamento",
+      "primary_topic_confidence": 0.024480000000000002,
+      "topic_ambiguous": true,
+      "topic_candidates": [
+        {
+          "topic_slug": "algoritmos-de-busca-com-informacao",
+          "topic_label": "Algoritmos de Busca com Informação",
+          "unit_slug": "unidade-de-aprendizagem-02-solucao-de-problemas-10",
+          "kind": "topic",
+          "aliases": [
+            "Agentes e Algoritmos de Busca",
+            "Algoritmos de Busca com Informação",
+            "Aula 05 - Agentes e Algoritmos de Busca<sup>1</sup>",
+            "Aula 06- Solução de Problemas (Busca com Informação - Algoritmos por Refinamentos Sucessivos)<sup>1</sup>",
+            "search algorithms"
+          ],
+          "score": 0.122,
+          "confidence": 1.0
+        },
+        {
+          "topic_slug": "busca-adversaria",
+          "topic_label": "Busca Adversária",
+          "unit_slug": "unidade-de-aprendizagem-02-solucao-de-problemas-10",
+          "kind": "topic",
+          "aliases": [
+            "Aula 07- Solução de Problemas (Busca Adversária)<sup>1</sup>",
+            "Busca Adversária",
+            "jogos adversariais"
+          ],
+          "score": 0.122,
+          "confidence": 1.0
+        },
+        {
+          "topic_slug": "planejamento-classico",
+          "topic_label": "Planejamento Clássico",
+          "unit_slug": "unidade-de-aprendizagem-03-raciocinio-planejamento-e-representacao-de-conhecimento",
+          "kind": "topic",
+          "aliases": [
+            "Planejamento Clássico",
+            "planning"
+          ],
+          "score": 0.122,
+          "confidence": 1.0
+        },
+        {
+          "topic_slug": "introducao-ao-aprendizado-de-maquina",
+          "topic_label": "Introdução ao aprendizado de máquina",
+          "unit_slug": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
+          "kind": "topic",
+          "aliases": [
+            "**Aula 02 - Aprendizado não Supervisionado: agrupamento com k-Means** - Exemplo 2",
+            "Aprendizado Não Supervisionado",
+            "Aprendizado Supervisionado",
+            "Aprendizado Supervisionado Parte 2",
+            "Aprendizado SupervisionadoParte 1",
+            "Aprendizado não supervisionado: parte 1",
+            "Aprendizado não supervisionado: parte 2",
+            "Aula 29 - Aprendizagem de Máquina: Medidas de Avaliação <sup>1</sup>",
+            "Introdução ao aprendizado de máquina",
+            "machine learning"
+          ],
+          "score": 0.122,
+          "confidence": 1.0
+        }
+      ],
+      "topic_text": "planejamento",
+      "topics": [
+        "planejamento"
+      ],
+      "aliases": [
+        "planejamento"
+      ],
+      "card_evidence": [],
+      "sessions": [
+        {
+          "id": "bloco-16-sessao-2026-06-10",
+          "date": "2026-06-10",
+          "kind": "class",
+          "label": "planejamento aula",
+          "signals": [
+            "2026-06-10",
+            "10 06 2026",
+            "10",
+            "06",
+            "2026",
+            "10 06",
+            "06 2026",
+            "planejamento aula",
+            "planejamento",
+            "aula"
+          ]
+        },
+        {
+          "id": "bloco-16-sessao-2026-06-15",
+          "date": "2026-06-15",
+          "kind": "class",
+          "label": "planejamento aula",
+          "signals": [
+            "2026-06-15",
+            "15 06 2026",
+            "15",
+            "06",
+            "2026",
+            "15 06",
+            "06 2026",
+            "planejamento aula",
+            "planejamento",
+            "aula"
+          ]
+        }
+      ],
+      "source_rows": [
+        29,
+        30
+      ],
+      "topic_source": "topic_text_fallback",
+      "auto_unit_slug": "unidade-de-aprendizagem-03-raciocinio-planejamento-e-representacao-de-conhecimento",
+      "kind": "planning"
+    },
+    {
+      "id": "bloco-17",
+      "period_start": "2026-06-17",
+      "period_end": "2026-06-17",
+      "period_label": "1 dia · 17/06/2026",
+      "unit_slug": "",
+      "unit_confidence": 0.0,
+      "primary_topic_slug": "",
+      "primary_topic_label": "Duvidas",
+      "primary_topic_confidence": 0.024480000000000002,
+      "topic_ambiguous": true,
+      "topic_candidates": [
+        {
+          "topic_slug": "algoritmos-de-busca-com-informacao",
+          "topic_label": "Algoritmos de Busca com Informação",
+          "unit_slug": "unidade-de-aprendizagem-02-solucao-de-problemas-10",
+          "kind": "topic",
+          "aliases": [
+            "Agentes e Algoritmos de Busca",
+            "Algoritmos de Busca com Informação",
+            "Aula 05 - Agentes e Algoritmos de Busca<sup>1</sup>",
+            "Aula 06- Solução de Problemas (Busca com Informação - Algoritmos por Refinamentos Sucessivos)<sup>1</sup>",
+            "search algorithms"
+          ],
+          "score": 0.122,
+          "confidence": 1.0
+        },
+        {
+          "topic_slug": "busca-adversaria",
+          "topic_label": "Busca Adversária",
+          "unit_slug": "unidade-de-aprendizagem-02-solucao-de-problemas-10",
+          "kind": "topic",
+          "aliases": [
+            "Aula 07- Solução de Problemas (Busca Adversária)<sup>1</sup>",
+            "Busca Adversária",
+            "jogos adversariais"
+          ],
+          "score": 0.122,
+          "confidence": 1.0
+        },
+        {
+          "topic_slug": "introducao-ao-aprendizado-de-maquina",
+          "topic_label": "Introdução ao aprendizado de máquina",
+          "unit_slug": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
+          "kind": "topic",
+          "aliases": [
+            "**Aula 02 - Aprendizado não Supervisionado: agrupamento com k-Means** - Exemplo 2",
+            "Aprendizado Não Supervisionado",
+            "Aprendizado Supervisionado",
+            "Aprendizado Supervisionado Parte 2",
+            "Aprendizado SupervisionadoParte 1",
+            "Aprendizado não supervisionado: parte 1",
+            "Aprendizado não supervisionado: parte 2",
+            "Aula 29 - Aprendizagem de Máquina: Medidas de Avaliação <sup>1</sup>",
+            "Introdução ao aprendizado de máquina",
+            "machine learning"
+          ],
+          "score": 0.122,
+          "confidence": 1.0
+        }
+      ],
+      "topic_text": "duvidas",
+      "topics": [
+        "duvidas"
+      ],
+      "aliases": [
+        "duvidas"
+      ],
+      "card_evidence": [],
+      "sessions": [
+        {
+          "id": "bloco-17-sessao-2026-06-17",
+          "date": "2026-06-17",
+          "kind": "class",
+          "label": "duvidas t2 aula",
+          "signals": [
+            "2026-06-17",
+            "17 06 2026",
+            "17",
+            "06",
+            "2026",
+            "17 06",
+            "06 2026",
+            "duvidas t2 aula",
+            "duvidas",
+            "t2",
+            "aula",
+            "duvidas t2",
+            "t2 aula"
+          ]
+        }
+      ],
+      "source_rows": [
+        31
+      ],
+      "topic_source": "topic_text_fallback",
+      "auto_unit_slug": "unidade-de-aprendizagem-03-raciocinio-planejamento-e-representacao-de-conhecimento",
+      "kind": "office_hours"
+    },
+    {
+      "id": "bloco-18",
+      "period_start": "2026-06-22",
+      "period_end": "2026-06-22",
+      "period_label": "1 dia · 22/06/2026",
+      "unit_slug": "",
+      "unit_confidence": 0.0,
+      "primary_topic_slug": "",
+      "primary_topic_label": "Trabalho",
+      "primary_topic_confidence": 0.0,
+      "topic_ambiguous": true,
+      "topic_candidates": [],
+      "topic_text": "trabalho",
+      "topics": [
+        "trabalho"
+      ],
+      "aliases": [
+        "trabalho"
+      ],
+      "card_evidence": [],
+      "sessions": [
+        {
+          "id": "bloco-18-sessao-2026-06-22",
+          "date": "2026-06-22",
+          "kind": "class",
+          "label": "apresentacao t2 trabalho",
+          "signals": [
+            "2026-06-22",
+            "22 06 2026",
+            "22",
+            "06",
+            "2026",
+            "22 06",
+            "06 2026",
+            "apresentacao t2 trabalho",
+            "apresentacao",
+            "t2",
+            "trabalho",
+            "apresentacao t2",
+            "t2 trabalho"
+          ]
+        }
+      ],
+      "source_rows": [
+        32
+      ],
+      "source_kind": "deliverable",
+      "topic_source": "topic_text_fallback",
+      "kind": "deliverable"
+    },
+    {
+      "id": "bloco-19",
+      "period_start": "2026-06-24",
+      "period_end": "2026-06-24",
+      "period_label": "1 dia · 24/06/2026",
+      "unit_slug": "",
+      "unit_confidence": 0.0,
+      "primary_topic_slug": "",
+      "primary_topic_label": "Trabalho",
+      "primary_topic_confidence": 0.0,
+      "topic_ambiguous": true,
+      "topic_candidates": [],
+      "topic_text": "trabalho",
+      "topics": [
+        "trabalho"
+      ],
+      "aliases": [
+        "trabalho"
+      ],
+      "card_evidence": [],
+      "sessions": [
+        {
+          "id": "bloco-19-sessao-2026-06-24",
+          "date": "2026-06-24",
+          "kind": "class",
+          "label": "apresentacao t2 trabalho",
+          "signals": [
+            "2026-06-24",
+            "24 06 2026",
+            "24",
+            "06",
+            "2026",
+            "24 06",
+            "06 2026",
+            "apresentacao t2 trabalho",
+            "apresentacao",
+            "t2",
+            "trabalho",
+            "apresentacao t2",
+            "t2 trabalho"
+          ]
+        }
+      ],
+      "source_rows": [
+        33
+      ],
+      "source_kind": "deliverable",
+      "topic_source": "topic_text_fallback",
+      "kind": "deliverable"
+    },
+    {
+      "id": "bloco-20",
+      "period_start": "2026-06-29",
+      "period_end": "2026-06-29",
+      "period_label": "1 dia · 29/06/2026",
+      "unit_slug": "unidade-de-aprendizagem-03-raciocinio-planejamento-e-representacao-de-conhecimento",
+      "unit_confidence": 0.4,
+      "primary_topic_slug": "",
+      "primary_topic_label": "Gerias",
+      "primary_topic_confidence": 0.0,
+      "topic_ambiguous": true,
+      "topic_candidates": [],
+      "topic_text": "gerias",
+      "topics": [
+        "gerias"
+      ],
+      "aliases": [
+        "gerias"
+      ],
+      "card_evidence": [],
+      "sessions": [
+        {
+          "id": "bloco-20-sessao-2026-06-29",
+          "date": "2026-06-29",
+          "kind": "class",
+          "label": "exercicios gerias aula",
+          "signals": [
+            "2026-06-29",
+            "29 06 2026",
+            "29",
+            "06",
+            "2026",
+            "29 06",
+            "06 2026",
+            "exercicios gerias aula",
+            "exercicios",
+            "gerias",
+            "aula",
+            "exercicios gerias",
+            "gerias aula"
+          ]
+        }
+      ],
+      "source_rows": [
+        34
+      ],
+      "topic_source": "topic_text_fallback",
+      "auto_unit_slug": "unidade-de-aprendizagem-03-raciocinio-planejamento-e-representacao-de-conhecimento",
+      "kind": "class"
+    },
+    {
+      "id": "bloco-21",
+      "period_start": "2026-07-01",
+      "period_end": "2026-07-01",
+      "period_label": "1 dia · 01/07/2026",
+      "unit_slug": "",
+      "unit_confidence": 0.0,
+      "primary_topic_slug": "",
+      "primary_topic_label": "Conteúdo: unidade-de-aprendizagem-02-solucao-de-problemas-10, unidade-de-aprendizagem-03-raciocinio-planejamento-e-representacao-de-conhecimento",
+      "primary_topic_confidence": 0.0,
+      "topic_ambiguous": true,
+      "topic_candidates": [],
+      "topic_text": "",
+      "topics": [],
+      "aliases": [],
+      "card_evidence": [],
+      "sessions": [
+        {
+          "id": "bloco-21-sessao-2026-07-01",
+          "date": "2026-07-01",
+          "kind": "class",
+          "label": "prova p2 prova",
+          "signals": [
+            "2026-07-01",
+            "01 07 2026",
+            "01",
+            "07",
+            "2026",
+            "01 07",
+            "07 2026",
+            "prova p2 prova",
+            "prova",
+            "p2",
+            "prova p2",
+            "p2 prova"
+          ]
+        }
+      ],
+      "source_rows": [
+        35
+      ],
+      "source_kind": "assessment",
+      "topic_source": "",
+      "kind": "assessment",
+      "scope_unit_slugs": [
+        "unidade-de-aprendizagem-02-solucao-de-problemas-10",
+        "unidade-de-aprendizagem-03-raciocinio-planejamento-e-representacao-de-conhecimento"
+      ]
+    },
+    {
+      "id": "bloco-22",
+      "period_start": "2026-07-06",
+      "period_end": "2026-07-06",
+      "period_label": "1 dia · 06/07/2026",
+      "unit_slug": "",
+      "unit_confidence": 0.0,
+      "primary_topic_slug": "",
+      "primary_topic_label": "Substituicao",
+      "primary_topic_confidence": 0.0,
+      "topic_ambiguous": true,
+      "topic_candidates": [],
+      "topic_text": "substituicao",
+      "topics": [
+        "substituicao"
+      ],
+      "aliases": [
+        "substituicao"
+      ],
+      "card_evidence": [],
+      "sessions": [
+        {
+          "id": "bloco-22-sessao-2026-07-06",
+          "date": "2026-07-06",
+          "kind": "class",
+          "label": "prova ps prova de substituicao",
+          "signals": [
+            "2026-07-06",
+            "06 07 2026",
+            "06",
+            "07",
+            "2026",
+            "06 07",
+            "07 2026",
+            "prova ps prova de substituicao",
+            "prova",
+            "ps",
+            "de",
+            "substituicao",
+            "prova ps",
+            "ps prova",
+            "prova de",
+            "de substituicao",
+            "prova ps prova",
+            "ps prova de",
+            "prova de substituicao",
+            "prova ps prova de",
+            "ps prova de substituicao"
+          ]
+        }
+      ],
+      "source_rows": [
+        36
+      ],
+      "source_kind": "assessment",
+      "topic_source": "topic_text_fallback",
+      "kind": "assessment",
+      "scope_unit_slugs": [
+        "unidade-de-aprendizagem-01-visao-geral-5",
+        "unidade-de-aprendizagem-02-solucao-de-problemas-10",
+        "unidade-de-aprendizagem-03-raciocinio-planejamento-e-representacao-de-conhecimento"
+      ]
+    },
+    {
+      "id": "bloco-23",
+      "period_start": "2026-07-08",
+      "period_end": "2026-07-08",
+      "period_label": "1 dia · 08/07/2026",
+      "unit_slug": "",
+      "unit_confidence": 0.0,
+      "primary_topic_slug": "",
+      "primary_topic_label": "Atendimento divulgacao resultados",
+      "primary_topic_confidence": 0.024480000000000002,
+      "topic_ambiguous": true,
+      "topic_candidates": [
+        {
+          "topic_slug": "algoritmos-de-busca-com-informacao",
+          "topic_label": "Algoritmos de Busca com Informação",
+          "unit_slug": "unidade-de-aprendizagem-02-solucao-de-problemas-10",
+          "kind": "topic",
+          "aliases": [
+            "Agentes e Algoritmos de Busca",
+            "Algoritmos de Busca com Informação",
+            "Aula 05 - Agentes e Algoritmos de Busca<sup>1</sup>",
+            "Aula 06- Solução de Problemas (Busca com Informação - Algoritmos por Refinamentos Sucessivos)<sup>1</sup>",
+            "search algorithms"
+          ],
+          "score": 0.122,
+          "confidence": 1.0
+        },
+        {
+          "topic_slug": "busca-adversaria",
+          "topic_label": "Busca Adversária",
+          "unit_slug": "unidade-de-aprendizagem-02-solucao-de-problemas-10",
+          "kind": "topic",
+          "aliases": [
+            "Aula 07- Solução de Problemas (Busca Adversária)<sup>1</sup>",
+            "Busca Adversária",
+            "jogos adversariais"
+          ],
+          "score": 0.122,
+          "confidence": 1.0
+        },
+        {
+          "topic_slug": "introducao-ao-aprendizado-de-maquina",
+          "topic_label": "Introdução ao aprendizado de máquina",
+          "unit_slug": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
+          "kind": "topic",
+          "aliases": [
+            "**Aula 02 - Aprendizado não Supervisionado: agrupamento com k-Means** - Exemplo 2",
+            "Aprendizado Não Supervisionado",
+            "Aprendizado Supervisionado",
+            "Aprendizado Supervisionado Parte 2",
+            "Aprendizado SupervisionadoParte 1",
+            "Aprendizado não supervisionado: parte 1",
+            "Aprendizado não supervisionado: parte 2",
+            "Aula 29 - Aprendizagem de Máquina: Medidas de Avaliação <sup>1</sup>",
+            "Introdução ao aprendizado de máquina",
+            "machine learning"
+          ],
+          "score": 0.122,
+          "confidence": 1.0
+        }
+      ],
+      "topic_text": "atendimento divulgacao resultados",
+      "topics": [
+        "atendimento divulgacao resultados"
+      ],
+      "aliases": [
+        "atendimento",
+        "divulgacao",
+        "resultados"
+      ],
+      "card_evidence": [],
+      "sessions": [
+        {
+          "id": "bloco-23-sessao-2026-07-08",
+          "date": "2026-07-08",
+          "kind": "class",
+          "label": "atendimento divulgacao dos resultados da g1 ate 04 12 aula",
+          "signals": [
+            "2026-07-08",
+            "08 07 2026",
+            "08",
+            "07",
+            "2026",
+            "08 07",
+            "07 2026",
+            "atendimento divulgacao dos resultados da g1 ate 04 12 aula",
+            "atendimento",
+            "divulgacao",
+            "dos",
+            "resultados",
+            "da",
+            "g1",
+            "ate",
+            "04",
+            "12",
+            "aula",
+            "atendimento divulgacao",
+            "divulgacao dos",
+            "dos resultados",
+            "resultados da",
+            "da g1",
+            "g1 ate",
+            "ate 04",
+            "04 12",
+            "12 aula",
+            "atendimento divulgacao dos",
+            "divulgacao dos resultados",
+            "dos resultados da",
+            "resultados da g1",
+            "da g1 ate",
+            "g1 ate 04",
+            "ate 04 12",
+            "04 12 aula",
+            "atendimento divulgacao dos resultados",
+            "divulgacao dos resultados da",
+            "dos resultados da g1",
+            "resultados da g1 ate",
+            "da g1 ate 04",
+            "g1 ate 04 12",
+            "ate 04 12 aula"
+          ]
+        }
+      ],
+      "source_rows": [
+        37
+      ],
+      "topic_source": "topic_text_fallback",
+      "auto_unit_slug": "unidade-de-aprendizagem-03-raciocinio-planejamento-e-representacao-de-conhecimento",
+      "kind": "results"
+    },
+    {
+      "id": "bloco-24",
+      "period_start": "2026-07-13",
+      "period_end": "2026-07-13",
+      "period_label": "1 dia · 13/07/2026",
+      "unit_slug": "",
+      "unit_confidence": 0.0,
+      "primary_topic_slug": "",
+      "primary_topic_label": "Conteúdo: unidade-de-aprendizagem-01-visao-geral-5, unidade-de-aprendizagem-02-solucao-de-problemas-10, unidade-de-aprendizagem-03-raciocinio-planejamento-e-representacao-de-conhecimento",
+      "primary_topic_confidence": 0.0,
+      "topic_ambiguous": true,
+      "topic_candidates": [],
+      "topic_text": "",
+      "topics": [],
+      "aliases": [],
+      "card_evidence": [],
+      "sessions": [
+        {
+          "id": "bloco-24-sessao-2026-07-13",
+          "date": "2026-07-13",
+          "kind": "class",
+          "label": "prova g2 prova de g2",
+          "signals": [
+            "2026-07-13",
+            "13 07 2026",
+            "13",
+            "07",
+            "2026",
+            "13 07",
+            "07 2026",
+            "prova g2 prova de g2",
+            "prova",
+            "g2",
+            "de",
+            "prova g2",
+            "g2 prova",
+            "prova de",
+            "de g2",
+            "prova g2 prova",
+            "g2 prova de",
+            "prova de g2",
+            "prova g2 prova de",
+            "g2 prova de g2"
+          ]
+        }
+      ],
+      "source_rows": [
+        38
+      ],
+      "source_kind": "assessment",
+      "topic_source": "",
+      "kind": "assessment",
+      "scope_unit_slugs": [
+        "unidade-de-aprendizagem-01-visao-geral-5",
+        "unidade-de-aprendizagem-02-solucao-de-problemas-10",
+        "unidade-de-aprendizagem-03-raciocinio-planejamento-e-representacao-de-conhecimento"
+      ]
+    },
+    {
+      "id": "bloco-25",
+      "period_start": "2026-07-15",
+      "period_end": "2026-07-15",
+      "period_label": "1 dia · 15/07/2026",
+      "unit_slug": "unidade-de-aprendizagem-03-raciocinio-planejamento-e-representacao-de-conhecimento",
+      "unit_confidence": 0.4,
+      "primary_topic_slug": "",
+      "primary_topic_label": "",
+      "primary_topic_confidence": 0.024480000000000002,
+      "topic_ambiguous": true,
+      "topic_candidates": [
+        {
+          "topic_slug": "algoritmos-de-busca-com-informacao",
+          "topic_label": "Algoritmos de Busca com Informação",
+          "unit_slug": "unidade-de-aprendizagem-02-solucao-de-problemas-10",
+          "kind": "topic",
+          "aliases": [
+            "Agentes e Algoritmos de Busca",
+            "Algoritmos de Busca com Informação",
+            "Aula 05 - Agentes e Algoritmos de Busca<sup>1</sup>",
+            "Aula 06- Solução de Problemas (Busca com Informação - Algoritmos por Refinamentos Sucessivos)<sup>1</sup>",
+            "search algorithms"
+          ],
+          "score": 0.122,
+          "confidence": 1.0
+        },
+        {
+          "topic_slug": "busca-adversaria",
+          "topic_label": "Busca Adversária",
+          "unit_slug": "unidade-de-aprendizagem-02-solucao-de-problemas-10",
+          "kind": "topic",
+          "aliases": [
+            "Aula 07- Solução de Problemas (Busca Adversária)<sup>1</sup>",
+            "Busca Adversária",
+            "jogos adversariais"
+          ],
+          "score": 0.122,
+          "confidence": 1.0
+        },
+        {
+          "topic_slug": "introducao-ao-aprendizado-de-maquina",
+          "topic_label": "Introdução ao aprendizado de máquina",
+          "unit_slug": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
+          "kind": "topic",
+          "aliases": [
+            "**Aula 02 - Aprendizado não Supervisionado: agrupamento com k-Means** - Exemplo 2",
+            "Aprendizado Não Supervisionado",
+            "Aprendizado Supervisionado",
+            "Aprendizado Supervisionado Parte 2",
+            "Aprendizado SupervisionadoParte 1",
+            "Aprendizado não supervisionado: parte 1",
+            "Aprendizado não supervisionado: parte 2",
+            "Aula 29 - Aprendizagem de Máquina: Medidas de Avaliação <sup>1</sup>",
+            "Introdução ao aprendizado de máquina",
+            "machine learning"
+          ],
+          "score": 0.122,
+          "confidence": 1.0
+        }
+      ],
+      "topic_text": "",
+      "topics": [],
+      "aliases": [],
+      "card_evidence": [],
+      "sessions": [
+        {
+          "id": "bloco-25-sessao-2026-07-15",
+          "date": "2026-07-15",
+          "kind": "class",
+          "label": "aula",
+          "signals": [
+            "2026-07-15",
+            "15 07 2026",
+            "15",
+            "07",
+            "2026",
+            "15 07",
+            "07 2026",
+            "aula"
+          ]
+        }
+      ],
+      "source_rows": [
+        39
+      ],
+      "topic_source": "",
+      "auto_unit_slug": "unidade-de-aprendizagem-03-raciocinio-planejamento-e-representacao-de-conhecimento",
+      "kind": "class"
+    }
+  ]
+}
