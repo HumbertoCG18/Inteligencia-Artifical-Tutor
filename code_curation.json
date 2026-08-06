@@ -318,6 +318,839 @@
         "block_match_confidence": 0.6,
         "block_match_method": "llm_only"
       }
+    },
+    "analise-exploratoria-de-dados-exemplo-1": {
+      "content_hash": "c923835c267f3d985b3f000c098851a349975a7f",
+      "matcher_version": 2,
+      "model": "gemini-2.5-flash",
+      "generated_at": "2026-06-25T16:24:23",
+      "summary": {
+        "inferred_title": "Análise Exploratória de Dados Detalhada do Dataset Iris com Python",
+        "language": "jupyter",
+        "pedagogical_role": "exemplo_demonstrativo",
+        "concepts": [
+          "Análise Exploratória de Dados (EDA)",
+          "Pandas DataFrame",
+          "Estatísticas Descritivas",
+          "Visualização de Dados",
+          "Correlação de Pearson",
+          "Análise de Componentes Principais (PCA)",
+          "Teste Qui-quadrado",
+          "Teste ANOVA"
+        ],
+        "summary": "Este notebook demonstra um fluxo completo de Análise Exploratória de Dados (EDA) utilizando o dataset Iris, cobrindo desde o carregamento dos dados e a criação de um DataFrame, até a aplicação de diversas técnicas estatísticas e de visualização. O material explora estatísticas descritivas, balanceamento de classes, distribuições de features, correlações, detecção de outliers, redução de dimensionalidade com PCA e testes ANOVA, fornecendo uma base robusta para entender as características do conjunto de dados.",
+        "files": [
+          {
+            "name": "analise-exploratoria-de-dados-exemplo-1.ipynb",
+            "role": "notebook_principal"
+          }
+        ],
+        "suggested_block_id": "bloco-04",
+        "suggested_secondary_ids": [
+          "bloco-05",
+          "bloco-02"
+        ],
+        "match_rationale": "O notebook foca na preparação e análise de tipos de dados para extrair insights, alinhando-se diretamente com tópicos de 'preparacao dados'.",
+        "primary_block_id": "af22fe17-ee73-407f-9af5-d730739d71e0",
+        "secondary_block_ids": [
+          "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
+          "55691241-63a8-4053-aea8-8a835c90f4f7"
+        ],
+        "block_match_confidence": 0.6,
+        "block_match_method": "llm_only"
+      }
+    },
+    "exemplo-2-k-nn-com-iriscsv-mais-completo": {
+      "content_hash": "a9e22a2695f2afe5d15d741d5e0975d1ddd3cd8e",
+      "matcher_version": 2,
+      "model": "gemini-2.5-flash",
+      "generated_at": "2026-06-25T16:24:30",
+      "summary": {
+        "inferred_title": "Implementação completa de K-Nearest Neighbors (k-NN) para classificação de flores Iris",
+        "language": "jupyter",
+        "pedagogical_role": "exemplo_demonstrativo",
+        "concepts": [
+          "K-Nearest Neighbors (k-NN)",
+          "Classificação",
+          "Dataset Iris",
+          "Pandas",
+          "Scikit-learn",
+          "Divisão treino-teste",
+          "Acurácia",
+          "Aprendizagem supervisionada"
+        ],
+        "summary": "Este bundle demonstra a implementação do algoritmo K-Nearest Neighbors (k-NN) para classificar espécies de flores Iris. Ele abrange o processo completo de um projeto de Machine Learning, desde a leitura e exploração dos dados até a divisão do conjunto em treino e teste, o treinamento do modelo e a avaliação de sua acurácia. O material ilustra um fluxo de trabalho típico para problemas de classificação em aprendizagem supervisionada.",
+        "files": [
+          {
+            "name": "exemplo-2-k-nn-com-iriscsv-mais-completo.ipynb",
+            "role": "notebook Jupyter principal"
+          }
+        ],
+        "suggested_block_id": "bloco-05",
+        "suggested_secondary_ids": [
+          "bloco-04",
+          "bloco-06"
+        ],
+        "match_rationale": "O material demonstra um algoritmo de classificação, o k-NN, que é uma técnica fundamental em aprendizagem supervisionada, alinhando-se diretamente com o tópico 'abordagem supervisionada'.",
+        "primary_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
+        "secondary_block_ids": [
+          "af22fe17-ee73-407f-9af5-d730739d71e0",
+          "17ea65f3-5f84-47c7-9357-e090ee1f80ed"
+        ],
+        "block_match_confidence": 0.6,
+        "block_match_method": "llm_only"
+      }
+    },
+    "exemplo-com-k-nn": {
+      "content_hash": "c8aa57fc7cc3b70a2db85e6481e45accc30fb43c",
+      "matcher_version": 2,
+      "model": "gemini-2.5-flash",
+      "generated_at": "2026-06-25T16:24:36",
+      "summary": {
+        "inferred_title": "Classificação com o algoritmo k-Nearest Neighbors (k-NN) usando o dataset Iris",
+        "language": "jupyter",
+        "pedagogical_role": "exemplo_demonstrativo",
+        "concepts": [
+          "k-Nearest Neighbors (k-NN)",
+          "Classificação supervisionada",
+          "Pré-processamento de dados",
+          "Scikit-learn",
+          "Dataset Iris",
+          "Predição de classes",
+          "DataFrame Pandas"
+        ],
+        "summary": "Este notebook demonstra a aplicação do algoritmo k-NN para classificar dados do dataset Iris, abordando as etapas de carregamento, exploração e preparação dos dados. Ele ilustra como treinar um modelo k-NN e realizar predições em novas instâncias, focando na prática de aprendizado supervisionado. O exemplo utiliza as bibliotecas Pandas para manipulação de dados e Scikit-learn para a implementação do modelo de classificação.",
+        "files": [
+          {
+            "name": "exemplo-com-k-nn.ipynb",
+            "role": "notebook"
+          },
+          {
+            "name": "IRIS_train.csv",
+            "role": "dataset_exemplo"
+          }
+        ],
+        "suggested_block_id": "bloco-05",
+        "suggested_secondary_ids": [
+          "bloco-04",
+          "bloco-06"
+        ],
+        "match_rationale": "O material demonstra a aplicação de um algoritmo de classificação, que é uma abordagem supervisionada de aprendizado de máquina.",
+        "primary_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
+        "secondary_block_ids": [
+          "af22fe17-ee73-407f-9af5-d730739d71e0",
+          "17ea65f3-5f84-47c7-9357-e090ee1f80ed"
+        ],
+        "block_match_confidence": 0.6,
+        "block_match_method": "llm_only"
+      }
+    },
+    "exercicio-2-solucao-com-rede-perceptron-atualizado": {
+      "content_hash": "881dfb2634878d784338601023d1bd460f378e28",
+      "matcher_version": 2,
+      "model": "gemini-2.5-flash",
+      "generated_at": "2026-06-25T16:24:40",
+      "summary": {
+        "inferred_title": "Implementação e Treinamento de um Perceptron para Classificação Binária",
+        "language": "jupyter",
+        "pedagogical_role": "solucao_referencia",
+        "concepts": [
+          "Perceptron",
+          "Função de Ativação Limiar",
+          "Algoritmo de Treinamento Perceptron",
+          "Pesos Sinápticos",
+          "Bias (viés)",
+          "Erro (Perceptron)",
+          "Época de Treinamento",
+          "Normalização de Dados",
+          "Classificação Binária"
+        ],
+        "summary": "Este notebook demonstra a implementação passo a passo de um algoritmo Perceptron, incluindo a função de ativação limiar e o processo de ajuste dos pesos. Ele utiliza dados de treinamento normalizados para classificar instâncias e avalia a acurácia do modelo resultante em um conjunto de dados de teste. O código também visualiza a reta de separação aprendida pelo Perceptron.",
+        "files": [
+          {
+            "name": "exercicio-2-solucao-com-rede-perceptron-atualizado.ipynb",
+            "role": "notebook de solução"
+          }
+        ],
+        "suggested_block_id": "bloco-05",
+        "suggested_secondary_ids": [
+          "bloco-04"
+        ],
+        "match_rationale": "O material apresenta uma solução completa para um exercício que envolve a implementação e treinamento de um Perceptron, um modelo fundamental de aprendizado de máquina supervisionado.",
+        "primary_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
+        "secondary_block_ids": [
+          "af22fe17-ee73-407f-9af5-d730739d71e0"
+        ],
+        "block_match_confidence": 0.6,
+        "block_match_method": "llm_only"
+      }
+    },
+    "k-nn-para-classificacao-exemplo-cardio": {
+      "content_hash": "e053d833d8fbec5a366c5bbd1c81d0cfc5bbdce8",
+      "matcher_version": 2,
+      "model": "gemini-2.5-flash",
+      "generated_at": "2026-06-25T16:24:45",
+      "summary": {
+        "inferred_title": "Implementação e avaliação do algoritmo K-NN para classificação de doenças cardiovasculares",
+        "language": "jupyter",
+        "pedagogical_role": "exemplo_demonstrativo",
+        "concepts": [
+          "K-Nearest Neighbors (k-NN)",
+          "Classificação de Machine Learning",
+          "Divisão treino-teste",
+          "Acurácia do modelo",
+          "Pré-processamento de dados",
+          "Dataset médico",
+          "Scikit-learn",
+          "Aprendizado supervisionado"
+        ],
+        "summary": "Este notebook demonstra a aplicação do algoritmo K-Nearest Neighbors (k-NN) para classificação de dados relacionados a doenças cardiovasculares. Ele cobre o carregamento de dados, pré-processamento, divisão em conjuntos de treino e teste, e a avaliação do modelo usando acurácia para encontrar o melhor valor de 'k'.",
+        "files": [
+          {
+            "name": "k-nn-para-classificacao-exemplo-cardio.ipynb",
+            "role": "notebook_principal"
+          },
+          {
+            "name": "cardio_train.csv",
+            "role": "conjunto_dados"
+          }
+        ],
+        "suggested_block_id": "bloco-05",
+        "suggested_secondary_ids": [
+          "bloco-04"
+        ],
+        "match_rationale": "O material é um exemplo prático de um algoritmo de classificação, que se enquadra na abordagem supervisionada mencionada no bloco.",
+        "primary_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
+        "secondary_block_ids": [
+          "af22fe17-ee73-407f-9af5-d730739d71e0"
+        ],
+        "block_match_confidence": 0.6,
+        "block_match_method": "llm_only"
+      }
+    },
+    "k-nn-para-regressao-exemplo-imc": {
+      "content_hash": "608107987f41b17ee48ebd979d17576924eec2e3",
+      "matcher_version": 2,
+      "model": "gemini-2.5-flash",
+      "generated_at": "2026-06-25T16:24:49",
+      "summary": {
+        "inferred_title": "Exemplo de Regressão K-NN para Predição de IMC com Pré-processamento e Avaliação de Modelo",
+        "language": "jupyter",
+        "pedagogical_role": "exemplo_demonstrativo",
+        "concepts": [
+          "K-Nearest Neighbors (K-NN) para regressão",
+          "Índice de Massa Corporal (IMC)",
+          "Pré-processamento de dados",
+          "Divisão treino-teste",
+          "Erro Quadrático Médio (MSE)",
+          "Coeficiente de Determinação (R²)",
+          "Modelos de aprendizado supervisionado"
+        ],
+        "summary": "Este notebook demonstra a aplicação do algoritmo K-NN para resolver um problema de regressão, especificamente a predição do Índice de Massa Corporal (IMC) a partir de dados de saúde. Ele cobre etapas essenciais como carga e pré-processamento de dados, divisão em conjuntos de treino e teste, treinamento do modelo K-NN e avaliação de desempenho usando métricas como MSE e R².",
+        "files": [
+          {
+            "name": "k-nn-para-regressao-exemplo-imc.ipynb",
+            "role": "código-fonte"
+          }
+        ],
+        "suggested_block_id": "bloco-05",
+        "suggested_secondary_ids": [
+          "bloco-04"
+        ],
+        "match_rationale": "O material demonstra um algoritmo de aprendizado de máquina supervisionado para regressão, alinhando-se diretamente com o tópico 'abordagem supervisionada'.",
+        "primary_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
+        "secondary_block_ids": [
+          "af22fe17-ee73-407f-9af5-d730739d71e0"
+        ],
+        "block_match_confidence": 0.6,
+        "block_match_method": "llm_only"
+      }
+    },
+    "rede-perceptron-classificacao-planta-iris": {
+      "content_hash": "0c506743daadf9767b46bd2d02c85f38f49699ef",
+      "matcher_version": 2,
+      "model": "gemini-2.5-flash",
+      "generated_at": "2026-06-25T16:24:56",
+      "summary": {
+        "inferred_title": "Classificação da Planta Iris usando Rede Perceptron",
+        "language": "jupyter",
+        "pedagogical_role": "exemplo_demonstrativo",
+        "concepts": [
+          "Perceptron",
+          "Função de Ativação",
+          "Algoritmo de Treinamento",
+          "Propagação (forward propagation)",
+          "Bias",
+          "Classificação de Dados",
+          "Conjunto de Dados Iris",
+          "Acurácia"
+        ],
+        "summary": "Este notebook demonstra a implementação de uma rede neural Perceptron do zero, incluindo funções de ativação e o algoritmo de treinamento. Ele aplica o Perceptron para classificar as diferentes espécies da planta Iris, dividindo o dataset em conjuntos de treino e teste. O material ilustra os fundamentos da aprendizagem supervisionada e redes neurais básicas.",
+        "files": [
+          {
+            "name": "rede-perceptron-classificacao-planta-iris.ipynb",
+            "role": "Notebook Jupyter com implementação do Perceptron"
+          },
+          {
+            "name": "IRIS.csv",
+            "role": "Conjunto de dados da planta Iris"
+          }
+        ],
+        "suggested_block_id": "bloco-05",
+        "suggested_secondary_ids": [
+          "bloco-04",
+          "bloco-06"
+        ],
+        "match_rationale": "O material demonstra a aplicação de um algoritmo de aprendizagem supervisionada (Perceptron) para um problema de classificação de dados.",
+        "primary_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
+        "secondary_block_ids": [
+          "af22fe17-ee73-407f-9af5-d730739d71e0",
+          "17ea65f3-5f84-47c7-9357-e090ee1f80ed"
+        ],
+        "block_match_confidence": 0.6,
+        "block_match_method": "llm_only"
+      }
+    },
+    "rede-perceptron-classificacao-de-cliente": {
+      "content_hash": "0dde5a5079de9cc0759006e797d167c5901a3c5e",
+      "matcher_version": 2,
+      "model": "gemini-2.5-flash",
+      "generated_at": "2026-06-25T16:25:00",
+      "summary": {
+        "inferred_title": "Implementação de Perceptron para Classificação Binária de Clientes",
+        "language": "jupyter",
+        "pedagogical_role": "exemplo_demonstrativo",
+        "concepts": [
+          "Perceptron",
+          "Função de ativação (limiar)",
+          "Propagação (forward pass)",
+          "Regra de aprendizado do Perceptron",
+          "Pesos sinápticos",
+          "Épocas de treinamento",
+          "Normalização de dados",
+          "Classificação binária",
+          "Acurácia"
+        ],
+        "summary": "Este notebook demonstra a implementação de um algoritmo Perceptron do zero, incluindo funções de propagação e treinamento. Ele exemplifica a classificação binária de clientes baseada em renda e dívida, mostrando o processo de ajuste de pesos e cálculo da acurácia do modelo.",
+        "files": [
+          {
+            "name": "rede-perceptron-classificacao-de-cliente.ipynb",
+            "role": "código-fonte"
+          }
+        ],
+        "suggested_block_id": "bloco-05",
+        "suggested_secondary_ids": [
+          "bloco-04"
+        ],
+        "match_rationale": "O material demonstra uma abordagem supervisionada de aprendizado de máquina usando o algoritmo Perceptron para classificação.",
+        "primary_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
+        "secondary_block_ids": [
+          "af22fe17-ee73-407f-9af5-d730739d71e0"
+        ],
+        "block_match_confidence": 0.6,
+        "block_match_method": "llm_only"
+      }
+    },
+    "rede-perceptron-exemplo-atualizado": {
+      "content_hash": "c4743385c19822eeffd96d5554f6362915353758",
+      "matcher_version": 2,
+      "model": "gemini-2.5-flash",
+      "generated_at": "2026-06-25T16:25:04",
+      "summary": {
+        "inferred_title": "Implementação e Treinamento de um Perceptron para a Função OR",
+        "language": "jupyter",
+        "pedagogical_role": "exemplo_demonstrativo",
+        "concepts": [
+          "Perceptron",
+          "função de ativação",
+          "propagação do sinal",
+          "algoritmo de treinamento",
+          "Regra Delta",
+          "taxa de aprendizado",
+          "pesos sinápticos",
+          "bias"
+        ],
+        "summary": "Este notebook demonstra a implementação de um Perceptron, incluindo suas funções de ativação e propagação. Ele ilustra o treinamento da rede neural utilizando a Regra Delta para resolver a função lógica OR, e visualiza a reta de separação aprendida, além de permitir testes de generalização com novas entradas.",
+        "files": [
+          {
+            "name": "rede-perceptron-exemplo-atualizado.ipynb",
+            "role": "código-fonte"
+          }
+        ],
+        "suggested_block_id": "",
+        "suggested_secondary_ids": [],
+        "match_rationale": "Nenhum bloco do cronograma menciona explicitamente tópicos de Redes Neurais, Machine Learning ou Perceptron para um alinhamento direto.",
+        "primary_block_id": "",
+        "secondary_block_ids": [],
+        "block_match_confidence": 0.125,
+        "block_match_method": "orphan"
+      }
+    },
+    "rede-perceptron-or-em-python": {
+      "content_hash": "c4445fcd659529c2bcd074ca59e866bec4ac6495",
+      "matcher_version": 2,
+      "model": "gemini-2.5-flash",
+      "generated_at": "2026-06-25T16:25:12",
+      "summary": {
+        "inferred_title": "Implementação e Treinamento de um Perceptron para a Função Lógica OR em Python",
+        "language": "jupyter",
+        "pedagogical_role": "exemplo_demonstrativo",
+        "concepts": [
+          "Perceptron",
+          "Função de Ativação (limiar)",
+          "Algoritmo de Treinamento do Perceptron",
+          "Pesos Sinápticos",
+          "Época de Treinamento",
+          "Regra Delta",
+          "Classificação Binária",
+          "Porta Lógica OR"
+        ],
+        "summary": "Este bundle implementa um Perceptron do zero em Python para resolver o problema da porta lógica OR. Ele demonstra o algoritmo de treinamento passo a passo, mostrando como a rede neural aprende a classificar entradas através da atualização iterativa dos pesos e de uma função de ativação limiar. O código é essencial para compreender os fundamentos da aprendizagem supervisionada e redes neurais elementares.",
+        "files": [
+          {
+            "name": "rede-perceptron-or-em-python.ipynb",
+            "role": "exemplo-completo"
+          }
+        ],
+        "suggested_block_id": "bloco-05",
+        "suggested_secondary_ids": [],
+        "match_rationale": "O material exemplifica a abordagem supervisionada com um algoritmo fundamental de aprendizagem de máquina.",
+        "primary_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
+        "secondary_block_ids": [],
+        "block_match_confidence": 0.6,
+        "block_match_method": "llm_only"
+      }
+    },
+    "rede-perceptron-reconhecendo-letras": {
+      "content_hash": "f70bf9e2a5a6b004ac73b90ea82cc26060cd5cf1",
+      "matcher_version": 2,
+      "model": "gemini-2.5-flash",
+      "generated_at": "2026-06-25T16:25:17",
+      "summary": {
+        "inferred_title": "Implementação e Treinamento de Perceptron para Reconhecimento de Padrões Visuais (Letras)",
+        "language": "jupyter",
+        "pedagogical_role": "exemplo_demonstrativo",
+        "concepts": [
+          "Perceptron",
+          "Redes neurais artificiais",
+          "Função de ativação (limiar, logística)",
+          "Algoritmo de treinamento do Perceptron",
+          "Bias",
+          "Época de treinamento",
+          "Acurácia",
+          "Reconhecimento de padrões"
+        ],
+        "summary": "Este notebook demonstra a construção de uma rede Perceptron do zero, incluindo funções de ativação e o algoritmo de treinamento. Ele ilustra como treinar o Perceptron para reconhecer padrões visuais simples, como letras 'I' e 'O', e avalia sua acurácia com dados de teste. O código aborda desde a propagação do sinal até o ajuste dos pesos para minimizar o erro.",
+        "files": [
+          {
+            "name": "rede-perceptron-reconhecendo-letras.ipynb",
+            "role": "notebook principal"
+          }
+        ],
+        "suggested_block_id": "bloco-05",
+        "suggested_secondary_ids": [
+          "bloco-04"
+        ],
+        "match_rationale": "O notebook implementa e treina um Perceptron, que é um algoritmo fundamental de aprendizado de máquina sob a abordagem supervisionada, utilizando preparação de dados para entrada.",
+        "primary_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
+        "secondary_block_ids": [
+          "af22fe17-ee73-407f-9af5-d730739d71e0"
+        ],
+        "block_match_confidence": 0.6,
+        "block_match_method": "llm_only"
+      }
+    },
+    "mlp-xoripynb": {
+      "content_hash": "c3cc418f9e62e040afcb6db2bdb438e0b259fffc",
+      "matcher_version": 2,
+      "model": "gemini-2.5-flash",
+      "generated_at": "2026-06-25T16:25:23",
+      "summary": {
+        "inferred_title": "Implementação e Treinamento de uma Rede Neural Perceptron Multicamadas para o Problema XOR",
+        "language": "jupyter",
+        "pedagogical_role": "exemplo_demonstrativo",
+        "concepts": [
+          "Rede Neural Perceptron Multicamadas (MLP)",
+          "Problema XOR",
+          "Aprendizado Supervisionado",
+          "Treinamento de Rede Neural",
+          "Função de Perda",
+          "Otimizador Adam",
+          "Camadas Ocultas",
+          "sklearn.neural_network"
+        ],
+        "summary": "Este notebook demonstra a implementação e o treinamento de uma Rede Neural Perceptron Multicamadas (MLP) utilizando a biblioteca scikit-learn. O foco é resolver o problema XOR, que não é linearmente separável, ilustrando a capacidade das MLPs de aprender padrões complexos. O código exibe o processo de convergência do treinamento e os resultados da previsão da rede.",
+        "files": [
+          {
+            "name": "MLP - XOR.ipynb",
+            "role": "exemplo completo"
+          }
+        ],
+        "suggested_block_id": "bloco-05",
+        "suggested_secondary_ids": [
+          "bloco-06"
+        ],
+        "match_rationale": "O notebook exemplifica uma abordagem supervisionada de aprendizado de máquina, treinando uma Rede Neural Perceptron Multicamadas para classificar dados.",
+        "primary_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
+        "secondary_block_ids": [
+          "17ea65f3-5f84-47c7-9357-e090ee1f80ed"
+        ],
+        "block_match_confidence": 0.6,
+        "block_match_method": "llm_only"
+      }
+    },
+    "mlp-classificacao-inadimplencia-normalizacao-e-gridsearchcv": {
+      "content_hash": "8baea9b04786464afd0c71cd6734dcf755be4245",
+      "matcher_version": 2,
+      "model": "gemini-2.5-flash",
+      "generated_at": "2026-06-25T16:25:31",
+      "summary": {
+        "inferred_title": "Classificação de Inadimplência com MultiLayer Perceptron (MLP), normalização de dados e otimização de hiperparâmetros via GridSearchCV",
+        "language": "jupyter",
+        "pedagogical_role": "exemplo_demonstrativo",
+        "concepts": [
+          "Redes Neurais Artificiais",
+          "MultiLayer Perceptron",
+          "Classificação supervisionada",
+          "Normalização de features",
+          "Otimização de hiperparâmetros",
+          "Grid Search Cross-Validation",
+          "Métricas de avaliação de modelos",
+          "Matriz de Confusão"
+        ],
+        "summary": "Este notebook demonstra a construção e avaliação de um modelo MultiLayer Perceptron (MLP) para classificar a inadimplência em um dataset financeiro. Ele aborda técnicas de pré-processamento como normalização de dados e a otimização de hiperparâmetros usando GridSearchCV para melhorar o desempenho do modelo. A análise de resultados inclui métricas como acurácia e matriz de confusão.",
+        "files": [
+          {
+            "name": "mlp-classificacao-inadimplencia-normalizacao-e-gridsearchcv.ipynb",
+            "role": "Notebook principal com código e análises"
+          },
+          {
+            "name": "inadimplencia.csv",
+            "role": "Dataset de exemplo para classificação"
+          }
+        ],
+        "suggested_block_id": "bloco-05",
+        "suggested_secondary_ids": [
+          "bloco-04"
+        ],
+        "match_rationale": "O notebook aplica uma abordagem de aprendizado supervisionado (classificação) para resolver um problema, com foco na preparação de dados e otimização de modelos.",
+        "primary_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
+        "secondary_block_ids": [
+          "af22fe17-ee73-407f-9af5-d730739d71e0"
+        ],
+        "block_match_confidence": 0.6,
+        "block_match_method": "llm_only"
+      }
+    },
+    "mlp-classificacao-iris-atualizado": {
+      "content_hash": "f0e10fb8b25db399c6d08d2c9ec887d1ac4290ea",
+      "matcher_version": 2,
+      "model": "gemini-2.5-flash",
+      "generated_at": "2026-06-25T16:25:37",
+      "summary": {
+        "inferred_title": "Classificação de plantas Iris usando MultiLayer Perceptron (MLP)",
+        "language": "jupyter",
+        "pedagogical_role": "exemplo_demonstrativo",
+        "concepts": [
+          "MultiLayer Perceptron (MLP)",
+          "Redes Neurais",
+          "Classificação de Dados",
+          "Dataset IRIS",
+          "Divisão Treino-Teste",
+          "Matriz de Confusão",
+          "Métricas de Classificação",
+          "Acurácia"
+        ],
+        "summary": "Este notebook demonstra a aplicação de um MultiLayer Perceptron (MLP) para o problema de classificação do dataset IRIS. Ele aborda desde a carga e preparação dos dados, a divisão em conjuntos de treino e teste, até o treinamento do modelo e a avaliação de seu desempenho utilizando métricas como matriz de confusão e acurácia. O código ilustra um fluxo completo de machine learning supervisionado.",
+        "files": [
+          {
+            "name": "mlp-classificacao-iris-atualizado.ipynb",
+            "role": "código-fonte"
+          }
+        ],
+        "suggested_block_id": "bloco-05",
+        "suggested_secondary_ids": [
+          "bloco-04",
+          "bloco-06"
+        ],
+        "match_rationale": "O material é uma aula sobre MultiLayer Perceptron (MLP), que se encaixa perfeitamente no tema de 'abordagem supervisionada' abordado neste bloco do cronograma.",
+        "primary_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
+        "secondary_block_ids": [
+          "af22fe17-ee73-407f-9af5-d730739d71e0",
+          "17ea65f3-5f84-47c7-9357-e090ee1f80ed"
+        ],
+        "block_match_confidence": 0.6,
+        "block_match_method": "llm_only"
+      }
+    },
+    "mlp-regressao-cardio": {
+      "content_hash": "82d0d8e4187da933cb14d129d2228eb5e8e64533",
+      "matcher_version": 2,
+      "model": "gemini-2.5-flash",
+      "generated_at": "2026-06-25T16:25:43",
+      "summary": {
+        "inferred_title": "Predição de IMC usando MLP para Regressão em Dados Cardiovasculares",
+        "language": "jupyter",
+        "pedagogical_role": "exemplo_demonstrativo",
+        "concepts": [
+          "Redes Neurais Multicamadas (MLP)",
+          "Regressão",
+          "Pré-processamento de Dados",
+          "Divisão Treino-Teste",
+          "Erro Quadrático Médio (MSE)",
+          "Coeficiente de Determinação (R²)",
+          "Função de Ativação Logística",
+          "Otimizador Adam"
+        ],
+        "summary": "Este notebook demonstra a aplicação de uma Rede Neural Multicamadas (MLP) para uma tarefa de regressão, especificamente a predição do Índice de Massa Corporal (IMC) a partir de um conjunto de dados cardiovasculares. O material cobre o fluxo de trabalho completo, desde a preparação dos dados e criação de features até o treinamento do modelo, avaliação de desempenho e visualização dos resultados. Serve como um exemplo prático de aprendizado supervisionado para regressão.",
+        "files": [
+          {
+            "name": "mlp-regressao-cardio.ipynb",
+            "role": "código principal"
+          }
+        ],
+        "suggested_block_id": "bloco-05",
+        "suggested_secondary_ids": [
+          "bloco-06",
+          "bloco-04"
+        ],
+        "match_rationale": "O notebook exemplifica uma abordagem de aprendizado supervisionado para regressão utilizando redes neurais, alinhando-se com o tópico 'abordagem supervisionada'.",
+        "primary_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
+        "secondary_block_ids": [
+          "17ea65f3-5f84-47c7-9357-e090ee1f80ed",
+          "af22fe17-ee73-407f-9af5-d730739d71e0"
+        ],
+        "block_match_confidence": 0.6,
+        "block_match_method": "llm_only"
+      }
+    },
+    "xor-backpropagation-em-python": {
+      "content_hash": "f7e7fbcc7bcbf7954c098c04216d6a1a02c9ff72",
+      "matcher_version": 2,
+      "model": "gemini-2.5-flash",
+      "generated_at": "2026-06-25T16:25:50",
+      "summary": {
+        "inferred_title": "Implementação do Algoritmo Backpropagation para Problema XOR com MLP em Python",
+        "language": "jupyter",
+        "pedagogical_role": "exemplo_demonstrativo",
+        "concepts": [
+          "Multi-Layer Perceptron (MLP)",
+          "Algoritmo Backpropagation",
+          "Funções de Ativação (Sigmoid, ReLU)",
+          "Pesos e Vieses (Bias)",
+          "Taxa de Aprendizado",
+          "Problema XOR",
+          "Fronteiras de Decisão"
+        ],
+        "summary": "Este notebook implementa um Multi-Layer Perceptron (MLP) utilizando o algoritmo de Backpropagation em Python para resolver o problema clássico XOR. Ele demonstra o processo de treinamento da rede neural, incluindo a inicialização e ajuste de pesos e bias, e a visualização das fronteiras de decisão dos neurônios ocultos.",
+        "files": [
+          {
+            "name": "xor-backpropagation-em-python.ipynb",
+            "role": "código principal"
+          }
+        ],
+        "suggested_block_id": "bloco-05",
+        "suggested_secondary_ids": [
+          "bloco-06"
+        ],
+        "match_rationale": "O material demonstra um algoritmo fundamental de uma abordagem de aprendizado supervisionado, alinhando-se com o tópico 'abordagem supervisionada'.",
+        "primary_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
+        "secondary_block_ids": [
+          "17ea65f3-5f84-47c7-9357-e090ee1f80ed"
+        ],
+        "block_match_confidence": 0.6,
+        "block_match_method": "llm_only"
+      }
+    },
+    "exemplo-1-arvores-de-decisao-classificacao-planta-iris": {
+      "content_hash": "cf149a44345be36a64f60c5cf0cb9c1982d05334",
+      "matcher_version": 2,
+      "model": "gemini-2.5-flash",
+      "generated_at": "2026-06-25T16:25:55",
+      "summary": {
+        "inferred_title": "Classificação de Plantas Iris com Árvores de Decisão",
+        "language": "jupyter",
+        "pedagogical_role": "exemplo_demonstrativo",
+        "concepts": [
+          "Machine Learning",
+          "Aprendizado Supervisionado",
+          "Árvore de Decisão",
+          "Classificação",
+          "Dataset Iris",
+          "Divisão Treino-Teste",
+          "Métricas de Avaliação",
+          "Visualização de Árvores"
+        ],
+        "summary": "Este notebook demonstra o processo completo de classificação de dados utilizando árvores de decisão no dataset Iris. Ele cobre a preparação dos dados, o treinamento do modelo, a avaliação da acurácia e a visualização da árvore de decisão gerada. O objetivo é ilustrar uma aplicação prática de aprendizado supervisionado.",
+        "files": [
+          {
+            "name": "exemplo-1-arvores-de-decisao-classificacao-planta-iris.ipynb",
+            "role": "notebook principal"
+          }
+        ],
+        "suggested_block_id": "bloco-05",
+        "suggested_secondary_ids": [
+          "bloco-04",
+          "bloco-06"
+        ],
+        "match_rationale": "O notebook aborda diretamente a aplicação de algoritmos de classificação dentro da abordagem supervisionada de Machine Learning.",
+        "primary_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
+        "secondary_block_ids": [
+          "af22fe17-ee73-407f-9af5-d730739d71e0",
+          "17ea65f3-5f84-47c7-9357-e090ee1f80ed"
+        ],
+        "block_match_confidence": 0.6,
+        "block_match_method": "llm_only"
+      }
+    },
+    "exemplo-2-arvores-de-decisao-regressao-diabetes": {
+      "content_hash": "801bbd2d47f49268a7680422447c5c8c81c5da20",
+      "matcher_version": 2,
+      "model": "gemini-2.5-flash",
+      "generated_at": "2026-06-25T16:26:01",
+      "summary": {
+        "inferred_title": "Regressão com Árvores de Decisão no Dataset Diabetes",
+        "language": "jupyter",
+        "pedagogical_role": "exemplo_demonstrativo",
+        "concepts": [
+          "Árvore de Decisão para Regressão",
+          "Aprendizado Supervisionado",
+          "Dataset Diabetes",
+          "Divisão treino-teste",
+          "Métricas de Regressão",
+          "Poda de Árvore (ccp_alpha)",
+          "Visualização de Árvores de Decisão"
+        ],
+        "summary": "Este notebook demonstra a aplicação de Árvores de Decisão para tarefas de regressão usando o dataset de diabetes. Ele cobre o carregamento e preparação dos dados, a indução e avaliação do modelo de regressão, e a visualização da árvore resultante. O exemplo explora o impacto do parâmetro 'ccp_alpha' na complexidade e desempenho do modelo, utilizando métricas como MAE e RMSE.",
+        "files": [
+          {
+            "name": "exemplo-2-arvores-de-decisao-regressao-diabetes.ipynb",
+            "role": "notebook principal"
+          }
+        ],
+        "suggested_block_id": "bloco-05",
+        "suggested_secondary_ids": [
+          "bloco-04"
+        ],
+        "match_rationale": "O notebook aplica uma técnica de aprendizado supervisionado (árvores de decisão para regressão) e aborda a preparação dos dados.",
+        "primary_block_id": "bloco-05",
+        "secondary_block_ids": [
+          "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
+          "af22fe17-ee73-407f-9af5-d730739d71e0"
+        ],
+        "block_match_confidence": 0.429,
+        "block_match_method": "auto_concept"
+      }
+    },
+    "exemplo-complementar-classificacao-com-arvores-de-decisao": {
+      "content_hash": "446e8ee76e9dfe70a46020f062a235524c5fad6e",
+      "matcher_version": 2,
+      "model": "gemini-2.5-flash",
+      "generated_at": "2026-06-25T16:26:05",
+      "summary": {
+        "inferred_title": "Exemplo Prático de Classificação com Árvores de Decisão",
+        "language": "jupyter",
+        "pedagogical_role": "exemplo_demonstrativo",
+        "concepts": [
+          "Árvores de Decisão",
+          "classificação",
+          "machine learning",
+          "sklearn",
+          "treino e teste",
+          "matriz de confusão",
+          "relatório de classificação",
+          "acurácia"
+        ],
+        "summary": "Este notebook demonstra a implementação de um classificador de Árvore de Decisão utilizando a biblioteca `sklearn` em Python. Ele aborda o carregamento de dados (Iris), divisão em conjuntos de treino e teste, treinamento do modelo e avaliação de desempenho com métricas como acurácia, matriz de confusão e relatório de classificação, finalizando com a visualização da árvore gerada. O objetivo é ilustrar o fluxo completo de um problema de classificação supervisionada.",
+        "files": [
+          {
+            "name": "exemplo-complementar-classificacao-com-arvores-de-decisao.ipynb",
+            "role": "notebook principal"
+          }
+        ],
+        "suggested_block_id": "bloco-05",
+        "suggested_secondary_ids": [
+          "bloco-04",
+          "bloco-06"
+        ],
+        "match_rationale": "O material apresenta uma abordagem supervisionada para classificação de dados, utilizando árvores de decisão, que se alinha perfeitamente com o tópico 'abordagem supervisionada' do bloco 05.",
+        "primary_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
+        "secondary_block_ids": [
+          "af22fe17-ee73-407f-9af5-d730739d71e0",
+          "17ea65f3-5f84-47c7-9357-e090ee1f80ed"
+        ],
+        "block_match_confidence": 0.6,
+        "block_match_method": "llm_only"
+      }
+    },
+    "agrupamento-hierarquico-exemplo-1": {
+      "content_hash": "ed4f448d4ca6b3a99c600f661049df8cf512806b",
+      "matcher_version": 2,
+      "model": "gemini-2.5-flash",
+      "generated_at": "2026-06-25T16:26:12",
+      "summary": {
+        "inferred_title": "Demonstração de Agrupamento Hierárquico Aglomerativo com Scikit-learn",
+        "language": "jupyter",
+        "pedagogical_role": "exemplo_demonstrativo",
+        "concepts": [
+          "Aprendizado Não Supervisionado",
+          "Agrupamento Hierárquico Aglomerativo",
+          "Agglomerative Clustering",
+          "Dendrograma",
+          "Métrica de Distância Euclidiana",
+          "Linkage",
+          "n_clusters"
+        ],
+        "summary": "Este notebook demonstra a aplicação prática do agrupamento hierárquico aglomerativo utilizando a biblioteca `sklearn` em uma lista de pontos. Ele ilustra como configurar e explorar diferentes métodos de linkage (Ward, Single, Complete, Average) e visualizar os resultados através de dendrogramas, bem como a distribuição dos clusters formados.",
+        "files": [
+          {
+            "name": "agrupamento-hierarquico-exemplo-1.ipynb",
+            "role": "notebook-exemplo"
+          }
+        ],
+        "suggested_block_id": "bloco-06",
+        "suggested_secondary_ids": [],
+        "match_rationale": "O bloco menciona explicitamente o termo 'hierarquico', que é o conceito central demonstrado pelo notebook sobre agrupamento hierárquico.",
+        "primary_block_id": "17ea65f3-5f84-47c7-9357-e090ee1f80ed",
+        "secondary_block_ids": [],
+        "block_match_confidence": 0.6,
+        "block_match_method": "llm_only"
+      }
+    },
+    "agrupamento-hierarquico-exemplo-2-use-o-dataset-da-planta-iris": {
+      "content_hash": "8605a694149909af136cab7b5db0e41360640c9f",
+      "matcher_version": 2,
+      "model": "gemini-2.5-flash",
+      "generated_at": "2026-06-25T16:26:19",
+      "summary": {
+        "inferred_title": "Agrupamento Hierárquico Aglomerativo no Dataset Iris",
+        "language": "jupyter",
+        "pedagogical_role": "exemplo_demonstrativo",
+        "concepts": [
+          "Aprendizado não supervisionado",
+          "Agrupamento hierárquico",
+          "Agglomerative Clustering",
+          "Dendrograma",
+          "Métrica de distância",
+          "Linkage",
+          "Dataset Iris",
+          "Scikit-learn"
+        ],
+        "summary": "Este notebook demonstra a aplicação de agrupamento hierárquico aglomerativo no dataset Iris, utilizando a biblioteca scikit-learn. Ele ilustra diferentes configurações de métricas de distância e métodos de linkage, além de visualizar os resultados através de um dendrograma. O código permite comparar como diferentes parâmetros afetam a formação dos clusters.",
+        "files": [
+          {
+            "name": "agrupamento-hierarquico-exemplo-2-use-o-dataset-da-planta-iris.ipynb",
+            "role": "notebook principal"
+          }
+        ],
+        "suggested_block_id": "bloco-06",
+        "suggested_secondary_ids": [],
+        "match_rationale": "O bloco 06 menciona explicitamente 'hierárquico', que é o principal tópico abordado pelo código.",
+        "primary_block_id": "17ea65f3-5f84-47c7-9357-e090ee1f80ed",
+        "secondary_block_ids": [],
+        "block_match_confidence": 0.6,
+        "block_match_method": "llm_only"
+      }
     }
   }
 }

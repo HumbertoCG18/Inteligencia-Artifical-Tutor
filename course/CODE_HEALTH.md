@@ -3,13 +3,13 @@
 > Relatório auto-gerado da saúde da base de código.
 
 ## Cobertura de resumos
-- Códigos totais: **8**
-- Com resumo Gemini: **8 / 8 (100%)**
+- Códigos totais: **29**
+- Com resumo Gemini: **29 / 29 (100%)**
 - Sem resumo: **0**
 
 ## Cobertura timeline
-- Vinculados a aula: **8 / 8**
+- Vinculados a aula: **29 / 29**
 - Órfãos (resumo sem aula): **0**
 
 ## Cobertura por unidade
-- (sem unidade): 8 código(s)
+- (sem unidade): 29 código(s)

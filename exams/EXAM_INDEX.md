@@ -8,5 +8,7 @@
 
 | Arquivo | Tipo | Prova | Observação | Padrão do professor |
 |---|---|---|---|---|
-| P1_2024_02_IA.pdf | original | P1_2024_02_IA |  |  |
 | Prova 1 2024 02.pdf | original | Prova 1 2024 02 |  |  |
+| P2 2024.01.pdf | original | P2 2024.01 |  |  |
+| P2 2024.02.pdf | original | P2 2024.02 |  |  |
+| Prova 1 2024.02.pdf | original | Prova 1 2024.02 |  |  |

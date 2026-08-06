@@ -24,7 +24,12 @@ _Sem códigos vinculados a esta aula._
 
 - **qua 04/03** — visao geral da ia aula
 
-_Sem códigos vinculados a esta aula._
+### Códigos desta aula
+
+
+**Também relevante** (outras aulas como contexto):
+
+- Análise Exploratória de Dados Detalhada do Dataset Iris com Python (`Análise Exploratória de Dados - Exemplo 1.ipynb`)
 
 ---
 
@@ -59,6 +64,32 @@ _Sem códigos vinculados a esta aula._
 - **Implementação do Algoritmo k-NN (K-Nearest Neighbors) para Classificação de Dados** (`Exemplo de programa com k-NN (em java).zip`)
   - Conceitos: k-Nearest Neighbors (k-NN), Classificação supervisionada, Distância Euclidiana, Base de dados Iris
   - Papel: exemplo_demonstrativo
+- **Análise Exploratória de Dados Detalhada do Dataset Iris com Python** (`Análise Exploratória de Dados - Exemplo 1.ipynb`)
+  - Conceitos: Análise Exploratória de Dados (EDA), Pandas DataFrame, Estatísticas Descritivas, Visualização de Dados
+  - Papel: exemplo_demonstrativo
+- **Implementação completa de K-Nearest Neighbors (k-NN) para classificação de flores Iris** (`Exemplo 2 k-NN (com IRIS.csv) - mais completo.ipynb`)
+  - Conceitos: K-Nearest Neighbors (k-NN), Classificação, Dataset Iris, Pandas
+  - Papel: exemplo_demonstrativo
+- **Classificação com o algoritmo k-Nearest Neighbors (k-NN) usando o dataset Iris** (`Exemplo com k-NN.ipynb`)
+  - Conceitos: k-Nearest Neighbors (k-NN), Classificação supervisionada, Pré-processamento de dados, Scikit-learn
+  - Papel: exemplo_demonstrativo
+
+**Também relevante** (outras aulas como contexto):
+
+- Implementação completa de K-Nearest Neighbors (k-NN) para classificação de flores Iris (`Exemplo 2 k-NN (com IRIS.csv) - mais completo.ipynb`)
+- Classificação com o algoritmo k-Nearest Neighbors (k-NN) usando o dataset Iris (`Exemplo com k-NN.ipynb`)
+- Implementação e Treinamento de um Perceptron para Classificação Binária (`Exercicio 2 - Solução com rede Perceptron (atualizado).ipynb`)
+- Implementação e avaliação do algoritmo K-NN para classificação de doenças cardiovasculares (`K-NN para Classificação Exemplo Cardio.ipynb`)
+- Exemplo de Regressão K-NN para Predição de IMC com Pré-processamento e Avaliação de Modelo (`K-NN para Regressão exemplo IMC.ipynb`)
+- Classificação da Planta Iris usando Rede Perceptron (`Rede Perceptron - Classificacao - Planta Iris.ipynb`)
+- Implementação de Perceptron para Classificação Binária de Clientes (`Rede Perceptron - Classificacao de Cliente.ipynb`)
+- Implementação e Treinamento de Perceptron para Reconhecimento de Padrões Visuais (Letras) (`Rede Perceptron - Reconhecendo Letras.ipynb`)
+- Classificação de Inadimplência com MultiLayer Perceptron (MLP), normalização de dados e otimização de hiperparâmetros via GridSearchCV (`MLP Classificação - Inadimplência (normalização e GridSearchCV).ipynb`)
+- Classificação de plantas Iris usando MultiLayer Perceptron (MLP) (`MLP Classificação - IRIS atualizado.ipynb`)
+- Predição de IMC usando MLP para Regressão em Dados Cardiovasculares (`MLP Regressão - Cardio.ipynb`)
+- Classificação de Plantas Iris com Árvores de Decisão (`Exemplo 1 - Árvores de Decisão Classificação - Planta Iris.ipynb`)
+- Regressão com Árvores de Decisão no Dataset Diabetes (`Exemplo 2 - Arvores de Decisão - Regressão - Diabetes.ipynb`)
+- Exemplo Prático de Classificação com Árvores de Decisão (`Exemplo Complementar - Classificação com Árvores de Decisão.ipynb`)
 
 ---
 
@@ -79,7 +110,61 @@ _Sem códigos vinculados a esta aula._
 - **seg 13/04** — ml abordagem supervisionada arvores de decisao aula
 - **qua 15/04** — ml abordagem nao supervisionada k means exercicios aula
 
-_Sem códigos vinculados a esta aula._
+### Códigos desta aula
+
+- **Implementação e Treinamento de um Perceptron para Classificação Binária** (`Exercicio 2 - Solução com rede Perceptron (atualizado).ipynb`)
+  - Conceitos: Perceptron, Função de Ativação Limiar, Algoritmo de Treinamento Perceptron, Pesos Sinápticos
+  - Papel: solucao_referencia
+- **Implementação e avaliação do algoritmo K-NN para classificação de doenças cardiovasculares** (`K-NN para Classificação Exemplo Cardio.ipynb`)
+  - Conceitos: K-Nearest Neighbors (k-NN), Classificação de Machine Learning, Divisão treino-teste, Acurácia do modelo
+  - Papel: exemplo_demonstrativo
+- **Exemplo de Regressão K-NN para Predição de IMC com Pré-processamento e Avaliação de Modelo** (`K-NN para Regressão exemplo IMC.ipynb`)
+  - Conceitos: K-Nearest Neighbors (K-NN) para regressão, Índice de Massa Corporal (IMC), Pré-processamento de dados, Divisão treino-teste
+  - Papel: exemplo_demonstrativo
+- **Classificação da Planta Iris usando Rede Perceptron** (`Rede Perceptron - Classificacao - Planta Iris.ipynb`)
+  - Conceitos: Perceptron, Função de Ativação, Algoritmo de Treinamento, Propagação (forward propagation)
+  - Papel: exemplo_demonstrativo
+- **Implementação de Perceptron para Classificação Binária de Clientes** (`Rede Perceptron - Classificacao de Cliente.ipynb`)
+  - Conceitos: Perceptron, Função de ativação (limiar), Propagação (forward pass), Regra de aprendizado do Perceptron
+  - Papel: exemplo_demonstrativo
+- **Implementação e Treinamento de um Perceptron para a Função OR** (`Rede Perceptron - Exemplo Atualizado.ipynb`)
+  - Conceitos: Perceptron, função de ativação, propagação do sinal, algoritmo de treinamento
+  - Papel: exemplo_demonstrativo
+- **Implementação e Treinamento de um Perceptron para a Função Lógica OR em Python** (`Rede Perceptron - OR em Python.ipynb`)
+  - Conceitos: Perceptron, Função de Ativação (limiar), Algoritmo de Treinamento do Perceptron, Pesos Sinápticos
+  - Papel: exemplo_demonstrativo
+- **Implementação e Treinamento de Perceptron para Reconhecimento de Padrões Visuais (Letras)** (`Rede Perceptron - Reconhecendo Letras.ipynb`)
+  - Conceitos: Perceptron, Redes neurais artificiais, Função de ativação (limiar, logística), Algoritmo de treinamento do Perceptron
+  - Papel: exemplo_demonstrativo
+- **Implementação e Treinamento de uma Rede Neural Perceptron Multicamadas para o Problema XOR** (`MLP - XOR.ipynb.ipynb`)
+  - Conceitos: Rede Neural Perceptron Multicamadas (MLP), Problema XOR, Aprendizado Supervisionado, Treinamento de Rede Neural
+  - Papel: exemplo_demonstrativo
+- **Classificação de Inadimplência com MultiLayer Perceptron (MLP), normalização de dados e otimização de hiperparâmetros via GridSearchCV** (`MLP Classificação - Inadimplência (normalização e GridSearchCV).ipynb`)
+  - Conceitos: Redes Neurais Artificiais, MultiLayer Perceptron, Classificação supervisionada, Normalização de features
+  - Papel: exemplo_demonstrativo
+- **Classificação de plantas Iris usando MultiLayer Perceptron (MLP)** (`MLP Classificação - IRIS atualizado.ipynb`)
+  - Conceitos: MultiLayer Perceptron (MLP), Redes Neurais, Classificação de Dados, Dataset IRIS
+  - Papel: exemplo_demonstrativo
+- **Predição de IMC usando MLP para Regressão em Dados Cardiovasculares** (`MLP Regressão - Cardio.ipynb`)
+  - Conceitos: Redes Neurais Multicamadas (MLP), Regressão, Pré-processamento de Dados, Divisão Treino-Teste
+  - Papel: exemplo_demonstrativo
+- **Implementação do Algoritmo Backpropagation para Problema XOR com MLP em Python** (`XOR - Backpropagation em python.ipynb`)
+  - Conceitos: Multi-Layer Perceptron (MLP), Algoritmo Backpropagation, Funções de Ativação (Sigmoid, ReLU), Pesos e Vieses (Bias)
+  - Papel: exemplo_demonstrativo
+- **Classificação de Plantas Iris com Árvores de Decisão** (`Exemplo 1 - Árvores de Decisão Classificação - Planta Iris.ipynb`)
+  - Conceitos: Machine Learning, Aprendizado Supervisionado, Árvore de Decisão, Classificação
+  - Papel: exemplo_demonstrativo
+- **Regressão com Árvores de Decisão no Dataset Diabetes** (`Exemplo 2 - Arvores de Decisão - Regressão - Diabetes.ipynb`)
+  - Conceitos: Árvore de Decisão para Regressão, Aprendizado Supervisionado, Dataset Diabetes, Divisão treino-teste
+  - Papel: exemplo_demonstrativo
+- **Exemplo Prático de Classificação com Árvores de Decisão** (`Exemplo Complementar - Classificação com Árvores de Decisão.ipynb`)
+  - Conceitos: Árvores de Decisão, classificação, machine learning, sklearn
+  - Papel: exemplo_demonstrativo
+
+**Também relevante** (outras aulas como contexto):
+
+- Análise Exploratória de Dados Detalhada do Dataset Iris com Python (`Análise Exploratória de Dados - Exemplo 1.ipynb`)
+- Regressão com Árvores de Decisão no Dataset Diabetes (`Exemplo 2 - Arvores de Decisão - Regressão - Diabetes.ipynb`)
 
 ---
 
@@ -101,6 +186,24 @@ _Sem códigos vinculados a esta aula._
 - **Agrupamento não supervisionado com k-Means no dataset Iris** (`agrupamento usando k-Means exemplo 2 (.ipynb).ipynb`)
   - Conceitos: Aprendizado não supervisionado, Agrupamento (Clustering), k-Means, Dataset Iris
   - Papel: exemplo_demonstrativo
+- **Demonstração de Agrupamento Hierárquico Aglomerativo com Scikit-learn** (`agrupamento hierarquico - exemplo 1.ipynb`)
+  - Conceitos: Aprendizado Não Supervisionado, Agrupamento Hierárquico Aglomerativo, Agglomerative Clustering, Dendrograma
+  - Papel: exemplo_demonstrativo
+- **Agrupamento Hierárquico Aglomerativo no Dataset Iris** (`agrupamento hierarquico - exemplo 2 (use o dataset da planta IRIS).ipynb`)
+  - Conceitos: Aprendizado não supervisionado, Agrupamento hierárquico, Agglomerative Clustering, Dendrograma
+  - Papel: exemplo_demonstrativo
+
+**Também relevante** (outras aulas como contexto):
+
+- Implementação completa de K-Nearest Neighbors (k-NN) para classificação de flores Iris (`Exemplo 2 k-NN (com IRIS.csv) - mais completo.ipynb`)
+- Classificação com o algoritmo k-Nearest Neighbors (k-NN) usando o dataset Iris (`Exemplo com k-NN.ipynb`)
+- Classificação da Planta Iris usando Rede Perceptron (`Rede Perceptron - Classificacao - Planta Iris.ipynb`)
+- Implementação e Treinamento de uma Rede Neural Perceptron Multicamadas para o Problema XOR (`MLP - XOR.ipynb.ipynb`)
+- Classificação de plantas Iris usando MultiLayer Perceptron (MLP) (`MLP Classificação - IRIS atualizado.ipynb`)
+- Predição de IMC usando MLP para Regressão em Dados Cardiovasculares (`MLP Regressão - Cardio.ipynb`)
+- Implementação do Algoritmo Backpropagation para Problema XOR com MLP em Python (`XOR - Backpropagation em python.ipynb`)
+- Classificação de Plantas Iris com Árvores de Decisão (`Exemplo 1 - Árvores de Decisão Classificação - Planta Iris.ipynb`)
+- Exemplo Prático de Classificação com Árvores de Decisão (`Exemplo Complementar - Classificação com Árvores de Decisão.ipynb`)
 
 ---
 

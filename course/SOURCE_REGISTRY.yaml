@@ -20,146 +20,6 @@ sources:
     effective_profile: auto
     include_in_bundle: true
     professor_signal: ""
-  - id: aprendizadonaosupervisionado-agrupamento-parte1
-    title: "AprendizadoNaoSupervisionado-Agrupamento - parte1"
-    category: material-de-aula
-    file_type: pdf
-    source_path: "C:/Users/Humberto/Downloads/InteligenciaArtificial/AprendizadoNaoSupervisionado-Agrupamento - parte1.pdf"
-    raw_target: "raw/pdfs/material-de-aula/aprendizadonaosupervisionado-agrupamento-parte1.pdf"
-    processing_mode: high_fidelity
-    effective_profile: diagram_heavy
-    include_in_bundle: true
-    professor_signal: ""
-  - id: aprendizadonaosupervisionado-agrupamento-parte2
-    title: "AprendizadoNaoSupervisionado-Agrupamento - parte2"
-    category: material-de-aula
-    file_type: pdf
-    source_path: "C:/Users/Humberto/Downloads/InteligenciaArtificial/AprendizadoNaoSupervisionado-Agrupamento - parte2.pdf"
-    raw_target: "raw/pdfs/material-de-aula/aprendizadonaosupervisionado-agrupamento-parte2.pdf"
-    processing_mode: high_fidelity
-    effective_profile: diagram_heavy
-    include_in_bundle: true
-    professor_signal: ""
-  - id: aprendizadosupervisionado-arvoresdedecisao-duncan
-    title: "AprendizadoSupervisionado-ArvoresDeDecisao-Duncan"
-    category: material-de-aula
-    file_type: pdf
-    source_path: "C:/Users/Humberto/Downloads/InteligenciaArtificial/AprendizadoSupervisionado-ArvoresDeDecisao-Duncan.pdf"
-    raw_target: "raw/pdfs/material-de-aula/aprendizadosupervisionado-arvoresdedecisao-duncan.pdf"
-    processing_mode: high_fidelity
-    effective_profile: math_heavy
-    include_in_bundle: true
-    professor_signal: ""
-  - id: mlp-novaversao
-    title: "mlp_novaVersao"
-    category: material-de-aula
-    file_type: pdf
-    source_path: "C:/Users/Humberto/Downloads/InteligenciaArtificial/mlp_novaVersao.pdf"
-    raw_target: "raw/pdfs/material-de-aula/mlp-novaversao.pdf"
-    processing_mode: high_fidelity
-    effective_profile: diagram_heavy
-    include_in_bundle: true
-    professor_signal: ""
-  - id: redesperceptron2023-02
-    title: "RedesPerceptron2023_02"
-    category: material-de-aula
-    file_type: pdf
-    source_path: "C:/Users/Humberto/Downloads/InteligenciaArtificial/RedesPerceptron2023_02.pdf"
-    raw_target: "raw/pdfs/material-de-aula/redesperceptron2023-02.pdf"
-    processing_mode: high_fidelity
-    effective_profile: diagram_heavy
-    include_in_bundle: true
-    professor_signal: ""
-  - id: aula01-introducao-ia
-    title: "aula01_Introducao_IA"
-    category: material-de-aula
-    file_type: pdf
-    source_path: "C:/Users/Humberto/Downloads/InteligenciaArtificial/aula01_Introducao_IA.pdf"
-    raw_target: "raw/pdfs/material-de-aula/aula01-introducao-ia.pdf"
-    processing_mode: high_fidelity
-    effective_profile: diagram_heavy
-    include_in_bundle: true
-    professor_signal: ""
-  - id: p1-2024-02-ia
-    title: "P1_2024_02_IA"
-    category: provas
-    file_type: pdf
-    source_path: "C:/Users/Humberto/Downloads/InteligenciaArtificial/P1_2024_02_IA.pdf"
-    raw_target: "raw/pdfs/provas/p1-2024-02-ia.pdf"
-    processing_mode: high_fidelity
-    effective_profile: math_heavy
-    include_in_bundle: true
-    professor_signal: ""
-  - id: como-analisar-resultados-sse-comcorrecoes
-    title: "Como Analisar Resultados - SSE_comCorrecoes"
-    category: material-de-aula
-    file_type: pdf
-    source_path: "C:/Users/Humberto/Downloads/InteligenciaArtificial/Como Analisar Resultados - SSE_comCorrecoes.pdf"
-    raw_target: "raw/pdfs/material-de-aula/como-analisar-resultados-sse-comcorrecoes.pdf"
-    processing_mode: high_fidelity
-    effective_profile: diagram_heavy
-    include_in_bundle: true
-    professor_signal: ""
-  - id: inteligencia-artificial-aula-29-aprendizagem-de-maquina-medidas-de-avaliacao
-    title: "Inteligencia Artificial Aula 29 - Aprendizagem de Maquina Medidas de avaliação"
-    category: material-de-aula
-    file_type: pdf
-    source_path: "C:/Users/Humberto/Downloads/InteligenciaArtificial/Inteligencia Artificial Aula 29 - Aprendizagem de Maquina Medidas de avaliação.pdf"
-    raw_target: "raw/pdfs/material-de-aula/inteligencia-artificial-aula-29-aprendizagem-de-maquina-medidas-de-avaliacao.pdf"
-    processing_mode: high_fidelity
-    effective_profile: diagram_heavy
-    include_in_bundle: true
-    professor_signal: ""
-  - id: perceptron-equacaodereta
-    title: "Perceptron-equaçãodeReta"
-    category: material-de-aula
-    file_type: pdf
-    source_path: "C:/Users/Humberto/Downloads/InteligenciaArtificial/Perceptron-equaçãodeReta.pdf"
-    raw_target: "raw/pdfs/material-de-aula/perceptron-equacaodereta.pdf"
-    processing_mode: high_fidelity
-    effective_profile: diagram_heavy
-    include_in_bundle: true
-    professor_signal: ""
-  - id: introducaoredesneurais-2023-02
-    title: "IntroducaoRedesNeurais_2023_02"
-    category: material-de-aula
-    file_type: pdf
-    source_path: "C:/Users/Humberto/Downloads/InteligenciaArtificial/IntroducaoRedesNeurais_2023_02.pdf"
-    raw_target: "raw/pdfs/material-de-aula/introducaoredesneurais-2023-02.pdf"
-    processing_mode: high_fidelity
-    effective_profile: diagram_heavy
-    include_in_bundle: true
-    professor_signal: ""
-  - id: aprendizadosupervisionado-classificacao-knn
-    title: "AprendizadoSupervisionado-Classificacao - kNN"
-    category: material-de-aula
-    file_type: pdf
-    source_path: "C:/Users/Humberto/Downloads/InteligenciaArtificial/AprendizadoSupervisionado-Classificacao - kNN.pdf"
-    raw_target: "raw/pdfs/material-de-aula/aprendizadosupervisionado-classificacao-knn.pdf"
-    processing_mode: high_fidelity
-    effective_profile: diagram_heavy
-    include_in_bundle: true
-    professor_signal: ""
-  - id: caracteristicasdosdados
-    title: "CaracteristicasDosDados"
-    category: material-de-aula
-    file_type: pdf
-    source_path: "C:/Users/Humberto/Downloads/InteligenciaArtificial/CaracteristicasDosDados.pdf"
-    raw_target: "raw/pdfs/material-de-aula/caracteristicasdosdados.pdf"
-    processing_mode: high_fidelity
-    effective_profile: diagram_heavy
-    include_in_bundle: true
-    professor_signal: ""
-  - id: introducaoml-atualizacao2025
-    title: "IntroducaoML - atualização2025"
-    category: material-de-aula
-    file_type: pdf
-    source_path: "C:/Users/Humberto/Downloads/InteligenciaArtificial/IntroducaoML - atualização2025.pdf"
-    raw_target: "raw/pdfs/material-de-aula/introducaoml-atualizacao2025.pdf"
-    processing_mode: high_fidelity
-    effective_profile: diagram_heavy
-    include_in_bundle: true
-    professor_signal: ""
   - id: visao-geral-introducao-e-historico
     title: "Visão Geral - Introdução e Histórico"
     category: material-de-aula
@@ -498,5 +358,265 @@ sources:
     raw_target: "raw/pdfs/listas/lista-de-exercicios-i.pdf"
     processing_mode: high_fidelity
     effective_profile: diagram_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: respostas-da-lista-i-feito-pela-aluna-chiara
+    title: "Respostas da lista I (feito pela aluna Chiara)"
+    category: gabaritos
+    file_type: pdf
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\inteligencia-artificial\\Semana 15 - 08.06 a 12.06 - Algoritmos de Busca\\Respostas da lista I (feito pela aluna Chiara).pdf"
+    raw_target: "raw/pdfs/gabaritos/respostas-da-lista-i-feito-pela-aluna-chiara.pdf"
+    processing_mode: high_fidelity
+    effective_profile: diagram_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: introducao-a-agentes
+    title: "Introducao a agentes"
+    category: material-de-aula
+    file_type: pdf
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\inteligencia-artificial\\Semana 16 - 15.06 a 19.06 - Algoritmos de Busca e Agentes\\Introducao a agentes.pdf"
+    raw_target: "raw/pdfs/material-de-aula/introducao-a-agentes.pdf"
+    processing_mode: high_fidelity
+    effective_profile: diagram_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: p2-202401
+    title: "P2 2024.01"
+    category: provas
+    file_type: pdf
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\inteligencia-artificial\\TDE Trabalho Discente Efetivo\\P2 2024.01.pdf"
+    raw_target: "raw/pdfs/provas/p2-202401.pdf"
+    processing_mode: high_fidelity
+    effective_profile: diagram_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: p2-202402
+    title: "P2 2024.02"
+    category: provas
+    file_type: pdf
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\inteligencia-artificial\\TDE Trabalho Discente Efetivo\\P2 2024.02.pdf"
+    raw_target: "raw/pdfs/provas/p2-202402.pdf"
+    processing_mode: high_fidelity
+    effective_profile: diagram_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: prova-1-202402
+    title: "Prova 1 2024.02"
+    category: provas
+    file_type: pdf
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\inteligencia-artificial\\TDE Trabalho Discente Efetivo\\Prova 1 2024.02.pdf"
+    raw_target: "raw/pdfs/provas/prova-1-202402.pdf"
+    processing_mode: high_fidelity
+    effective_profile: diagram_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: analise-exploratoria-de-dados-exemplo-1
+    title: "Análise Exploratória de Dados - Exemplo 1"
+    category: codigo-professor
+    file_type: code
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\inteligencia-artificial\\Semana 3 - 16.03 a 20.03 - Machine Learning e Dados\\Análise Exploratória de Dados - Exemplo 1.ipynb"
+    raw_target: "raw/code/professor/analise-exploratoria-de-dados-exemplo-1.ipynb"
+    processing_mode: high_fidelity
+    effective_profile: auto
+    include_in_bundle: true
+    professor_signal: ""
+  - id: exemplo-2-k-nn-com-iriscsv-mais-completo
+    title: "Exemplo 2 k-NN (com IRIS.csv) - mais completo"
+    category: codigo-professor
+    file_type: code
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\inteligencia-artificial\\Semana 3 - 16.03 a 20.03 - Machine Learning e Dados\\Exemplo 2 k-NN (com IRIS.csv) - mais completo.ipynb"
+    raw_target: "raw/code/professor/exemplo-2-k-nn-com-iriscsv-mais-completo.ipynb"
+    processing_mode: high_fidelity
+    effective_profile: auto
+    include_in_bundle: true
+    professor_signal: ""
+  - id: exemplo-com-k-nn
+    title: "Exemplo com k-NN"
+    category: codigo-professor
+    file_type: code
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\inteligencia-artificial\\Semana 3 - 16.03 a 20.03 - Machine Learning e Dados\\Exemplo com k-NN.ipynb"
+    raw_target: "raw/code/professor/exemplo-com-k-nn.ipynb"
+    processing_mode: high_fidelity
+    effective_profile: auto
+    include_in_bundle: true
+    professor_signal: ""
+  - id: exercicio-2-solucao-com-rede-perceptron-atualizado
+    title: "Exercicio 2 - Solução com rede Perceptron (atualizado)"
+    category: codigo-professor
+    file_type: code
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\inteligencia-artificial\\Semana 4 - 23.03 a 27.03 - Machine Learning Aprendizado Supervisionado\\Exercicio 2 - Solução com rede Perceptron (atualizado).ipynb"
+    raw_target: "raw/code/professor/exercicio-2-solucao-com-rede-perceptron-atualizado.ipynb"
+    processing_mode: high_fidelity
+    effective_profile: auto
+    include_in_bundle: true
+    professor_signal: ""
+  - id: k-nn-para-classificacao-exemplo-cardio
+    title: "K-NN para Classificação Exemplo Cardio"
+    category: codigo-professor
+    file_type: code
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\inteligencia-artificial\\Semana 4 - 23.03 a 27.03 - Machine Learning Aprendizado Supervisionado\\K-NN para Classificação Exemplo Cardio.ipynb"
+    raw_target: "raw/code/professor/k-nn-para-classificacao-exemplo-cardio.ipynb"
+    processing_mode: high_fidelity
+    effective_profile: auto
+    include_in_bundle: true
+    professor_signal: ""
+  - id: k-nn-para-regressao-exemplo-imc
+    title: "K-NN para Regressão exemplo IMC"
+    category: codigo-professor
+    file_type: code
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\inteligencia-artificial\\Semana 4 - 23.03 a 27.03 - Machine Learning Aprendizado Supervisionado\\K-NN para Regressão exemplo IMC.ipynb"
+    raw_target: "raw/code/professor/k-nn-para-regressao-exemplo-imc.ipynb"
+    processing_mode: high_fidelity
+    effective_profile: auto
+    include_in_bundle: true
+    professor_signal: ""
+  - id: rede-perceptron-classificacao-planta-iris
+    title: "Rede Perceptron - Classificacao - Planta Iris"
+    category: codigo-professor
+    file_type: code
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\inteligencia-artificial\\Semana 4 - 23.03 a 27.03 - Machine Learning Aprendizado Supervisionado\\Rede Perceptron - Classificacao - Planta Iris.ipynb"
+    raw_target: "raw/code/professor/rede-perceptron-classificacao-planta-iris.ipynb"
+    processing_mode: high_fidelity
+    effective_profile: auto
+    include_in_bundle: true
+    professor_signal: ""
+  - id: rede-perceptron-classificacao-de-cliente
+    title: "Rede Perceptron - Classificacao de Cliente"
+    category: codigo-professor
+    file_type: code
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\inteligencia-artificial\\Semana 4 - 23.03 a 27.03 - Machine Learning Aprendizado Supervisionado\\Rede Perceptron - Classificacao de Cliente.ipynb"
+    raw_target: "raw/code/professor/rede-perceptron-classificacao-de-cliente.ipynb"
+    processing_mode: high_fidelity
+    effective_profile: auto
+    include_in_bundle: true
+    professor_signal: ""
+  - id: rede-perceptron-exemplo-atualizado
+    title: "Rede Perceptron - Exemplo Atualizado"
+    category: codigo-professor
+    file_type: code
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\inteligencia-artificial\\Semana 4 - 23.03 a 27.03 - Machine Learning Aprendizado Supervisionado\\Rede Perceptron - Exemplo Atualizado.ipynb"
+    raw_target: "raw/code/professor/rede-perceptron-exemplo-atualizado.ipynb"
+    processing_mode: high_fidelity
+    effective_profile: auto
+    include_in_bundle: true
+    professor_signal: ""
+  - id: rede-perceptron-or-em-python
+    title: "Rede Perceptron - OR em Python"
+    category: codigo-professor
+    file_type: code
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\inteligencia-artificial\\Semana 4 - 23.03 a 27.03 - Machine Learning Aprendizado Supervisionado\\Rede Perceptron - OR em Python.ipynb"
+    raw_target: "raw/code/professor/rede-perceptron-or-em-python.ipynb"
+    processing_mode: high_fidelity
+    effective_profile: auto
+    include_in_bundle: true
+    professor_signal: ""
+  - id: rede-perceptron-reconhecendo-letras
+    title: "Rede Perceptron - Reconhecendo Letras"
+    category: codigo-professor
+    file_type: code
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\inteligencia-artificial\\Semana 4 - 23.03 a 27.03 - Machine Learning Aprendizado Supervisionado\\Rede Perceptron - Reconhecendo Letras.ipynb"
+    raw_target: "raw/code/professor/rede-perceptron-reconhecendo-letras.ipynb"
+    processing_mode: high_fidelity
+    effective_profile: auto
+    include_in_bundle: true
+    professor_signal: ""
+  - id: mlp-xoripynb
+    title: "MLP - XOR.ipynb"
+    category: codigo-professor
+    file_type: code
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\inteligencia-artificial\\Semana 5 -30.03 a 01.04 ML - Aprendizado Supervisionado\\MLP - XOR.ipynb.ipynb"
+    raw_target: "raw/code/professor/mlp-xoripynb.ipynb"
+    processing_mode: high_fidelity
+    effective_profile: auto
+    include_in_bundle: true
+    professor_signal: ""
+  - id: mlp-classificacao-inadimplencia-normalizacao-e-gridsearchcv
+    title: "MLP Classificação - Inadimplência (normalização e GridSearchCV)"
+    category: codigo-professor
+    file_type: code
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\inteligencia-artificial\\Semana 5 -30.03 a 01.04 ML - Aprendizado Supervisionado\\MLP Classificação - Inadimplência (normalização e GridSearchCV).ipynb"
+    raw_target: "raw/code/professor/mlp-classificacao-inadimplencia-normalizacao-e-gridsearchcv.ipynb"
+    processing_mode: high_fidelity
+    effective_profile: auto
+    include_in_bundle: true
+    professor_signal: ""
+  - id: mlp-classificacao-iris-atualizado
+    title: "MLP Classificação - IRIS atualizado"
+    category: codigo-professor
+    file_type: code
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\inteligencia-artificial\\Semana 5 -30.03 a 01.04 ML - Aprendizado Supervisionado\\MLP Classificação - IRIS atualizado.ipynb"
+    raw_target: "raw/code/professor/mlp-classificacao-iris-atualizado.ipynb"
+    processing_mode: high_fidelity
+    effective_profile: auto
+    include_in_bundle: true
+    professor_signal: ""
+  - id: mlp-regressao-cardio
+    title: "MLP Regressão - Cardio"
+    category: codigo-professor
+    file_type: code
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\inteligencia-artificial\\Semana 5 -30.03 a 01.04 ML - Aprendizado Supervisionado\\MLP Regressão - Cardio.ipynb"
+    raw_target: "raw/code/professor/mlp-regressao-cardio.ipynb"
+    processing_mode: high_fidelity
+    effective_profile: auto
+    include_in_bundle: true
+    professor_signal: ""
+  - id: xor-backpropagation-em-python
+    title: "XOR - Backpropagation em python"
+    category: codigo-professor
+    file_type: code
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\inteligencia-artificial\\Semana 5 -30.03 a 01.04 ML - Aprendizado Supervisionado\\XOR - Backpropagation em python.ipynb"
+    raw_target: "raw/code/professor/xor-backpropagation-em-python.ipynb"
+    processing_mode: high_fidelity
+    effective_profile: auto
+    include_in_bundle: true
+    professor_signal: ""
+  - id: exemplo-1-arvores-de-decisao-classificacao-planta-iris
+    title: "Exemplo 1 - Árvores de Decisão Classificação - Planta Iris"
+    category: codigo-professor
+    file_type: code
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\inteligencia-artificial\\Semana 7 - 13.04 a 17.04 - ML - Aprendizado Supervisionado\\Exemplo 1 - Árvores de Decisão Classificação - Planta Iris.ipynb"
+    raw_target: "raw/code/professor/exemplo-1-arvores-de-decisao-classificacao-planta-iris.ipynb"
+    processing_mode: high_fidelity
+    effective_profile: auto
+    include_in_bundle: true
+    professor_signal: ""
+  - id: exemplo-2-arvores-de-decisao-regressao-diabetes
+    title: "Exemplo 2 - Arvores de Decisão - Regressão - Diabetes"
+    category: codigo-professor
+    file_type: code
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\inteligencia-artificial\\Semana 7 - 13.04 a 17.04 - ML - Aprendizado Supervisionado\\Exemplo 2 - Arvores de Decisão - Regressão - Diabetes.ipynb"
+    raw_target: "raw/code/professor/exemplo-2-arvores-de-decisao-regressao-diabetes.ipynb"
+    processing_mode: high_fidelity
+    effective_profile: auto
+    include_in_bundle: true
+    professor_signal: ""
+  - id: exemplo-complementar-classificacao-com-arvores-de-decisao
+    title: "Exemplo Complementar - Classificação com Árvores de Decisão"
+    category: codigo-professor
+    file_type: code
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\inteligencia-artificial\\Semana 7 - 13.04 a 17.04 - ML - Aprendizado Supervisionado\\Exemplo Complementar - Classificação com Árvores de Decisão.ipynb"
+    raw_target: "raw/code/professor/exemplo-complementar-classificacao-com-arvores-de-decisao.ipynb"
+    processing_mode: high_fidelity
+    effective_profile: auto
+    include_in_bundle: true
+    professor_signal: ""
+  - id: agrupamento-hierarquico-exemplo-1
+    title: "agrupamento hierarquico - exemplo 1"
+    category: codigo-professor
+    file_type: code
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\inteligencia-artificial\\Semana 9 - 27.04 a 01.05 - ML - Aprendizado Não Supervisionado\\agrupamento hierarquico - exemplo 1.ipynb"
+    raw_target: "raw/code/professor/agrupamento-hierarquico-exemplo-1.ipynb"
+    processing_mode: high_fidelity
+    effective_profile: auto
+    include_in_bundle: true
+    professor_signal: ""
+  - id: agrupamento-hierarquico-exemplo-2-use-o-dataset-da-planta-iris
+    title: "agrupamento hierarquico - exemplo 2 (use o dataset da planta IRIS)"
+    category: codigo-professor
+    file_type: code
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\inteligencia-artificial\\Semana 9 - 27.04 a 01.05 - ML - Aprendizado Não Supervisionado\\agrupamento hierarquico - exemplo 2 (use o dataset da planta IRIS).ipynb"
+    raw_target: "raw/code/professor/agrupamento-hierarquico-exemplo-2-use-o-dataset-da-planta-iris.ipynb"
+    processing_mode: high_fidelity
+    effective_profile: auto
     include_in_bundle: true
     professor_signal: ""

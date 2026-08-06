@@ -1,8 +1,8 @@
 {
  "Semana 1 - 02.03 a 06.03 - Plano de Ensino e Introdução a IA": {
   "block_ids": [
-   "bloco-01",
-   "bloco-02"
+   "43b6f936-7dc9-49fa-8f19-a88b66dc9b98",
+   "55691241-63a8-4053-aea8-8a835c90f4f7"
   ],
   "source": "labels",
   "format": "B",
@@ -13,8 +13,8 @@
  },
  "Semana 2 - 09.03 a 13.03 - Introdução a IA (continuação) e Introdução a ML": {
   "block_ids": [
-   "bloco-03",
-   "bloco-04"
+   "fbf15f4c-54b1-489d-bb02-f9bd33dc1bd3",
+   "af22fe17-ee73-407f-9af5-d730739d71e0"
   ],
   "source": "labels",
   "format": "B",
@@ -25,8 +25,8 @@
  },
  "Semana 3 - 16.03 a 20.03 - Machine Learning e Dados": {
   "block_ids": [
-   "bloco-04",
-   "bloco-05"
+   "af22fe17-ee73-407f-9af5-d730739d71e0",
+   "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f"
   ],
   "source": "labels",
   "format": "B",
@@ -37,7 +37,7 @@
  },
  "Semana 4 - 23.03 a 27.03 - Machine Learning Aprendizado Supervisionado": {
   "block_ids": [
-   "bloco-05"
+   "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f"
   ],
   "source": "labels",
   "format": "B",
@@ -48,7 +48,7 @@
  },
  "Semana 5 -30.03 a 01.04 ML - Aprendizado Supervisionado": {
   "block_ids": [
-   "bloco-05"
+   "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f"
   ],
   "source": "labels",
   "format": "B",
@@ -59,7 +59,7 @@
  },
  "Semana 6 - 06.04 a 10.04 - ML - Aprendizado Supervisionado": {
   "block_ids": [
-   "bloco-05"
+   "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f"
   ],
   "source": "labels",
   "format": "B",
@@ -70,7 +70,7 @@
  },
  "Semana 7 - 13.04 a 17.04 - ML - Aprendizado Supervisionado": {
   "block_ids": [
-   "bloco-05"
+   "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f"
   ],
   "source": "labels",
   "format": "B",
@@ -81,7 +81,7 @@
  },
  "Semana 8 - 20.04 a 24.04 - ML - Aprendizado Não Supervisionado": {
   "block_ids": [
-   "bloco-06"
+   "17ea65f3-5f84-47c7-9357-e090ee1f80ed"
   ],
   "source": "labels",
   "format": "B",
@@ -92,8 +92,8 @@
  },
  "Semana 9 - 27.04 a 01.05 - ML - Aprendizado Não Supervisionado": {
   "block_ids": [
-   "bloco-06",
-   "bloco-07"
+   "17ea65f3-5f84-47c7-9357-e090ee1f80ed",
+   "696e2177-a69e-4dbb-9b79-73e03f3e8c85"
   ],
   "source": "labels",
   "format": "B",
@@ -104,7 +104,7 @@
  },
  "Semana 10 - 04.04 a 08.04 - Avaliações": {
   "block_ids": [
-   "bloco-05"
+   "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f"
   ],
   "source": "labels",
   "format": "B",
@@ -115,8 +115,8 @@
  },
  "Semana 11 -11.05 a 15.05 - Avaliações": {
   "block_ids": [
-   "bloco-10",
-   "bloco-11"
+   "7eb6a214-73e1-48c7-a4a7-8bf66cf66385",
+   "f611d54d-9f6a-4534-b54c-01a600d38d8f"
   ],
   "source": "labels",
   "format": "B",
@@ -127,7 +127,7 @@
  },
  "Semana 12 - 18.05 a 22.05 - Algoritmos de Busca com Informação": {
   "block_ids": [
-   "bloco-12"
+   "0b986383-663a-4a54-b000-4b97ebce59c4"
   ],
   "source": "labels",
   "format": "B",
@@ -138,8 +138,8 @@
  },
  "Semana 13 - 25.05 a 29.05 - Algoritmos de Busca com Informação": {
   "block_ids": [
-   "bloco-13",
-   "bloco-14"
+   "ab4631aa-d8e3-4c85-833c-369de28d773a",
+   "d75c82cf-f46d-4b1e-8a65-9b890166dc7d"
   ],
   "source": "labels",
   "format": "B",
@@ -150,7 +150,7 @@
  },
  "Semana 14 - 01.06 a 05.06 - Algoritmos de Busca com Informação": {
   "block_ids": [
-   "bloco-15"
+   "1de905a2-724e-4841-8d7b-a62bf7a42212"
   ],
   "source": "labels",
   "format": "B",
@@ -161,8 +161,8 @@
  },
  "Semana 15 - 08.06 a 12.06 - Algoritmos de Busca": {
   "block_ids": [
-   "bloco-15",
-   "bloco-16"
+   "1de905a2-724e-4841-8d7b-a62bf7a42212",
+   "4062d883-01e9-47d1-be03-61ea23b0adff"
   ],
   "source": "labels",
   "format": "B",
@@ -173,8 +173,8 @@
  },
  "Semana 16 - 15.06 a 19.06 - Algoritmos de Busca e Agentes": {
   "block_ids": [
-   "bloco-16",
-   "bloco-17"
+   "4062d883-01e9-47d1-be03-61ea23b0adff",
+   "bfaa3df7-b5b1-4d7b-8f7e-1e38f29ed016"
   ],
   "source": "labels",
   "format": "B",
@@ -187,5 +187,17 @@
   "block_ids": [],
   "source": "labels",
   "assign_due": "2026-05-04"
+ },
+ "Semana 17 - 22.06 a 26.06 - Exercicios": {
+  "block_ids": [
+   "f431d36f-a2ba-4fe1-9072-ff0472d24e42",
+   "851995f0-743a-480f-bc63-304f8354919d"
+  ],
+  "source": "labels",
+  "format": "B",
+  "dates": [
+   "2026-06-22",
+   "2026-06-24"
+  ]
  }
 }

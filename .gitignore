@@ -29,3 +29,6 @@ __pycache__/
 .DS_Store
 # Exportação local para DeepTutor (não commitada)
 .deeptutor/
+# backups locais nao versionados (padrao T19)
+*.bak
+*.apibak
