@@ -112,7 +112,6 @@
       "tags": "",
       "manual_tags": [],
       "auto_tags": [
-        "topico:introducao-a-ia-visao-geral",
         "tipo:material-base",
         "subunit:introducao-a-agentes-em-ambientes-deterministicos",
         "bloco:bloco-01"
@@ -843,29 +842,36 @@
       "computed_unit_slug": "",
       "computed_block_method": "card+scorer",
       "computed_block_id": "43b6f936-7dc9-49fa-8f19-a88b66dc9b98",
-      "computed_block_confidence": 0.4404922336821417,
+      "computed_block_confidence": 0.4629348252108687,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=63.12",
-        "topic_score=23.91"
+        "winner_score=56.69",
+        "topic_score=16.38"
       ],
-      "unit_match_confidence": 0.49385112185654295,
+      "unit_match_confidence": 0.2722832722832722,
       "unit_block_conflict": {},
       "computed_subunit_slug": "introducao-a-agentes-em-ambientes-deterministicos",
       "subunit_match_reasons": [
-        "winner_score=23.91"
+        "winner_score=16.38"
       ],
-      "subunit_match_confidence": 0.9403684307393713,
+      "subunit_match_confidence": 0.912967032967033,
       "approved_markdown": "content/curated/visao-geral-introducao-e-historico.md",
       "curated_markdown": "content/curated/visao-geral-introducao-e-historico.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/visao-geral-introducao-e-historico/visao-geral-introducao-e-historico.md",
       "approved_at": "2026-06-19T08:11:06",
       "review_status": "approved",
-      "temporal_block_id": "43b6f936-7dc9-49fa-8f19-a88b66dc9b98",
-      "temporal_block_method": "anchor",
+      "temporal_block_id": "55691241-63a8-4053-aea8-8a835c90f4f7",
+      "temporal_block_method": "llm",
       "moodle_label": "Visão Geral - Introdução e Histórico",
       "posting_date": "2026-02-24",
-      "posting_date_created": "2026-02-24"
+      "posting_date_created": "2026-02-24",
+      "temporal_block_band": "media",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "llm",
+      "temporal_block_window": [
+        "43b6f936-7dc9-49fa-8f19-a88b66dc9b98",
+        "55691241-63a8-4053-aea8-8a835c90f4f7"
+      ]
     },
     {
       "id": "cap-sobre-algoritmos-geneticos-lacerda-e-outros",
@@ -1103,16 +1109,16 @@
       "computed_block_confidence": 0.85,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=96.16",
-        "topic_score=15.41"
+        "winner_score=96.01",
+        "topic_score=15.23"
       ],
-      "unit_match_confidence": 0.8013339561922558,
+      "unit_match_confidence": 0.7989863977732262,
       "unit_block_conflict": {},
       "computed_subunit_slug": "introducao-a-agentes-em-ambientes-deterministicos",
       "subunit_match_reasons": [
-        "winner_score=15.41"
+        "winner_score=15.23"
       ],
-      "subunit_match_confidence": 0.7043366552475864,
+      "subunit_match_confidence": 0.700842917913975,
       "approved_markdown": "content/curated/cap-sobre-algoritmos-geneticos-lacerda-e-outros.md",
       "curated_markdown": "content/curated/cap-sobre-algoritmos-geneticos-lacerda-e-outros.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/cap-sobre-algoritmos-geneticos-lacerda-e-outros/cap-sobre-algoritmos-geneticos-lacerda-e-outros.md",
@@ -1120,7 +1126,15 @@
       "review_status": "approved",
       "moodle_label": "Cap. sobre Algoritmos Geneticos (Lacerda e outros)",
       "posting_date": "2026-02-24",
-      "posting_date_created": "2026-02-24"
+      "posting_date_created": "2026-02-24",
+      "temporal_block_id": "0b986383-663a-4a54-b000-4b97ebce59c4",
+      "temporal_block_method": "janela-1",
+      "temporal_block_band": "alta",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "labels",
+      "temporal_block_window": [
+        "0b986383-663a-4a54-b000-4b97ebce59c4"
+      ]
     },
     {
       "id": "minimax-teoria",
@@ -1498,7 +1512,14 @@
       "approved_at": "2026-06-19T08:12:40",
       "review_status": "approved",
       "temporal_block_id": "1de905a2-724e-4841-8d7b-a62bf7a42212",
-      "temporal_block_method": "anchor"
+      "temporal_block_method": "llm",
+      "temporal_block_band": "media",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "llm",
+      "temporal_block_window": [
+        "1de905a2-724e-4841-8d7b-a62bf7a42212",
+        "4062d883-01e9-47d1-be03-61ea23b0adff"
+      ]
     },
     {
       "id": "rede-perceptron",
@@ -2324,10 +2345,16 @@
       "approved_at": "2026-06-19T08:11:32",
       "review_status": "approved",
       "temporal_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
-      "temporal_block_method": "anchor",
+      "temporal_block_method": "janela-1",
       "moodle_label": "Rede Perceptron",
       "posting_date": "2026-02-24",
-      "posting_date_created": "2026-02-24"
+      "posting_date_created": "2026-02-24",
+      "temporal_block_band": "alta",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "labels",
+      "temporal_block_window": [
+        "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f"
+      ]
     },
     {
       "id": "mlp",
@@ -3338,10 +3365,16 @@
       "approved_at": "2026-06-19T08:12:18",
       "review_status": "approved",
       "temporal_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
-      "temporal_block_method": "anchor",
+      "temporal_block_method": "janela-1",
       "moodle_label": "MLP",
       "posting_date": "2026-02-24",
-      "posting_date_created": "2026-02-24"
+      "posting_date_created": "2026-02-24",
+      "temporal_block_band": "alta",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "labels",
+      "temporal_block_window": [
+        "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f"
+      ]
     },
     {
       "id": "arvores-de-decisao",
@@ -4012,10 +4045,16 @@
       "approved_at": "2026-06-19T08:10:53",
       "review_status": "approved",
       "temporal_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
-      "temporal_block_method": "anchor",
+      "temporal_block_method": "janela-1",
       "moodle_label": "Árvores de Decisão",
       "posting_date": "2026-02-24",
-      "posting_date_created": "2026-02-24"
+      "posting_date_created": "2026-02-24",
+      "temporal_block_band": "alta",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "labels",
+      "temporal_block_window": [
+        "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f"
+      ]
     },
     {
       "id": "aula-sobre-agrupamento-parte-1-particional",
@@ -4326,10 +4365,16 @@
       "approved_at": "2026-06-19T08:14:44",
       "review_status": "approved",
       "temporal_block_id": "17ea65f3-5f84-47c7-9357-e090ee1f80ed",
-      "temporal_block_method": "anchor",
+      "temporal_block_method": "janela-1",
       "moodle_label": "Aula sobre Agrupamento  - parte 1 (particional)",
       "posting_date": "2026-04-22",
-      "posting_date_created": "2026-04-22"
+      "posting_date_created": "2026-04-22",
+      "temporal_block_band": "alta",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "labels",
+      "temporal_block_window": [
+        "17ea65f3-5f84-47c7-9357-e090ee1f80ed"
+      ]
     },
     {
       "id": "aula-sobre-agrupamento-parte-2-hierarquico",
@@ -4851,10 +4896,17 @@
       "approved_at": "2026-06-19T08:14:32",
       "review_status": "approved",
       "temporal_block_id": "17ea65f3-5f84-47c7-9357-e090ee1f80ed",
-      "temporal_block_method": "anchor",
+      "temporal_block_method": "llm",
       "moodle_label": "Aula sobre Agrupamento - parte 2 (hierarquico)",
       "posting_date": "2026-02-24",
-      "posting_date_created": "2026-02-24"
+      "posting_date_created": "2026-02-24",
+      "temporal_block_band": "media",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "llm",
+      "temporal_block_window": [
+        "17ea65f3-5f84-47c7-9357-e090ee1f80ed",
+        "696e2177-a69e-4dbb-9b79-73e03f3e8c85"
+      ]
     },
     {
       "id": "minimax",
@@ -5232,10 +5284,17 @@
       "approved_at": "2026-06-19T08:12:30",
       "review_status": "approved",
       "temporal_block_id": "1de905a2-724e-4841-8d7b-a62bf7a42212",
-      "temporal_block_method": "anchor",
+      "temporal_block_method": "llm",
       "moodle_label": "Minimax",
       "posting_date": "2026-02-24",
-      "posting_date_created": "2026-02-24"
+      "posting_date_created": "2026-02-24",
+      "temporal_block_band": "media",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "llm",
+      "temporal_block_window": [
+        "1de905a2-724e-4841-8d7b-a62bf7a42212",
+        "4062d883-01e9-47d1-be03-61ea23b0adff"
+      ]
     },
     {
       "id": "algoritmo-genetico",
@@ -5438,7 +5497,7 @@
       "subunit_match_reasons": [
         "winner_score=16.31"
       ],
-      "subunit_match_confidence": 0.4834359137833796,
+      "subunit_match_confidence": 0.49447046418675367,
       "approved_markdown": "content/curated/algoritmo-genetico.md",
       "curated_markdown": "content/curated/algoritmo-genetico.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/algoritmo-genetico/algoritmo-genetico.md",
@@ -5446,7 +5505,15 @@
       "review_status": "approved",
       "moodle_label": "Algoritmo Genetico",
       "posting_date": "2026-02-24",
-      "posting_date_created": "2026-02-24"
+      "posting_date_created": "2026-02-24",
+      "temporal_block_id": "0b986383-663a-4a54-b000-4b97ebce59c4",
+      "temporal_block_method": "janela-1",
+      "temporal_block_band": "alta",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "labels",
+      "temporal_block_window": [
+        "0b986383-663a-4a54-b000-4b97ebce59c4"
+      ]
     },
     {
       "id": "introducao-a-busca-informada",
@@ -5663,16 +5730,16 @@
       "computed_block_confidence": 0.85,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=87.80",
-        "topic_score=16.56"
+        "winner_score=87.64",
+        "topic_score=16.38"
       ],
       "unit_match_confidence": 0.95,
       "unit_block_conflict": {},
       "computed_subunit_slug": "introducao-a-agentes-em-ambientes-deterministicos",
       "subunit_match_reasons": [
-        "winner_score=16.56"
+        "winner_score=16.38"
       ],
-      "subunit_match_confidence": 0.4367979902896205,
+      "subunit_match_confidence": 0.43060880607585045,
       "approved_markdown": "content/curated/introducao-a-busca-informada.md",
       "curated_markdown": "content/curated/introducao-a-busca-informada.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/introducao-a-busca-informada/introducao-a-busca-informada.md",
@@ -5680,7 +5747,15 @@
       "review_status": "approved",
       "moodle_label": "Introducao a busca informada",
       "posting_date": "2026-02-24",
-      "posting_date_created": "2026-02-24"
+      "posting_date_created": "2026-02-24",
+      "temporal_block_id": "0b986383-663a-4a54-b000-4b97ebce59c4",
+      "temporal_block_method": "janela-1",
+      "temporal_block_band": "alta",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "labels",
+      "temporal_block_window": [
+        "0b986383-663a-4a54-b000-4b97ebce59c4"
+      ]
     },
     {
       "id": "outros-operadores",
@@ -5784,7 +5859,15 @@
       "review_status": "approved",
       "moodle_label": "Outros operadores",
       "posting_date": "2026-02-24",
-      "posting_date_created": "2026-02-24"
+      "posting_date_created": "2026-02-24",
+      "temporal_block_id": "0b986383-663a-4a54-b000-4b97ebce59c4",
+      "temporal_block_method": "janela-1",
+      "temporal_block_band": "alta",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "labels",
+      "temporal_block_window": [
+        "0b986383-663a-4a54-b000-4b97ebce59c4"
+      ]
     },
     {
       "id": "programa-exemplo-ag",
@@ -5887,7 +5970,15 @@
       "computed_block_match_confidence": 0.6,
       "moodle_label": "programa-exemplo AG",
       "posting_date": "2026-02-24",
-      "posting_date_created": "2026-02-24"
+      "posting_date_created": "2026-02-24",
+      "temporal_block_id": "0b986383-663a-4a54-b000-4b97ebce59c4",
+      "temporal_block_method": "janela-1",
+      "temporal_block_band": "alta",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "labels",
+      "temporal_block_window": [
+        "0b986383-663a-4a54-b000-4b97ebce59c4"
+      ]
     },
     {
       "id": "ag-feito-em-aula-pelo-luca",
@@ -5950,10 +6041,17 @@
       "computed_block_rationale": "O código demonstra um algoritmo de busca meta-heurística, o que se alinha com o tema de 'Algoritmos busca'.",
       "computed_block_match_confidence": 0.75,
       "temporal_block_id": "ab4631aa-d8e3-4c85-833c-369de28d773a",
-      "temporal_block_method": "anchor",
+      "temporal_block_method": "llm",
       "moodle_label": "AG feito em aula pelo Luca",
       "posting_date": "2026-05-26",
-      "posting_date_created": "2026-05-26"
+      "posting_date_created": "2026-05-26",
+      "temporal_block_band": "media",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "llm",
+      "temporal_block_window": [
+        "ab4631aa-d8e3-4c85-833c-369de28d773a",
+        "d75c82cf-f46d-4b1e-8a65-9b890166dc7d"
+      ]
     },
     {
       "id": "algoritmo-dijkstra",
@@ -6270,10 +6368,16 @@
       "approved_at": "2026-06-19T08:10:00",
       "review_status": "approved",
       "temporal_block_id": "1de905a2-724e-4841-8d7b-a62bf7a42212",
-      "temporal_block_method": "anchor",
+      "temporal_block_method": "janela-1",
       "moodle_label": "Algoritmo Dijkstra",
       "posting_date": "2026-02-24",
-      "posting_date_created": "2026-02-24"
+      "posting_date_created": "2026-02-24",
+      "temporal_block_band": "alta",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "labels",
+      "temporal_block_window": [
+        "1de905a2-724e-4841-8d7b-a62bf7a42212"
+      ]
     },
     {
       "id": "hill-climbing-e-simulated-annealing",
@@ -6412,17 +6516,23 @@
       "subunit_match_reasons": [
         "winner_score=9.69"
       ],
-      "subunit_match_confidence": 0.5213325902532664,
+      "subunit_match_confidence": 0.529692241005635,
       "approved_markdown": "content/curated/hill-climbing-e-simulated-annealing.md",
       "curated_markdown": "content/curated/hill-climbing-e-simulated-annealing.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/hill-climbing-e-simulated-annealing/hill-climbing-e-simulated-annealing.md",
       "approved_at": "2026-06-19T08:13:47",
       "review_status": "approved",
       "temporal_block_id": "1de905a2-724e-4841-8d7b-a62bf7a42212",
-      "temporal_block_method": "anchor",
+      "temporal_block_method": "janela-1",
       "moodle_label": "Hill Climbing e Simulated Annealing",
       "posting_date": "2026-02-24",
-      "posting_date_created": "2026-02-24"
+      "posting_date_created": "2026-02-24",
+      "temporal_block_band": "alta",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "labels",
+      "temporal_block_window": [
+        "1de905a2-724e-4841-8d7b-a62bf7a42212"
+      ]
     },
     {
       "id": "programas-exemplo-hc-sa-versao-para-nrainhas-e-distribuicao-de-cargas",
@@ -6500,10 +6610,16 @@
       "computed_block_rationale": "O material demonstra um algoritmo de busca meta-heurístico (Simulated Annealing) aplicado a um problema de otimização.",
       "computed_block_match_confidence": 0.6,
       "temporal_block_id": "1de905a2-724e-4841-8d7b-a62bf7a42212",
-      "temporal_block_method": "anchor",
+      "temporal_block_method": "janela-1",
       "moodle_label": "Programas-exemplo: HC, SA (versão para NRainhas e Distribuição de Cargas)",
       "posting_date": "2026-02-24",
-      "posting_date_created": "2026-02-24"
+      "posting_date_created": "2026-02-24",
+      "temporal_block_band": "alta",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "labels",
+      "temporal_block_window": [
+        "1de905a2-724e-4841-8d7b-a62bf7a42212"
+      ]
     },
     {
       "id": "implementacaominimax",
@@ -6588,10 +6704,17 @@
       "computed_block_rationale": "O material implementa o algoritmo Minimax, um método fundamental de busca para jogos de inteligência artificial.",
       "computed_block_match_confidence": 0.75,
       "temporal_block_id": "1de905a2-724e-4841-8d7b-a62bf7a42212",
-      "temporal_block_method": "anchor",
+      "temporal_block_method": "llm",
       "moodle_label": "ImplementacaoMInimax",
       "posting_date": "2026-02-24",
-      "posting_date_created": "2026-02-24"
+      "posting_date_created": "2026-02-24",
+      "temporal_block_band": "media",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "llm",
+      "temporal_block_window": [
+        "1de905a2-724e-4841-8d7b-a62bf7a42212",
+        "4062d883-01e9-47d1-be03-61ea23b0adff"
+      ]
     },
     {
       "id": "lista1",
@@ -6708,8 +6831,15 @@
       "approved_source_markdown": "staging/markdown-auto/datalab/lista1/lista1.md",
       "approved_at": "2026-06-19T08:12:50",
       "review_status": "approved",
-      "temporal_block_id": "1de905a2-724e-4841-8d7b-a62bf7a42212",
-      "temporal_block_method": "anchor"
+      "temporal_block_id": "4062d883-01e9-47d1-be03-61ea23b0adff",
+      "temporal_block_method": "llm",
+      "temporal_block_band": "media",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "llm",
+      "temporal_block_window": [
+        "1de905a2-724e-4841-8d7b-a62bf7a42212",
+        "4062d883-01e9-47d1-be03-61ea23b0adff"
+      ]
     },
     {
       "id": "caracteristicas-dos-dados",
@@ -7076,7 +7206,16 @@
       "review_status": "approved",
       "moodle_label": "Características dos Dados",
       "posting_date": "2026-02-24",
-      "posting_date_created": "2026-02-24"
+      "posting_date_created": "2026-02-24",
+      "temporal_block_id": "af22fe17-ee73-407f-9af5-d730739d71e0",
+      "temporal_block_method": "llm",
+      "temporal_block_band": "media",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "llm",
+      "temporal_block_window": [
+        "fbf15f4c-54b1-489d-bb02-f9bd33dc1bd3",
+        "af22fe17-ee73-407f-9af5-d730739d71e0"
+      ]
     },
     {
       "id": "introducao-a-ml",
@@ -7672,7 +7811,7 @@
         "topic_score=16.26",
         "herdada_do_bloco=af22fe17-ee73-407f-9af5-d730739d71e0"
       ],
-      "unit_match_confidence": 0.5640183276704089,
+      "unit_match_confidence": 0.5659748819353776,
       "unit_block_conflict": {},
       "computed_subunit_slug": "introducao-ao-aprendizado-de-maquina",
       "subunit_match_reasons": [
@@ -7686,7 +7825,16 @@
       "review_status": "approved",
       "moodle_label": "Introdução a ML",
       "posting_date": "2026-02-24",
-      "posting_date_created": "2026-02-24"
+      "posting_date_created": "2026-02-24",
+      "temporal_block_id": "fbf15f4c-54b1-489d-bb02-f9bd33dc1bd3",
+      "temporal_block_method": "llm",
+      "temporal_block_band": "media",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "llm",
+      "temporal_block_window": [
+        "fbf15f4c-54b1-489d-bb02-f9bd33dc1bd3",
+        "af22fe17-ee73-407f-9af5-d730739d71e0"
+      ]
     },
     {
       "id": "algoritmo-de-classificacao-k-nn",
@@ -8008,11 +8156,18 @@
       "approved_source_markdown": "staging/markdown-auto/datalab/algoritmo-de-classificacao-k-nn/algoritmo-de-classificacao-k-nn.md",
       "approved_at": "2026-06-19T08:09:48",
       "review_status": "approved",
-      "temporal_block_id": "af22fe17-ee73-407f-9af5-d730739d71e0",
-      "temporal_block_method": "anchor",
+      "temporal_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
+      "temporal_block_method": "llm",
       "moodle_label": "Algoritmo de Classificação k-NN",
       "posting_date": "2026-02-24",
-      "posting_date_created": "2026-02-24"
+      "posting_date_created": "2026-02-24",
+      "temporal_block_band": "media",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "llm",
+      "temporal_block_window": [
+        "af22fe17-ee73-407f-9af5-d730739d71e0",
+        "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f"
+      ]
     },
     {
       "id": "analise-exploratoria-dos-dados-exemplo-2",
@@ -8075,10 +8230,17 @@
       "computed_block_rationale": "O material foca diretamente na preparação e análise de dados usando ferramentas de profiling, alinhando-se perfeitamente com os tópicos de 'Tipos dados preparacao' do bloco-04.",
       "computed_block_match_confidence": 0.75,
       "temporal_block_id": "af22fe17-ee73-407f-9af5-d730739d71e0",
-      "temporal_block_method": "anchor",
+      "temporal_block_method": "disamb",
       "moodle_label": "Analise Exploratória dos Dados - Exemplo 2",
       "posting_date": "2026-02-24",
-      "posting_date_created": "2026-02-24"
+      "posting_date_created": "2026-02-24",
+      "temporal_block_band": "alta",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "labels",
+      "temporal_block_window": [
+        "af22fe17-ee73-407f-9af5-d730739d71e0",
+        "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f"
+      ]
     },
     {
       "id": "artigo-usando-k-nn-em-texto",
@@ -8250,11 +8412,18 @@
       "subunit_match_confidence": 0.0,
       "computed_block_rationale": "O algoritmo k-NN é um método fundamental de aprendizado de máquina supervisionado, alinhando-se diretamente com o tópico 'Abordagem supervisionada' do bloco.",
       "computed_block_match_confidence": 0.6,
-      "temporal_block_id": "af22fe17-ee73-407f-9af5-d730739d71e0",
-      "temporal_block_method": "anchor",
+      "temporal_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
+      "temporal_block_method": "llm",
       "moodle_label": "Exemplo de programa com k-NN (em java)",
       "posting_date": "2026-02-24",
-      "posting_date_created": "2026-02-24"
+      "posting_date_created": "2026-02-24",
+      "temporal_block_band": "media",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "llm",
+      "temporal_block_window": [
+        "af22fe17-ee73-407f-9af5-d730739d71e0",
+        "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f"
+      ]
     },
     {
       "id": "introducao-a-redes-neurais",
@@ -8628,10 +8797,16 @@
       "approved_at": "2026-06-19T08:13:10",
       "review_status": "approved",
       "temporal_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
-      "temporal_block_method": "anchor",
+      "temporal_block_method": "janela-1",
       "moodle_label": "Introducao a redes neurais",
       "posting_date": "2026-02-24",
-      "posting_date_created": "2026-02-24"
+      "posting_date_created": "2026-02-24",
+      "temporal_block_band": "alta",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "labels",
+      "temporal_block_window": [
+        "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f"
+      ]
     },
     {
       "id": "rede-perceptron-e-equacao-de-reta",
@@ -8754,10 +8929,16 @@
       "approved_at": "2026-06-19T08:11:42",
       "review_status": "approved",
       "temporal_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
-      "temporal_block_method": "anchor",
+      "temporal_block_method": "janela-1",
       "moodle_label": "Rede Perceptron e Equação de Reta",
       "posting_date": "2026-02-24",
-      "posting_date_created": "2026-02-24"
+      "posting_date_created": "2026-02-24",
+      "temporal_block_band": "alta",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "labels",
+      "temporal_block_window": [
+        "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f"
+      ]
     },
     {
       "id": "como-analisar-resultados-acc-pr-re-e-f1",
@@ -8928,10 +9109,16 @@
       "approved_at": "2026-06-19T08:14:00",
       "review_status": "approved",
       "temporal_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
-      "temporal_block_method": "anchor",
+      "temporal_block_method": "janela-1",
       "moodle_label": "Como analisar resultados: Acc, Pr, Re e F1",
       "posting_date": "2026-04-08",
-      "posting_date_created": "2026-04-08"
+      "posting_date_created": "2026-04-08",
+      "temporal_block_band": "alta",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "labels",
+      "temporal_block_window": [
+        "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f"
+      ]
     },
     {
       "id": "agrupamento-usando-k-means-exemplo-1-ipynb",
@@ -8990,10 +9177,16 @@
       "computed_block_rationale": "O título do bloco faz menção a 'means' e 'hierárquico análise', que se alinham com algoritmos de agrupamento, apesar do tópico principal indicado ser 'abordagem supervisionada'.",
       "computed_block_match_confidence": 0.6,
       "temporal_block_id": "17ea65f3-5f84-47c7-9357-e090ee1f80ed",
-      "temporal_block_method": "anchor",
+      "temporal_block_method": "janela-1",
       "moodle_label": "agrupamento usando k-Means: exemplo 1 (.ipynb)",
       "posting_date": "2026-04-22",
-      "posting_date_created": "2026-04-22"
+      "posting_date_created": "2026-04-22",
+      "temporal_block_band": "alta",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "labels",
+      "temporal_block_window": [
+        "17ea65f3-5f84-47c7-9357-e090ee1f80ed"
+      ]
     },
     {
       "id": "agrupamento-usando-k-means-exemplo-2-ipynb",
@@ -9054,10 +9247,16 @@
       "computed_block_rationale": "O material aborda o algoritmo k-Means para agrupamento, que é explicitamente mencionado no tópico 'means' do bloco-06, dentro do contexto de abordagens de aprendizado.",
       "computed_block_match_confidence": 0.6,
       "temporal_block_id": "17ea65f3-5f84-47c7-9357-e090ee1f80ed",
-      "temporal_block_method": "anchor",
+      "temporal_block_method": "janela-1",
       "moodle_label": "agrupamento usando k-Means: exemplo 2 (.ipynb)",
       "posting_date": "2026-04-22",
-      "posting_date_created": "2026-04-22"
+      "posting_date_created": "2026-04-22",
+      "temporal_block_band": "alta",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "labels",
+      "temporal_block_window": [
+        "17ea65f3-5f84-47c7-9357-e090ee1f80ed"
+      ]
     },
     {
       "id": "artigo-usando-agrupamento",
@@ -9143,9 +9342,7 @@
       "review_status": "approved",
       "moodle_label": "Artigo usando agrupamento",
       "posting_date": "2026-04-22",
-      "posting_date_created": "2026-04-22",
-      "temporal_block_id": "17ea65f3-5f84-47c7-9357-e090ee1f80ed",
-      "temporal_block_method": "anchor"
+      "posting_date_created": "2026-04-22"
     },
     {
       "id": "survey-on-clustering",
@@ -9247,10 +9444,16 @@
       "approved_at": "2026-06-19T08:11:19",
       "review_status": "approved",
       "temporal_block_id": "17ea65f3-5f84-47c7-9357-e090ee1f80ed",
-      "temporal_block_method": "anchor",
+      "temporal_block_method": "janela-1",
       "moodle_label": "Survey on Clustering",
       "posting_date": "2026-04-22",
-      "posting_date_created": "2026-04-22"
+      "posting_date_created": "2026-04-22",
+      "temporal_block_band": "alta",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "labels",
+      "temporal_block_window": [
+        "17ea65f3-5f84-47c7-9357-e090ee1f80ed"
+      ]
     },
     {
       "id": "prova-1-2024-02",
@@ -9465,11 +9668,18 @@
       "approved_source_markdown": "staging/markdown-auto/datalab/lista-de-exercicios-i/lista-de-exercicios-i.md",
       "approved_at": "2026-06-19T08:13:01",
       "review_status": "approved",
-      "temporal_block_id": "1de905a2-724e-4841-8d7b-a62bf7a42212",
-      "temporal_block_method": "anchor",
+      "temporal_block_id": "4062d883-01e9-47d1-be03-61ea23b0adff",
+      "temporal_block_method": "llm",
       "moodle_label": "Lista de Exercicios I",
       "posting_date": "2026-06-09",
-      "posting_date_created": "2026-06-09"
+      "posting_date_created": "2026-06-09",
+      "temporal_block_band": "media",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "llm",
+      "temporal_block_window": [
+        "1de905a2-724e-4841-8d7b-a62bf7a42212",
+        "4062d883-01e9-47d1-be03-61ea23b0adff"
+      ]
     },
     {
       "id": "respostas-da-lista-i-feito-pela-aluna-chiara",
@@ -9581,8 +9791,8 @@
         "winner_score=4.90"
       ],
       "subunit_match_confidence": 0.697182523478971,
-      "temporal_block_id": "1de905a2-724e-4841-8d7b-a62bf7a42212",
-      "temporal_block_method": "anchor",
+      "temporal_block_id": "4062d883-01e9-47d1-be03-61ea23b0adff",
+      "temporal_block_method": "llm",
       "approved_markdown": "exercises/lists/respostas-da-lista-i-feito-pela-aluna-chiara.md",
       "curated_markdown": "exercises/lists/respostas-da-lista-i-feito-pela-aluna-chiara.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/respostas-da-lista-i-feito-pela-aluna-chiara/respostas-da-lista-i-feito-pela-aluna-chiara.md",
@@ -9590,7 +9800,14 @@
       "review_status": "approved",
       "moodle_label": "Respostas da lista I (feito pela aluna Chiara)",
       "posting_date": "2026-06-22",
-      "posting_date_created": "2026-06-22"
+      "posting_date_created": "2026-06-22",
+      "temporal_block_band": "media",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "llm",
+      "temporal_block_window": [
+        "1de905a2-724e-4841-8d7b-a62bf7a42212",
+        "4062d883-01e9-47d1-be03-61ea23b0adff"
+      ]
     },
     {
       "id": "introducao-a-agentes",
@@ -9757,16 +9974,16 @@
       "computed_block_confidence": 0.8,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=95.75",
-        "topic_score=34.14"
+        "winner_score=95.60",
+        "topic_score=33.96"
       ],
-      "unit_match_confidence": 0.9366747507410401,
+      "unit_match_confidence": 0.936339116403425,
       "unit_block_conflict": {},
       "computed_subunit_slug": "introducao-a-agentes-em-ambientes-deterministicos",
       "subunit_match_reasons": [
-        "winner_score=34.14"
+        "winner_score=33.96"
       ],
-      "subunit_match_confidence": 0.9582439984534813,
+      "subunit_match_confidence": 0.9580226847107876,
       "approved_markdown": "content/curated/introducao-a-agentes.md",
       "curated_markdown": "content/curated/introducao-a-agentes.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/introducao-a-agentes/introducao-a-agentes.md",
@@ -9774,7 +9991,16 @@
       "review_status": "approved",
       "moodle_label": "Introducao a agentes",
       "posting_date": "2026-06-22",
-      "posting_date_created": "2026-06-22"
+      "posting_date_created": "2026-06-22",
+      "temporal_block_id": "bfaa3df7-b5b1-4d7b-8f7e-1e38f29ed016",
+      "temporal_block_method": "llm",
+      "temporal_block_band": "media",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "llm",
+      "temporal_block_window": [
+        "4062d883-01e9-47d1-be03-61ea23b0adff",
+        "bfaa3df7-b5b1-4d7b-8f7e-1e38f29ed016"
+      ]
     },
     {
       "id": "p2-202401",
@@ -9963,14 +10189,14 @@
       "computed_unit_slug": "unidade-de-aprendizagem-02-solucao-de-problemas-10",
       "computed_block_method": "scorer_only",
       "computed_block_id": "1de905a2-724e-4841-8d7b-a62bf7a42212",
-      "computed_block_confidence": 0.0,
+      "computed_block_confidence": 0.08394739296707397,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
         "winner_score=32.18",
         "topic_score=1.30",
         "herdada_do_bloco=1de905a2-724e-4841-8d7b-a62bf7a42212"
       ],
-      "unit_match_confidence": 0.3106041065196514,
+      "unit_match_confidence": 0.3153588931602548,
       "unit_block_conflict": {},
       "computed_subunit_slug": "algoritmos-de-busca-com-informacao",
       "subunit_match_reasons": [
@@ -10152,7 +10378,14 @@
       "computed_block_rationale": "O notebook foca na preparação e análise de tipos de dados para extrair insights, alinhando-se diretamente com tópicos de 'preparacao dados'.",
       "computed_block_match_confidence": 0.6,
       "temporal_block_id": "af22fe17-ee73-407f-9af5-d730739d71e0",
-      "temporal_block_method": "anchor"
+      "temporal_block_method": "llm",
+      "temporal_block_band": "media",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "llm",
+      "temporal_block_window": [
+        "af22fe17-ee73-407f-9af5-d730739d71e0",
+        "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f"
+      ]
     },
     {
       "id": "exemplo-2-k-nn-com-iriscsv-mais-completo",
@@ -10210,8 +10443,15 @@
       "subunit_match_confidence": 0.0,
       "computed_block_rationale": "O material demonstra um algoritmo de classificação, o k-NN, que é uma técnica fundamental em aprendizagem supervisionada, alinhando-se diretamente com o tópico 'abordagem supervisionada'.",
       "computed_block_match_confidence": 0.6,
-      "temporal_block_id": "af22fe17-ee73-407f-9af5-d730739d71e0",
-      "temporal_block_method": "anchor"
+      "temporal_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
+      "temporal_block_method": "llm",
+      "temporal_block_band": "media",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "llm",
+      "temporal_block_window": [
+        "af22fe17-ee73-407f-9af5-d730739d71e0",
+        "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f"
+      ]
     },
     {
       "id": "exemplo-com-k-nn",
@@ -10270,8 +10510,15 @@
       "subunit_match_confidence": 0.0,
       "computed_block_rationale": "O material demonstra a aplicação de um algoritmo de classificação, que é uma abordagem supervisionada de aprendizado de máquina.",
       "computed_block_match_confidence": 0.6,
-      "temporal_block_id": "af22fe17-ee73-407f-9af5-d730739d71e0",
-      "temporal_block_method": "anchor"
+      "temporal_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
+      "temporal_block_method": "llm",
+      "temporal_block_band": "media",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "llm",
+      "temporal_block_window": [
+        "af22fe17-ee73-407f-9af5-d730739d71e0",
+        "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f"
+      ]
     },
     {
       "id": "exercicio-2-solucao-com-rede-perceptron-atualizado",
@@ -10330,7 +10577,13 @@
       "computed_block_rationale": "O material apresenta uma solução completa para um exercício que envolve a implementação e treinamento de um Perceptron, um modelo fundamental de aprendizado de máquina supervisionado.",
       "computed_block_match_confidence": 0.6,
       "temporal_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
-      "temporal_block_method": "anchor"
+      "temporal_block_method": "janela-1",
+      "temporal_block_band": "alta",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "labels",
+      "temporal_block_window": [
+        "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f"
+      ]
     },
     {
       "id": "k-nn-para-classificacao-exemplo-cardio",
@@ -10389,7 +10642,13 @@
       "computed_block_rationale": "O material é um exemplo prático de um algoritmo de classificação, que se enquadra na abordagem supervisionada mencionada no bloco.",
       "computed_block_match_confidence": 0.6,
       "temporal_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
-      "temporal_block_method": "anchor"
+      "temporal_block_method": "janela-1",
+      "temporal_block_band": "alta",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "labels",
+      "temporal_block_window": [
+        "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f"
+      ]
     },
     {
       "id": "k-nn-para-regressao-exemplo-imc",
@@ -10451,7 +10710,13 @@
       "computed_block_rationale": "O material demonstra um algoritmo de aprendizado de máquina supervisionado para regressão, alinhando-se diretamente com o tópico 'abordagem supervisionada'.",
       "computed_block_match_confidence": 0.6,
       "temporal_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
-      "temporal_block_method": "anchor"
+      "temporal_block_method": "janela-1",
+      "temporal_block_band": "alta",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "labels",
+      "temporal_block_window": [
+        "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f"
+      ]
     },
     {
       "id": "rede-perceptron-classificacao-planta-iris",
@@ -10465,8 +10730,8 @@
       "auto_tags": [
         "ferramenta:iris",
         "tipo:codigo",
-        "unit:unidade-de-aprendizagem-03-raciocinio-planejamento-e-representacao-de-conhecimento",
-        "subunit:planejamento-classico",
+        "unit:unidade-de-aprendizagem-01-visao-geral-5",
+        "subunit:conceituacao",
         "bloco:bloco-05"
       ],
       "manual_unit_slug": "",
@@ -10492,30 +10757,34 @@
       "language": "jupyter",
       "approved_markdown": "code/professor/rede-perceptron-classificacao-planta-iris.md",
       "curated_markdown": "code/professor/rede-perceptron-classificacao-planta-iris.md",
-      "computed_unit_slug": "unidade-de-aprendizagem-03-raciocinio-planejamento-e-representacao-de-conhecimento",
+      "computed_unit_slug": "unidade-de-aprendizagem-01-visao-geral-5",
       "computed_block_method": "llm_only",
       "computed_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
       "computed_block_confidence": 0.85,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=10.69",
-        "topic_score=12.46"
+        "winner_score=4.28",
+        "topic_score=0.11",
+        "ambiguous",
+        "herdada_do_bloco=2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f"
       ],
-      "unit_match_confidence": 0.95,
-      "unit_block_conflict": {
-        "unit": "unidade-de-aprendizagem-03-raciocinio-planejamento-e-representacao-de-conhecimento",
-        "block_unit": "unidade-de-aprendizagem-01-visao-geral-5",
-        "block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f"
-      },
-      "computed_subunit_slug": "planejamento-classico",
+      "unit_match_confidence": 0.0,
+      "unit_block_conflict": {},
+      "computed_subunit_slug": "conceituacao",
       "subunit_match_reasons": [
-        "winner_score=12.46"
+        "winner_score=0.11"
       ],
       "subunit_match_confidence": 1.0,
       "computed_block_rationale": "O material demonstra a aplicação de um algoritmo de aprendizagem supervisionada (Perceptron) para um problema de classificação de dados.",
       "computed_block_match_confidence": 0.6,
       "temporal_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
-      "temporal_block_method": "anchor"
+      "temporal_block_method": "janela-1",
+      "temporal_block_band": "alta",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "labels",
+      "temporal_block_window": [
+        "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f"
+      ]
     },
     {
       "id": "rede-perceptron-classificacao-de-cliente",
@@ -10528,8 +10797,7 @@
       "manual_tags": [],
       "auto_tags": [
         "tipo:codigo",
-        "unit:unidade-de-aprendizagem-03-raciocinio-planejamento-e-representacao-de-conhecimento",
-        "subunit:planejamento-classico",
+        "unit:unidade-de-aprendizagem-01-visao-geral-5",
         "bloco:bloco-05"
       ],
       "manual_unit_slug": "",
@@ -10555,30 +10823,33 @@
       "language": "jupyter",
       "approved_markdown": "code/professor/rede-perceptron-classificacao-de-cliente.md",
       "curated_markdown": "code/professor/rede-perceptron-classificacao-de-cliente.md",
-      "computed_unit_slug": "unidade-de-aprendizagem-03-raciocinio-planejamento-e-representacao-de-conhecimento",
+      "computed_unit_slug": "unidade-de-aprendizagem-01-visao-geral-5",
       "computed_block_method": "llm_only",
       "computed_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
       "computed_block_confidence": 0.85,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=10.44",
-        "topic_score=12.28"
+        "winner_score=4.08",
+        "topic_score=0.00",
+        "herdada_do_bloco=2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f"
       ],
-      "unit_match_confidence": 0.95,
-      "unit_block_conflict": {
-        "unit": "unidade-de-aprendizagem-03-raciocinio-planejamento-e-representacao-de-conhecimento",
-        "block_unit": "unidade-de-aprendizagem-01-visao-geral-5",
-        "block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f"
-      },
-      "computed_subunit_slug": "planejamento-classico",
+      "unit_match_confidence": 0.3112745098039215,
+      "unit_block_conflict": {},
+      "computed_subunit_slug": "",
       "subunit_match_reasons": [
-        "winner_score=12.28"
+        "empate-exato 2x score=0.11"
       ],
-      "subunit_match_confidence": 1.0,
+      "subunit_match_confidence": 0.0,
       "computed_block_rationale": "O material demonstra uma abordagem supervisionada de aprendizado de máquina usando o algoritmo Perceptron para classificação.",
       "computed_block_match_confidence": 0.6,
       "temporal_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
-      "temporal_block_method": "anchor"
+      "temporal_block_method": "janela-1",
+      "temporal_block_band": "alta",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "labels",
+      "temporal_block_window": [
+        "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f"
+      ]
     },
     {
       "id": "rede-perceptron-exemplo-atualizado",
@@ -10641,7 +10912,13 @@
       "computed_block_rationale": "Nenhum bloco do cronograma menciona explicitamente tópicos de Redes Neurais, Machine Learning ou Perceptron para um alinhamento direto.",
       "computed_block_match_confidence": 0.125,
       "temporal_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
-      "temporal_block_method": "anchor"
+      "temporal_block_method": "janela-1",
+      "temporal_block_band": "alta",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "labels",
+      "temporal_block_window": [
+        "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f"
+      ]
     },
     {
       "id": "rede-perceptron-or-em-python",
@@ -10701,7 +10978,13 @@
       "computed_block_rationale": "O material exemplifica a abordagem supervisionada com um algoritmo fundamental de aprendizagem de máquina.",
       "computed_block_match_confidence": 0.6,
       "temporal_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
-      "temporal_block_method": "anchor"
+      "temporal_block_method": "janela-1",
+      "temporal_block_band": "alta",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "labels",
+      "temporal_block_window": [
+        "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f"
+      ]
     },
     {
       "id": "rede-perceptron-reconhecendo-letras",
@@ -10762,7 +11045,13 @@
       "computed_block_rationale": "O notebook implementa e treina um Perceptron, que é um algoritmo fundamental de aprendizado de máquina sob a abordagem supervisionada, utilizando preparação de dados para entrada.",
       "computed_block_match_confidence": 0.6,
       "temporal_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
-      "temporal_block_method": "anchor"
+      "temporal_block_method": "janela-1",
+      "temporal_block_band": "alta",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "labels",
+      "temporal_block_window": [
+        "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f"
+      ]
     },
     {
       "id": "mlp-xoripynb",
@@ -10825,7 +11114,13 @@
       "computed_block_rationale": "O notebook exemplifica uma abordagem supervisionada de aprendizado de máquina, treinando uma Rede Neural Perceptron Multicamadas para classificar dados.",
       "computed_block_match_confidence": 0.6,
       "temporal_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
-      "temporal_block_method": "anchor"
+      "temporal_block_method": "janela-1",
+      "temporal_block_band": "alta",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "labels",
+      "temporal_block_window": [
+        "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f"
+      ]
     },
     {
       "id": "mlp-classificacao-inadimplencia-normalizacao-e-gridsearchcv",
@@ -10890,7 +11185,13 @@
       "computed_block_rationale": "O notebook aplica uma abordagem de aprendizado supervisionado (classificação) para resolver um problema, com foco na preparação de dados e otimização de modelos.",
       "computed_block_match_confidence": 0.6,
       "temporal_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
-      "temporal_block_method": "anchor"
+      "temporal_block_method": "janela-1",
+      "temporal_block_band": "alta",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "labels",
+      "temporal_block_window": [
+        "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f"
+      ]
     },
     {
       "id": "mlp-classificacao-iris-atualizado",
@@ -10955,7 +11256,13 @@
       "computed_block_rationale": "O material é uma aula sobre MultiLayer Perceptron (MLP), que se encaixa perfeitamente no tema de 'abordagem supervisionada' abordado neste bloco do cronograma.",
       "computed_block_match_confidence": 0.6,
       "temporal_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
-      "temporal_block_method": "anchor"
+      "temporal_block_method": "janela-1",
+      "temporal_block_band": "alta",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "labels",
+      "temporal_block_window": [
+        "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f"
+      ]
     },
     {
       "id": "mlp-regressao-cardio",
@@ -11018,7 +11325,13 @@
       "computed_block_rationale": "O notebook exemplifica uma abordagem de aprendizado supervisionado para regressão utilizando redes neurais, alinhando-se com o tópico 'abordagem supervisionada'.",
       "computed_block_match_confidence": 0.6,
       "temporal_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
-      "temporal_block_method": "anchor"
+      "temporal_block_method": "janela-1",
+      "temporal_block_band": "alta",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "labels",
+      "temporal_block_window": [
+        "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f"
+      ]
     },
     {
       "id": "xor-backpropagation-em-python",
@@ -11077,7 +11390,13 @@
       "computed_block_rationale": "O material demonstra um algoritmo fundamental de uma abordagem de aprendizado supervisionado, alinhando-se com o tópico 'abordagem supervisionada'.",
       "computed_block_match_confidence": 0.6,
       "temporal_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
-      "temporal_block_method": "anchor"
+      "temporal_block_method": "janela-1",
+      "temporal_block_band": "alta",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "labels",
+      "temporal_block_window": [
+        "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f"
+      ]
     },
     {
       "id": "exemplo-1-arvores-de-decisao-classificacao-planta-iris",
@@ -11143,7 +11462,13 @@
       "computed_block_rationale": "O notebook aborda diretamente a aplicação de algoritmos de classificação dentro da abordagem supervisionada de Machine Learning.",
       "computed_block_match_confidence": 0.6,
       "temporal_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
-      "temporal_block_method": "anchor"
+      "temporal_block_method": "janela-1",
+      "temporal_block_band": "alta",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "labels",
+      "temporal_block_window": [
+        "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f"
+      ]
     },
     {
       "id": "exemplo-2-arvores-de-decisao-regressao-diabetes",
@@ -11208,7 +11533,13 @@
       "computed_block_rationale": "O notebook aplica uma técnica de aprendizado supervisionado (árvores de decisão para regressão) e aborda a preparação dos dados.",
       "computed_block_match_confidence": 0.429,
       "temporal_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
-      "temporal_block_method": "anchor"
+      "temporal_block_method": "janela-1",
+      "temporal_block_band": "alta",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "labels",
+      "temporal_block_window": [
+        "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f"
+      ]
     },
     {
       "id": "exemplo-complementar-classificacao-com-arvores-de-decisao",
@@ -11274,7 +11605,13 @@
       "computed_block_rationale": "O material apresenta uma abordagem supervisionada para classificação de dados, utilizando árvores de decisão, que se alinha perfeitamente com o tópico 'abordagem supervisionada' do bloco 05.",
       "computed_block_match_confidence": 0.6,
       "temporal_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
-      "temporal_block_method": "anchor"
+      "temporal_block_method": "janela-1",
+      "temporal_block_band": "alta",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "labels",
+      "temporal_block_window": [
+        "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f"
+      ]
     },
     {
       "id": "agrupamento-hierarquico-exemplo-1",
@@ -11336,7 +11673,14 @@
       "computed_block_rationale": "O bloco menciona explicitamente o termo 'hierarquico', que é o conceito central demonstrado pelo notebook sobre agrupamento hierárquico.",
       "computed_block_match_confidence": 0.6,
       "temporal_block_id": "17ea65f3-5f84-47c7-9357-e090ee1f80ed",
-      "temporal_block_method": "anchor"
+      "temporal_block_method": "llm",
+      "temporal_block_band": "media",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "llm",
+      "temporal_block_window": [
+        "17ea65f3-5f84-47c7-9357-e090ee1f80ed",
+        "696e2177-a69e-4dbb-9b79-73e03f3e8c85"
+      ]
     },
     {
       "id": "agrupamento-hierarquico-exemplo-2-use-o-dataset-da-planta-iris",
@@ -11399,7 +11743,14 @@
       "computed_block_rationale": "O bloco 06 menciona explicitamente 'hierárquico', que é o principal tópico abordado pelo código.",
       "computed_block_match_confidence": 0.6,
       "temporal_block_id": "17ea65f3-5f84-47c7-9357-e090ee1f80ed",
-      "temporal_block_method": "anchor"
+      "temporal_block_method": "llm",
+      "temporal_block_band": "media",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "llm",
+      "temporal_block_window": [
+        "17ea65f3-5f84-47c7-9357-e090ee1f80ed",
+        "696e2177-a69e-4dbb-9b79-73e03f3e8c85"
+      ]
     }
   ],
   "logs": [
@@ -13041,7 +13392,7 @@
       "language": "jupyter"
     }
   ],
-  "updated_at": "2026-07-01T19:44:12",
+  "updated_at": "2026-08-06T17:19:40",
   "failed_entries": [
     {
       "id": "k-nn-exemplocardio",

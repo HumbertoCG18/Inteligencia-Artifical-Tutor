@@ -28,8 +28,8 @@ mode: routing_index
 |  | ↳ rastreabilidade |  | bloco-manual: `43b6f936-7dc9-49fa-8f19-a88b66dc9b98` |  |  |  |  |  |  |  |
 | 2 | IA Responsável | references | consulta pontual | alta | `content/curated/ia-responsável-7c4626.md` |  | curso-inteiro |  | Alta |  |
 |  | ↳ rastreabilidade |  | bloco-manual: `43b6f936-7dc9-49fa-8f19-a88b66dc9b98` |  |  |  |  |  |  |  |
-| 3 | Visão Geral - Introdução e Histórico | material-de-aula | teoria base | alta | `content/curated/visao-geral-introducao-e-historico.md` | Roteiro  A conversa com você  ChatGPT  Copilot icon Copilot |  | Introdução a agentes em ambientes determinísticos | Baixa | 1 dia · 02/03/2026 |
-|  | ↳ rastreabilidade |  | raw: `raw/pdfs/material-de-aula/visao-geral-introducao-e-historico.pdf`; tags: `topico:introducao-a-ia-visao-geral; tipo:material-base; subunit:introducao-a-agentes-em-ambientes-deterministicos` |  |  |  |  |  |  |  |
+| 3 | Visão Geral - Introdução e Histórico | material-de-aula | teoria base | alta | `content/curated/visao-geral-introducao-e-historico.md` | Roteiro  A conversa com você  ChatGPT  Copilot icon Copilot |  | Introdução a agentes em ambientes determinísticos | Baixa | 1 dia · 04/03/2026 |
+|  | ↳ rastreabilidade |  | raw: `raw/pdfs/material-de-aula/visao-geral-introducao-e-historico.pdf`; tags: `tipo:material-base; subunit:introducao-a-agentes-em-ambientes-deterministicos; bloco:bloco-01` |  |  |  |  |  |  |  |
 | 4 | Cap. sobre Algoritmos Geneticos (Lacerda e outros) | material-de-aula | teoria base | alta | `content/curated/cap-sobre-algoritmos-geneticos-lacerda-e-outros.md` | INTRODUÇÃO AOS ALGORITMOS  GENÉTICOS  3.2 REPRESENTAÇÃO REAL  3.3 ALGORITMOS GENÉTICOS E OTIMIZAÇÃO CONVENCIONAL | unidade-de-aprendizagem-02-solucao-de-problemas-10 | Introdução a agentes em ambientes determinísticos | Alta | 2 dias · 18/05/2026 a 20/05/2026 |
 |  | ↳ rastreabilidade |  | raw: `raw/pdfs/material-de-aula/cap-sobre-algoritmos-geneticos-lacerda-e-outros.pdf`; tags: `topico:introducao-aos-algoritmos; tipo:material-base; unit:unidade-de-aprendizagem-02-solucao-de-problemas-10` |  |  |  |  |  |  |  |
 | 5 | minimax-teoria | material-de-aula | teoria base | alta | `content/curated/minimax-teoria.md` | Aula 07- Solução de Problemas (Busca Adversária)<sup>1</sup>  Teoria dos Jogos: Algoritmo Minimax  Teoria dos Jogos: Algoritmo Minimax  Teoria dos Jogos: Algoritmo Minimax | unidade-de-aprendizagem-02-solucao-de-problemas-10 | Busca Adversária | Alta | 3 dias · 01/06/2026 a 08/06/2026 |
@@ -64,7 +64,7 @@ mode: routing_index
 |  | ↳ rastreabilidade |  | raw: `raw/zip/programas-exemplo-hc-sa-versao-para-nrainhas-e-distribuicao-de-cargas.zip`; tags: `tipo:codigo; unit:unidade-de-aprendizagem-02-solucao-de-problemas-10; bloco:bloco-15` |  |  |  |  |  |  |  |
 | 20 | Implementação do Algoritmo Minimax com Poda Alpha-Beta para Jogo da Velha | codigo-professor | exemplos de código | alta | — |  | unidade-de-aprendizagem-02-solucao-de-problemas-10 |  | Baixa | 3 dias · 01/06/2026 a 08/06/2026 |
 |  | ↳ rastreabilidade |  | raw: `raw/zip/implementacaominimax.zip`; tags: `ferramenta:ementa; tipo:codigo; unit:unidade-de-aprendizagem-02-solucao-de-problemas-10` |  |  |  |  |  |  |  |
-| 21 | lista1 | listas | exercícios | alta | `exercises/lists/lista1.md` | Imagens Curadas | unidade-de-aprendizagem-02-solucao-de-problemas-10 | Algoritmos de Busca com Informação | Alta | 3 dias · 01/06/2026 a 08/06/2026 |
+| 21 | lista1 | listas | exercícios | alta | `exercises/lists/lista1.md` | Imagens Curadas | unidade-de-aprendizagem-02-solucao-de-problemas-10 | Algoritmos de Busca com Informação | Alta | 2 dias · 10/06/2026 a 15/06/2026 |
 |  | ↳ rastreabilidade |  | raw: `raw/pdfs/listas/lista1.pdf`; tags: `tipo:lista; unit:unidade-de-aprendizagem-02-solucao-de-problemas-10; subunit:algoritmos-de-busca-com-informacao` |  |  |  |  |  |  |  |
 
 > Conteúdo truncado para manter course/FILE_MAP.md compacto e roteável.

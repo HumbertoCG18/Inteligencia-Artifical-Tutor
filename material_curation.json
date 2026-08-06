@@ -1,0 +1,107 @@
+{
+  "version": 1,
+  "votes": {
+    "70f34a7a192574f9e8941419fd665084": {
+      "block_id": "bloco-02",
+      "confianca": "alta",
+      "justificativa": "O material é focado principalmente na 'Introdução à IA: Visão Geral', apresentando conceitos, subáreas e aplicações diárias, o que corresponde diretamente ao tópico e roteiro do bloco-02 (Visão Geral)",
+      "model": "gemini-3.5-flash"
+    },
+    "a6530b39c3c7f6bd7c59eb0a51c78b20": {
+      "block_id": "bloco-15",
+      "confianca": "alta",
+      "justificativa": "O material aborda algoritmos de busca adversaria (Minimax), pertencente ao topico de algoritmos de busca e compativel com o bloco-15, que termina em 08/06.",
+      "model": "gemini-3.5-flash"
+    },
+    "59c5dba821b3a05442b65d591afe340f": {
+      "block_id": "bloco-06",
+      "confianca": "alta",
+      "justificativa": "O material trata de Aprendizado Não Supervisionado e Agrupamento Hierárquico, tópicos explicitamente previstos no roteiro do bloco-06.",
+      "model": "gemini-3.5-flash"
+    },
+    "c87565686ced7054556538b7c14b166d": {
+      "block_id": "bloco-13",
+      "confianca": "alta",
+      "justificativa": "O material trata de Algoritmo Genético (AG) e está associado à Semana 13 (25.05 a 29.05), correspondendo diretamente ao bloco-13 de Algoritmos de Busca na data de 25-05.",
+      "model": "gemini-3.5-flash"
+    },
+    "00eda8b20958df484eb6317eda337d84": {
+      "block_id": "bloco-15",
+      "confianca": "alta",
+      "justificativa": "O material trata do algoritmo Minimax, um algoritmo de busca, e o bloco-15 foca explicitamente no topico de algoritmos de busca, englobando a data inicial da semana indicada no Moodle (08/06).",
+      "model": "gemini-3.5-flash"
+    },
+    "52a792e1cb29c833b40096219c89adc7": {
+      "block_id": "bloco-16",
+      "confianca": "alta",
+      "justificativa": "A lista de exercicios cobre topicos de Agentes e Algoritmos de Busca, encaixando-se perfeitamente no roteiro do bloco-16 que contem 'Exercicios' e 'Algoritmos de Busca. Exercicios', alem de a data da ",
+      "model": "gemini-3.5-flash"
+    },
+    "e5f23a6d71eec68e32f4088e6cdcc882": {
+      "block_id": "bloco-04",
+      "confianca": "alta",
+      "justificativa": "O material trata das características e formatos de dados, alinhando-se diretamente com o tópico 'tipos dados preparacao' e o roteiro 'Introdução a Machine Learning e a Dados' do bloco-04.",
+      "model": "gemini-3.5-flash"
+    },
+    "b2362621f61a6c132157132c9297db59": {
+      "block_id": "bloco-03",
+      "confianca": "alta",
+      "justificativa": "O material de aula aborda a 'Introdução a ML' e a seção do Moodle indica que ele é da 'Semana 2 - 09.03 a 13.03', coincidindo exatamente com o roteiro do bloco-03 em 09.03.2026.",
+      "model": "gemini-3.5-flash"
+    },
+    "105f8a26030b0209e333bcd6db9c58d0": {
+      "block_id": "bloco-05",
+      "confianca": "alta",
+      "justificativa": "O material trata de Aprendizado Supervisionado e Classificação com k-NN, que são os primeiros tópicos abordados no roteiro do bloco-05, o qual inicia em 18.03, compatível com as datas da semana indica",
+      "model": "gemini-3.5-flash"
+    },
+    "828672411023fe5f1d81e6755440d4f6": {
+      "block_id": "bloco-05",
+      "confianca": "Alta",
+      "justificativa": "O material trata de k-NN (exemplo de programa) e o roteiro do bloco-05 possui explicitamente 'Exercício k-NN' e 'Aprendizado Supervisionado', coincidindo também com o período da semana indicada (16.03",
+      "model": "gemini-3.5-flash"
+    },
+    "c2da2e792fb29409644de0940fbfab7f": {
+      "block_id": "bloco-16",
+      "confianca": "alta",
+      "justificativa": "O material é de gabarito/exercícios da Semana 15 (08.06 a 12.06), e o bloco-16 inicia em 10.06 com roteiro expressamente contendo 'Exercicios', correspondendo ao período e atividade da semana descrita",
+      "model": "gemini-3.5-flash"
+    },
+    "4e029526d00d50e0018a49af5e2e49ad": {
+      "block_id": "bloco-17",
+      "confianca": "alta",
+      "justificativa": "O material 'Introdução a agentes' corresponde diretamente ao roteiro do bloco-17, que trata de 'Introdução a agentes' em 17/06/2026, data pertencente à semana informada no Moodle.",
+      "model": "gemini-3.5-flash"
+    },
+    "f1131c035e1dc571113d4f1f65db1ff1": {
+      "block_id": "bloco-04",
+      "confianca": "alta",
+      "justificativa": "O material trata de Analise Exploratoria de Dados, que esta diretamente relacionado ao bloco-04 cujo topico e 'tipos dados preparacao' e o roteiro abrange 'ML e Dados'.",
+      "model": "gemini-3.5-flash"
+    },
+    "c62ed80ea054936185958374ea6c1be4": {
+      "block_id": "bloco-05",
+      "confianca": "alta",
+      "justificativa": "O material apresenta a implementacao do algoritmo k-NN em Python usando o Scikit-Learn, que condiz diretamente com o topico de 'Aprendizado Supervisionado' e o roteiro 'Exercicio k-NN' do bloco-05, in",
+      "model": "gemini-3.5-flash"
+    },
+    "4f05d2e68062ea0770132e6ac5a5ac28": {
+      "block_id": "bloco-05",
+      "confianca": "alta",
+      "justificativa": "O material trata de k-NN e o bloco-05 possui 'Exercício k-NN' e 'Aprendizado Supervisionado' em seu roteiro, além de cobrir o período de março indicado no Moodle.",
+      "model": "gemini-3.5-flash"
+    },
+    "236dcf79e13f25dece1d243056a6cf75": {
+      "block_id": "bloco-06",
+      "confianca": "alta",
+      "justificativa": "O material trata de agrupamento hierárquico, que é explicitamente citado no roteiro e no tópico do bloco-06.",
+      "model": "gemini-3.5-flash"
+    },
+    "a237b485cc923885f66103293d3b7fc2": {
+      "block_id": "bloco-06",
+      "confianca": "alta",
+      "justificativa": "O material trata de Aprendizado Não Supervisionado e Agrupamento Hierárquico, que são exatamente os tópicos abordados no roteiro e título do bloco-06.",
+      "model": "gemini-3.5-flash"
+    }
+  }
+}

@@ -61,17 +61,8 @@ _Sem códigos vinculados a esta aula._
 - **Análise Exploratória de Dados com ydata-profiling em Python** (`Analise Exploratória dos Dados - Exemplo 2.ipynb`)
   - Conceitos: Análise Exploratória de Dados (AED), Data Profiling, ydata-profiling, Pandas
   - Papel: exemplo_demonstrativo
-- **Implementação do Algoritmo k-NN (K-Nearest Neighbors) para Classificação de Dados** (`Exemplo de programa com k-NN (em java).zip`)
-  - Conceitos: k-Nearest Neighbors (k-NN), Classificação supervisionada, Distância Euclidiana, Base de dados Iris
-  - Papel: exemplo_demonstrativo
 - **Análise Exploratória de Dados Detalhada do Dataset Iris com Python** (`Análise Exploratória de Dados - Exemplo 1.ipynb`)
   - Conceitos: Análise Exploratória de Dados (EDA), Pandas DataFrame, Estatísticas Descritivas, Visualização de Dados
-  - Papel: exemplo_demonstrativo
-- **Implementação completa de K-Nearest Neighbors (k-NN) para classificação de flores Iris** (`Exemplo 2 k-NN (com IRIS.csv) - mais completo.ipynb`)
-  - Conceitos: K-Nearest Neighbors (k-NN), Classificação, Dataset Iris, Pandas
-  - Papel: exemplo_demonstrativo
-- **Classificação com o algoritmo k-Nearest Neighbors (k-NN) usando o dataset Iris** (`Exemplo com k-NN.ipynb`)
-  - Conceitos: k-Nearest Neighbors (k-NN), Classificação supervisionada, Pré-processamento de dados, Scikit-learn
   - Papel: exemplo_demonstrativo
 
 **Também relevante** (outras aulas como contexto):
@@ -112,6 +103,15 @@ _Sem códigos vinculados a esta aula._
 
 ### Códigos desta aula
 
+- **Implementação do Algoritmo k-NN (K-Nearest Neighbors) para Classificação de Dados** (`Exemplo de programa com k-NN (em java).zip`)
+  - Conceitos: k-Nearest Neighbors (k-NN), Classificação supervisionada, Distância Euclidiana, Base de dados Iris
+  - Papel: exemplo_demonstrativo
+- **Implementação completa de K-Nearest Neighbors (k-NN) para classificação de flores Iris** (`Exemplo 2 k-NN (com IRIS.csv) - mais completo.ipynb`)
+  - Conceitos: K-Nearest Neighbors (k-NN), Classificação, Dataset Iris, Pandas
+  - Papel: exemplo_demonstrativo
+- **Classificação com o algoritmo k-Nearest Neighbors (k-NN) usando o dataset Iris** (`Exemplo com k-NN.ipynb`)
+  - Conceitos: k-Nearest Neighbors (k-NN), Classificação supervisionada, Pré-processamento de dados, Scikit-learn
+  - Papel: exemplo_demonstrativo
 - **Implementação e Treinamento de um Perceptron para Classificação Binária** (`Exercicio 2 - Solução com rede Perceptron (atualizado).ipynb`)
   - Conceitos: Perceptron, Função de Ativação Limiar, Algoritmo de Treinamento Perceptron, Pesos Sinápticos
   - Papel: solucao_referencia
