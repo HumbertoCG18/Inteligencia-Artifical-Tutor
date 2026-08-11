@@ -382,7 +382,7 @@ _Sem códigos vinculados a esta aula._
 
 ---
 
-## 1 dia · 01/07/2026 — Conteúdo: unidade-de-aprendizagem-02-solucao-de-problemas, unidade-de-aprendizagem-03-raciocinio-planejamento-e-representacao-de-conhecimento
+## 1 dia · 01/07/2026 — Conteúdo: unidade-de-aprendizagem-01-visao-geral, unidade-de-aprendizagem-05-aprendizado-de-maquina, unidade-de-aprendizagem-02-solucao-de-problemas, unidade-de-aprendizagem-03-raciocinio-planejamento-e-representacao-de-conhecimento
 
 
 ### Sessões

@@ -17,6 +17,14 @@
     "7aa48de9-e821-4cb7-8e89-3c68c530e552": {
       "manual_kind_override": "class",
       "manual_unit_slug": "unidade-de-aprendizagem-03-raciocinio-planejamento-e-representacao-de-conhecimento"
+    },
+    "421fe467-6e6d-40b5-911e-95abfa402def": {
+      "manual_scope_unit_slugs": [
+        "unidade-de-aprendizagem-01-visao-geral",
+        "unidade-de-aprendizagem-05-aprendizado-de-maquina",
+        "unidade-de-aprendizagem-02-solucao-de-problemas",
+        "unidade-de-aprendizagem-03-raciocinio-planejamento-e-representacao-de-conhecimento"
+      ]
     }
   }
 }

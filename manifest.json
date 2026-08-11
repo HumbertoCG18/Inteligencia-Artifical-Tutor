@@ -59,7 +59,7 @@
         "sem-taxonomia"
       ],
       "subunit_match_confidence": 0.0,
-      "computed_unit_slug": "unidade-de-aprendizagem-02-solucao-de-problemas-10",
+      "computed_unit_slug": "unidade-de-aprendizagem-02-solucao-de-problemas",
       "manual_timeline_block_id": "43b6f936-7dc9-49fa-8f19-a88b66dc9b98"
     },
     {
@@ -9448,10 +9448,10 @@
       "manual_tags": [],
       "auto_tags": [
         "tipo:prova",
-        "unit:unidade-de-aprendizagem-01-visao-geral-5",
+        "unit:unidade-de-aprendizagem-01-visao-geral",
         "bloco:bloco-08"
       ],
-      "manual_unit_slug": "unidade-de-aprendizagem-01-visao-geral-5",
+      "manual_unit_slug": "unidade-de-aprendizagem-01-visao-geral",
       "manual_timeline_block_id": "5256ec08-7e5d-4c55-8a3c-e1a7f981ac71",
       "notes": "",
       "professor_signal": "",
@@ -9514,7 +9514,7 @@
         "signals": [],
         "markdown_path": "staging/markdown-auto/datalab/prova-1-2024-02/prova-1-2024-02.md"
       },
-      "computed_unit_slug": "unidade-de-aprendizagem-01-visao-geral-5",
+      "computed_unit_slug": "unidade-de-aprendizagem-01-visao-geral",
       "computed_block_method": "manual",
       "computed_block_id": "5256ec08-7e5d-4c55-8a3c-e1a7f981ac71",
       "computed_block_confidence": 1.0,
@@ -9526,7 +9526,7 @@
       "unit_block_conflict": {},
       "computed_subunit_slug": "",
       "subunit_match_reasons": [
-        "sem-topicos-para-unidade:unidade-de-aprendizagem-01-visao-geral-5"
+        "empate-exato 2x score=0.11"
       ],
       "subunit_match_confidence": 0.0,
       "approved_markdown": "exams/past-exams/prova-1-2024-02.md",
@@ -13335,7 +13335,7 @@
       "language": "jupyter"
     }
   ],
-  "updated_at": "2026-08-11T12:05:12",
+  "updated_at": "2026-08-11T12:22:07",
   "failed_entries": [
     {
       "id": "k-nn-exemplocardio",
