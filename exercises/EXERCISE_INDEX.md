@@ -6,6 +6,6 @@
 
 | Recurso | Tipo | Unidade | Solução | Prioridade | Quando usar |
 |---|---|---|---|---|---|
-| lista1 | lista | tipo:lista; unit:unidade-de-aprendizagem-02-solucao-de-problemas-10; subunit:algoritmos-de-busca-com-informacao | não | média | fixação por unidade |
-| Lista de Exercicios I | lista | tipo:lista; unit:unidade-de-aprendizagem-02-solucao-de-problemas-10; subunit:algoritmos-de-busca-com-informacao | não | média | fixação por unidade |
-| Respostas da lista I (feito pela aluna Chiara) | exercício | tipo:gabarito; unit:unidade-de-aprendizagem-02-solucao-de-problemas-10; subunit:introducao-a-agentes-em-ambientes-deterministicos | não | média | fixação por unidade |
+| lista1 | lista | tipo:lista; unit:unidade-de-aprendizagem-02-solucao-de-problemas; subunit:algoritmos-de-busca-com-informacao | não | média | fixação por unidade |
+| Lista de Exercicios I | lista | tipo:lista; unit:unidade-de-aprendizagem-02-solucao-de-problemas; subunit:algoritmos-de-busca-com-informacao | não | média | fixação por unidade |
+| Respostas da lista I (feito pela aluna Chiara) | exercício | tipo:gabarito; unit:unidade-de-aprendizagem-02-solucao-de-problemas; subunit:introducao-a-agentes-em-ambientes-deterministicos | não | média | fixação por unidade |

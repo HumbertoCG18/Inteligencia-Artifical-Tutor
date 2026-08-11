@@ -17,7 +17,7 @@ _Sem códigos vinculados a esta aula._
 
 ## 1 dia · 04/03/2026 — Conceituação
 
-**Unidade**: unidade-de-aprendizagem-01-visao-geral-5
+**Unidade**: unidade-de-aprendizagem-01-visao-geral
 **Tópicos cobertos**: visao geral
 
 ### Sessões
@@ -35,7 +35,7 @@ _Sem códigos vinculados a esta aula._
 
 ## 1 dia · 09/03/2026 — Introdução a agentes em ambientes determinísticos
 
-**Unidade**: unidade-de-aprendizagem-01-visao-geral-5
+**Unidade**: unidade-de-aprendizagem-05-aprendizado-de-maquina
 **Tópicos cobertos**: introducao
 
 ### Sessões
@@ -48,7 +48,7 @@ _Sem códigos vinculados a esta aula._
 
 ## 2 dias · 11/03/2026 a 16/03/2026 — Tipos dados preparacao
 
-**Unidade**: unidade-de-aprendizagem-01-visao-geral-5
+**Unidade**: unidade-de-aprendizagem-05-aprendizado-de-maquina
 **Tópicos cobertos**: tipos dados preparacao dados, preparacao dados
 
 ### Sessões
@@ -86,8 +86,8 @@ _Sem códigos vinculados a esta aula._
 
 ## 9 dias · 18/03/2026 a 15/04/2026 — Introdução a agentes em ambientes determinísticos
 
-**Unidade**: unidade-de-aprendizagem-01-visao-geral-5
-**Tópicos cobertos**: abordagem supervisionada
+**Unidade**: unidade-de-aprendizagem-05-aprendizado-de-maquina
+**Tópicos cobertos**: abordagem supervisionada, regressao
 
 ### Sessões
 
@@ -98,8 +98,8 @@ _Sem códigos vinculados a esta aula._
 - **qua 01/04** — ml abordagem supervisionada mlp aula
 - **seg 06/04** — ml abordagem supervisionada rede neural mlp exercicios aula
 - **qua 08/04** — ml abordagem supervisionada analise dos resultados aula
-- **seg 13/04** — ml abordagem supervisionada arvores de decisao aula
-- **qua 15/04** — ml abordagem nao supervisionada k means exercicios aula
+- **seg 13/04** — exercicios com regressao aula
+- **qua 15/04** — ml abordagem supervisionada arvores de decisao aula
 
 ### Códigos desta aula
 
@@ -168,9 +168,10 @@ _Sem códigos vinculados a esta aula._
 
 ---
 
-## 3 dias · 20/04/2026 a 27/04/2026 — Suspensao abordagem supervisionada means hierarquico analise…
+## 3 dias · 20/04/2026 a 27/04/2026 — Abordagem supervisionada means hierarquico analise resultado…
 
-**Tópicos cobertos**: suspensao, abordagem supervisionada
+**Unidade**: unidade-de-aprendizagem-05-aprendizado-de-maquina
+**Tópicos cobertos**: abordagem supervisionada
 
 ### Sessões
 
@@ -245,7 +246,7 @@ _Sem códigos vinculados a esta aula._
 
 ## 1 dia · 11/05/2026 — Gerais
 
-**Unidade**: unidade-de-aprendizagem-01-visao-geral-5
+**Unidade**: unidade-de-aprendizagem-01-visao-geral
 **Tópicos cobertos**: gerais
 
 ### Sessões
@@ -256,7 +257,7 @@ _Sem códigos vinculados a esta aula._
 
 ---
 
-## 1 dia · 13/05/2026 — Conteúdo: unidade-de-aprendizagem-01-visao-geral-5
+## 1 dia · 13/05/2026 — Conteúdo: unidade-de-aprendizagem-01-visao-geral, unidade-de-aprendizagem-05-aprendizado-de-maquina
 
 
 ### Sessões
@@ -267,15 +268,16 @@ _Sem códigos vinculados a esta aula._
 
 ---
 
-## 2 dias · 18/05/2026 a 20/05/2026 — Introdução a agentes em ambientes determinísticos
+## 3 dias · 18/05/2026 a 25/05/2026 — Correcao algoritmos busca
 
-**Unidade**: unidade-de-aprendizagem-02-solucao-de-problemas-10
-**Tópicos cobertos**: correcao introducao agentes, introducao agentes
+**Unidade**: unidade-de-aprendizagem-02-solucao-de-problemas
+**Tópicos cobertos**: correcao algoritmos busca, algoritmos busca
 
 ### Sessões
 
-- **seg 18/05** — correcao p1 e introducao a agentes aula
-- **qua 20/05** — introducao a agentes aula
+- **seg 18/05** — correcao p1 e algoritmos de busca aula
+- **qua 20/05** — algoritmos de busca aula
+- **seg 25/05** — algoritmos de busca aula
 
 ### Códigos desta aula
 
@@ -289,14 +291,13 @@ _Sem códigos vinculados a esta aula._
 
 ---
 
-## 1 dia · 25/05/2026 — Algoritmos busca
+## 1 dia · 27/05/2026 — Evento academico
 
-**Unidade**: unidade-de-aprendizagem-02-solucao-de-problemas-10
-**Tópicos cobertos**: algoritmos busca
+**Tópicos cobertos**: evento academico
 
 ### Sessões
 
-- **seg 25/05** — algoritmos de busca aula
+- **qua 27/05** — es day evento academico
 
 ### Códigos desta aula
 
@@ -306,21 +307,9 @@ _Sem códigos vinculados a esta aula._
 
 ---
 
-## 1 dia · 27/05/2026 — Evento academico
-
-**Tópicos cobertos**: evento academico
-
-### Sessões
-
-- **qua 27/05** — es day evento academico
-
-_Sem códigos vinculados a esta aula._
-
----
-
 ## 3 dias · 01/06/2026 a 08/06/2026 — Algoritmos busca
 
-**Unidade**: unidade-de-aprendizagem-02-solucao-de-problemas-10
+**Unidade**: unidade-de-aprendizagem-02-solucao-de-problemas
 **Tópicos cobertos**: algoritmos busca
 
 ### Sessões
@@ -334,87 +323,73 @@ _Sem códigos vinculados a esta aula._
 - **Implementação de Simulated Annealing para Distribuição de Cargas** (`Programas-exemplo HC, SA (versão para NRainhas e Distribuição de Cargas).zip`)
   - Conceitos: Simulated Annealing, Otimização combinatória, Função heurística, Estado (solução)
   - Papel: exemplo_demonstrativo
+
+---
+
+## 2 dias · 10/06/2026 a 15/06/2026 — Correcao duvidas algoritmos busca
+
+**Unidade**: unidade-de-aprendizagem-02-solucao-de-problemas
+**Tópicos cobertos**: correcao duvidas, algoritmos busca
+
+### Sessões
+
+- **qua 10/06** — correcao da p1 duvidas t2 aula
+- **seg 15/06** — algoritmos de busca exercicios aula
+
+### Códigos desta aula
+
 - **Implementação do Algoritmo Minimax com Poda Alpha-Beta para Jogo da Velha** (`ImplementacaoMinimax.zip`)
   - Conceitos: Algoritmo Minimax, Poda Alpha-Beta, Algoritmos de busca adversária, Função de utilidade
   - Papel: solucao_referencia
 
 ---
 
-## 2 dias · 10/06/2026 a 15/06/2026 — Planejamento
-
-**Tópicos cobertos**: planejamento
-
-### Sessões
-
-- **qua 10/06** — planejamento aula
-- **seg 15/06** — planejamento aula
-
-_Sem códigos vinculados a esta aula._
-
----
-
-## 1 dia · 17/06/2026 — Duvidas
-
-**Tópicos cobertos**: duvidas
-
-### Sessões
-
-- **qua 17/06** — duvidas t2 aula
-
-_Sem códigos vinculados a esta aula._
-
----
-
-## 1 dia · 22/06/2026 — Trabalho
-
-**Tópicos cobertos**: trabalho
-
-### Sessões
-
-- **seg 22/06** — apresentacao t2 trabalho
-
-_Sem códigos vinculados a esta aula._
-
----
-
-## 1 dia · 24/06/2026 — Trabalho
-
-**Tópicos cobertos**: trabalho
-
-### Sessões
-
-- **qua 24/06** — apresentacao t2 trabalho
-
-_Sem códigos vinculados a esta aula._
-
----
-
-## 1 dia · 29/06/2026 — Gerias
+## 2 dias · 17/06/2026 a 22/06/2026 — Introdução a agentes em ambientes determinísticos
 
 **Unidade**: unidade-de-aprendizagem-03-raciocinio-planejamento-e-representacao-de-conhecimento
-**Tópicos cobertos**: gerias
+**Tópicos cobertos**: introducao agentes planejamento
 
 ### Sessões
 
-- **seg 29/06** — exercicios gerias aula
+- **qua 17/06** — introducao a agentes e planejamento aula
+- **seg 22/06** — introducao a agentes e planejamento exercicios aula
 
 _Sem códigos vinculados a esta aula._
 
 ---
 
-## 1 dia · 01/07/2026 — Conteúdo: unidade-de-aprendizagem-02-solucao-de-problemas-10, unidade-de-aprendizagem-03-raciocinio-planejamento-e-representacao-de-conhecimento
+## 1 dia · 24/06/2026 — Suspensao atividades feriado
+
+**Tópicos cobertos**: suspensao atividades feriado
+
+### Sessões
+
+- **qua 24/06** — suspensao de atividades feriado
+
+_Sem códigos vinculados a esta aula._
+
+---
+
+## 1 dia · 29/06/2026 — Trabalho
+
+**Tópicos cobertos**: trabalho
+
+### Sessões
+
+- **seg 29/06** — apresentacao t2 trabalho
+
+_Sem códigos vinculados a esta aula._
+
+---
+
+## 1 dia · 01/07/2026 — Conteúdo: unidade-de-aprendizagem-02-solucao-de-problemas, unidade-de-aprendizagem-03-raciocinio-planejamento-e-representacao-de-conhecimento
 
 
 ### Sessões
 
 - **qua 01/07** — prova p2 prova
 
-### Códigos desta aula
-
-
-**Também relevante** (outras aulas como contexto):
-
-- Implementação do Algoritmo Minimax com Poda Alpha-Beta para Jogo da Velha (`ImplementacaoMinimax.zip`)
+_Sem códigos vinculados a esta aula._
 
 ---
 
@@ -436,13 +411,18 @@ _Sem códigos vinculados a esta aula._
 
 ### Sessões
 
-- **qua 08/07** — atendimento divulgacao dos resultados da g1 ate 04 12 aula
+- **qua 08/07** — atendimento divulgacao dos resultados da g1 ate 09 07 aula
 
-_Sem códigos vinculados a esta aula._
+### Códigos desta aula
+
+
+**Também relevante** (outras aulas como contexto):
+
+- Implementação do Algoritmo Minimax com Poda Alpha-Beta para Jogo da Velha (`ImplementacaoMinimax.zip`)
 
 ---
 
-## 1 dia · 13/07/2026 — Conteúdo: unidade-de-aprendizagem-01-visao-geral-5, unidade-de-aprendizagem-02-solucao-de-problemas-10, unidade-de-aprendizagem-03-raciocinio-planejamento-e-representacao-de-conhecimento
+## 1 dia · 13/07/2026 — Conteúdo: unidade-de-aprendizagem-01-visao-geral, unidade-de-aprendizagem-05-aprendizado-de-maquina, unidade-de-aprendizagem-02-solucao-de-problemas, unidade-de-aprendizagem-03-raciocinio-planejamento-e-representacao-de-conhecimento
 
 
 ### Sessões

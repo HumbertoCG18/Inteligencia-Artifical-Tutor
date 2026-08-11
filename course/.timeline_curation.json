@@ -2,7 +2,21 @@
   "version": 1,
   "blocks": {
     "17ea65f3-5f84-47c7-9357-e090ee1f80ed": {
-      "manual_kind_override": "class"
+      "manual_kind_override": "class",
+      "manual_unit_slug": "unidade-de-aprendizagem-05-aprendizado-de-maquina"
+    },
+    "fbf15f4c-54b1-489d-bb02-f9bd33dc1bd3": {
+      "manual_unit_slug": "unidade-de-aprendizagem-05-aprendizado-de-maquina"
+    },
+    "af22fe17-ee73-407f-9af5-d730739d71e0": {
+      "manual_unit_slug": "unidade-de-aprendizagem-05-aprendizado-de-maquina"
+    },
+    "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f": {
+      "manual_unit_slug": "unidade-de-aprendizagem-05-aprendizado-de-maquina"
+    },
+    "7aa48de9-e821-4cb7-8e89-3c68c530e552": {
+      "manual_kind_override": "class",
+      "manual_unit_slug": "unidade-de-aprendizagem-03-raciocinio-planejamento-e-representacao-de-conhecimento"
     }
   }
 }
