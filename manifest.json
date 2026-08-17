@@ -842,7 +842,7 @@
       },
       "computed_unit_slug": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
       "computed_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
-      "computed_block_confidence": 0.06666666666666662,
+      "computed_block_confidence": 0.06666666666666644,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
         "winner_score=56.69",
@@ -13350,7 +13350,7 @@
       "language": "jupyter"
     }
   ],
-  "updated_at": "2026-08-17T17:14:59",
+  "updated_at": "2026-08-17T17:25:43",
   "failed_entries": [
     {
       "id": "k-nn-exemplocardio",
