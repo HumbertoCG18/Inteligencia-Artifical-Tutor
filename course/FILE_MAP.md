@@ -34,7 +34,7 @@ mode: routing_index
 |  | ↳ rastreabilidade |  | raw: `raw/pdfs/material-de-aula/cap-sobre-algoritmos-geneticos-lacerda-e-outros.pdf`; tags: `topico:introducao-aos-algoritmos; tipo:material-base; bloco:bloco-05` |  |  |  |  |  |  |  |
 | 5 | minimax-teoria | material-de-aula | teoria base | alta | `content/curated/minimax-teoria.md` | Aula 07- Solução de Problemas (Busca Adversária)<sup>1</sup>  Teoria dos Jogos: Algoritmo Minimax  Teoria dos Jogos: Algoritmo Minimax  Teoria dos Jogos: Algoritmo Minimax | unidade-de-aprendizagem-02-solucao-de-problemas | Busca Adversária | Alta | 2 dias · 10/06/2026 a 15/06/2026 |
 |  | ↳ rastreabilidade |  | raw: `raw/pdfs/material-de-aula/minimax-teoria.pdf`; tags: `topico:busca-adversaria; tipo:material-base; bloco:bloco-01` |  |  |  |  |  |  |  |
-| 6 | Rede Perceptron | material-de-aula | teoria base | alta | `content/curated/rede-perceptron.md` | Roteiro  Redes Feed Forward  Redes Recorrentes  Redes Feed Forward | unidade-de-aprendizagem-05-aprendizado-de-maquina | Introdução ao aprendizado de máquina | Alta | 9 dias · 18/03/2026 a 15/04/2026 |
+| 6 | Rede Perceptron | material-de-aula | teoria base | alta | `content/curated/rede-perceptron.md` | Roteiro  Redes Feed Forward  Redes Recorrentes  Redes Feed Forward | unidade-de-aprendizagem-05-aprendizado-de-maquina | Introdução ao aprendizado de máquina | Baixa | 9 dias · 18/03/2026 a 15/04/2026 |
 |  | ↳ rastreabilidade |  | raw: `raw/pdfs/material-de-aula/rede-perceptron.pdf`; tags: `tipo:material-base; bloco:bloco-05; unit:unidade-de-aprendizagem-05-aprendizado-de-maquina` |  |  |  |  |  |  |  |
 | 7 | MLP | material-de-aula | teoria base | alta | `content/curated/mlp.md` | Redes Feed Forward  Rede MultiLayer Perceptron  Arquitetura e Topologia  Como definir a topologia de uma rede MLP? | unidade-de-aprendizagem-05-aprendizado-de-maquina |  | Baixa | 9 dias · 18/03/2026 a 15/04/2026 |
 |  | ↳ rastreabilidade |  | raw: `raw/pdfs/material-de-aula/mlp.pdf`; tags: `ferramenta:multilayer; tipo:material-base; bloco:bloco-05` |  |  |  |  |  |  |  |
@@ -50,7 +50,7 @@ mode: routing_index
 |  | ↳ rastreabilidade |  | raw: `raw/pdfs/material-de-aula/algoritmo-genetico.pdf`; tags: `topico:agentes; topico:agentes-e-algoritmos-de-busca; tipo:material-base` |  |  |  |  |  |  |  |
 | 13 | Introducao a busca informada | material-de-aula | teoria base | alta | `content/curated/introducao-a-busca-informada.md` | Agentes e Algoritmos de Busca  Agentes e Algoritmos de Busca | unidade-de-aprendizagem-02-solucao-de-problemas |  | Alta | 3 dias · 18/05/2026 a 25/05/2026 |
 |  | ↳ rastreabilidade |  | raw: `raw/pdfs/material-de-aula/introducao-a-busca-informada.pdf`; tags: `topico:agentes; topico:agentes-e-algoritmos-de-busca; topico:introducao-a-agentes` |  |  |  |  |  |  |  |
-| 14 | Outros operadores | material-de-aula | teoria base | alta | `content/curated/outros-operadores.md` | Operações Genéticas  Mutação | unidade-de-aprendizagem-02-solucao-de-problemas |  | Alta | 3 dias · 18/05/2026 a 25/05/2026 |
+| 14 | Outros operadores | material-de-aula | teoria base | alta | `content/curated/outros-operadores.md` | Operações Genéticas  Mutação |  |  | Baixa | 3 dias · 18/05/2026 a 25/05/2026 |
 |  | ↳ rastreabilidade |  | raw: `raw/pdfs/material-de-aula/outros-operadores.pdf`; tags: `ferramenta:barabstract; tipo:material-base; bloco:bloco-01` |  |  |  |  |  |  |  |
 | 15 | Implementação de Algoritmo Genético para o Problema das N-Rainhas em Java | codigo-professor | exemplos de código | alta | — |  |  | Representação de problemas | Baixa | 3 dias · 18/05/2026 a 25/05/2026 |
 |  | ↳ rastreabilidade |  | raw: `raw/zip/programa-exemplo-ag.zip`; tags: `tipo:codigo; bloco:bloco-13; subunit:representacao-de-problemas` |  |  |  |  |  |  |  |
@@ -62,11 +62,11 @@ mode: routing_index
 |  | ↳ rastreabilidade |  | raw: `raw/pdfs/material-de-aula/hill-climbing-e-simulated-annealing.pdf`; tags: `topico:algoritmos-de-busca-com-informacao; tipo:material-base; bloco:bloco-01` |  |  |  |  |  |  |  |
 | 19 | Implementação de Simulated Annealing para Distribuição de Cargas | codigo-professor | exemplos de código | alta | — |  |  |  | Baixa | 3 dias · 01/06/2026 a 08/06/2026 |
 |  | ↳ rastreabilidade |  | raw: `raw/zip/programas-exemplo-hc-sa-versao-para-nrainhas-e-distribuicao-de-cargas.zip`; tags: `tipo:codigo; bloco:bloco-07` |  |  |  |  |  |  |  |
-| 20 | Implementação do Algoritmo Minimax com Poda Alpha-Beta para Jogo da Velha | codigo-professor | exemplos de código | alta | — |  | unidade-de-aprendizagem-02-solucao-de-problemas | Busca Adversária | Alta | 2 dias · 10/06/2026 a 15/06/2026 |
+| 20 | Implementação do Algoritmo Minimax com Poda Alpha-Beta para Jogo da Velha | codigo-professor | exemplos de código | alta | — |  | unidade-de-aprendizagem-02-solucao-de-problemas | Busca Adversária | Baixa | 2 dias · 10/06/2026 a 15/06/2026 |
 |  | ↳ rastreabilidade |  | raw: `raw/zip/implementacaominimax.zip`; tags: `ferramenta:ementa; tipo:codigo; bloco:bloco-12` |  |  |  |  |  |  |  |
 | 21 | lista1 | listas | exercícios | alta | `exercises/lists/lista1.md` | Imagens Curadas | unidade-de-aprendizagem-02-solucao-de-problemas | Algoritmos de Busca com Informação | Alta | 3 dias · 01/06/2026 a 08/06/2026 |
 |  | ↳ rastreabilidade |  | raw: `raw/pdfs/listas/lista1.pdf`; tags: `tipo:lista; bloco:bloco-19; unit:unidade-de-aprendizagem-02-solucao-de-problemas` |  |  |  |  |  |  |  |
-| 22 | Características dos Dados | material-de-aula | teoria base | alta | `content/curated/caracteristicas-dos-dados.md` | Exploração dos Dados  Imagens Curadas | unidade-de-aprendizagem-05-aprendizado-de-maquina | Introdução ao aprendizado de máquina | Alta | 2 dias · 11/03/2026 a 16/03/2026 |
+| 22 | Características dos Dados | material-de-aula | teoria base | alta | `content/curated/caracteristicas-dos-dados.md` | Exploração dos Dados  Imagens Curadas | unidade-de-aprendizagem-05-aprendizado-de-maquina | Introdução ao aprendizado de máquina | Baixa | 2 dias · 11/03/2026 a 16/03/2026 |
 |  | ↳ rastreabilidade |  | raw: `raw/pdfs/material-de-aula/caracteristicas-dos-dados.pdf`; tags: `ferramenta:fidelidade; ferramenta:soneto; tipo:material-base` |  |  |  |  |  |  |  |
 
 > Conteúdo truncado para manter course/FILE_MAP.md compacto e roteável.
