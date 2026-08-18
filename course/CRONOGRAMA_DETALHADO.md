@@ -33,7 +33,7 @@ _Sem códigos vinculados a esta aula._
 
 ---
 
-## 1 dia · 09/03/2026 — Introdução a agentes em ambientes determinísticos
+## 1 dia · 09/03/2026 — Introducao
 
 **Unidade**: unidade-de-aprendizagem-05-aprendizado-de-maquina
 **Tópicos cobertos**: introducao
@@ -84,7 +84,7 @@ _Sem códigos vinculados a esta aula._
 
 ---
 
-## 9 dias · 18/03/2026 a 15/04/2026 — Introdução a agentes em ambientes determinísticos
+## 9 dias · 18/03/2026 a 15/04/2026 — Abordagem supervisionada rede neural introducao perceptron a…
 
 **Unidade**: unidade-de-aprendizagem-05-aprendizado-de-maquina
 **Tópicos cobertos**: abordagem supervisionada, regressao

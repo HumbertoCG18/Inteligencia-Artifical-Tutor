@@ -9,7 +9,6 @@ sources:
     processing_mode: auto
     effective_profile: auto
     include_in_bundle: true
-    professor_signal: ""
   - id: ia-responsável-7c4626
     title: "IA Responsável"
     category: references
@@ -19,7 +18,6 @@ sources:
     processing_mode: auto
     effective_profile: auto
     include_in_bundle: true
-    professor_signal: ""
   - id: visao-geral-introducao-e-historico
     title: "Visão Geral - Introdução e Histórico"
     category: material-de-aula
@@ -29,7 +27,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: diagram_heavy
     include_in_bundle: true
-    professor_signal: ""
   - id: cap-sobre-algoritmos-geneticos-lacerda-e-outros
     title: "Cap. sobre Algoritmos Geneticos (Lacerda e outros)"
     category: material-de-aula
@@ -39,7 +36,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: diagram_heavy
     include_in_bundle: true
-    professor_signal: ""
   - id: minimax-teoria
     title: "minimax-teoria"
     category: material-de-aula
@@ -49,7 +45,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: diagram_heavy
     include_in_bundle: true
-    professor_signal: ""
   - id: rede-perceptron
     title: "Rede Perceptron"
     category: material-de-aula
@@ -59,7 +54,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: diagram_heavy
     include_in_bundle: true
-    professor_signal: ""
   - id: mlp
     title: "MLP"
     category: material-de-aula
@@ -69,7 +63,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: diagram_heavy
     include_in_bundle: true
-    professor_signal: ""
   - id: arvores-de-decisao
     title: "Árvores de Decisão"
     category: material-de-aula
@@ -79,7 +72,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: diagram_heavy
     include_in_bundle: true
-    professor_signal: ""
   - id: aula-sobre-agrupamento-parte-1-particional
     title: "Aula sobre Agrupamento - parte 1 (particional)"
     category: material-de-aula
@@ -89,7 +81,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: diagram_heavy
     include_in_bundle: true
-    professor_signal: ""
   - id: aula-sobre-agrupamento-parte-2-hierarquico
     title: "Aula sobre Agrupamento - parte 2 (hierarquico)"
     category: material-de-aula
@@ -99,7 +90,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: diagram_heavy
     include_in_bundle: true
-    professor_signal: ""
   - id: minimax
     title: "Minimax"
     category: material-de-aula
@@ -109,7 +99,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: diagram_heavy
     include_in_bundle: true
-    professor_signal: ""
   - id: algoritmo-genetico
     title: "Algoritmo Genetico"
     category: material-de-aula
@@ -119,7 +108,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: diagram_heavy
     include_in_bundle: true
-    professor_signal: ""
   - id: introducao-a-busca-informada
     title: "Introducao a busca informada"
     category: material-de-aula
@@ -129,7 +117,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: diagram_heavy
     include_in_bundle: true
-    professor_signal: ""
   - id: outros-operadores
     title: "Outros operadores"
     category: material-de-aula
@@ -139,7 +126,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: diagram_heavy
     include_in_bundle: true
-    professor_signal: ""
   - id: programa-exemplo-ag
     title: "programa-exemplo AG"
     category: codigo-professor
@@ -149,7 +135,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: auto
     include_in_bundle: true
-    professor_signal: ""
   - id: ag-feito-em-aula-pelo-luca
     title: "AG feito em aula pelo Luca"
     category: codigo-professor
@@ -159,7 +144,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: auto
     include_in_bundle: true
-    professor_signal: ""
   - id: algoritmo-dijkstra
     title: "Algoritmo Dijkstra"
     category: material-de-aula
@@ -169,7 +153,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: diagram_heavy
     include_in_bundle: true
-    professor_signal: ""
   - id: hill-climbing-e-simulated-annealing
     title: "Hill Climbing e Simulated Annealing"
     category: material-de-aula
@@ -179,7 +162,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: diagram_heavy
     include_in_bundle: true
-    professor_signal: ""
   - id: programas-exemplo-hc-sa-versao-para-nrainhas-e-distribuicao-de-cargas
     title: "Programas-exemplo HC, SA (versão para NRainhas e Distribuição de Cargas)"
     category: codigo-professor
@@ -189,7 +171,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: auto
     include_in_bundle: true
-    professor_signal: ""
   - id: implementacaominimax
     title: "ImplementacaoMinimax"
     category: codigo-professor
@@ -199,7 +180,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: auto
     include_in_bundle: true
-    professor_signal: ""
   - id: lista1
     title: "lista1"
     category: listas
@@ -209,7 +189,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: diagram_heavy
     include_in_bundle: true
-    professor_signal: ""
   - id: caracteristicas-dos-dados
     title: "Características dos Dados"
     category: material-de-aula
@@ -219,7 +198,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: diagram_heavy
     include_in_bundle: true
-    professor_signal: ""
   - id: introducao-a-ml
     title: "Introdução a ML"
     category: material-de-aula
@@ -229,7 +207,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: diagram_heavy
     include_in_bundle: true
-    professor_signal: ""
   - id: algoritmo-de-classificacao-k-nn
     title: "Algoritmo de Classificação k-NN"
     category: material-de-aula
@@ -239,7 +216,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: diagram_heavy
     include_in_bundle: true
-    professor_signal: ""
   - id: analise-exploratoria-dos-dados-exemplo-2
     title: "Analise Exploratória dos Dados - Exemplo 2"
     category: codigo-professor
@@ -249,7 +225,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: auto
     include_in_bundle: true
-    professor_signal: ""
   - id: artigo-usando-k-nn-em-texto
     title: "Artigo usando k-NN em texto"
     category: bibliografia
@@ -259,7 +234,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: diagram_heavy
     include_in_bundle: true
-    professor_signal: ""
   - id: exemplo-de-programa-com-k-nn-em-java
     title: "Exemplo de programa com k-NN (em java)"
     category: codigo-professor
@@ -269,7 +243,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: auto
     include_in_bundle: true
-    professor_signal: ""
   - id: introducao-a-redes-neurais
     title: "Introducao a redes neurais"
     category: material-de-aula
@@ -279,7 +252,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: diagram_heavy
     include_in_bundle: true
-    professor_signal: ""
   - id: rede-perceptron-e-equacao-de-reta
     title: "Rede Perceptron e Equação de Reta"
     category: material-de-aula
@@ -289,7 +261,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: diagram_heavy
     include_in_bundle: true
-    professor_signal: ""
   - id: como-analisar-resultados-acc-pr-re-e-f1
     title: "Como analisar resultados Acc, Pr, Re e F1"
     category: material-de-aula
@@ -299,7 +270,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: diagram_heavy
     include_in_bundle: true
-    professor_signal: ""
   - id: agrupamento-usando-k-means-exemplo-1-ipynb
     title: "agrupamento usando k-Means exemplo 1 (.ipynb)"
     category: codigo-professor
@@ -309,7 +279,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: auto
     include_in_bundle: true
-    professor_signal: ""
   - id: agrupamento-usando-k-means-exemplo-2-ipynb
     title: "agrupamento usando k-Means exemplo 2 (.ipynb)"
     category: codigo-professor
@@ -319,7 +288,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: auto
     include_in_bundle: true
-    professor_signal: ""
   - id: artigo-usando-agrupamento
     title: "Artigo usando agrupamento"
     category: bibliografia
@@ -329,7 +297,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: diagram_heavy
     include_in_bundle: true
-    professor_signal: ""
   - id: survey-on-clustering
     title: "Survey on Clustering"
     category: material-de-aula
@@ -339,7 +306,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: diagram_heavy
     include_in_bundle: true
-    professor_signal: ""
   - id: prova-1-2024-02
     title: "Prova 1 2024 02"
     category: provas
@@ -349,7 +315,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: diagram_heavy
     include_in_bundle: true
-    professor_signal: ""
   - id: lista-de-exercicios-i
     title: "Lista de Exercicios I"
     category: listas
@@ -359,7 +324,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: diagram_heavy
     include_in_bundle: true
-    professor_signal: ""
   - id: respostas-da-lista-i-feito-pela-aluna-chiara
     title: "Respostas da lista I (feito pela aluna Chiara)"
     category: gabaritos
@@ -369,7 +333,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: diagram_heavy
     include_in_bundle: true
-    professor_signal: ""
   - id: introducao-a-agentes
     title: "Introducao a agentes"
     category: material-de-aula
@@ -379,7 +342,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: diagram_heavy
     include_in_bundle: true
-    professor_signal: ""
   - id: p2-202401
     title: "P2 2024.01"
     category: provas
@@ -389,7 +351,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: diagram_heavy
     include_in_bundle: true
-    professor_signal: ""
   - id: p2-202402
     title: "P2 2024.02"
     category: provas
@@ -399,7 +360,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: diagram_heavy
     include_in_bundle: true
-    professor_signal: ""
   - id: prova-1-202402
     title: "Prova 1 2024.02"
     category: provas
@@ -409,7 +369,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: diagram_heavy
     include_in_bundle: true
-    professor_signal: ""
   - id: analise-exploratoria-de-dados-exemplo-1
     title: "Análise Exploratória de Dados - Exemplo 1"
     category: codigo-professor
@@ -419,7 +378,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: auto
     include_in_bundle: true
-    professor_signal: ""
   - id: exemplo-2-k-nn-com-iriscsv-mais-completo
     title: "Exemplo 2 k-NN (com IRIS.csv) - mais completo"
     category: codigo-professor
@@ -429,7 +387,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: auto
     include_in_bundle: true
-    professor_signal: ""
   - id: exemplo-com-k-nn
     title: "Exemplo com k-NN"
     category: codigo-professor
@@ -439,7 +396,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: auto
     include_in_bundle: true
-    professor_signal: ""
   - id: exercicio-2-solucao-com-rede-perceptron-atualizado
     title: "Exercicio 2 - Solução com rede Perceptron (atualizado)"
     category: codigo-professor
@@ -449,7 +405,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: auto
     include_in_bundle: true
-    professor_signal: ""
   - id: k-nn-para-classificacao-exemplo-cardio
     title: "K-NN para Classificação Exemplo Cardio"
     category: codigo-professor
@@ -459,7 +414,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: auto
     include_in_bundle: true
-    professor_signal: ""
   - id: k-nn-para-regressao-exemplo-imc
     title: "K-NN para Regressão exemplo IMC"
     category: codigo-professor
@@ -469,7 +423,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: auto
     include_in_bundle: true
-    professor_signal: ""
   - id: rede-perceptron-classificacao-planta-iris
     title: "Rede Perceptron - Classificacao - Planta Iris"
     category: codigo-professor
@@ -479,7 +432,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: auto
     include_in_bundle: true
-    professor_signal: ""
   - id: rede-perceptron-classificacao-de-cliente
     title: "Rede Perceptron - Classificacao de Cliente"
     category: codigo-professor
@@ -489,7 +441,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: auto
     include_in_bundle: true
-    professor_signal: ""
   - id: rede-perceptron-exemplo-atualizado
     title: "Rede Perceptron - Exemplo Atualizado"
     category: codigo-professor
@@ -499,7 +450,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: auto
     include_in_bundle: true
-    professor_signal: ""
   - id: rede-perceptron-or-em-python
     title: "Rede Perceptron - OR em Python"
     category: codigo-professor
@@ -509,7 +459,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: auto
     include_in_bundle: true
-    professor_signal: ""
   - id: rede-perceptron-reconhecendo-letras
     title: "Rede Perceptron - Reconhecendo Letras"
     category: codigo-professor
@@ -519,7 +468,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: auto
     include_in_bundle: true
-    professor_signal: ""
   - id: mlp-xoripynb
     title: "MLP - XOR.ipynb"
     category: codigo-professor
@@ -529,7 +477,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: auto
     include_in_bundle: true
-    professor_signal: ""
   - id: mlp-classificacao-inadimplencia-normalizacao-e-gridsearchcv
     title: "MLP Classificação - Inadimplência (normalização e GridSearchCV)"
     category: codigo-professor
@@ -539,7 +486,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: auto
     include_in_bundle: true
-    professor_signal: ""
   - id: mlp-classificacao-iris-atualizado
     title: "MLP Classificação - IRIS atualizado"
     category: codigo-professor
@@ -549,7 +495,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: auto
     include_in_bundle: true
-    professor_signal: ""
   - id: mlp-regressao-cardio
     title: "MLP Regressão - Cardio"
     category: codigo-professor
@@ -559,7 +504,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: auto
     include_in_bundle: true
-    professor_signal: ""
   - id: xor-backpropagation-em-python
     title: "XOR - Backpropagation em python"
     category: codigo-professor
@@ -569,7 +513,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: auto
     include_in_bundle: true
-    professor_signal: ""
   - id: exemplo-1-arvores-de-decisao-classificacao-planta-iris
     title: "Exemplo 1 - Árvores de Decisão Classificação - Planta Iris"
     category: codigo-professor
@@ -579,7 +522,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: auto
     include_in_bundle: true
-    professor_signal: ""
   - id: exemplo-2-arvores-de-decisao-regressao-diabetes
     title: "Exemplo 2 - Arvores de Decisão - Regressão - Diabetes"
     category: codigo-professor
@@ -589,7 +531,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: auto
     include_in_bundle: true
-    professor_signal: ""
   - id: exemplo-complementar-classificacao-com-arvores-de-decisao
     title: "Exemplo Complementar - Classificação com Árvores de Decisão"
     category: codigo-professor
@@ -599,7 +540,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: auto
     include_in_bundle: true
-    professor_signal: ""
   - id: agrupamento-hierarquico-exemplo-1
     title: "agrupamento hierarquico - exemplo 1"
     category: codigo-professor
@@ -609,7 +549,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: auto
     include_in_bundle: true
-    professor_signal: ""
   - id: agrupamento-hierarquico-exemplo-2-use-o-dataset-da-planta-iris
     title: "agrupamento hierarquico - exemplo 2 (use o dataset da planta IRIS)"
     category: codigo-professor
@@ -619,4 +558,3 @@ sources:
     processing_mode: high_fidelity
     effective_profile: auto
     include_in_bundle: true
-    professor_signal: ""

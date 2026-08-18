@@ -17,17 +17,17 @@
 | Faixa | Materiais |
 |---|---|
 | alta | 16 |
-| media | 24 |
-| baixa | 18 |
+| media | 26 |
+| baixa | 16 |
 
 ## Materiais de baixa confiança (revisar)
 
-- **Visão Geral - Introdução e Histórico** — bloco `bloco-02` (faixa baixa, conf 0.07, auto)
+- **Visão Geral - Introdução e Histórico** — bloco `bloco-02` (faixa baixa, conf 0.01, auto)
     - candidato `43b6f936-7dc9-49fa-8f19-a88b66dc9b98` (score —)
     - candidato `55691241-63a8-4053-aea8-8a835c90f4f7` (score —)
 - **Cap. sobre Algoritmos Geneticos (Lacerda e outros)** — bloco `bloco-12` (faixa media, conf 0.36, auto)
     - candidato `0b986383-663a-4a54-b000-4b97ebce59c4` (score —)
-- **minimax-teoria** — bloco `bloco-15` (faixa media, conf 0.22, auto)
+- **minimax-teoria** — bloco `bloco-15` (faixa media, conf 0.33, auto)
     - candidato `1de905a2-724e-4841-8d7b-a62bf7a42212` (score —)
     - candidato `4062d883-01e9-47d1-be03-61ea23b0adff` (score —)
 - **Rede Perceptron** — bloco `bloco-05` (faixa media, conf 0.45, auto)
@@ -41,12 +41,12 @@
 - **Aula sobre Agrupamento - parte 2 (hierarquico)** — bloco `bloco-06` (faixa baixa, conf 0.00, auto)
     - candidato `17ea65f3-5f84-47c7-9357-e090ee1f80ed` (score —)
     - candidato `696e2177-a69e-4dbb-9b79-73e03f3e8c85` (score —)
-- **Minimax** — bloco `bloco-15` (faixa media, conf 0.22, auto)
+- **Minimax** — bloco `bloco-15` (faixa media, conf 0.33, auto)
     - candidato `1de905a2-724e-4841-8d7b-a62bf7a42212` (score —)
     - candidato `4062d883-01e9-47d1-be03-61ea23b0adff` (score —)
-- **Algoritmo Genetico** — bloco `bloco-12` (faixa media, conf 0.28, auto)
+- **Algoritmo Genetico** — bloco `bloco-12` (faixa media, conf 0.32, auto)
     - candidato `0b986383-663a-4a54-b000-4b97ebce59c4` (score —)
-- **Introducao a busca informada** — bloco `bloco-12` (faixa baixa, conf 0.06, auto)
+- **Introducao a busca informada** — bloco `bloco-12` (faixa media, conf 0.22, auto)
     - candidato `0b986383-663a-4a54-b000-4b97ebce59c4` (score —)
 - **Outros operadores** — bloco `bloco-12` (faixa baixa, conf 0.00, auto)
     - candidato `0b986383-663a-4a54-b000-4b97ebce59c4` (score —)
@@ -83,7 +83,7 @@
 - **Lista de Exercicios I** — bloco `bloco-14` (faixa baixa, conf 0.00, auto)
     - candidato `1de905a2-724e-4841-8d7b-a62bf7a42212` (score —)
     - candidato `4062d883-01e9-47d1-be03-61ea23b0adff` (score —)
-- **Respostas da lista I (feito pela aluna Chiara)** — bloco `bloco-14` (faixa baixa, conf 0.00, auto)
+- **Respostas da lista I (feito pela aluna Chiara)** — bloco `bloco-14` (faixa media, conf 0.22, auto)
     - candidato `1de905a2-724e-4841-8d7b-a62bf7a42212` (score —)
     - candidato `4062d883-01e9-47d1-be03-61ea23b0adff` (score —)
 - **Introducao a agentes** — bloco `bloco-15` (faixa baixa, conf 0.00, auto)
