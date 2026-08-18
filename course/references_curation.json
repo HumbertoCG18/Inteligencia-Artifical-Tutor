@@ -1,20 +1,86 @@
 {
   "entries": {
+    "o-que-é-inteligência-artificial-ia-oracle-brasil-43437f": {
+      "ref_summary": "",
+      "ref_concepts": [],
+      "coverage_units": [
+        {
+          "unit_slug": "unidade-de-aprendizagem-02-solucao-de-problemas",
+          "topics": [
+            "algoritmos de busca com informacao",
+            "problemas de otimizacao",
+            "termos"
+          ],
+          "confidence": 0.379
+        },
+        {
+          "unit_slug": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
+          "topics": [
+            "termos",
+            "machine learning",
+            "aprende"
+          ],
+          "confidence": 0.304
+        }
+      ],
+      "computed_ref_unit": "unidade-de-aprendizagem-02-solucao-de-problemas",
+      "computed_ref_topics": [
+        "algoritmos de busca com informacao",
+        "problemas de otimizacao",
+        "termos"
+      ],
+      "content_hash": "0c7ec4678897580156b051707fa31f119ff3b51c",
+      "matcher_version": 2
+    },
+    "ia-responsável-7c4626": {
+      "ref_summary": "",
+      "ref_concepts": [],
+      "coverage_units": [],
+      "computed_ref_unit": "",
+      "computed_ref_topics": [],
+      "content_hash": "5ae99bdc2d62aebf109b54273d528d2c49fd1ad4",
+      "matcher_version": 2
+    },
     "artigo-usando-k-nn-em-texto": {
       "ref_summary": "",
       "ref_concepts": [],
-      "computed_ref_unit": "",
-      "computed_ref_topics": [],
-      "content_hash": "0c8a228ead22a654ed3bfa4cca29ba25b6368ba6",
-      "matcher_version": 1
+      "coverage_units": [
+        {
+          "unit_slug": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
+          "topics": [
+            "termos",
+            "machine learning",
+            "aprende"
+          ],
+          "confidence": 0.348
+        },
+        {
+          "unit_slug": "unidade-de-aprendizagem-02-solucao-de-problemas",
+          "topics": [
+            "representacao de problemas",
+            "algoritmos de busca com informacao",
+            "termos"
+          ],
+          "confidence": 0.328
+        }
+      ],
+      "computed_ref_unit": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
+      "computed_ref_topics": [
+        "termos",
+        "machine learning",
+        "aprende"
+      ],
+      "content_hash": "ebe8d40e18ad756622b80cb62ab323ead0a56661",
+      "matcher_version": 2
     },
     "artigo-usando-agrupamento": {
       "ref_summary": "",
       "ref_concepts": [],
+      "coverage_units": [],
       "computed_ref_unit": "",
       "computed_ref_topics": [],
       "content_hash": "3e963e3b4902151917e089f89b2785761e4b2421",
-      "matcher_version": 1
+      "matcher_version": 2
     }
   }
 }
