@@ -20,6 +20,7 @@
 - [ ] Algoritmos de Busca com Informação
 - [ ] Problemas de Otimização
 - [ ] Busca Adversária
+- 🧪 Tambem cobre esta unidade: `Introdução a ML`, `Visão Geral - Introdução e Histórico`
 
 ### Unidade de Aprendizagem 3 — Raciocínio, Planejamento e Representação de Conhecimento
 - [ ] Agentes em Lógica
@@ -34,6 +35,7 @@
 - [ ] Introdução ao aprendizado de máquina
 - [ ] Paradigmas de aprendizado
 - [ ] Modelos Preditivos
+  - 📖 Apoio: O que é Inteligência Artificial (IA)? | Oracle Brasil (doc) — Inteligência Artificial, Machine Learning, Deep Learning → content/BIBLIOGRAPHY.md
 - [ ] Modelos Descritivos
 - [ ] Métricas de Avaliação
 

@@ -27,6 +27,6 @@ Os três arquivos de instruções foram gerados:
 - Atualizar `student/STUDENT_STATE.md` após cada sessão de estudo.
 
 ## Custos e qualidade do build
-- páginas processadas via Datalab: 1059 (em 30 arquivo(s)) — proxy de custo (Datalab cobra por página)
+- páginas processadas via Datalab: 991 (em 27 arquivo(s)) — proxy de custo (Datalab cobra por página)
 - parse_quality médio (Datalab): 4.64
-- PDFs escaneados: 0 de 31 (0%) · 0 de 1064 páginas
+- PDFs escaneados: 0 de 28 (0%) · 0 de 996 páginas

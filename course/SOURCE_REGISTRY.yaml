@@ -90,15 +90,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: diagram_heavy
     include_in_bundle: true
-  - id: minimax
-    title: "Minimax"
-    category: material-de-aula
-    file_type: pdf
-    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\inteligencia-artificial\\Semana 15 - 08.06 a 12.06 - Algoritmos de Busca\\Minimax.pdf"
-    raw_target: "raw/pdfs/material-de-aula/minimax.pdf"
-    processing_mode: high_fidelity
-    effective_profile: diagram_heavy
-    include_in_bundle: true
   - id: algoritmo-genetico
     title: "Algoritmo Genetico"
     category: material-de-aula
@@ -179,15 +170,6 @@ sources:
     raw_target: "raw/zip/implementacaominimax.zip"
     processing_mode: high_fidelity
     effective_profile: auto
-    include_in_bundle: true
-  - id: lista1
-    title: "lista1"
-    category: listas
-    file_type: pdf
-    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\inteligencia-artificial\\Semana 15 - 08.06 a 12.06 - Algoritmos de Busca\\lista1.pdf"
-    raw_target: "raw/pdfs/listas/lista1.pdf"
-    processing_mode: high_fidelity
-    effective_profile: diagram_heavy
     include_in_bundle: true
   - id: caracteristicas-dos-dados
     title: "Características dos Dados"
@@ -357,15 +339,6 @@ sources:
     file_type: pdf
     source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\inteligencia-artificial\\TDE Trabalho Discente Efetivo\\P2 2024.02.pdf"
     raw_target: "raw/pdfs/provas/p2-202402.pdf"
-    processing_mode: high_fidelity
-    effective_profile: diagram_heavy
-    include_in_bundle: true
-  - id: prova-1-202402
-    title: "Prova 1 2024.02"
-    category: provas
-    file_type: pdf
-    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\inteligencia-artificial\\TDE Trabalho Discente Efetivo\\Prova 1 2024.02.pdf"
-    raw_target: "raw/pdfs/provas/prova-1-202402.pdf"
     processing_mode: high_fidelity
     effective_profile: diagram_heavy
     include_in_bundle: true

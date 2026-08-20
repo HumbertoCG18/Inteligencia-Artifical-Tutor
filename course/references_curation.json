@@ -1,40 +1,47 @@
 {
   "entries": {
     "o-que-é-inteligência-artificial-ia-oracle-brasil-43437f": {
-      "ref_summary": "",
-      "ref_concepts": [],
+      "ref_summary": "Este artigo da Oracle apresenta uma visão geral sobre a Inteligência Artificial, diferenciando-a de subcampos como machine learning e deep learning. Ele aborda como as empresas utilizam a IA para otimizar processos e tomar decisões mais inteligentes, detalhando os fatores que motivam sua adoção, como a computação em nuvem de alto desempenho e a abundância de dados. Além disso, o texto serve de apoio ao estudo ao detalhar os papéis dentro de uma equipe de ciência de dados e as melhores práticas para a operacionalização de modelos nas organizações.",
+      "ref_concepts": [
+        "Inteligência Artificial",
+        "Machine Learning",
+        "Deep Learning",
+        "Ciência de Dados",
+        "Inteligência Adaptativa",
+        "Treinamento de Modelos",
+        "Processamento de Linguagem Natural"
+      ],
       "coverage_units": [
-        {
-          "unit_slug": "unidade-de-aprendizagem-02-solucao-de-problemas",
-          "topics": [
-            "algoritmos de busca com informacao",
-            "problemas de otimizacao",
-            "termos"
-          ],
-          "confidence": 0.379
-        },
         {
           "unit_slug": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
           "topics": [
-            "termos",
-            "machine learning",
-            "aprende"
+            "modelos preditivos",
+            "modelos descritivos",
+            "machine learning"
           ],
-          "confidence": 0.304
+          "confidence": 0.571
         }
       ],
-      "computed_ref_unit": "unidade-de-aprendizagem-02-solucao-de-problemas",
+      "computed_ref_unit": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
       "computed_ref_topics": [
-        "algoritmos de busca com informacao",
-        "problemas de otimizacao",
-        "termos"
+        "modelos preditivos",
+        "modelos descritivos",
+        "machine learning"
       ],
       "content_hash": "0c7ec4678897580156b051707fa31f119ff3b51c",
       "matcher_version": 2
     },
     "ia-responsável-7c4626": {
-      "ref_summary": "",
-      "ref_concepts": [],
+      "ref_summary": "Esta referência apresenta o framework da Microsoft para o desenvolvimento e implementação de sistemas de Inteligência Artificial de forma ética e segura. Ela detalha os seis pilares fundamentais da IA responsável, orientando desenvolvedores e organizações a mitigar vieses, proteger a privacidade dos usuários e garantir a transparência dos modelos. O conteúdo serve como guia prático para estudantes compreenderem a governança, a conformidade e o impacto social das tecnologias de IA no cenário atual.",
+      "ref_concepts": [
+        "IA Responsável",
+        "Mitigação de Vieses",
+        "Privacidade e Segurança",
+        "Transparência",
+        "Accountability",
+        "Inclusão",
+        "Governança de IA"
+      ],
       "coverage_units": [],
       "computed_ref_unit": "",
       "computed_ref_topics": [],
@@ -42,34 +49,19 @@
       "matcher_version": 2
     },
     "artigo-usando-k-nn-em-texto": {
-      "ref_summary": "",
-      "ref_concepts": [],
-      "coverage_units": [
-        {
-          "unit_slug": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
-          "topics": [
-            "termos",
-            "machine learning",
-            "aprende"
-          ],
-          "confidence": 0.348
-        },
-        {
-          "unit_slug": "unidade-de-aprendizagem-02-solucao-de-problemas",
-          "topics": [
-            "representacao de problemas",
-            "algoritmos de busca com informacao",
-            "termos"
-          ],
-          "confidence": 0.328
-        }
+      "ref_summary": "Este artigo apresenta um estudo experimental sobre a categorização hierárquica de documentos em língua portuguesa utilizando o algoritmo k-Nearest Neighbor (k-NN) na coleção PLN-BR CATEG. O trabalho investiga os desafios da classificação automática na ausência de grandes bases de dados previamente rotuladas em português, mapeando seções jornalísticas a uma estrutura taxonômica. Além disso, os autores analisam a influência de parâmetros como o número de vizinhos (k) e o tamanho do conjunto de treino na eficácia do processo. Com isso, a referência serve como um guia prático para entender o pré-processamento de textos, lematização e estratégias de classificação hierárquica.",
+      "ref_concepts": [
+        "Categorização Hierárquica",
+        "Algoritmo k-Nearest Neighbor",
+        "Processamento de Linguagem Natural",
+        "Lematização",
+        "Corpus PLN-BR CATEG",
+        "Seleção de Atributos",
+        "Aprendizagem de Máquina"
       ],
-      "computed_ref_unit": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
-      "computed_ref_topics": [
-        "termos",
-        "machine learning",
-        "aprende"
-      ],
+      "coverage_units": [],
+      "computed_ref_unit": "",
+      "computed_ref_topics": [],
       "content_hash": "ebe8d40e18ad756622b80cb62ab323ead0a56661",
       "matcher_version": 2
     },

@@ -8,6 +8,7 @@
 
 ### Artigo usando k-NN em texto
 - **URL:** C:\Users\Humberto\Desktop\Moodle\inteligencia-artificial\Semana 3 - 16.03 a 20.03 - Machine Learning e Dados\Artigo usando k-NN em texto.pdf
+- **Resumo:** Este artigo apresenta um estudo experimental sobre a categorização hierárquica de documentos em língua portuguesa utilizando o algoritmo k-Nearest Neighbor (k-NN) na coleção PLN-BR CATEG. O trabalho investiga os desafios da classificação automática na ausência de grandes bases de dados previamente rotuladas em português, mapeando seções jornalísticas a uma estrutura taxonômica. Além disso, os autores analisam a influência de parâmetros como o número de vizinhos (k) e o tamanho do conjunto de treino na eficácia do processo. Com isso, a referência serve como um guia prático para entender o pré-processamento de textos, lematização e estratégias de classificação hierárquica.
 - **Incluir no bundle:** sim
 
 ### Artigo usando agrupamento
