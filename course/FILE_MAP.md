@@ -25,7 +25,9 @@ mode: routing_index
 | # | Título | Categoria | Quando abrir | Prioridade | Markdown | Seções | Unidade | Subtópico | Confiança | Período |
 |---|---|---|---|---|---|---|---|---|---|---|
 | 1 | O que é Inteligência Artificial (IA)? | Oracle Brasil | references | consulta pontual | alta | `content/curated/o-que-é-inteligência-artificial-ia-oracle-brasil-43437f.md` | Conteúdo Extraído  Termos da Inteligência Artificial  IA e desenvolvedores  Como a tecnologia de IA pode ajudar as organizações | curso-inteiro |  | Alta |  |
+|  | ↳ rastreabilidade |  | tags: `unit:unidade-de-aprendizagem-01-visao-geral` |  |  |  |  |  |  |  |
 | 2 | IA Responsável | references | consulta pontual | alta | `content/curated/ia-responsável-7c4626.md` |  | curso-inteiro |  | Alta |  |
+|  | ↳ rastreabilidade |  | tags: `unit:unidade-de-aprendizagem-01-visao-geral` |  |  |  |  |  |  |  |
 | 3 | Visão Geral - Introdução e Histórico | material-de-aula | teoria base | alta | `content/curated/visao-geral-introducao-e-historico.md` | Roteiro  A conversa com você  ChatGPT  Copilot icon Copilot | unidade-de-aprendizagem-01-visao-geral | Conceituação | Alta | 1 dia · 04/03/2026 |
 |  | ↳ rastreabilidade |  | raw: `raw/pdfs/material-de-aula/visao-geral-introducao-e-historico.pdf`; tags: `topico:introducao-a-ia-visao-geral; tipo:material-base; bloco:bloco-01` |  |  |  |  |  |  |  |
 | 4 | Cap. sobre Algoritmos Geneticos (Lacerda e outros) | material-de-aula | teoria base | alta | `content/curated/cap-sobre-algoritmos-geneticos-lacerda-e-outros.md` | INTRODUÇÃO AOS ALGORITMOS  GENÉTICOS  3.2 REPRESENTAÇÃO REAL  3.3 ALGORITMOS GENÉTICOS E OTIMIZAÇÃO CONVENCIONAL | unidade-de-aprendizagem-02-solucao-de-problemas |  | Média | 3 dias · 18/05/2026 a 25/05/2026 |
@@ -65,6 +67,5 @@ mode: routing_index
 | 21 | Introdução a ML | material-de-aula | teoria base | alta | `content/curated/introducao-a-ml.md` | Conceito  **Machine Learning**  Conceito  Por que estudar Machine Learning? | unidade-de-aprendizagem-05-aprendizado-de-maquina | Introdução ao aprendizado de máquina | Alta | 1 dia · 09/03/2026 |
 |  | ↳ rastreabilidade |  | raw: `raw/pdfs/material-de-aula/introducao-a-ml.pdf`; tags: `tipo:material-base; bloco:bloco-05; unit:unidade-de-aprendizagem-05-aprendizado-de-maquina` |  |  |  |  |  |  |  |
 | 22 | Algoritmo de Classificação k-NN | material-de-aula | teoria base | alta | `content/curated/algoritmo-de-classificacao-k-nn.md` | Classificação com k-NN  Roteiro  Subáreas da Inteligência Artificial  Aprendizado Supervisionado | unidade-de-aprendizagem-05-aprendizado-de-maquina | Introdução ao aprendizado de máquina | Alta | 9 dias · 18/03/2026 a 15/04/2026 |
-|  | ↳ rastreabilidade |  | raw: `raw/pdfs/material-de-aula/algoritmo-de-classificacao-k-nn.pdf`; tags: `topico:aprendizado-nao-supervisionado; topico:aprendizado-supervisionado; topico:subareas-da-inteligencia-artificial` |  |  |  |  |  |  |  |
 
 > Conteúdo truncado para manter course/FILE_MAP.md compacto e roteável.
