@@ -10137,7 +10137,37 @@
           "rule": "unidade-atribuida"
         }
       ],
-      "computed_block_method": "concept-fused"
+      "computed_block_method": "concept-fused",
+      "temporal_block_id": "421fe467-6e6d-40b5-911e-95abfa402def",
+      "temporal_block_method": "llm-funil",
+      "temporal_block_band": "media",
+      "temporal_block_flag": true,
+      "temporal_block_provider": "llm-funil",
+      "temporal_block_window": [
+        "bloco-01",
+        "bloco-02",
+        "bloco-03",
+        "bloco-04",
+        "bloco-05",
+        "bloco-06",
+        "bloco-07",
+        "bloco-08",
+        "bloco-09",
+        "bloco-10",
+        "bloco-11",
+        "bloco-12",
+        "bloco-13",
+        "bloco-14",
+        "bloco-15",
+        "bloco-16",
+        "bloco-17",
+        "bloco-18",
+        "bloco-19",
+        "bloco-20",
+        "bloco-21",
+        "bloco-22",
+        "bloco-23"
+      ]
     },
     {
       "id": "p2-202402",
@@ -10240,7 +10270,37 @@
       "moodle_label": "P2 2024/02",
       "posting_date": "2026-06-23",
       "posting_date_created": "2026-06-23",
-      "computed_block_method": "concept-fused"
+      "computed_block_method": "concept-fused",
+      "temporal_block_id": "421fe467-6e6d-40b5-911e-95abfa402def",
+      "temporal_block_method": "llm-funil",
+      "temporal_block_band": "media",
+      "temporal_block_flag": true,
+      "temporal_block_provider": "llm-funil",
+      "temporal_block_window": [
+        "bloco-01",
+        "bloco-02",
+        "bloco-03",
+        "bloco-04",
+        "bloco-05",
+        "bloco-06",
+        "bloco-07",
+        "bloco-08",
+        "bloco-09",
+        "bloco-10",
+        "bloco-11",
+        "bloco-12",
+        "bloco-13",
+        "bloco-14",
+        "bloco-15",
+        "bloco-16",
+        "bloco-17",
+        "bloco-18",
+        "bloco-19",
+        "bloco-20",
+        "bloco-21",
+        "bloco-22",
+        "bloco-23"
+      ]
     },
     {
       "id": "analise-exploratoria-de-dados-exemplo-1",
@@ -13624,7 +13684,7 @@
       "language": "jupyter"
     }
   ],
-  "updated_at": "2026-08-20T10:53:29",
+  "updated_at": "2026-08-21T00:40:17",
   "failed_entries": [
     {
       "id": "k-nn-exemplocardio",

@@ -102,6 +102,18 @@
       "confianca": "alta",
       "justificativa": "O material trata de Aprendizado Não Supervisionado e Agrupamento Hierárquico, que são exatamente os tópicos abordados no roteiro e título do bloco-06.",
       "model": "gemini-3.5-flash"
+    },
+    "ac264d1d45ed9072c157a7ab7f504ef9": {
+      "block_id": "bloco-19",
+      "confianca": "alta",
+      "justificativa": "O material é a Prova 2 (P2), que engloba redes neurais (MLP) e algoritmos genéticos (cruzamento, elitismo). Pelo cronograma, a P1 ocorreu no bloco-11 (maio), e os algoritmos de busca/genéticos foram m",
+      "model": "gemini-3.5-flash"
+    },
+    "60a5a6fbd1cd8ae098d126ceb3878114": {
+      "block_id": "bloco-19",
+      "confianca": "alta",
+      "justificativa": "O material é a Prova 2 (P2), que avalia o conteúdo da segunda metade do curso (Algoritmos de Busca, Minimax, Algoritmos Genéticos e Planejamento). O bloco-19 corresponde à data da segunda prova no cro",
+      "model": "gemini-3.5-flash"
     }
   }
 }
