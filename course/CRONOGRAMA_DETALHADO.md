@@ -284,6 +284,9 @@ _Sem códigos vinculados a esta aula._
 - **Implementação de Algoritmo Genético para o Problema das N-Rainhas em Java** (`programa-exemplo AG.zip`)
   - Conceitos: Algoritmos Genéticos, Problema das N-Rainhas, Representação de Indivíduo, Função de Aptidão
   - Papel: exemplo_demonstrativo
+- **Implementação de Algoritmo Genético para o Problema da Soma dos Subconjuntos** (`AG feito em aula pelo Luca.py`)
+  - Conceitos: Algoritmos Genéticos, Função de Aptidão, Elitismo, Seleção por Torneio
+  - Papel: exemplo_demonstrativo
 
 **Também relevante** (outras aulas como contexto):
 
@@ -299,11 +302,7 @@ _Sem códigos vinculados a esta aula._
 
 - **qua 27/05** — es day evento academico
 
-### Códigos desta aula
-
-- **Implementação de Algoritmo Genético para o Problema da Soma dos Subconjuntos** (`AG feito em aula pelo Luca.py`)
-  - Conceitos: Algoritmos Genéticos, Função de Aptidão, Elitismo, Seleção por Torneio
-  - Papel: exemplo_demonstrativo
+_Sem códigos vinculados a esta aula._
 
 ---
 

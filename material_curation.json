@@ -20,10 +20,31 @@
       "model": "gemini-3.5-flash"
     },
     "c87565686ced7054556538b7c14b166d": {
-      "block_id": "bloco-13",
+      "block_id": "bloco-12",
       "confianca": "alta",
-      "justificativa": "O material trata de Algoritmo Genético (AG) e está associado à Semana 13 (25.05 a 29.05), correspondendo diretamente ao bloco-13 de Algoritmos de Busca na data de 25-05.",
-      "model": "gemini-3.5-flash"
+      "justificativa": "O material trata de um Algoritmo Genético (AG), que pertence ao tópico de Algoritmos de Busca. A data indicada na seção do Moodle (25/05) coincide com o final do período do bloco-12.",
+      "model": "gemini-3.5-flash",
+      "window": [
+        "bloco-01",
+        "bloco-02",
+        "bloco-03",
+        "bloco-04",
+        "bloco-05",
+        "bloco-06",
+        "bloco-08",
+        "bloco-09",
+        "bloco-10",
+        "bloco-11",
+        "bloco-12",
+        "bloco-14",
+        "bloco-15",
+        "bloco-16",
+        "bloco-18",
+        "bloco-19",
+        "bloco-20",
+        "bloco-22",
+        "bloco-23"
+      ]
     },
     "00eda8b20958df484eb6317eda337d84": {
       "block_id": "bloco-15",
@@ -32,10 +53,14 @@
       "model": "gemini-3.5-flash"
     },
     "52a792e1cb29c833b40096219c89adc7": {
-      "block_id": "bloco-16",
+      "block_id": "bloco-15",
       "confianca": "alta",
-      "justificativa": "A lista de exercicios cobre topicos de Agentes e Algoritmos de Busca, encaixando-se perfeitamente no roteiro do bloco-16 que contem 'Exercicios' e 'Algoritmos de Busca. Exercicios', alem de a data da ",
-      "model": "gemini-3.5-flash"
+      "justificativa": "O material é uma lista de exercícios sobre agentes e algoritmos de busca, correspondendo perfeitamente ao roteiro do bloco-15 ('Exercicios ; Algoritmos de Busca') e à semana indicada (08/06 a 12/06), ",
+      "model": "gemini-3.5-flash",
+      "window": [
+        "1de905a2-724e-4841-8d7b-a62bf7a42212",
+        "4062d883-01e9-47d1-be03-61ea23b0adff"
+      ]
     },
     "e5f23a6d71eec68e32f4088e6cdcc882": {
       "block_id": "bloco-04",
@@ -62,16 +87,24 @@
       "model": "gemini-3.5-flash"
     },
     "c2da2e792fb29409644de0940fbfab7f": {
-      "block_id": "bloco-16",
+      "block_id": "bloco-15",
       "confianca": "alta",
-      "justificativa": "O material é de gabarito/exercícios da Semana 15 (08.06 a 12.06), e o bloco-16 inicia em 10.06 com roteiro expressamente contendo 'Exercicios', correspondendo ao período e atividade da semana descrita",
-      "model": "gemini-3.5-flash"
+      "justificativa": "O material contem as respostas/gabarito de uma lista de exercicios (Lista I) e foi mapeado na Semana 15 (08.06 a 12.06), periodo que coincide com o bloco-15 (10.06 a 15.06), cujo roteiro foca em exerc",
+      "model": "gemini-3.5-flash",
+      "window": [
+        "1de905a2-724e-4841-8d7b-a62bf7a42212",
+        "4062d883-01e9-47d1-be03-61ea23b0adff"
+      ]
     },
     "4e029526d00d50e0018a49af5e2e49ad": {
-      "block_id": "bloco-17",
+      "block_id": "bloco-15",
       "confianca": "alta",
-      "justificativa": "O material 'Introdução a agentes' corresponde diretamente ao roteiro do bloco-17, que trata de 'Introdução a agentes' em 17/06/2026, data pertencente à semana informada no Moodle.",
-      "model": "gemini-3.5-flash"
+      "justificativa": "O material trata de agentes e a semana indicada no Moodle (15.06 a 19.06) overlap com o fim do periodo do bloco-15 (ate 15.06), que abrange algoritmos de busca e exercicios.",
+      "model": "gemini-3.5-flash",
+      "window": [
+        "4062d883-01e9-47d1-be03-61ea23b0adff",
+        "bfaa3df7-b5b1-4d7b-8f7e-1e38f29ed016"
+      ]
     },
     "f1131c035e1dc571113d4f1f65db1ff1": {
       "block_id": "bloco-04",

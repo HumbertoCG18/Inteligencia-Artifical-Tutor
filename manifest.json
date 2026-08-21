@@ -5042,7 +5042,7 @@
       "approved_at": "2026-06-19T08:14:32",
       "review_status": "approved",
       "temporal_block_id": "17ea65f3-5f84-47c7-9357-e090ee1f80ed",
-      "temporal_block_method": "disamb",
+      "temporal_block_method": "janela-1",
       "moodle_label": "Aula sobre Agrupamento - parte 2 (hierarquico)",
       "posting_date": "2026-02-24",
       "posting_date_created": "2026-02-24",
@@ -5050,8 +5050,7 @@
       "temporal_block_flag": false,
       "temporal_block_provider": "labels",
       "temporal_block_window": [
-        "17ea65f3-5f84-47c7-9357-e090ee1f80ed",
-        "696e2177-a69e-4dbb-9b79-73e03f3e8c85"
+        "17ea65f3-5f84-47c7-9357-e090ee1f80ed"
       ],
       "coverage_units": [
         {
@@ -5856,8 +5855,7 @@
       "computed_block_band": "media",
       "unit_match_reasons": [
         "winner_score=18.75",
-        "topic_score=1.04",
-        "herdada_do_vizinho=bloco-12"
+        "topic_score=1.04"
       ],
       "unit_match_confidence": 0.8961111111111111,
       "unit_block_conflict": {},
@@ -5867,18 +5865,9 @@
         "ambiguous"
       ],
       "subunit_match_confidence": 0.12499999999999994,
-      "temporal_block_id": "d75c82cf-f46d-4b1e-8a65-9b890166dc7d",
-      "temporal_block_method": "llm",
       "moodle_label": "AG feito em aula pelo Luca",
       "posting_date": "2026-05-26",
       "posting_date_created": "2026-05-26",
-      "temporal_block_band": "media",
-      "temporal_block_flag": false,
-      "temporal_block_provider": "llm",
-      "temporal_block_window": [
-        "ab4631aa-d8e3-4c85-833c-369de28d773a",
-        "d75c82cf-f46d-4b1e-8a65-9b890166dc7d"
-      ],
       "computed_block_rationale": "O código demonstra um algoritmo de busca meta-heurística, o que se alinha com o tema de 'Algoritmos busca'.",
       "computed_block_match_confidence": 0.75,
       "coverage_units": [
@@ -5894,6 +5883,32 @@
           "confidence": 0.7,
           "rule": "card"
         }
+      ],
+      "temporal_block_id": "0b986383-663a-4a54-b000-4b97ebce59c4",
+      "temporal_block_method": "llm-funil",
+      "temporal_block_band": "media",
+      "temporal_block_flag": true,
+      "temporal_block_provider": "llm-funil",
+      "temporal_block_window": [
+        "bloco-01",
+        "bloco-02",
+        "bloco-03",
+        "bloco-04",
+        "bloco-05",
+        "bloco-06",
+        "bloco-08",
+        "bloco-09",
+        "bloco-10",
+        "bloco-11",
+        "bloco-12",
+        "bloco-14",
+        "bloco-15",
+        "bloco-16",
+        "bloco-18",
+        "bloco-19",
+        "bloco-20",
+        "bloco-22",
+        "bloco-23"
       ]
     },
     {
@@ -9669,14 +9684,14 @@
       "approved_source_markdown": "staging/markdown-auto/datalab/lista-de-exercicios-i/lista-de-exercicios-i.md",
       "approved_at": "2026-06-19T08:13:01",
       "review_status": "approved",
-      "temporal_block_id": "1de905a2-724e-4841-8d7b-a62bf7a42212",
-      "temporal_block_method": "disamb",
+      "temporal_block_id": "4062d883-01e9-47d1-be03-61ea23b0adff",
+      "temporal_block_method": "llm",
       "moodle_label": "Lista de Exercicios I",
       "posting_date": "2026-06-09",
       "posting_date_created": "2026-06-09",
       "temporal_block_band": "media",
-      "temporal_block_flag": true,
-      "temporal_block_provider": "labels",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "llm",
       "temporal_block_window": [
         "1de905a2-724e-4841-8d7b-a62bf7a42212",
         "4062d883-01e9-47d1-be03-61ea23b0adff"
@@ -9806,8 +9821,8 @@
         "winner_score=4.90"
       ],
       "subunit_match_confidence": 0.697182523478971,
-      "temporal_block_id": "1de905a2-724e-4841-8d7b-a62bf7a42212",
-      "temporal_block_method": "disamb",
+      "temporal_block_id": "4062d883-01e9-47d1-be03-61ea23b0adff",
+      "temporal_block_method": "llm",
       "approved_markdown": "exercises/lists/respostas-da-lista-i-feito-pela-aluna-chiara.md",
       "curated_markdown": "exercises/lists/respostas-da-lista-i-feito-pela-aluna-chiara.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/respostas-da-lista-i-feito-pela-aluna-chiara/respostas-da-lista-i-feito-pela-aluna-chiara.md",
@@ -9817,8 +9832,8 @@
       "posting_date": "2026-06-22",
       "posting_date_created": "2026-06-22",
       "temporal_block_band": "media",
-      "temporal_block_flag": true,
-      "temporal_block_provider": "labels",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "llm",
       "temporal_block_window": [
         "1de905a2-724e-4841-8d7b-a62bf7a42212",
         "4062d883-01e9-47d1-be03-61ea23b0adff"
@@ -10022,10 +10037,10 @@
       "posting_date": "2026-06-22",
       "posting_date_created": "2026-06-22",
       "temporal_block_id": "4062d883-01e9-47d1-be03-61ea23b0adff",
-      "temporal_block_method": "disamb",
+      "temporal_block_method": "llm",
       "temporal_block_band": "media",
-      "temporal_block_flag": true,
-      "temporal_block_provider": "labels",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "llm",
       "temporal_block_window": [
         "4062d883-01e9-47d1-be03-61ea23b0adff",
         "bfaa3df7-b5b1-4d7b-8f7e-1e38f29ed016"
@@ -10174,21 +10189,17 @@
         "bloco-04",
         "bloco-05",
         "bloco-06",
-        "bloco-07",
         "bloco-08",
         "bloco-09",
         "bloco-10",
         "bloco-11",
         "bloco-12",
-        "bloco-13",
         "bloco-14",
         "bloco-15",
         "bloco-16",
-        "bloco-17",
         "bloco-18",
         "bloco-19",
         "bloco-20",
-        "bloco-21",
         "bloco-22",
         "bloco-23"
       ],
@@ -10309,21 +10320,17 @@
         "bloco-04",
         "bloco-05",
         "bloco-06",
-        "bloco-07",
         "bloco-08",
         "bloco-09",
         "bloco-10",
         "bloco-11",
         "bloco-12",
-        "bloco-13",
         "bloco-14",
         "bloco-15",
         "bloco-16",
-        "bloco-17",
         "bloco-18",
         "bloco-19",
         "bloco-20",
-        "bloco-21",
         "bloco-22",
         "bloco-23"
       ],
@@ -11957,13 +11964,12 @@
       "computed_block_rationale": "O bloco menciona explicitamente o termo 'hierarquico', que é o conceito central demonstrado pelo notebook sobre agrupamento hierárquico.",
       "computed_block_match_confidence": 0.6,
       "temporal_block_id": "17ea65f3-5f84-47c7-9357-e090ee1f80ed",
-      "temporal_block_method": "disamb",
+      "temporal_block_method": "janela-1",
       "temporal_block_band": "alta",
       "temporal_block_flag": false,
       "temporal_block_provider": "labels",
       "temporal_block_window": [
-        "17ea65f3-5f84-47c7-9357-e090ee1f80ed",
-        "696e2177-a69e-4dbb-9b79-73e03f3e8c85"
+        "17ea65f3-5f84-47c7-9357-e090ee1f80ed"
       ],
       "coverage_units": [
         {
@@ -12044,13 +12050,12 @@
       "computed_block_rationale": "O bloco 06 menciona explicitamente 'hierárquico', que é o principal tópico abordado pelo código.",
       "computed_block_match_confidence": 0.6,
       "temporal_block_id": "17ea65f3-5f84-47c7-9357-e090ee1f80ed",
-      "temporal_block_method": "disamb",
+      "temporal_block_method": "janela-1",
       "temporal_block_band": "alta",
       "temporal_block_flag": false,
       "temporal_block_provider": "labels",
       "temporal_block_window": [
-        "17ea65f3-5f84-47c7-9357-e090ee1f80ed",
-        "696e2177-a69e-4dbb-9b79-73e03f3e8c85"
+        "17ea65f3-5f84-47c7-9357-e090ee1f80ed"
       ],
       "coverage_units": [
         {
@@ -13711,7 +13716,7 @@
       "language": "jupyter"
     }
   ],
-  "updated_at": "2026-08-21T02:21:52",
+  "updated_at": "2026-08-21T02:43:02",
   "failed_entries": [
     {
       "id": "k-nn-exemplocardio",
