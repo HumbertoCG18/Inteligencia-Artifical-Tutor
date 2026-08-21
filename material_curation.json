@@ -114,6 +114,12 @@
       "confianca": "alta",
       "justificativa": "O material é a Prova 2 (P2), que avalia o conteúdo da segunda metade do curso (Algoritmos de Busca, Minimax, Algoritmos Genéticos e Planejamento). O bloco-19 corresponde à data da segunda prova no cro",
       "model": "gemini-3.5-flash"
+    },
+    "00ccc9c7cc639615aee9b91b5d426fb1": {
+      "block_id": "bloco-05",
+      "confianca": "alta",
+      "justificativa": "O material trata da aplicacao de k-NN (k-Nearest Neighbor), algoritmo que e explicitamente abordado e exercitado no bloco-05 (Exercicios k-NN e Aprendizado Supervisionado).",
+      "model": "gemini-3.5-flash"
     }
   }
 }

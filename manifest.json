@@ -61,9 +61,16 @@
       ],
       "subunit_match_confidence": 0.5096965210954849,
       "computed_unit_slug": "",
-      "manual_timeline_block_id": "43b6f936-7dc9-49fa-8f19-a88b66dc9b98",
       "unit_block_conflict": {},
-      "computed_subunit_slug": "introducao-ao-aprendizado-de-maquina"
+      "computed_subunit_slug": "introducao-ao-aprendizado-de-maquina",
+      "temporal_block_id": "43b6f936-7dc9-49fa-8f19-a88b66dc9b98",
+      "temporal_block_method": "ref-generica",
+      "temporal_block_band": "media",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "ref-generica",
+      "temporal_block_window": [
+        "bloco-01"
+      ]
     },
     {
       "id": "ia-responsável-7c4626",
@@ -104,9 +111,16 @@
       ],
       "subunit_match_confidence": 0.0,
       "computed_unit_slug": "",
-      "manual_timeline_block_id": "43b6f936-7dc9-49fa-8f19-a88b66dc9b98",
       "unit_block_conflict": {},
-      "computed_subunit_slug": ""
+      "computed_subunit_slug": "",
+      "temporal_block_id": "43b6f936-7dc9-49fa-8f19-a88b66dc9b98",
+      "temporal_block_method": "ref-generica",
+      "temporal_block_band": "media",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "ref-generica",
+      "temporal_block_window": [
+        "bloco-01"
+      ]
     },
     {
       "id": "visao-geral-introducao-e-historico",
@@ -8051,7 +8065,6 @@
         "subunit:introducao-ao-aprendizado-de-maquina"
       ],
       "manual_unit_slug": "",
-      "manual_timeline_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
       "notes": "",
       "professor_signal": "",
       "include_in_bundle": true,
@@ -8166,6 +8179,15 @@
           "confidence": 0.7,
           "rule": "card"
         }
+      ],
+      "temporal_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
+      "temporal_block_method": "llm",
+      "temporal_block_band": "media",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "llm",
+      "temporal_block_window": [
+        "af22fe17-ee73-407f-9af5-d730739d71e0",
+        "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f"
       ]
     },
     {
@@ -13692,7 +13714,7 @@
       "language": "jupyter"
     }
   ],
-  "updated_at": "2026-08-21T01:04:04",
+  "updated_at": "2026-08-21T01:37:18",
   "failed_entries": [
     {
       "id": "k-nn-exemplocardio",
