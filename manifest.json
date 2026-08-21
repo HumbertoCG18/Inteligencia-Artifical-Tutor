@@ -5038,13 +5038,13 @@
       "approved_at": "2026-06-19T08:14:32",
       "review_status": "approved",
       "temporal_block_id": "17ea65f3-5f84-47c7-9357-e090ee1f80ed",
-      "temporal_block_method": "llm",
+      "temporal_block_method": "disamb",
       "moodle_label": "Aula sobre Agrupamento - parte 2 (hierarquico)",
       "posting_date": "2026-02-24",
       "posting_date_created": "2026-02-24",
-      "temporal_block_band": "media",
+      "temporal_block_band": "alta",
       "temporal_block_flag": false,
-      "temporal_block_provider": "llm",
+      "temporal_block_provider": "labels",
       "temporal_block_window": [
         "17ea65f3-5f84-47c7-9357-e090ee1f80ed",
         "696e2177-a69e-4dbb-9b79-73e03f3e8c85"
@@ -6975,10 +6975,10 @@
       "posting_date": "2026-02-24",
       "posting_date_created": "2026-02-24",
       "temporal_block_id": "af22fe17-ee73-407f-9af5-d730739d71e0",
-      "temporal_block_method": "llm",
-      "temporal_block_band": "media",
+      "temporal_block_method": "disamb",
+      "temporal_block_band": "alta",
       "temporal_block_flag": false,
-      "temporal_block_provider": "llm",
+      "temporal_block_provider": "labels",
       "temporal_block_window": [
         "fbf15f4c-54b1-489d-bb02-f9bd33dc1bd3",
         "af22fe17-ee73-407f-9af5-d730739d71e0"
@@ -11960,10 +11960,10 @@
       "computed_block_rationale": "O bloco menciona explicitamente o termo 'hierarquico', que é o conceito central demonstrado pelo notebook sobre agrupamento hierárquico.",
       "computed_block_match_confidence": 0.6,
       "temporal_block_id": "17ea65f3-5f84-47c7-9357-e090ee1f80ed",
-      "temporal_block_method": "llm",
-      "temporal_block_band": "media",
+      "temporal_block_method": "disamb",
+      "temporal_block_band": "alta",
       "temporal_block_flag": false,
-      "temporal_block_provider": "llm",
+      "temporal_block_provider": "labels",
       "temporal_block_window": [
         "17ea65f3-5f84-47c7-9357-e090ee1f80ed",
         "696e2177-a69e-4dbb-9b79-73e03f3e8c85"
@@ -12047,10 +12047,10 @@
       "computed_block_rationale": "O bloco 06 menciona explicitamente 'hierárquico', que é o principal tópico abordado pelo código.",
       "computed_block_match_confidence": 0.6,
       "temporal_block_id": "17ea65f3-5f84-47c7-9357-e090ee1f80ed",
-      "temporal_block_method": "llm",
-      "temporal_block_band": "media",
+      "temporal_block_method": "disamb",
+      "temporal_block_band": "alta",
       "temporal_block_flag": false,
-      "temporal_block_provider": "llm",
+      "temporal_block_provider": "labels",
       "temporal_block_window": [
         "17ea65f3-5f84-47c7-9357-e090ee1f80ed",
         "696e2177-a69e-4dbb-9b79-73e03f3e8c85"
@@ -13714,7 +13714,7 @@
       "language": "jupyter"
     }
   ],
-  "updated_at": "2026-08-21T01:37:18",
+  "updated_at": "2026-08-21T01:59:47",
   "failed_entries": [
     {
       "id": "k-nn-exemplocardio",
