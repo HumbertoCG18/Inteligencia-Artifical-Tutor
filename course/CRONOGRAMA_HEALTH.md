@@ -166,7 +166,7 @@ bloco-07, bloco-09, bloco-10, bloco-11, bloco-16, bloco-17, bloco-18, bloco-20, 
 ## Blocos mais ricos
 
 - bloco-05: 27 material(is)
-- bloco-06: 7 material(is)
+- bloco-06: 8 material(is)
 - bloco-14: 5 material(is)
 - bloco-12: 5 material(is)
 - bloco-15: 3 material(is)
