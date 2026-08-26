@@ -54,18 +54,22 @@
         "unit:unidade-de-aprendizagem-01-visao-geral"
       ],
       "unit_match_reasons": [
-        "winner_score=33.64",
+        "winner_score=33.07",
         "topic_score=1.32",
-        "herdada_do_bloco=bloco-01",
+        "reconciliada_do_bloco=bloco-01",
         "herdada_do_vizinho=bloco-02"
       ],
-      "unit_match_confidence": 0.21936395062276384,
+      "unit_match_confidence": 0.5480477399212047,
       "subunit_match_reasons": [
         "empate-exato 2x score=0.12"
       ],
       "subunit_match_confidence": 0.0,
       "computed_unit_slug": "unidade-de-aprendizagem-01-visao-geral",
-      "unit_block_conflict": {},
+      "unit_block_conflict": {
+        "unit": "unidade-de-aprendizagem-02-solucao-de-problemas",
+        "block_unit": "unidade-de-aprendizagem-01-visao-geral",
+        "block_id": "bloco-01"
+      },
       "computed_subunit_slug": "",
       "temporal_block_id": "43b6f936-7dc9-49fa-8f19-a88b66dc9b98",
       "temporal_block_method": "ref-generica",
@@ -74,6 +78,14 @@
       "temporal_block_provider": "ref-generica",
       "temporal_block_window": [
         "bloco-01"
+      ],
+      "coverage_units": [
+        {
+          "unit_slug": "unidade-de-aprendizagem-02-solucao-de-problemas",
+          "topics": [],
+          "confidence": 0.5,
+          "rule": "unidade-atribuida"
+        }
       ]
     },
     {
@@ -873,12 +885,10 @@
       "computed_block_confidence": 0.00793650793650812,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
-        "winner_score=55.11",
-        "topic_score=7.34",
-        "ambiguous",
-        "herdada_do_bloco=bloco-02"
+        "winner_score=48.79",
+        "topic_score=11.92"
       ],
-      "unit_match_confidence": 0.039978565523030765,
+      "unit_match_confidence": 0.5201342281879194,
       "unit_block_conflict": {},
       "computed_subunit_slug": "conceituacao",
       "subunit_match_reasons": [
@@ -912,6 +922,12 @@
           ],
           "confidence": 0.7,
           "rule": "card"
+        },
+        {
+          "unit_slug": "unidade-de-aprendizagem-01-visao-geral",
+          "topics": [],
+          "confidence": 0.5,
+          "rule": "unidade-atribuida"
         }
       ],
       "computed_block_method": "concept-fused"
@@ -1150,10 +1166,10 @@
       "computed_block_confidence": 0.35714285714285704,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=89.80",
+        "winner_score=87.25",
         "topic_score=8.25"
       ],
-      "unit_match_confidence": 0.5193053938688397,
+      "unit_match_confidence": 0.6475171643177791,
       "unit_block_conflict": {},
       "computed_subunit_slug": "introducao-a-agentes-em-ambientes-deterministicos",
       "subunit_match_reasons": [
@@ -1551,7 +1567,7 @@
       "computed_block_confidence": 0.3333333333333333,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=81.24",
+        "winner_score=79.01",
         "topic_score=29.83"
       ],
       "unit_match_confidence": 0.95,
@@ -2400,7 +2416,7 @@
       "computed_block_confidence": 0.546875,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=90.34",
+        "winner_score=52.39",
         "topic_score=29.27"
       ],
       "unit_match_confidence": 0.95,
@@ -3437,7 +3453,7 @@
       "computed_block_confidence": 0.7812499999999999,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=89.61",
+        "winner_score=52.41",
         "topic_score=26.91"
       ],
       "unit_match_confidence": 0.95,
@@ -4131,7 +4147,7 @@
       "computed_block_confidence": 0.546875,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=82.74",
+        "winner_score=54.58",
         "topic_score=19.89"
       ],
       "unit_match_confidence": 0.9283185840707965,
@@ -4470,7 +4486,7 @@
       "computed_block_confidence": 0.05555555555555566,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
-        "winner_score=100.18",
+        "winner_score=58.44",
         "topic_score=31.27"
       ],
       "unit_match_confidence": 0.95,
@@ -5018,7 +5034,7 @@
       "computed_block_confidence": 0.0,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
-        "winner_score=84.09",
+        "winner_score=49.91",
         "topic_score=23.55"
       ],
       "unit_match_confidence": 0.95,
@@ -5255,10 +5271,10 @@
       "computed_block_confidence": 0.31875000000000003,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=61.67",
+        "winner_score=59.78",
         "topic_score=16.31"
       ],
-      "unit_match_confidence": 0.9284961133861357,
+      "unit_match_confidence": 0.95,
       "unit_block_conflict": {},
       "computed_subunit_slug": "algoritmos-de-busca-com-informacao",
       "subunit_match_reasons": [
@@ -5511,7 +5527,7 @@
       "computed_block_confidence": 0.21739130434782603,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=85.72",
+        "winner_score=81.08",
         "topic_score=9.33"
       ],
       "unit_match_confidence": 0.95,
@@ -5765,7 +5781,7 @@
       "computed_block_confidence": 0.3325416666666667,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=24.24",
+        "winner_score=22.17",
         "topic_score=0.91"
       ],
       "unit_match_confidence": 0.8812698412698412,
@@ -5846,7 +5862,7 @@
       "computed_block_confidence": 0.4180387931034483,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=18.75",
+        "winner_score=16.68",
         "topic_score=1.04"
       ],
       "unit_match_confidence": 0.8961111111111111,
@@ -6180,7 +6196,7 @@
       "computed_block_confidence": 0.5366666666666667,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=12.85",
+        "winner_score=10.78",
         "topic_score=0.91"
       ],
       "unit_match_confidence": 0.95,
@@ -6349,7 +6365,7 @@
       "computed_block_confidence": 0.10625000000000001,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
-        "winner_score=67.53",
+        "winner_score=65.80",
         "topic_score=9.69"
       ],
       "unit_match_confidence": 0.95,
@@ -6452,7 +6468,7 @@
       "computed_block_confidence": 0.17966666666666672,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
-        "winner_score=32.52",
+        "winner_score=29.55",
         "topic_score=0.91"
       ],
       "unit_match_confidence": 0.95,
@@ -6558,7 +6574,7 @@
       "computed_block_confidence": 0.36447484025559107,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=31.96",
+        "winner_score=30.69",
         "topic_score=11.07"
       ],
       "unit_match_confidence": 0.95,
@@ -6940,10 +6956,11 @@
       "computed_block_confidence": 0.49333333333333346,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=23.13",
-        "topic_score=1.30"
+        "winner_score=19.57",
+        "topic_score=1.30",
+        "herdada_do_bloco=bloco-04"
       ],
-      "unit_match_confidence": 0.5133577710919759,
+      "unit_match_confidence": 0.43302271086224986,
       "unit_block_conflict": {},
       "computed_subunit_slug": "introducao-ao-aprendizado-de-maquina",
       "subunit_match_reasons": [
@@ -6977,12 +6994,6 @@
           ],
           "confidence": 0.7,
           "rule": "card"
-        },
-        {
-          "unit_slug": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
-          "topics": [],
-          "confidence": 0.5,
-          "rule": "unidade-atribuida"
         }
       ],
       "computed_block_method": "concept-fused"
@@ -7576,7 +7587,7 @@
       "computed_block_confidence": 0.6029411764705882,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=96.85",
+        "winner_score=69.53",
         "topic_score=16.26"
       ],
       "unit_match_confidence": 0.9185340056573608,
@@ -7923,7 +7934,7 @@
       "computed_block_confidence": 0.09250000000000001,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
-        "winner_score=83.43",
+        "winner_score=54.12",
         "topic_score=30.78"
       ],
       "unit_match_confidence": 0.95,
@@ -8005,7 +8016,7 @@
       "computed_block_confidence": 0.6812749003984064,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=21.47",
+        "winner_score=17.00",
         "topic_score=1.15"
       ],
       "unit_match_confidence": 0.9065,
@@ -8148,10 +8159,12 @@
       "posting_date_created": "2026-02-24",
       "computed_unit_slug": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
       "unit_match_reasons": [
-        "winner_score=69.32",
-        "topic_score=12.10"
+        "winner_score=41.34",
+        "topic_score=1.30",
+        "ambiguous",
+        "herdada_do_bloco=bloco-05"
       ],
-      "unit_match_confidence": 0.8928748553479914,
+      "unit_match_confidence": 0.019181923885119675,
       "unit_block_conflict": {},
       "computed_subunit_slug": "modelos-preditivos",
       "subunit_match_reasons": [
@@ -8228,7 +8241,7 @@
       "computed_block_confidence": 0.006945544554455452,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
-        "winner_score=34.11",
+        "winner_score=22.27",
         "topic_score=18.73"
       ],
       "unit_match_confidence": 0.95,
@@ -8614,7 +8627,7 @@
       "computed_block_confidence": 0.7567567567567567,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=63.24",
+        "winner_score=34.89",
         "topic_score=21.20"
       ],
       "unit_match_confidence": 0.95,
@@ -8761,7 +8774,7 @@
       "computed_block_confidence": 0.5,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=49.35",
+        "winner_score=35.42",
         "topic_score=13.13"
       ],
       "unit_match_confidence": 0.95,
@@ -8956,10 +8969,10 @@
       "computed_block_confidence": 0.30458333333333343,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=60.01",
+        "winner_score=27.72",
         "topic_score=12.57"
       ],
-      "unit_match_confidence": 0.6760867065796423,
+      "unit_match_confidence": 0.6454588834102115,
       "unit_block_conflict": {},
       "computed_subunit_slug": "metricas-de-avaliacao",
       "subunit_match_reasons": [
@@ -9046,7 +9059,7 @@
       "computed_block_confidence": 0.2583333333333333,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=83.60",
+        "winner_score=56.90",
         "topic_score=30.42"
       ],
       "unit_match_confidence": 0.95,
@@ -9133,7 +9146,7 @@
       "computed_block_confidence": 0.5142857142857142,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=66.66",
+        "winner_score=44.49",
         "topic_score=30.42"
       ],
       "unit_match_confidence": 0.95,
@@ -9265,7 +9278,7 @@
       "posting_date_created": "2026-04-22",
       "computed_unit_slug": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
       "unit_match_reasons": [
-        "winner_score=12.15",
+        "winner_score=8.49",
         "topic_score=4.10"
       ],
       "unit_match_confidence": 1.0,
@@ -9385,7 +9398,7 @@
       "computed_block_confidence": 0.0,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
-        "winner_score=35.28",
+        "winner_score=18.78",
         "topic_score=16.20"
       ],
       "unit_match_confidence": 0.936,
@@ -9659,7 +9672,7 @@
       "computed_block_confidence": 0.0,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
-        "winner_score=69.80",
+        "winner_score=66.26",
         "topic_score=12.05"
       ],
       "unit_match_confidence": 0.95,
@@ -9801,7 +9814,7 @@
       "computed_block_confidence": 0.22222222222222232,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=56.73",
+        "winner_score=56.11",
         "topic_score=4.90"
       ],
       "unit_match_confidence": 0.7236423029808084,
@@ -10007,11 +10020,11 @@
       "computed_block_confidence": 0.0,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
-        "winner_score=85.20",
+        "winner_score=85.39",
         "topic_score=23.12",
         "reconciliada_do_bloco=bloco-17"
       ],
-      "unit_match_confidence": 0.9064911248745718,
+      "unit_match_confidence": 0.95,
       "unit_block_conflict": {
         "unit": "unidade-de-aprendizagem-02-solucao-de-problemas",
         "block_unit": "unidade-de-aprendizagem-03-raciocinio-planejamento-e-representacao-de-conhecimento",
@@ -10139,7 +10152,7 @@
       "computed_block_confidence": 0.6521739130434783,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=58.90",
+        "winner_score=33.84",
         "topic_score=18.33",
         "reconciliada_do_bloco=bloco-20",
         "herdada_do_vizinho=bloco-17"
@@ -10288,12 +10301,12 @@
       "computed_block_confidence": 0.6666666666666667,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=31.42",
+        "winner_score=30.48",
         "topic_score=1.30",
         "herdada_do_bloco=bloco-20",
         "herdada_do_vizinho=bloco-17"
       ],
-      "unit_match_confidence": 0.16300794764801183,
+      "unit_match_confidence": 0.2771830070935017,
       "unit_block_conflict": {},
       "computed_subunit_slug": "planejamento-classico",
       "subunit_match_reasons": [
@@ -10380,7 +10393,7 @@
       "computed_block_confidence": 0.4120525704809287,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=22.59",
+        "winner_score=18.32",
         "topic_score=0.91"
       ],
       "unit_match_confidence": 0.95,
@@ -10459,7 +10472,7 @@
       "computed_block_confidence": 0.006945544554455452,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
-        "winner_score=27.70",
+        "winner_score=14.55",
         "topic_score=12.82"
       ],
       "unit_match_confidence": 0.95,
@@ -10538,7 +10551,7 @@
       "computed_block_confidence": 0.11772126245847174,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
-        "winner_score=26.50",
+        "winner_score=19.03",
         "topic_score=11.81"
       ],
       "unit_match_confidence": 0.95,
@@ -10617,7 +10630,7 @@
       "computed_block_confidence": 0.656980056980057,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=35.17",
+        "winner_score=20.13",
         "topic_score=13.00"
       ],
       "unit_match_confidence": 0.95,
@@ -10704,7 +10717,7 @@
       "computed_block_confidence": 0.1237893687707641,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
-        "winner_score=41.66",
+        "winner_score=27.02",
         "topic_score=21.57"
       ],
       "unit_match_confidence": 0.95,
@@ -10791,7 +10804,7 @@
       "computed_block_confidence": 0.2866594936708861,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=52.17",
+        "winner_score=40.64",
         "topic_score=21.57"
       ],
       "unit_match_confidence": 0.95,
@@ -10878,7 +10891,7 @@
       "computed_block_confidence": 0.656980056980057,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=54.03",
+        "winner_score=30.42",
         "topic_score=25.10"
       ],
       "unit_match_confidence": 0.95,
@@ -10965,7 +10978,7 @@
       "computed_block_confidence": 0.656980056980057,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=48.10",
+        "winner_score=29.00",
         "topic_score=22.76"
       ],
       "unit_match_confidence": 0.95,
@@ -11052,7 +11065,7 @@
       "computed_block_confidence": 0.6666666666666666,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=38.01",
+        "winner_score=23.67",
         "topic_score=13.00"
       ],
       "unit_match_confidence": 0.95,
@@ -11139,7 +11152,7 @@
       "computed_block_confidence": 0.715099715099715,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=41.67",
+        "winner_score=24.09",
         "topic_score=15.35"
       ],
       "unit_match_confidence": 0.95,
@@ -11226,7 +11239,7 @@
       "computed_block_confidence": 0.656980056980057,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=40.26",
+        "winner_score=24.65",
         "topic_score=13.18"
       ],
       "unit_match_confidence": 0.95,
@@ -11313,7 +11326,7 @@
       "computed_block_confidence": 0.9050332383665718,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=35.21",
+        "winner_score=20.38",
         "topic_score=10.46"
       ],
       "unit_match_confidence": 0.95,
@@ -11400,7 +11413,7 @@
       "computed_block_confidence": 0.40179461615154527,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=83.76",
+        "winner_score=49.13",
         "topic_score=33.06"
       ],
       "unit_match_confidence": 0.95,
@@ -11486,7 +11499,7 @@
       "computed_block_confidence": 0.5630043376318874,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=87.49",
+        "winner_score=48.92",
         "topic_score=34.14"
       ],
       "unit_match_confidence": 0.95,
@@ -11572,7 +11585,7 @@
       "computed_block_confidence": 0.48207529880478084,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=42.68",
+        "winner_score=26.85",
         "topic_score=14.26"
       ],
       "unit_match_confidence": 0.95,
@@ -11658,7 +11671,7 @@
       "computed_block_confidence": 0.715099715099715,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=41.34",
+        "winner_score=26.84",
         "topic_score=14.26"
       ],
       "unit_match_confidence": 0.95,
@@ -11745,7 +11758,7 @@
       "computed_block_confidence": 0.372079772079772,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=72.68",
+        "winner_score=46.16",
         "topic_score=26.14"
       ],
       "unit_match_confidence": 0.95,
@@ -11832,7 +11845,7 @@
       "computed_block_confidence": 0.48240895736952044,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=78.05",
+        "winner_score=49.43",
         "topic_score=29.52"
       ],
       "unit_match_confidence": 0.95,
@@ -11917,7 +11930,7 @@
       "computed_block_confidence": 0.715099715099715,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=78.43",
+        "winner_score=40.23",
         "topic_score=27.22"
       ],
       "unit_match_confidence": 0.95,
@@ -12005,7 +12018,7 @@
       "computed_block_confidence": 0.5573764940239044,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=67.88",
+        "winner_score=39.89",
         "topic_score=30.78"
       ],
       "unit_match_confidence": 0.95,
@@ -12093,7 +12106,7 @@
       "computed_block_confidence": 0.5573764940239044,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=68.58",
+        "winner_score=43.53",
         "topic_score=30.78"
       ],
       "unit_match_confidence": 0.95,
@@ -13775,7 +13788,7 @@
       "language": "jupyter"
     }
   ],
-  "updated_at": "2026-08-26T01:07:04",
+  "updated_at": "2026-08-26T01:41:47",
   "failed_entries": [
     {
       "id": "k-nn-exemplocardio",
