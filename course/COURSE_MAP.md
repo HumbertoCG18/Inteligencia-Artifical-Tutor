@@ -20,7 +20,7 @@
 - [ ] Algoritmos de Busca com Informação
 - [ ] Problemas de Otimização
 - [ ] Busca Adversária
-- 🧪 Tambem cobre esta unidade: `Características dos Dados`, `Introdução a ML`
+- 🧪 Tambem cobre esta unidade: `Introdução a ML`, `Visão Geral - Introdução e Histórico`
 
 ### Unidade de Aprendizagem 3 — Raciocínio, Planejamento e Representação de Conhecimento
 - [ ] Agentes em Lógica

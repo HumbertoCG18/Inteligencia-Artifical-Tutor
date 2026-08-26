@@ -152,6 +152,7 @@
       "tags": "",
       "manual_tags": [],
       "auto_tags": [
+        "topico:introducao-a-ia-visao-geral",
         "tipo:material-base",
         "bloco:bloco-01",
         "unit:unidade-de-aprendizagem-01-visao-geral",
@@ -885,16 +886,16 @@
       "computed_block_confidence": 0.00793650793650812,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
-        "winner_score=48.79",
-        "topic_score=11.92"
+        "winner_score=49.28",
+        "topic_score=12.10"
       ],
-      "unit_match_confidence": 0.5201342281879194,
+      "unit_match_confidence": 0.5272883541039965,
       "unit_block_conflict": {},
       "computed_subunit_slug": "conceituacao",
       "subunit_match_reasons": [
-        "winner_score=11.92"
+        "winner_score=12.10"
       ],
-      "subunit_match_confidence": 0.8755704697986577,
+      "subunit_match_confidence": 0.8774255396515818,
       "approved_markdown": "content/curated/visao-geral-introducao-e-historico.md",
       "curated_markdown": "content/curated/visao-geral-introducao-e-historico.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/visao-geral-introducao-e-historico/visao-geral-introducao-e-historico.md",
@@ -13788,7 +13789,7 @@
       "language": "jupyter"
     }
   ],
-  "updated_at": "2026-08-26T01:41:47",
+  "updated_at": "2026-08-26T04:19:33",
   "failed_entries": [
     {
       "id": "k-nn-exemplocardio",
