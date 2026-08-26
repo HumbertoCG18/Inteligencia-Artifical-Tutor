@@ -59,7 +59,7 @@
         "herdada_do_bloco=bloco-01",
         "herdada_do_vizinho=bloco-02"
       ],
-      "unit_match_confidence": 0.4261329092000096,
+      "unit_match_confidence": 0.21936395062276384,
       "subunit_match_reasons": [
         "empate-exato 2x score=0.12"
       ],
@@ -874,10 +874,12 @@
       "computed_block_confidence": 0.00793650793650812,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
-        "winner_score=53.40",
-        "topic_score=12.10"
+        "winner_score=55.14",
+        "topic_score=7.34",
+        "ambiguous",
+        "herdada_do_bloco=bloco-02"
       ],
-      "unit_match_confidence": 0.5272883541039965,
+      "unit_match_confidence": 0.03146658638427584,
       "unit_block_conflict": {},
       "computed_subunit_slug": "conceituacao",
       "subunit_match_reasons": [
@@ -911,12 +913,6 @@
           ],
           "confidence": 0.7,
           "rule": "card"
-        },
-        {
-          "unit_slug": "unidade-de-aprendizagem-01-visao-geral",
-          "topics": [],
-          "confidence": 0.5,
-          "rule": "unidade-atribuida"
         }
       ],
       "computed_block_method": "concept-fused"
@@ -1155,10 +1151,10 @@
       "computed_block_confidence": 0.35714285714285704,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=90.21",
+        "winner_score=89.80",
         "topic_score=8.25"
       ],
-      "unit_match_confidence": 0.6331029468647368,
+      "unit_match_confidence": 0.5193053938688397,
       "unit_block_conflict": {},
       "computed_subunit_slug": "introducao-a-agentes-em-ambientes-deterministicos",
       "subunit_match_reasons": [
@@ -1556,7 +1552,7 @@
       "computed_block_confidence": 0.3333333333333333,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=81.65",
+        "winner_score=81.24",
         "topic_score=29.83"
       ],
       "unit_match_confidence": 0.95,
@@ -1612,7 +1608,7 @@
         "tipo:material-base",
         "bloco:bloco-05",
         "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina",
-        "subunit:introducao-ao-aprendizado-de-maquina"
+        "subunit:modelos-preditivos"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -2402,19 +2398,19 @@
       },
       "computed_unit_slug": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
       "computed_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
-      "computed_block_confidence": 0.45,
-      "computed_block_band": "media",
+      "computed_block_confidence": 0.546875,
+      "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=31.11",
-        "topic_score=1.30"
+        "winner_score=90.34",
+        "topic_score=29.27"
       ],
-      "unit_match_confidence": 0.5031186652781169,
+      "unit_match_confidence": 0.95,
       "unit_block_conflict": {},
-      "computed_subunit_slug": "introducao-ao-aprendizado-de-maquina",
+      "computed_subunit_slug": "modelos-preditivos",
       "subunit_match_reasons": [
-        "winner_score=1.30"
+        "winner_score=29.27"
       ],
-      "subunit_match_confidence": 0.9168888888888889,
+      "subunit_match_confidence": 0.9261309279759464,
       "approved_markdown": "content/curated/rede-perceptron.md",
       "curated_markdown": "content/curated/rede-perceptron.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/rede-perceptron/rede-perceptron.md",
@@ -2462,10 +2458,10 @@
       "tags": "",
       "manual_tags": [],
       "auto_tags": [
-        "ferramenta:multilayer",
         "tipo:material-base",
         "bloco:bloco-05",
-        "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina"
+        "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina",
+        "subunit:modelos-preditivos"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -3439,20 +3435,19 @@
       },
       "computed_unit_slug": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
       "computed_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
-      "computed_block_confidence": 0.45,
-      "computed_block_band": "media",
+      "computed_block_confidence": 0.7812499999999999,
+      "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=31.43",
-        "topic_score=1.56",
-        "herdada_do_bloco=bloco-05"
+        "winner_score=89.61",
+        "topic_score=26.91"
       ],
-      "unit_match_confidence": 0.17741642622993933,
+      "unit_match_confidence": 0.95,
       "unit_block_conflict": {},
-      "computed_subunit_slug": "introducao-ao-aprendizado-de-maquina",
+      "computed_subunit_slug": "modelos-preditivos",
       "subunit_match_reasons": [
-        "winner_score=1.56"
+        "winner_score=26.91"
       ],
-      "subunit_match_confidence": 0.41666666666666674,
+      "subunit_match_confidence": 0.9421987660744816,
       "approved_markdown": "content/curated/mlp.md",
       "curated_markdown": "content/curated/mlp.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/mlp/mlp.md",
@@ -3505,8 +3500,7 @@
         "topico:subareas-da-inteligencia-artificial",
         "tipo:material-base",
         "bloco:bloco-05",
-        "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina",
-        "subunit:introducao-ao-aprendizado-de-maquina"
+        "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -4135,19 +4129,20 @@
       },
       "computed_unit_slug": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
       "computed_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
-      "computed_block_confidence": 0.45,
-      "computed_block_band": "media",
+      "computed_block_confidence": 0.546875,
+      "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=57.19",
-        "topic_score=18.48"
+        "winner_score=82.74",
+        "topic_score=19.89"
       ],
-      "unit_match_confidence": 0.9228454527742299,
+      "unit_match_confidence": 0.9283185840707965,
       "unit_block_conflict": {},
-      "computed_subunit_slug": "introducao-ao-aprendizado-de-maquina",
+      "computed_subunit_slug": "modelos-preditivos",
       "subunit_match_reasons": [
-        "winner_score=18.48"
+        "winner_score=19.89",
+        "ambiguous"
       ],
-      "subunit_match_confidence": 0.9941705453207196,
+      "subunit_match_confidence": 0.0709372485921156,
       "approved_markdown": "content/curated/arvores-de-decisao.md",
       "curated_markdown": "content/curated/arvores-de-decisao.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/arvores-de-decisao/arvores-de-decisao.md",
@@ -4201,8 +4196,7 @@
         "topico:subareas-da-inteligencia-artificial",
         "tipo:material-base",
         "bloco:bloco-04",
-        "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina",
-        "subunit:introducao-ao-aprendizado-de-maquina"
+        "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -4477,16 +4471,16 @@
       "computed_block_confidence": 0.05555555555555566,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
-        "winner_score=53.33",
-        "topic_score=16.98"
+        "winner_score=100.18",
+        "topic_score=31.27"
       ],
-      "unit_match_confidence": 0.9389514343586604,
+      "unit_match_confidence": 0.95,
       "unit_block_conflict": {},
-      "computed_subunit_slug": "introducao-ao-aprendizado-de-maquina",
+      "computed_subunit_slug": "modelos-descritivos",
       "subunit_match_reasons": [
-        "winner_score=16.98"
+        "winner_score=31.27"
       ],
-      "subunit_match_confidence": 0.9465825050638278,
+      "subunit_match_confidence": 0.4568851934761754,
       "approved_markdown": "content/curated/aula-sobre-agrupamento-parte-1-particional.md",
       "curated_markdown": "content/curated/aula-sobre-agrupamento-parte-1-particional.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/aula-sobre-agrupamento-parte-1-particional/aula-sobre-agrupamento-parte-1-particional.md",
@@ -4540,8 +4534,7 @@
         "topico:aprendizado-supervisionado-parte-2",
         "topico:subareas-da-inteligencia-artificial",
         "bloco:bloco-05",
-        "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina",
-        "subunit:introducao-ao-aprendizado-de-maquina"
+        "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -5026,16 +5019,16 @@
       "computed_block_confidence": 0.0,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
-        "winner_score=49.52",
-        "topic_score=16.80"
+        "winner_score=84.09",
+        "topic_score=23.55"
       ],
-      "unit_match_confidence": 0.9382989359422981,
+      "unit_match_confidence": 0.95,
       "unit_block_conflict": {},
-      "computed_subunit_slug": "introducao-ao-aprendizado-de-maquina",
+      "computed_subunit_slug": "modelos-descritivos",
       "subunit_match_reasons": [
-        "winner_score=16.80"
+        "winner_score=23.55"
       ],
-      "subunit_match_confidence": 0.9935899450117832,
+      "subunit_match_confidence": 0.28637436934105703,
       "approved_markdown": "content/curated/aula-sobre-agrupamento-parte-2-hierarquico.md",
       "curated_markdown": "content/curated/aula-sobre-agrupamento-parte-2-hierarquico.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/aula-sobre-agrupamento-parte-2-hierarquico/aula-sobre-agrupamento-parte-2-hierarquico.md",
@@ -5263,10 +5256,10 @@
       "computed_block_confidence": 0.31875000000000003,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=62.08",
+        "winner_score=61.67",
         "topic_score=16.31"
       ],
-      "unit_match_confidence": 0.95,
+      "unit_match_confidence": 0.9284961133861357,
       "unit_block_conflict": {},
       "computed_subunit_slug": "algoritmos-de-busca-com-informacao",
       "subunit_match_reasons": [
@@ -5851,8 +5844,8 @@
       "computed_unit_slug": "unidade-de-aprendizagem-02-solucao-de-problemas",
       "computed_block_method": "concept-fused",
       "computed_block_id": "0b986383-663a-4a54-b000-4b97ebce59c4",
-      "computed_block_confidence": 0.05737787356321834,
-      "computed_block_band": "baixa",
+      "computed_block_confidence": 0.4180387931034483,
+      "computed_block_band": "media",
       "unit_match_reasons": [
         "winner_score=18.75",
         "topic_score=1.04"
@@ -6617,8 +6610,7 @@
       "auto_tags": [
         "tipo:material-base",
         "bloco:bloco-04",
-        "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina",
-        "subunit:introducao-ao-aprendizado-de-maquina"
+        "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -6949,17 +6941,16 @@
       "computed_block_confidence": 0.49333333333333346,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=20.14",
-        "topic_score=1.30",
-        "herdada_do_bloco=bloco-04"
+        "winner_score=23.13",
+        "topic_score=1.30"
       ],
-      "unit_match_confidence": 0.44112340064999966,
+      "unit_match_confidence": 0.5133577710919759,
       "unit_block_conflict": {},
       "computed_subunit_slug": "introducao-ao-aprendizado-de-maquina",
       "subunit_match_reasons": [
         "winner_score=1.30"
       ],
-      "subunit_match_confidence": 0.9168888888888889,
+      "subunit_match_confidence": 0.2999999999999999,
       "approved_markdown": "content/curated/caracteristicas-dos-dados.md",
       "curated_markdown": "content/curated/caracteristicas-dos-dados.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/caracteristicas-dos-dados/caracteristicas-dos-dados.md",
@@ -6987,6 +6978,12 @@
           ],
           "confidence": 0.7,
           "rule": "card"
+        },
+        {
+          "unit_slug": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
+          "topics": [],
+          "confidence": 0.5,
+          "rule": "unidade-atribuida"
         }
       ],
       "computed_block_method": "concept-fused"
@@ -7577,10 +7574,10 @@
       },
       "computed_unit_slug": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
       "computed_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
-      "computed_block_confidence": 0.5,
+      "computed_block_confidence": 0.6029411764705882,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=76.67",
+        "winner_score=96.85",
         "topic_score=16.26"
       ],
       "unit_match_confidence": 0.9185340056573608,
@@ -7589,7 +7586,7 @@
       "subunit_match_reasons": [
         "winner_score=16.26"
       ],
-      "subunit_match_confidence": 0.7554421350387406,
+      "subunit_match_confidence": 0.6342393309556019,
       "approved_markdown": "content/curated/introducao-a-ml.md",
       "curated_markdown": "content/curated/introducao-a-ml.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/introducao-a-ml/introducao-a-ml.md",
@@ -7642,8 +7639,7 @@
         "topico:subareas-da-inteligencia-artificial",
         "tipo:material-base",
         "bloco:bloco-05",
-        "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina",
-        "subunit:introducao-ao-aprendizado-de-maquina"
+        "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -7928,16 +7924,16 @@
       "computed_block_confidence": 0.09250000000000001,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
-        "winner_score=45.02",
-        "topic_score=13.79"
+        "winner_score=83.43",
+        "topic_score=30.78"
       ],
-      "unit_match_confidence": 0.9247976325180608,
+      "unit_match_confidence": 0.95,
       "unit_block_conflict": {},
-      "computed_subunit_slug": "introducao-ao-aprendizado-de-maquina",
+      "computed_subunit_slug": "modelos-preditivos",
       "subunit_match_reasons": [
-        "winner_score=13.79"
+        "winner_score=30.78"
       ],
-      "subunit_match_confidence": 0.9921873096004875,
+      "subunit_match_confidence": 0.5520566638508027,
       "approved_markdown": "content/curated/algoritmo-de-classificacao-k-nn.md",
       "curated_markdown": "content/curated/algoritmo-de-classificacao-k-nn.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/algoritmo-de-classificacao-k-nn/algoritmo-de-classificacao-k-nn.md",
@@ -7979,8 +7975,7 @@
       "auto_tags": [
         "tipo:codigo",
         "bloco:bloco-04",
-        "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina",
-        "subunit:introducao-ao-aprendizado-de-maquina"
+        "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -8011,16 +8006,16 @@
       "computed_block_confidence": 0.6812749003984064,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=19.29",
-        "topic_score=0.91"
+        "winner_score=21.47",
+        "topic_score=1.15"
       ],
-      "unit_match_confidence": 0.8812698412698412,
+      "unit_match_confidence": 0.9065,
       "unit_block_conflict": {},
-      "computed_subunit_slug": "introducao-ao-aprendizado-de-maquina",
+      "computed_subunit_slug": "modelos-preditivos",
       "subunit_match_reasons": [
-        "winner_score=0.91"
+        "winner_score=1.15"
       ],
-      "subunit_match_confidence": 0.8812698412698412,
+      "subunit_match_confidence": 0.21250000000000008,
       "computed_block_rationale": "O material foca diretamente na preparação e análise de dados usando ferramentas de profiling, alinhando-se perfeitamente com os tópicos de 'Tipos dados preparacao' do bloco-04.",
       "computed_block_match_confidence": 0.75,
       "temporal_block_id": "af22fe17-ee73-407f-9af5-d730739d71e0",
@@ -8057,7 +8052,7 @@
       "manual_tags": [],
       "auto_tags": [
         "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina",
-        "subunit:introducao-ao-aprendizado-de-maquina"
+        "subunit:modelos-preditivos"
       ],
       "manual_unit_slug": "",
       "notes": "",
@@ -8154,18 +8149,16 @@
       "posting_date_created": "2026-02-24",
       "computed_unit_slug": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
       "unit_match_reasons": [
-        "winner_score=41.91",
-        "topic_score=1.30",
-        "ambiguous",
-        "herdada_do_bloco=bloco-05"
+        "winner_score=69.32",
+        "topic_score=12.10"
       ],
-      "unit_match_confidence": 0.09128211899039038,
+      "unit_match_confidence": 0.8928748553479914,
       "unit_block_conflict": {},
-      "computed_subunit_slug": "introducao-ao-aprendizado-de-maquina",
+      "computed_subunit_slug": "modelos-preditivos",
       "subunit_match_reasons": [
-        "winner_score=3.60"
+        "winner_score=12.10"
       ],
-      "subunit_match_confidence": 0.7121599111604664,
+      "subunit_match_confidence": 0.6126632501239874,
       "coverage_units": [
         {
           "unit_slug": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
@@ -8198,7 +8191,8 @@
       "auto_tags": [
         "tipo:codigo",
         "bloco:bloco-05",
-        "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina"
+        "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina",
+        "subunit:modelos-preditivos"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -8235,16 +8229,16 @@
       "computed_block_confidence": 0.006945544554455452,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
-        "winner_score=8.85",
-        "topic_score=0.11"
+        "winner_score=34.11",
+        "topic_score=18.73"
       ],
-      "unit_match_confidence": 0.6824858757062148,
+      "unit_match_confidence": 0.95,
       "unit_block_conflict": {},
-      "computed_subunit_slug": "",
+      "computed_subunit_slug": "modelos-preditivos",
       "subunit_match_reasons": [
-        "empate-exato 2x score=0.11"
+        "winner_score=18.73"
       ],
-      "subunit_match_confidence": 0.0,
+      "subunit_match_confidence": 0.994247997436719,
       "computed_block_rationale": "O algoritmo k-NN é um método fundamental de aprendizado de máquina supervisionado, alinhando-se diretamente com o tópico 'Abordagem supervisionada' do bloco.",
       "computed_block_match_confidence": 0.6,
       "temporal_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
@@ -8282,7 +8276,8 @@
       "auto_tags": [
         "tipo:material-base",
         "bloco:bloco-05",
-        "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina"
+        "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina",
+        "subunit:modelos-preditivos"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -8620,16 +8615,16 @@
       "computed_block_confidence": 0.7567567567567567,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=20.58",
-        "topic_score=1.43"
+        "winner_score=63.24",
+        "topic_score=21.20"
       ],
-      "unit_match_confidence": 0.9244444444444444,
+      "unit_match_confidence": 0.95,
       "unit_block_conflict": {},
-      "computed_subunit_slug": "introducao-ao-aprendizado-de-maquina",
+      "computed_subunit_slug": "modelos-preditivos",
       "subunit_match_reasons": [
-        "winner_score=1.43"
+        "winner_score=21.20"
       ],
-      "subunit_match_confidence": 0.36363636363636365,
+      "subunit_match_confidence": 0.9327547169811321,
       "approved_markdown": "content/curated/introducao-a-redes-neurais.md",
       "curated_markdown": "content/curated/introducao-a-redes-neurais.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/introducao-a-redes-neurais/introducao-a-redes-neurais.md",
@@ -8681,7 +8676,7 @@
         "tipo:material-base",
         "bloco:bloco-05",
         "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina",
-        "subunit:introducao-ao-aprendizado-de-maquina"
+        "subunit:modelos-preditivos"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -8767,16 +8762,16 @@
       "computed_block_confidence": 0.5,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=25.25",
-        "topic_score=1.17"
+        "winner_score=49.35",
+        "topic_score=13.13"
       ],
       "unit_match_confidence": 0.95,
       "unit_block_conflict": {},
-      "computed_subunit_slug": "introducao-ao-aprendizado-de-maquina",
+      "computed_subunit_slug": "modelos-preditivos",
       "subunit_match_reasons": [
-        "winner_score=1.17"
+        "winner_score=13.13"
       ],
-      "subunit_match_confidence": 1.0,
+      "subunit_match_confidence": 0.9111787998781602,
       "approved_markdown": "content/curated/rede-perceptron-e-equacao-de-reta.md",
       "curated_markdown": "content/curated/rede-perceptron-e-equacao-de-reta.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/rede-perceptron-e-equacao-de-reta/rede-perceptron-e-equacao-de-reta.md",
@@ -8825,8 +8820,7 @@
       "auto_tags": [
         "tipo:material-base",
         "bloco:bloco-01",
-        "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina",
-        "subunit:introducao-ao-aprendizado-de-maquina"
+        "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -8963,16 +8957,16 @@
       "computed_block_confidence": 0.30458333333333343,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=26.72",
-        "topic_score=8.97"
+        "winner_score=60.01",
+        "topic_score=12.57"
       ],
-      "unit_match_confidence": 0.502788311398617,
+      "unit_match_confidence": 0.6760867065796423,
       "unit_block_conflict": {},
-      "computed_subunit_slug": "introducao-ao-aprendizado-de-maquina",
+      "computed_subunit_slug": "metricas-de-avaliacao",
       "subunit_match_reasons": [
-        "winner_score=8.97"
+        "winner_score=12.57"
       ],
-      "subunit_match_confidence": 0.8988177559669864,
+      "subunit_match_confidence": 0.2869413074598376,
       "approved_markdown": "content/curated/como-analisar-resultados-acc-pr-re-e-f1.md",
       "curated_markdown": "content/curated/como-analisar-resultados-acc-pr-re-e-f1.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/como-analisar-resultados-acc-pr-re-e-f1/como-analisar-resultados-acc-pr-re-e-f1.md",
@@ -9022,7 +9016,7 @@
         "tipo:codigo",
         "bloco:bloco-07",
         "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina",
-        "subunit:introducao-ao-aprendizado-de-maquina"
+        "subunit:modelos-descritivos"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -9053,16 +9047,16 @@
       "computed_block_confidence": 0.2583333333333333,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=36.16",
-        "topic_score=5.36"
+        "winner_score=83.60",
+        "topic_score=30.42"
       ],
       "unit_match_confidence": 0.95,
       "unit_block_conflict": {},
-      "computed_subunit_slug": "introducao-ao-aprendizado-de-maquina",
+      "computed_subunit_slug": "modelos-descritivos",
       "subunit_match_reasons": [
-        "winner_score=5.36"
+        "winner_score=30.42"
       ],
-      "subunit_match_confidence": 0.8306830907054872,
+      "subunit_match_confidence": 0.8238542967979485,
       "computed_block_rationale": "O título do bloco faz menção a 'means' e 'hierárquico análise', que se alinham com algoritmos de agrupamento, apesar do tópico principal indicado ser 'abordagem supervisionada'.",
       "computed_block_match_confidence": 0.6,
       "temporal_block_id": "17ea65f3-5f84-47c7-9357-e090ee1f80ed",
@@ -9109,8 +9103,7 @@
         "topico:aprendizado-supervisionado",
         "tipo:codigo",
         "bloco:bloco-07",
-        "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina",
-        "subunit:introducao-ao-aprendizado-de-maquina"
+        "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -9141,16 +9134,16 @@
       "computed_block_confidence": 0.5142857142857142,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=32.19",
-        "topic_score=15.95"
+        "winner_score=66.66",
+        "topic_score=30.42"
       ],
-      "unit_match_confidence": 0.9431322401083195,
+      "unit_match_confidence": 0.95,
       "unit_block_conflict": {},
-      "computed_subunit_slug": "introducao-ao-aprendizado-de-maquina",
+      "computed_subunit_slug": "modelos-descritivos",
       "subunit_match_reasons": [
-        "winner_score=15.95"
+        "winner_score=30.42"
       ],
-      "subunit_match_confidence": 0.9932480818414323,
+      "subunit_match_confidence": 0.4755473732658295,
       "computed_block_rationale": "O material aborda o algoritmo k-Means para agrupamento, que é explicitamente mencionado no tópico 'means' do bloco-06, dentro do contexto de abordagens de aprendizado.",
       "computed_block_match_confidence": 0.6,
       "temporal_block_id": "17ea65f3-5f84-47c7-9357-e090ee1f80ed",
@@ -9194,7 +9187,7 @@
       "manual_tags": [],
       "auto_tags": [
         "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina",
-        "subunit:introducao-ao-aprendizado-de-maquina"
+        "subunit:modelos-descritivos"
       ],
       "manual_unit_slug": "",
       "notes": "",
@@ -9273,16 +9266,16 @@
       "posting_date_created": "2026-04-22",
       "computed_unit_slug": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
       "unit_match_reasons": [
-        "winner_score=5.00",
-        "topic_score=0.12"
+        "winner_score=12.15",
+        "topic_score=4.10"
       ],
       "unit_match_confidence": 1.0,
       "unit_block_conflict": {},
-      "computed_subunit_slug": "introducao-ao-aprendizado-de-maquina",
+      "computed_subunit_slug": "modelos-descritivos",
       "subunit_match_reasons": [
-        "winner_score=0.12"
+        "winner_score=4.10"
       ],
-      "subunit_match_confidence": 1.0,
+      "subunit_match_confidence": 0.9701754385964912,
       "coverage_units": [
         {
           "unit_slug": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
@@ -9323,7 +9316,7 @@
         "tipo:material-base",
         "bloco:bloco-05",
         "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina",
-        "subunit:introducao-ao-aprendizado-de-maquina"
+        "subunit:modelos-descritivos"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -9393,18 +9386,16 @@
       "computed_block_confidence": 0.0,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
-        "winner_score=7.69",
-        "topic_score=1.17",
-        "ambiguous",
-        "herdada_do_bloco=bloco-07"
+        "winner_score=35.28",
+        "topic_score=16.20"
       ],
-      "unit_match_confidence": 0.10534637810060292,
+      "unit_match_confidence": 0.936,
       "unit_block_conflict": {},
-      "computed_subunit_slug": "introducao-ao-aprendizado-de-maquina",
+      "computed_subunit_slug": "modelos-descritivos",
       "subunit_match_reasons": [
-        "winner_score=1.17"
+        "winner_score=16.20"
       ],
-      "subunit_match_confidence": 1.0,
+      "subunit_match_confidence": 0.928,
       "approved_markdown": "content/curated/survey-on-clustering.md",
       "curated_markdown": "content/curated/survey-on-clustering.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/survey-on-clustering/survey-on-clustering.md",
@@ -9453,8 +9444,7 @@
       "auto_tags": [
         "tipo:prova",
         "bloco:bloco-09",
-        "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina",
-        "subunit:introducao-ao-aprendizado-de-maquina"
+        "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina"
       ],
       "manual_unit_slug": "unidade-de-aprendizagem-01-visao-geral",
       "manual_timeline_block_id": "5256ec08-7e5d-4c55-8a3c-e1a7f981ac71",
@@ -9530,17 +9520,36 @@
       ],
       "unit_match_confidence": 1.0,
       "unit_block_conflict": {},
-      "computed_subunit_slug": "introducao-ao-aprendizado-de-maquina",
+      "computed_subunit_slug": "modelos-preditivos",
       "subunit_match_reasons": [
-        "winner_score=5.72"
+        "winner_score=21.40"
       ],
-      "subunit_match_confidence": 0.9811626442812171,
+      "subunit_match_confidence": 0.326416152551879,
       "approved_markdown": "exams/past-exams/prova-1-2024-02.md",
       "curated_markdown": "exams/past-exams/prova-1-2024-02.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/prova-1-2024-02/prova-1-2024-02.md",
       "approved_at": "2026-06-19T08:11:56",
       "review_status": "approved",
       "coverage_units": [
+        {
+          "unit_slug": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
+          "topics": [
+            "agrupamento",
+            "agrupamento hierarquico",
+            "backpropagation",
+            "classificacao",
+            "k-means",
+            "machine learning",
+            "multilayer perceptron",
+            "particional",
+            "perceptron",
+            "rede neural",
+            "redes neurais",
+            "regressao"
+          ],
+          "confidence": 1.0,
+          "rule": "avaliacao"
+        },
         {
           "unit_slug": "unidade-de-aprendizagem-01-visao-geral",
           "topics": [],
@@ -9793,10 +9802,10 @@
       "computed_block_confidence": 0.22222222222222232,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=57.14",
+        "winner_score=56.73",
         "topic_score=4.90"
       ],
-      "unit_match_confidence": 0.8030216414863209,
+      "unit_match_confidence": 0.7236423029808084,
       "unit_block_conflict": {},
       "computed_subunit_slug": "introducao-a-agentes-em-ambientes-deterministicos",
       "subunit_match_reasons": [
@@ -9999,7 +10008,7 @@
       "computed_block_confidence": 0.0,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
-        "winner_score=85.96",
+        "winner_score=85.20",
         "topic_score=23.12",
         "reconciliada_do_bloco=bloco-17"
       ],
@@ -10128,17 +10137,17 @@
       },
       "computed_unit_slug": "unidade-de-aprendizagem-03-raciocinio-planejamento-e-representacao-de-conhecimento",
       "computed_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
-      "computed_block_confidence": 0.45,
-      "computed_block_band": "media",
+      "computed_block_confidence": 0.6521739130434783,
+      "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=20.24",
-        "topic_score=1.17",
+        "winner_score=58.90",
+        "topic_score=18.33",
         "reconciliada_do_bloco=bloco-20",
         "herdada_do_vizinho=bloco-17"
       ],
-      "unit_match_confidence": 0.9076543209876543,
+      "unit_match_confidence": 0.936366612111293,
       "unit_block_conflict": {
-        "unit": "unidade-de-aprendizagem-02-solucao-de-problemas",
+        "unit": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
         "block_unit": "unidade-de-aprendizagem-03-raciocinio-planejamento-e-representacao-de-conhecimento",
         "block_id": "bloco-20"
       },
@@ -10157,10 +10166,16 @@
       "posting_date_created": "2026-02-24",
       "coverage_units": [
         {
-          "unit_slug": "unidade-de-aprendizagem-02-solucao-de-problemas",
-          "topics": [],
-          "confidence": 0.5,
-          "rule": "unidade-atribuida"
+          "unit_slug": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
+          "topics": [
+            "backpropagation",
+            "classificacao",
+            "classificador",
+            "perceptron",
+            "rede neural"
+          ],
+          "confidence": 1.0,
+          "rule": "avaliacao"
         }
       ],
       "temporal_block_id": "421fe467-6e6d-40b5-911e-95abfa402def",
@@ -10271,15 +10286,15 @@
       },
       "computed_unit_slug": "unidade-de-aprendizagem-03-raciocinio-planejamento-e-representacao-de-conhecimento",
       "computed_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
-      "computed_block_confidence": 0.45,
-      "computed_block_band": "media",
+      "computed_block_confidence": 0.6666666666666667,
+      "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=32.18",
+        "winner_score=31.42",
         "topic_score=1.30",
         "herdada_do_bloco=bloco-20",
         "herdada_do_vizinho=bloco-17"
       ],
-      "unit_match_confidence": 0.3153588931602548,
+      "unit_match_confidence": 0.16300794764801183,
       "unit_block_conflict": {},
       "computed_subunit_slug": "planejamento-classico",
       "subunit_match_reasons": [
@@ -10335,7 +10350,7 @@
         "tipo:codigo",
         "bloco:bloco-04",
         "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina",
-        "subunit:introducao-ao-aprendizado-de-maquina"
+        "subunit:modelos-preditivos"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -10366,16 +10381,16 @@
       "computed_block_confidence": 0.4120525704809287,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=20.05",
-        "topic_score=0.11"
+        "winner_score=22.59",
+        "topic_score=0.91"
       ],
-      "unit_match_confidence": 0.6503740648379052,
+      "unit_match_confidence": 0.95,
       "unit_block_conflict": {},
-      "computed_subunit_slug": "introducao-ao-aprendizado-de-maquina",
+      "computed_subunit_slug": "modelos-preditivos",
       "subunit_match_reasons": [
-        "winner_score=0.11"
+        "winner_score=0.91"
       ],
-      "subunit_match_confidence": 1.0,
+      "subunit_match_confidence": 0.8812698412698412,
       "computed_block_rationale": "O notebook foca na preparação e análise de tipos de dados para extrair insights, alinhando-se diretamente com tópicos de 'preparacao dados'.",
       "computed_block_match_confidence": 0.6,
       "temporal_block_id": "af22fe17-ee73-407f-9af5-d730739d71e0",
@@ -10411,7 +10426,7 @@
         "tipo:codigo",
         "bloco:bloco-05",
         "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina",
-        "subunit:introducao-ao-aprendizado-de-maquina"
+        "subunit:modelos-preditivos"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -10442,16 +10457,16 @@
       "computed_block_confidence": 0.006945544554455452,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
-        "winner_score=9.59",
-        "topic_score=2.70"
+        "winner_score=27.70",
+        "topic_score=12.82"
       ],
       "unit_match_confidence": 0.95,
       "unit_block_conflict": {},
-      "computed_subunit_slug": "introducao-ao-aprendizado-de-maquina",
+      "computed_subunit_slug": "modelos-preditivos",
       "subunit_match_reasons": [
-        "winner_score=2.70"
+        "winner_score=12.82"
       ],
-      "subunit_match_confidence": 0.9601361954108069,
+      "subunit_match_confidence": 0.7892684448603962,
       "computed_block_rationale": "O material demonstra um algoritmo de classificação, o k-NN, que é uma técnica fundamental em aprendizagem supervisionada, alinhando-se diretamente com o tópico 'abordagem supervisionada'.",
       "computed_block_match_confidence": 0.6,
       "temporal_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
@@ -10487,7 +10502,7 @@
         "tipo:codigo",
         "bloco:bloco-04",
         "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina",
-        "subunit:introducao-ao-aprendizado-de-maquina"
+        "subunit:modelos-preditivos"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -10518,16 +10533,16 @@
       "computed_block_confidence": 0.11772126245847174,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
-        "winner_score=13.48",
-        "topic_score=2.34"
+        "winner_score=26.50",
+        "topic_score=11.81"
       ],
       "unit_match_confidence": 0.95,
       "unit_block_conflict": {},
-      "computed_subunit_slug": "introducao-ao-aprendizado-de-maquina",
+      "computed_subunit_slug": "modelos-preditivos",
       "subunit_match_reasons": [
-        "winner_score=2.34"
+        "winner_score=11.81"
       ],
-      "subunit_match_confidence": 0.9540085397096499,
+      "subunit_match_confidence": 0.8017270572299355,
       "temporal_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
       "temporal_block_method": "llm",
       "temporal_block_band": "media",
@@ -10562,7 +10577,8 @@
       "auto_tags": [
         "tipo:codigo",
         "bloco:bloco-05",
-        "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina"
+        "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina",
+        "subunit:modelos-preditivos"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -10590,20 +10606,19 @@
       "computed_unit_slug": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
       "computed_block_method": "concept-fused",
       "computed_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
-      "computed_block_confidence": 0.45,
-      "computed_block_band": "media",
+      "computed_block_confidence": 0.656980056980057,
+      "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=11.58",
-        "topic_score=0.00",
-        "herdada_do_bloco=bloco-05"
+        "winner_score=35.17",
+        "topic_score=13.00"
       ],
-      "unit_match_confidence": 0.35751295336787564,
+      "unit_match_confidence": 0.95,
       "unit_block_conflict": {},
-      "computed_subunit_slug": "",
+      "computed_subunit_slug": "modelos-preditivos",
       "subunit_match_reasons": [
-        "sem-sinal (winner_score=0)"
+        "winner_score=13.00"
       ],
-      "subunit_match_confidence": 0.0,
+      "subunit_match_confidence": 0.9113982464236272,
       "computed_block_rationale": "O material apresenta uma solução completa para um exercício que envolve a implementação e treinamento de um Perceptron, um modelo fundamental de aprendizado de máquina supervisionado.",
       "computed_block_match_confidence": 0.6,
       "temporal_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
@@ -10647,7 +10662,7 @@
         "tipo:codigo",
         "bloco:bloco-04",
         "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina",
-        "subunit:introducao-ao-aprendizado-de-maquina"
+        "subunit:modelos-preditivos"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -10678,16 +10693,16 @@
       "computed_block_confidence": 0.1237893687707641,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
-        "winner_score=15.55",
-        "topic_score=3.78"
+        "winner_score=41.66",
+        "topic_score=21.57"
       ],
       "unit_match_confidence": 0.95,
       "unit_block_conflict": {},
-      "computed_subunit_slug": "introducao-ao-aprendizado-de-maquina",
+      "computed_subunit_slug": "modelos-preditivos",
       "subunit_match_reasons": [
-        "winner_score=3.78"
+        "winner_score=21.57"
       ],
-      "subunit_match_confidence": 0.9715348837209303,
+      "subunit_match_confidence": 0.8245711636532221,
       "computed_block_rationale": "O material é um exemplo prático de um algoritmo de classificação, que se enquadra na abordagem supervisionada mencionada no bloco.",
       "computed_block_match_confidence": 0.6,
       "temporal_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
@@ -10730,7 +10745,8 @@
       "auto_tags": [
         "tipo:codigo",
         "bloco:bloco-05",
-        "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina"
+        "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina",
+        "subunit:modelos-preditivos"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -10758,19 +10774,19 @@
       "computed_unit_slug": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
       "computed_block_method": "concept-fused",
       "computed_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
-      "computed_block_confidence": 0.22866998191681737,
+      "computed_block_confidence": 0.2866594936708861,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=26.95",
-        "topic_score=2.52"
+        "winner_score=52.17",
+        "topic_score=21.57"
       ],
       "unit_match_confidence": 0.95,
       "unit_block_conflict": {},
-      "computed_subunit_slug": "introducao-ao-aprendizado-de-maquina",
+      "computed_subunit_slug": "modelos-preditivos",
       "subunit_match_reasons": [
-        "winner_score=2.52"
+        "winner_score=21.57"
       ],
-      "subunit_match_confidence": 0.5888977002379064,
+      "subunit_match_confidence": 0.8830783495595735,
       "computed_block_rationale": "O material demonstra um algoritmo de aprendizado de máquina supervisionado para regressão, alinhando-se diretamente com o tópico 'abordagem supervisionada'.",
       "computed_block_match_confidence": 0.6,
       "temporal_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
@@ -10814,7 +10830,7 @@
         "tipo:codigo",
         "bloco:bloco-05",
         "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina",
-        "subunit:introducao-ao-aprendizado-de-maquina"
+        "subunit:modelos-preditivos"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -10842,19 +10858,19 @@
       "computed_unit_slug": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
       "computed_block_method": "concept-fused",
       "computed_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
-      "computed_block_confidence": 0.45,
-      "computed_block_band": "media",
+      "computed_block_confidence": 0.656980056980057,
+      "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=12.35",
-        "topic_score=0.91"
+        "winner_score=54.03",
+        "topic_score=25.10"
       ],
-      "unit_match_confidence": 0.8812698412698412,
+      "unit_match_confidence": 0.95,
       "unit_block_conflict": {},
-      "computed_subunit_slug": "introducao-ao-aprendizado-de-maquina",
+      "computed_subunit_slug": "modelos-preditivos",
       "subunit_match_reasons": [
-        "winner_score=0.91"
+        "winner_score=25.10"
       ],
-      "subunit_match_confidence": 1.0,
+      "subunit_match_confidence": 0.9541108986615678,
       "computed_block_rationale": "O material demonstra a aplicação de um algoritmo de aprendizagem supervisionada (Perceptron) para um problema de classificação de dados.",
       "computed_block_match_confidence": 0.6,
       "temporal_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
@@ -10897,7 +10913,8 @@
       "auto_tags": [
         "tipo:codigo",
         "bloco:bloco-05",
-        "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina"
+        "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina",
+        "subunit:modelos-preditivos"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -10928,16 +10945,16 @@
       "computed_block_confidence": 0.656980056980057,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=12.15",
-        "topic_score=0.11"
+        "winner_score=48.10",
+        "topic_score=22.76"
       ],
-      "unit_match_confidence": 0.6534979423868313,
+      "unit_match_confidence": 0.95,
       "unit_block_conflict": {},
-      "computed_subunit_slug": "",
+      "computed_subunit_slug": "modelos-preditivos",
       "subunit_match_reasons": [
-        "empate-exato 2x score=0.11"
+        "winner_score=22.76"
       ],
-      "subunit_match_confidence": 0.0,
+      "subunit_match_confidence": 0.9493848857644991,
       "computed_block_rationale": "O material demonstra uma abordagem supervisionada de aprendizado de máquina usando o algoritmo Perceptron para classificação.",
       "computed_block_match_confidence": 0.6,
       "temporal_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
@@ -10981,7 +10998,7 @@
         "tipo:codigo",
         "bloco:bloco-05",
         "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina",
-        "subunit:introducao-ao-aprendizado-de-maquina"
+        "subunit:modelos-preditivos"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -11012,16 +11029,16 @@
       "computed_block_confidence": 0.6666666666666666,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=17.27",
-        "topic_score=1.04"
+        "winner_score=38.01",
+        "topic_score=13.00"
       ],
       "unit_match_confidence": 0.95,
       "unit_block_conflict": {},
-      "computed_subunit_slug": "introducao-ao-aprendizado-de-maquina",
+      "computed_subunit_slug": "modelos-preditivos",
       "subunit_match_reasons": [
-        "winner_score=1.04"
+        "winner_score=13.00"
       ],
-      "subunit_match_confidence": 0.8961111111111111,
+      "subunit_match_confidence": 0.9202584217812645,
       "computed_block_rationale": "Nenhum bloco do cronograma menciona explicitamente tópicos de Redes Neurais, Machine Learning ou Perceptron para um alinhamento direto.",
       "computed_block_match_confidence": 0.125,
       "temporal_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
@@ -11065,7 +11082,7 @@
         "tipo:codigo",
         "bloco:bloco-05",
         "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina",
-        "subunit:introducao-ao-aprendizado-de-maquina"
+        "subunit:modelos-preditivos"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -11096,16 +11113,16 @@
       "computed_block_confidence": 0.715099715099715,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=13.55",
-        "topic_score=0.11"
+        "winner_score=41.67",
+        "topic_score=15.35"
       ],
-      "unit_match_confidence": 0.6892988929889299,
+      "unit_match_confidence": 0.95,
       "unit_block_conflict": {},
-      "computed_subunit_slug": "introducao-ao-aprendizado-de-maquina",
+      "computed_subunit_slug": "modelos-preditivos",
       "subunit_match_reasons": [
-        "winner_score=0.11"
+        "winner_score=15.35"
       ],
-      "subunit_match_confidence": 1.0,
+      "subunit_match_confidence": 0.9929811025674443,
       "computed_block_rationale": "O material exemplifica a abordagem supervisionada com um algoritmo fundamental de aprendizagem de máquina.",
       "computed_block_match_confidence": 0.6,
       "temporal_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
@@ -11148,7 +11165,8 @@
       "auto_tags": [
         "tipo:codigo",
         "bloco:bloco-05",
-        "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina"
+        "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina",
+        "subunit:modelos-preditivos"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -11176,19 +11194,19 @@
       "computed_unit_slug": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
       "computed_block_method": "concept-fused",
       "computed_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
-      "computed_block_confidence": 0.45,
-      "computed_block_band": "media",
+      "computed_block_confidence": 0.656980056980057,
+      "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=15.95",
-        "topic_score=0.00"
+        "winner_score=40.26",
+        "topic_score=13.18"
       ],
-      "unit_match_confidence": 0.6564263322884014,
+      "unit_match_confidence": 0.95,
       "unit_block_conflict": {},
-      "computed_subunit_slug": "",
+      "computed_subunit_slug": "modelos-preditivos",
       "subunit_match_reasons": [
-        "sem-sinal (winner_score=0)"
+        "winner_score=13.18"
       ],
-      "subunit_match_confidence": 0.0,
+      "subunit_match_confidence": 0.9126081019572143,
       "computed_block_rationale": "O notebook implementa e treina um Perceptron, que é um algoritmo fundamental de aprendizado de máquina sob a abordagem supervisionada, utilizando preparação de dados para entrada.",
       "computed_block_match_confidence": 0.6,
       "temporal_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
@@ -11232,7 +11250,7 @@
         "tipo:codigo",
         "bloco:bloco-05",
         "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina",
-        "subunit:introducao-ao-aprendizado-de-maquina"
+        "subunit:modelos-preditivos"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -11263,16 +11281,16 @@
       "computed_block_confidence": 0.9050332383665718,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=14.75",
-        "topic_score=2.34"
+        "winner_score=35.21",
+        "topic_score=10.46"
       ],
       "unit_match_confidence": 0.95,
       "unit_block_conflict": {},
-      "computed_subunit_slug": "introducao-ao-aprendizado-de-maquina",
+      "computed_subunit_slug": "modelos-preditivos",
       "subunit_match_reasons": [
-        "winner_score=2.34"
+        "winner_score=10.46"
       ],
-      "subunit_match_confidence": 0.9540085397096499,
+      "subunit_match_confidence": 0.7760994263862332,
       "computed_block_rationale": "O notebook exemplifica uma abordagem supervisionada de aprendizado de máquina, treinando uma Rede Neural Perceptron Multicamadas para classificar dados.",
       "computed_block_match_confidence": 0.6,
       "temporal_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
@@ -11313,11 +11331,10 @@
       "manual_tags": [],
       "auto_tags": [
         "ferramenta:gridsearchcv",
-        "ferramenta:multilayer",
         "tipo:codigo",
         "bloco:bloco-05",
         "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina",
-        "subunit:metricas-de-avaliacao"
+        "subunit:modelos-preditivos"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -11348,16 +11365,16 @@
       "computed_block_confidence": 0.40179461615154527,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=25.13",
-        "topic_score=4.16"
+        "winner_score=83.76",
+        "topic_score=33.06"
       ],
       "unit_match_confidence": 0.95,
       "unit_block_conflict": {},
-      "computed_subunit_slug": "metricas-de-avaliacao",
+      "computed_subunit_slug": "modelos-preditivos",
       "subunit_match_reasons": [
-        "winner_score=4.16"
+        "winner_score=33.06"
       ],
-      "subunit_match_confidence": 0.7505893673322107,
+      "subunit_match_confidence": 0.77061528223123,
       "computed_block_rationale": "O notebook aplica uma abordagem de aprendizado supervisionado (classificação) para resolver um problema, com foco na preparação de dados e otimização de modelos.",
       "computed_block_match_confidence": 0.6,
       "temporal_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
@@ -11397,11 +11414,10 @@
       "tags": "",
       "manual_tags": [],
       "auto_tags": [
-        "ferramenta:multilayer",
         "tipo:codigo",
         "bloco:bloco-05",
         "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina",
-        "subunit:introducao-ao-aprendizado-de-maquina"
+        "subunit:modelos-preditivos"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -11432,16 +11448,16 @@
       "computed_block_confidence": 0.5630043376318874,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=25.04",
-        "topic_score=3.06"
+        "winner_score=87.49",
+        "topic_score=34.14"
       ],
       "unit_match_confidence": 0.95,
       "unit_block_conflict": {},
-      "computed_subunit_slug": "introducao-ao-aprendizado-de-maquina",
+      "computed_subunit_slug": "modelos-preditivos",
       "subunit_match_reasons": [
-        "winner_score=3.06"
+        "winner_score=34.14"
       ],
-      "subunit_match_confidence": 0.661397779229262,
+      "subunit_match_confidence": 0.857469244288225,
       "computed_block_rationale": "O material é uma aula sobre MultiLayer Perceptron (MLP), que se encaixa perfeitamente no tema de 'abordagem supervisionada' abordado neste bloco do cronograma.",
       "computed_block_match_confidence": 0.6,
       "temporal_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
@@ -11484,7 +11500,7 @@
         "tipo:codigo",
         "bloco:bloco-05",
         "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina",
-        "subunit:introducao-ao-aprendizado-de-maquina"
+        "subunit:modelos-preditivos"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -11515,16 +11531,16 @@
       "computed_block_confidence": 0.48207529880478084,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=18.30",
-        "topic_score=2.70"
+        "winner_score=42.68",
+        "topic_score=14.26"
       ],
       "unit_match_confidence": 0.95,
       "unit_block_conflict": {},
-      "computed_subunit_slug": "introducao-ao-aprendizado-de-maquina",
+      "computed_subunit_slug": "modelos-preditivos",
       "subunit_match_reasons": [
-        "winner_score=2.70"
+        "winner_score=14.26"
       ],
-      "subunit_match_confidence": 0.6642487046632124,
+      "subunit_match_confidence": 0.8105720695457094,
       "computed_block_rationale": "O notebook exemplifica uma abordagem de aprendizado supervisionado para regressão utilizando redes neurais, alinhando-se com o tópico 'abordagem supervisionada'.",
       "computed_block_match_confidence": 0.6,
       "temporal_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
@@ -11566,7 +11582,8 @@
       "auto_tags": [
         "tipo:codigo",
         "bloco:bloco-05",
-        "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina"
+        "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina",
+        "subunit:modelos-preditivos"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -11597,17 +11614,16 @@
       "computed_block_confidence": 0.715099715099715,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=14.72",
-        "topic_score=0.11",
-        "herdada_do_bloco=bloco-05"
+        "winner_score=41.34",
+        "topic_score=14.26"
       ],
-      "unit_match_confidence": 0.3987771739130434,
+      "unit_match_confidence": 0.95,
       "unit_block_conflict": {},
-      "computed_subunit_slug": "",
+      "computed_subunit_slug": "modelos-preditivos",
       "subunit_match_reasons": [
-        "empate-exato 2x score=0.11"
+        "winner_score=14.26"
       ],
-      "subunit_match_confidence": 0.0,
+      "subunit_match_confidence": 0.9924486819966349,
       "computed_block_rationale": "O material demonstra um algoritmo fundamental de uma abordagem de aprendizado supervisionado, alinhando-se com o tópico 'abordagem supervisionada'.",
       "computed_block_match_confidence": 0.6,
       "temporal_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
@@ -11651,8 +11667,7 @@
         "topico:aprendizado-supervisionado",
         "tipo:codigo",
         "bloco:bloco-05",
-        "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina",
-        "subunit:introducao-ao-aprendizado-de-maquina"
+        "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -11683,16 +11698,16 @@
       "computed_block_confidence": 0.372079772079772,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=44.64",
-        "topic_score=15.95"
+        "winner_score=72.68",
+        "topic_score=26.14"
       ],
       "unit_match_confidence": 0.95,
       "unit_block_conflict": {},
-      "computed_subunit_slug": "introducao-ao-aprendizado-de-maquina",
+      "computed_subunit_slug": "modelos-preditivos",
       "subunit_match_reasons": [
-        "winner_score=15.95"
+        "winner_score=26.14"
       ],
-      "subunit_match_confidence": 0.7507020711097738,
+      "subunit_match_confidence": 0.3896702119519474,
       "computed_block_rationale": "O notebook aborda diretamente a aplicação de algoritmos de classificação dentro da abordagem supervisionada de Machine Learning.",
       "computed_block_match_confidence": 0.6,
       "temporal_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
@@ -11736,8 +11751,7 @@
         "topico:aprendizado-supervisionado",
         "tipo:codigo",
         "bloco:bloco-05",
-        "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina",
-        "subunit:introducao-ao-aprendizado-de-maquina"
+        "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -11768,16 +11782,16 @@
       "computed_block_confidence": 0.48240895736952044,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=45.04",
-        "topic_score=15.95"
+        "winner_score=78.05",
+        "topic_score=29.52"
       ],
       "unit_match_confidence": 0.95,
       "unit_block_conflict": {},
-      "computed_subunit_slug": "introducao-ao-aprendizado-de-maquina",
+      "computed_subunit_slug": "modelos-preditivos",
       "subunit_match_reasons": [
-        "winner_score=15.95"
+        "winner_score=29.52"
       ],
-      "subunit_match_confidence": 0.9350082744095081,
+      "subunit_match_confidence": 0.4595202601978588,
       "computed_block_rationale": "O notebook aplica uma técnica de aprendizado supervisionado (árvores de decisão para regressão) e aborda a preparação dos dados.",
       "computed_block_match_confidence": 0.429,
       "temporal_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
@@ -11819,8 +11833,7 @@
       "auto_tags": [
         "tipo:codigo",
         "bloco:bloco-05",
-        "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina",
-        "subunit:metricas-de-avaliacao"
+        "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -11851,16 +11864,16 @@
       "computed_block_confidence": 0.715099715099715,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=29.04",
-        "topic_score=11.07"
+        "winner_score=78.43",
+        "topic_score=27.22"
       ],
       "unit_match_confidence": 0.95,
       "unit_block_conflict": {},
-      "computed_subunit_slug": "metricas-de-avaliacao",
+      "computed_subunit_slug": "modelos-preditivos",
       "subunit_match_reasons": [
-        "winner_score=11.07"
+        "winner_score=27.22"
       ],
-      "subunit_match_confidence": 0.7722387790120111,
+      "subunit_match_confidence": 0.21429096252755334,
       "computed_block_rationale": "O material apresenta uma abordagem supervisionada para classificação de dados, utilizando árvores de decisão, que se alinha perfeitamente com o tópico 'abordagem supervisionada' do bloco 05.",
       "computed_block_match_confidence": 0.6,
       "temporal_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
@@ -11905,8 +11918,7 @@
         "topico:aprendizado-supervisionado",
         "tipo:codigo",
         "bloco:bloco-07",
-        "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina",
-        "subunit:introducao-ao-aprendizado-de-maquina"
+        "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -11934,19 +11946,19 @@
       "computed_unit_slug": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
       "computed_block_method": "concept-fused",
       "computed_block_id": "17ea65f3-5f84-47c7-9357-e090ee1f80ed",
-      "computed_block_confidence": 0.715099715099715,
+      "computed_block_confidence": 0.5573764940239044,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=27.44",
-        "topic_score=16.13"
+        "winner_score=67.88",
+        "topic_score=30.78"
       ],
       "unit_match_confidence": 0.95,
       "unit_block_conflict": {},
-      "computed_subunit_slug": "introducao-ao-aprendizado-de-maquina",
+      "computed_subunit_slug": "modelos-descritivos",
       "subunit_match_reasons": [
-        "winner_score=16.13"
+        "winner_score=30.78"
       ],
-      "subunit_match_confidence": 0.9933235811866215,
+      "subunit_match_confidence": 0.47583401562114186,
       "computed_block_rationale": "O bloco menciona explicitamente o termo 'hierarquico', que é o conceito central demonstrado pelo notebook sobre agrupamento hierárquico.",
       "computed_block_match_confidence": 0.6,
       "temporal_block_id": "17ea65f3-5f84-47c7-9357-e090ee1f80ed",
@@ -11991,8 +12003,7 @@
         "topico:aprendizado-supervisionado",
         "tipo:codigo",
         "bloco:bloco-07",
-        "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina",
-        "subunit:introducao-ao-aprendizado-de-maquina"
+        "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -12020,19 +12031,19 @@
       "computed_unit_slug": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
       "computed_block_method": "concept-fused",
       "computed_block_id": "17ea65f3-5f84-47c7-9357-e090ee1f80ed",
-      "computed_block_confidence": 0.715099715099715,
+      "computed_block_confidence": 0.5573764940239044,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=36.87",
-        "topic_score=22.94"
+        "winner_score=68.58",
+        "topic_score=30.78"
       ],
       "unit_match_confidence": 0.95,
       "unit_block_conflict": {},
-      "computed_subunit_slug": "introducao-ao-aprendizado-de-maquina",
+      "computed_subunit_slug": "modelos-descritivos",
       "subunit_match_reasons": [
-        "winner_score=22.94"
+        "winner_score=30.78"
       ],
-      "subunit_match_confidence": 0.96045197740113,
+      "subunit_match_confidence": 0.2547077858785918,
       "computed_block_rationale": "O bloco 06 menciona explicitamente 'hierárquico', que é o principal tópico abordado pelo código.",
       "computed_block_match_confidence": 0.6,
       "temporal_block_id": "17ea65f3-5f84-47c7-9357-e090ee1f80ed",
@@ -13702,7 +13713,7 @@
       "language": "jupyter"
     }
   ],
-  "updated_at": "2026-08-25T23:57:18",
+  "updated_at": "2026-08-26T00:45:06",
   "failed_entries": [
     {
       "id": "k-nn-exemplocardio",

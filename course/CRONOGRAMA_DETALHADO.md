@@ -84,7 +84,7 @@ _Sem códigos vinculados a esta aula._
 
 ---
 
-## 9 dias · 18/03/2026 a 15/04/2026 — Abordagem supervisionada rede neural introducao perceptron a…
+## 9 dias · 18/03/2026 a 15/04/2026 — Modelos Preditivos
 
 **Unidade**: unidade-de-aprendizagem-05-aprendizado-de-maquina
 **Tópicos cobertos**: abordagem supervisionada, regressao
@@ -180,7 +180,7 @@ _Sem códigos vinculados a esta aula._
 
 ---
 
-## 2 dias · 22/04/2026 a 27/04/2026 — Abordagem supervisionada means hierarquico analise resultado…
+## 2 dias · 22/04/2026 a 27/04/2026 — Modelos Descritivos
 
 **Unidade**: unidade-de-aprendizagem-05-aprendizado-de-maquina
 **Tópicos cobertos**: abordagem supervisionada

@@ -1,0 +1,12 @@
+{
+  "_nota": "Curadoria de sinonimos do GLOSSARY.md (alavanca iii da subunidade, 2026-08-25). O plano nomeia CATEGORIAS (preditivo/descritivo); o material nomeia ALGORITMOS. Termos = vocabulario dos materiais da u05 (proposto-claude, medido contra subunit_gt_IA: 4 -> 37/39). Revisar/estender a mao; sobrevive ao reprocess. Formato: {\"<Termo do plano>\": {\"synonyms\": [...]}}",
+  "Modelos Preditivos": {
+    "synonyms": ["perceptron", "rede neural", "redes neurais", "MLP", "multilayer perceptron", "k-NN", "kNN", "vizinhos mais próximos", "árvore de decisão", "árvores de decisão", "regressão", "classificação", "classificador", "backpropagation"]
+  },
+  "Modelos Descritivos": {
+    "synonyms": ["agrupamento", "clustering", "cluster", "k-means", "kmeans", "agrupamento hierárquico", "dendrograma", "particional"]
+  },
+  "Métricas de Avaliação": {
+    "synonyms": ["acurácia", "precisão", "recall", "F1", "matriz de confusão", "medidas de avaliação"]
+  }
+}
