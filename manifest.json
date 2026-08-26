@@ -5320,7 +5320,7 @@
         "topico:introducao-a-agentes",
         "topico:introducao-aos-algoritmos",
         "tipo:material-base",
-        "bloco:bloco-16",
+        "bloco:bloco-17",
         "unit:unidade-de-aprendizagem-02-solucao-de-problemas"
       ],
       "manual_unit_slug": "",
@@ -5769,9 +5769,9 @@
       "file_count": 7,
       "computed_unit_slug": "unidade-de-aprendizagem-02-solucao-de-problemas",
       "computed_block_method": "concept-fused",
-      "computed_block_id": "d75c82cf-f46d-4b1e-8a65-9b890166dc7d",
-      "computed_block_confidence": 0.012284313725490208,
-      "computed_block_band": "baixa",
+      "computed_block_id": "0b986383-663a-4a54-b000-4b97ebce59c4",
+      "computed_block_confidence": 0.3325416666666667,
+      "computed_block_band": "media",
       "unit_match_reasons": [
         "winner_score=24.24",
         "topic_score=0.91"
@@ -5822,7 +5822,7 @@
       "manual_tags": [],
       "auto_tags": [
         "tipo:codigo",
-        "bloco:bloco-06",
+        "bloco:bloco-13",
         "unit:unidade-de-aprendizagem-02-solucao-de-problemas"
       ],
       "manual_unit_slug": "",
@@ -5850,9 +5850,9 @@
       "curated_markdown": "code/professor/ag-feito-em-aula-pelo-luca.md",
       "computed_unit_slug": "unidade-de-aprendizagem-02-solucao-de-problemas",
       "computed_block_method": "concept-fused",
-      "computed_block_id": "17ea65f3-5f84-47c7-9357-e090ee1f80ed",
-      "computed_block_confidence": 0.25375000000000003,
-      "computed_block_band": "media",
+      "computed_block_id": "0b986383-663a-4a54-b000-4b97ebce59c4",
+      "computed_block_confidence": 0.05737787356321834,
+      "computed_block_band": "baixa",
       "unit_match_reasons": [
         "winner_score=18.75",
         "topic_score=1.04"
@@ -5885,30 +5885,12 @@
         }
       ],
       "temporal_block_id": "0b986383-663a-4a54-b000-4b97ebce59c4",
-      "temporal_block_method": "llm-funil",
-      "temporal_block_band": "media",
-      "temporal_block_flag": true,
-      "temporal_block_provider": "llm-funil",
+      "temporal_block_method": "janela-1",
+      "temporal_block_band": "alta",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "labels",
       "temporal_block_window": [
-        "bloco-01",
-        "bloco-02",
-        "bloco-03",
-        "bloco-04",
-        "bloco-05",
-        "bloco-06",
-        "bloco-08",
-        "bloco-09",
-        "bloco-10",
-        "bloco-11",
-        "bloco-12",
-        "bloco-14",
-        "bloco-15",
-        "bloco-16",
-        "bloco-18",
-        "bloco-19",
-        "bloco-20",
-        "bloco-22",
-        "bloco-23"
+        "0b986383-663a-4a54-b000-4b97ebce59c4"
       ]
     },
     {
@@ -5922,7 +5904,7 @@
       "manual_tags": [],
       "auto_tags": [
         "tipo:material-base",
-        "bloco:bloco-07",
+        "bloco:bloco-08",
         "unit:unidade-de-aprendizagem-02-solucao-de-problemas",
         "subunit:algoritmos-de-busca-com-informacao"
       ],
@@ -6428,7 +6410,7 @@
       "manual_tags": [],
       "auto_tags": [
         "tipo:codigo",
-        "bloco:bloco-07",
+        "bloco:bloco-08",
         "unit:unidade-de-aprendizagem-02-solucao-de-problemas"
       ],
       "manual_unit_slug": "",
@@ -6475,8 +6457,8 @@
       "computed_unit_slug": "unidade-de-aprendizagem-02-solucao-de-problemas",
       "computed_block_method": "concept-fused",
       "computed_block_id": "696e2177-a69e-4dbb-9b79-73e03f3e8c85",
-      "computed_block_confidence": 0.343,
-      "computed_block_band": "media",
+      "computed_block_confidence": 0.17966666666666672,
+      "computed_block_band": "baixa",
       "unit_match_reasons": [
         "winner_score=32.52",
         "topic_score=0.91"
@@ -6527,7 +6509,7 @@
       "manual_tags": [],
       "auto_tags": [
         "tipo:codigo",
-        "bloco:bloco-12",
+        "bloco:bloco-13",
         "unit:unidade-de-aprendizagem-02-solucao-de-problemas",
         "subunit:busca-adversaria"
       ],
@@ -6581,8 +6563,8 @@
       "computed_unit_slug": "unidade-de-aprendizagem-02-solucao-de-problemas",
       "computed_block_method": "concept-fused",
       "computed_block_id": "0b986383-663a-4a54-b000-4b97ebce59c4",
-      "computed_block_confidence": 0.19041998191681742,
-      "computed_block_band": "baixa",
+      "computed_block_confidence": 0.36447484025559107,
+      "computed_block_band": "media",
       "unit_match_reasons": [
         "winner_score=31.96",
         "topic_score=11.07"
@@ -9038,7 +9020,7 @@
       "manual_tags": [],
       "auto_tags": [
         "tipo:codigo",
-        "bloco:bloco-06",
+        "bloco:bloco-07",
         "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina",
         "subunit:introducao-ao-aprendizado-de-maquina"
       ],
@@ -9068,7 +9050,7 @@
       "computed_unit_slug": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
       "computed_block_method": "concept-fused",
       "computed_block_id": "17ea65f3-5f84-47c7-9357-e090ee1f80ed",
-      "computed_block_confidence": 0.4278681592039801,
+      "computed_block_confidence": 0.2583333333333333,
       "computed_block_band": "media",
       "unit_match_reasons": [
         "winner_score=36.16",
@@ -9126,7 +9108,7 @@
         "topico:aprendizado-nao-supervisionado",
         "topico:aprendizado-supervisionado",
         "tipo:codigo",
-        "bloco:bloco-06",
+        "bloco:bloco-07",
         "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina",
         "subunit:introducao-ao-aprendizado-de-maquina"
       ],
@@ -9156,7 +9138,7 @@
       "computed_unit_slug": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
       "computed_block_method": "concept-fused",
       "computed_block_id": "17ea65f3-5f84-47c7-9357-e090ee1f80ed",
-      "computed_block_confidence": 0.6330650644783119,
+      "computed_block_confidence": 0.5142857142857142,
       "computed_block_band": "alta",
       "unit_match_reasons": [
         "winner_score=32.19",
@@ -9414,7 +9396,7 @@
         "winner_score=7.69",
         "topic_score=1.17",
         "ambiguous",
-        "herdada_do_bloco=bloco-06"
+        "herdada_do_bloco=bloco-07"
       ],
       "unit_match_confidence": 0.10534637810060292,
       "unit_block_conflict": {},
@@ -9470,7 +9452,7 @@
       "manual_tags": [],
       "auto_tags": [
         "tipo:prova",
-        "bloco:bloco-08",
+        "bloco:bloco-09",
         "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina",
         "subunit:introducao-ao-aprendizado-de-maquina"
       ],
@@ -9581,7 +9563,7 @@
       "manual_tags": [],
       "auto_tags": [
         "tipo:lista",
-        "bloco:bloco-16",
+        "bloco:bloco-17",
         "unit:unidade-de-aprendizagem-02-solucao-de-problemas",
         "subunit:algoritmos-de-busca-com-informacao"
       ],
@@ -9723,7 +9705,7 @@
       "manual_tags": [],
       "auto_tags": [
         "tipo:gabarito",
-        "bloco:bloco-16",
+        "bloco:bloco-17",
         "unit:unidade-de-aprendizagem-02-solucao-de-problemas",
         "subunit:introducao-a-agentes-em-ambientes-deterministicos"
       ],
@@ -9867,9 +9849,8 @@
         "topico:agentes",
         "topico:introducao-a-agentes",
         "tipo:material-base",
-        "bloco:bloco-19",
-        "unit:unidade-de-aprendizagem-02-solucao-de-problemas",
-        "subunit:introducao-a-agentes-em-ambientes-deterministicos"
+        "bloco:bloco-20",
+        "unit:unidade-de-aprendizagem-03-raciocinio-planejamento-e-representacao-de-conhecimento"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -10013,21 +9994,26 @@
         "signals": [],
         "markdown_path": "staging/markdown-auto/datalab/introducao-a-agentes/introducao-a-agentes.md"
       },
-      "computed_unit_slug": "unidade-de-aprendizagem-02-solucao-de-problemas",
+      "computed_unit_slug": "unidade-de-aprendizagem-03-raciocinio-planejamento-e-representacao-de-conhecimento",
       "computed_block_id": "421fe467-6e6d-40b5-911e-95abfa402def",
       "computed_block_confidence": 0.0,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
         "winner_score=85.96",
-        "topic_score=23.12"
+        "topic_score=23.12",
+        "reconciliada_do_bloco=bloco-17"
       ],
       "unit_match_confidence": 0.9064911248745718,
-      "unit_block_conflict": {},
-      "computed_subunit_slug": "introducao-a-agentes-em-ambientes-deterministicos",
+      "unit_block_conflict": {
+        "unit": "unidade-de-aprendizagem-02-solucao-de-problemas",
+        "block_unit": "unidade-de-aprendizagem-03-raciocinio-planejamento-e-representacao-de-conhecimento",
+        "block_id": "bloco-17"
+      },
+      "computed_subunit_slug": "",
       "subunit_match_reasons": [
-        "winner_score=23.12"
+        "empate-exato 2x score=0.11"
       ],
-      "subunit_match_confidence": 0.9383412338673403,
+      "subunit_match_confidence": 0.0,
       "approved_markdown": "content/curated/introducao-a-agentes.md",
       "curated_markdown": "content/curated/introducao-a-agentes.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/introducao-a-agentes/introducao-a-agentes.md",
@@ -10036,14 +10022,14 @@
       "moodle_label": "Introducao a agentes",
       "posting_date": "2026-06-22",
       "posting_date_created": "2026-06-22",
-      "temporal_block_id": "4062d883-01e9-47d1-be03-61ea23b0adff",
-      "temporal_block_method": "llm",
-      "temporal_block_band": "media",
+      "temporal_block_id": "7aa48de9-e821-4cb7-8e89-3c68c530e552",
+      "temporal_block_method": "disamb",
+      "temporal_block_band": "alta",
       "temporal_block_flag": false,
-      "temporal_block_provider": "llm",
+      "temporal_block_provider": "labels",
       "temporal_block_window": [
         "4062d883-01e9-47d1-be03-61ea23b0adff",
-        "bfaa3df7-b5b1-4d7b-8f7e-1e38f29ed016"
+        "7aa48de9-e821-4cb7-8e89-3c68c530e552"
       ],
       "coverage_units": [
         {
@@ -10147,14 +10133,14 @@
       "unit_match_reasons": [
         "winner_score=20.24",
         "topic_score=1.17",
-        "reconciliada_do_bloco=bloco-19",
-        "herdada_do_vizinho=bloco-16"
+        "reconciliada_do_bloco=bloco-20",
+        "herdada_do_vizinho=bloco-17"
       ],
       "unit_match_confidence": 0.9076543209876543,
       "unit_block_conflict": {
         "unit": "unidade-de-aprendizagem-02-solucao-de-problemas",
         "block_unit": "unidade-de-aprendizagem-03-raciocinio-planejamento-e-representacao-de-conhecimento",
-        "block_id": "bloco-19"
+        "block_id": "bloco-20"
       },
       "computed_subunit_slug": "planejamento-classico",
       "subunit_match_reasons": [
@@ -10188,20 +10174,20 @@
         "bloco-03",
         "bloco-04",
         "bloco-05",
-        "bloco-06",
-        "bloco-08",
+        "bloco-07",
         "bloco-09",
         "bloco-10",
         "bloco-11",
         "bloco-12",
-        "bloco-14",
+        "bloco-13",
         "bloco-15",
         "bloco-16",
-        "bloco-18",
+        "bloco-17",
         "bloco-19",
         "bloco-20",
-        "bloco-22",
-        "bloco-23"
+        "bloco-21",
+        "bloco-23",
+        "bloco-24"
       ],
       "computed_block_method": "concept-fused"
     },
@@ -10290,8 +10276,8 @@
       "unit_match_reasons": [
         "winner_score=32.18",
         "topic_score=1.30",
-        "herdada_do_bloco=bloco-19",
-        "herdada_do_vizinho=bloco-16"
+        "herdada_do_bloco=bloco-20",
+        "herdada_do_vizinho=bloco-17"
       ],
       "unit_match_confidence": 0.3153588931602548,
       "unit_block_conflict": {},
@@ -10319,20 +10305,20 @@
         "bloco-03",
         "bloco-04",
         "bloco-05",
-        "bloco-06",
-        "bloco-08",
+        "bloco-07",
         "bloco-09",
         "bloco-10",
         "bloco-11",
         "bloco-12",
-        "bloco-14",
+        "bloco-13",
         "bloco-15",
         "bloco-16",
-        "bloco-18",
+        "bloco-17",
         "bloco-19",
         "bloco-20",
-        "bloco-22",
-        "bloco-23"
+        "bloco-21",
+        "bloco-23",
+        "bloco-24"
       ],
       "computed_block_method": "concept-fused"
     },
@@ -11918,7 +11904,7 @@
         "topico:aprendizado-nao-supervisionado-agrupamento-hierarquico",
         "topico:aprendizado-supervisionado",
         "tipo:codigo",
-        "bloco:bloco-06",
+        "bloco:bloco-07",
         "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina",
         "subunit:introducao-ao-aprendizado-de-maquina"
       ],
@@ -12004,7 +11990,7 @@
         "topico:aprendizado-nao-supervisionado-agrupamento-hierarquico",
         "topico:aprendizado-supervisionado",
         "tipo:codigo",
-        "bloco:bloco-06",
+        "bloco:bloco-07",
         "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina",
         "subunit:introducao-ao-aprendizado-de-maquina"
       ],
@@ -13716,7 +13702,7 @@
       "language": "jupyter"
     }
   ],
-  "updated_at": "2026-08-21T02:43:02",
+  "updated_at": "2026-08-25T23:57:18",
   "failed_entries": [
     {
       "id": "k-nn-exemplocardio",

@@ -6,5 +6,5 @@
 
 | Recurso | Tipo | Unidade | Solução | Prioridade | Quando usar |
 |---|---|---|---|---|---|
-| Lista de Exercicios I | lista | tipo:lista; bloco:bloco-16; unit:unidade-de-aprendizagem-02-solucao-de-problemas | não | média | fixação por unidade |
-| Respostas da lista I (feito pela aluna Chiara) | exercício | tipo:gabarito; bloco:bloco-16; unit:unidade-de-aprendizagem-02-solucao-de-problemas | não | média | fixação por unidade |
+| Lista de Exercicios I | lista | tipo:lista; bloco:bloco-17; unit:unidade-de-aprendizagem-02-solucao-de-problemas | não | média | fixação por unidade |
+| Respostas da lista I (feito pela aluna Chiara) | exercício | tipo:gabarito; bloco:bloco-17; unit:unidade-de-aprendizagem-02-solucao-de-problemas | não | média | fixação por unidade |

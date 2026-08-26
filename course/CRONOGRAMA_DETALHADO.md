@@ -168,14 +168,25 @@ _Sem códigos vinculados a esta aula._
 
 ---
 
-## 3 dias · 20/04/2026 a 27/04/2026 — Abordagem supervisionada means hierarquico analise resultado…
+## 1 dia · 20/04/2026 — Suspensao
+
+**Tópicos cobertos**: suspensao
+
+### Sessões
+
+- **seg 20/04** — suspensao de aulas aula
+
+_Sem códigos vinculados a esta aula._
+
+---
+
+## 2 dias · 22/04/2026 a 27/04/2026 — Abordagem supervisionada means hierarquico analise resultado…
 
 **Unidade**: unidade-de-aprendizagem-05-aprendizado-de-maquina
 **Tópicos cobertos**: abordagem supervisionada
 
 ### Sessões
 
-- **seg 20/04** — suspensao de aulas aula
 - **qua 22/04** — ml abordagem nao supervisionada k means exercicios aula
 - **seg 27/04** — ml abordagem nao supervisionada hierarquico exercicios analise de resultados aula
 
@@ -264,7 +275,12 @@ _Sem códigos vinculados a esta aula._
 
 - **qua 13/05** — prova 1 prova
 
-_Sem códigos vinculados a esta aula._
+### Códigos desta aula
+
+
+**Também relevante** (outras aulas como contexto):
+
+- Implementação do Algoritmo Minimax com Poda Alpha-Beta para Jogo da Velha (`ImplementacaoMinimax.zip`)
 
 ---
 
@@ -287,10 +303,6 @@ _Sem códigos vinculados a esta aula._
 - **Implementação de Algoritmo Genético para o Problema da Soma dos Subconjuntos** (`AG feito em aula pelo Luca.py`)
   - Conceitos: Algoritmos Genéticos, Função de Aptidão, Elitismo, Seleção por Torneio
   - Papel: exemplo_demonstrativo
-
-**Também relevante** (outras aulas como contexto):
-
-- Implementação do Algoritmo Minimax com Poda Alpha-Beta para Jogo da Velha (`ImplementacaoMinimax.zip`)
 
 ---
 
@@ -400,7 +412,12 @@ _Sem códigos vinculados a esta aula._
 
 - **seg 06/07** — prova ps prova de substituicao
 
-_Sem códigos vinculados a esta aula._
+### Códigos desta aula
+
+
+**Também relevante** (outras aulas como contexto):
+
+- Implementação do Algoritmo Minimax com Poda Alpha-Beta para Jogo da Velha (`ImplementacaoMinimax.zip`)
 
 ---
 
@@ -412,12 +429,7 @@ _Sem códigos vinculados a esta aula._
 
 - **qua 08/07** — atendimento divulgacao dos resultados da g1 ate 09 07 aula
 
-### Códigos desta aula
-
-
-**Também relevante** (outras aulas como contexto):
-
-- Implementação do Algoritmo Minimax com Poda Alpha-Beta para Jogo da Velha (`ImplementacaoMinimax.zip`)
+_Sem códigos vinculados a esta aula._
 
 ---
 
