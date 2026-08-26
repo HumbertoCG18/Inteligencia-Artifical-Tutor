@@ -10410,7 +10410,10 @@
           "confidence": 0.7,
           "rule": "card"
         }
-      ]
+      ],
+      "moodle_label": "Análise Exploratória de Dados - Exemplo 1",
+      "posting_date": "2026-02-24",
+      "posting_date_created": "2026-02-24"
     },
     {
       "id": "exemplo-2-k-nn-com-iriscsv-mais-completo",
@@ -10486,7 +10489,10 @@
           "confidence": 0.7,
           "rule": "card"
         }
-      ]
+      ],
+      "moodle_label": "Exemplo 2 k-NN (com IRIS.csv) - mais completo",
+      "posting_date": "2026-03-24",
+      "posting_date_created": "2026-03-24"
     },
     {
       "id": "exemplo-com-k-nn",
@@ -10562,7 +10568,10 @@
           "confidence": 0.7,
           "rule": "card"
         }
-      ]
+      ],
+      "moodle_label": "Exemplo com k-NN.",
+      "posting_date": "2026-02-24",
+      "posting_date_created": "2026-02-24"
     },
     {
       "id": "exercicio-2-solucao-com-rede-perceptron-atualizado",
@@ -10646,7 +10655,10 @@
           "confidence": 0.7,
           "rule": "card"
         }
-      ]
+      ],
+      "moodle_label": "Exercicio 2 - Solução com rede Perceptron (atualizado)",
+      "posting_date": "2026-02-24",
+      "posting_date_created": "2026-02-24"
     },
     {
       "id": "k-nn-para-classificacao-exemplo-cardio",
@@ -10730,7 +10742,10 @@
           "confidence": 0.7,
           "rule": "card"
         }
-      ]
+      ],
+      "moodle_label": "K-NN para Classificação: Exemplo Cardio",
+      "posting_date": "2026-02-24",
+      "posting_date_created": "2026-02-24"
     },
     {
       "id": "k-nn-para-regressao-exemplo-imc",
@@ -10814,7 +10829,10 @@
           "confidence": 0.7,
           "rule": "card"
         }
-      ]
+      ],
+      "moodle_label": "K-NN para Regressão: exemplo IMC",
+      "posting_date": "2026-02-24",
+      "posting_date_created": "2026-02-24"
     },
     {
       "id": "rede-perceptron-classificacao-planta-iris",
@@ -10898,7 +10916,10 @@
           "confidence": 0.7,
           "rule": "card"
         }
-      ]
+      ],
+      "moodle_label": "Rede Perceptron - Classificacao - Planta Iris",
+      "posting_date": "2026-02-24",
+      "posting_date_created": "2026-02-24"
     },
     {
       "id": "rede-perceptron-classificacao-de-cliente",
@@ -10982,7 +11003,10 @@
           "confidence": 0.7,
           "rule": "card"
         }
-      ]
+      ],
+      "moodle_label": "Rede Perceptron - Classificacao de Cliente",
+      "posting_date": "2026-02-24",
+      "posting_date_created": "2026-02-24"
     },
     {
       "id": "rede-perceptron-exemplo-atualizado",
@@ -11066,7 +11090,10 @@
           "confidence": 0.7,
           "rule": "card"
         }
-      ]
+      ],
+      "moodle_label": "Rede Perceptron - Exemplo Atualizado",
+      "posting_date": "2026-02-24",
+      "posting_date_created": "2026-02-24"
     },
     {
       "id": "rede-perceptron-or-em-python",
@@ -11150,7 +11177,10 @@
           "confidence": 0.7,
           "rule": "card"
         }
-      ]
+      ],
+      "moodle_label": "Rede Perceptron - OR em Python",
+      "posting_date": "2026-02-24",
+      "posting_date_created": "2026-02-24"
     },
     {
       "id": "rede-perceptron-reconhecendo-letras",
@@ -11234,7 +11264,10 @@
           "confidence": 0.7,
           "rule": "card"
         }
-      ]
+      ],
+      "moodle_label": "Rede Perceptron - Reconhecendo Letras",
+      "posting_date": "2026-02-24",
+      "posting_date_created": "2026-02-24"
     },
     {
       "id": "mlp-xoripynb",
@@ -11317,7 +11350,10 @@
           "confidence": 0.7,
           "rule": "card"
         }
-      ]
+      ],
+      "moodle_label": "MLP - XOR.ipynb",
+      "posting_date": "2026-02-24",
+      "posting_date_created": "2026-02-24"
     },
     {
       "id": "mlp-classificacao-inadimplencia-normalizacao-e-gridsearchcv",
@@ -11401,7 +11437,10 @@
           "confidence": 0.7,
           "rule": "card"
         }
-      ]
+      ],
+      "moodle_label": "MLP Classificação - Inadimplência (normalização e GridSearchCV)",
+      "posting_date": "2026-02-24",
+      "posting_date_created": "2026-02-24"
     },
     {
       "id": "mlp-classificacao-iris-atualizado",
@@ -11484,7 +11523,10 @@
           "confidence": 0.7,
           "rule": "card"
         }
-      ]
+      ],
+      "moodle_label": "MLP Classificação - IRIS atualizado",
+      "posting_date": "2026-02-24",
+      "posting_date_created": "2026-02-24"
     },
     {
       "id": "mlp-regressao-cardio",
@@ -11567,7 +11609,10 @@
           "confidence": 0.7,
           "rule": "card"
         }
-      ]
+      ],
+      "moodle_label": "MLP Regressão - Cardio",
+      "posting_date": "2026-02-24",
+      "posting_date_created": "2026-02-24"
     },
     {
       "id": "xor-backpropagation-em-python",
@@ -11650,7 +11695,10 @@
           "confidence": 0.7,
           "rule": "card"
         }
-      ]
+      ],
+      "moodle_label": "XOR - Backpropagation em python",
+      "posting_date": "2026-02-24",
+      "posting_date_created": "2026-02-24"
     },
     {
       "id": "exemplo-1-arvores-de-decisao-classificacao-planta-iris",
@@ -11734,7 +11782,10 @@
           "confidence": 0.7,
           "rule": "card"
         }
-      ]
+      ],
+      "moodle_label": "Exemplo 1 - Árvores de Decisão: Classificação - Planta Iris",
+      "posting_date": "2026-02-24",
+      "posting_date_created": "2026-02-24"
     },
     {
       "id": "exemplo-2-arvores-de-decisao-regressao-diabetes",
@@ -11818,7 +11869,10 @@
           "confidence": 0.7,
           "rule": "card"
         }
-      ]
+      ],
+      "moodle_label": "Exemplo 2 - Arvores de Decisão - Regressão - Diabetes",
+      "posting_date": "2026-02-24",
+      "posting_date_created": "2026-02-24"
     },
     {
       "id": "exemplo-complementar-classificacao-com-arvores-de-decisao",
@@ -11900,7 +11954,10 @@
           "confidence": 0.7,
           "rule": "card"
         }
-      ]
+      ],
+      "moodle_label": "Exemplo Complementar - Classificação com Árvores de Decisão",
+      "posting_date": "2026-02-24",
+      "posting_date_created": "2026-02-24"
     },
     {
       "id": "agrupamento-hierarquico-exemplo-1",
@@ -11985,7 +12042,10 @@
           "confidence": 0.7,
           "rule": "card"
         }
-      ]
+      ],
+      "moodle_label": "agrupamento hierarquico - exemplo 1",
+      "posting_date": "2026-02-24",
+      "posting_date_created": "2026-02-24"
     },
     {
       "id": "agrupamento-hierarquico-exemplo-2-use-o-dataset-da-planta-iris",
@@ -12070,7 +12130,10 @@
           "confidence": 0.7,
           "rule": "card"
         }
-      ]
+      ],
+      "moodle_label": "agrupamento hierarquico - exemplo 2 (use o dataset da planta IRIS)",
+      "posting_date": "2026-02-24",
+      "posting_date_created": "2026-02-24"
     }
   ],
   "logs": [
@@ -13712,7 +13775,7 @@
       "language": "jupyter"
     }
   ],
-  "updated_at": "2026-08-26T00:57:04",
+  "updated_at": "2026-08-26T01:07:04",
   "failed_entries": [
     {
       "id": "k-nn-exemplocardio",
