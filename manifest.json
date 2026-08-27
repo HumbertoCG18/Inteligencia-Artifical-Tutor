@@ -140,7 +140,6 @@
       "tags": "",
       "manual_tags": [],
       "auto_tags": [
-        "topico:introducao-a-ia-visao-geral",
         "tipo:material-base",
         "bloco:bloco-01",
         "unit:unidade-de-aprendizagem-01-visao-geral",
@@ -874,16 +873,16 @@
       "computed_block_confidence": 0.00793650793650812,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
-        "winner_score=49.28",
-        "topic_score=12.10"
+        "winner_score=48.79",
+        "topic_score=11.92"
       ],
-      "unit_match_confidence": 0.557039436712836,
+      "unit_match_confidence": 0.5503355704697986,
       "unit_block_conflict": {},
       "computed_subunit_slug": "conceituacao",
       "subunit_match_reasons": [
-        "winner_score=12.10"
+        "winner_score=11.92"
       ],
-      "subunit_match_confidence": 0.8774255396515818,
+      "subunit_match_confidence": 0.8755704697986577,
       "approved_markdown": "content/curated/visao-geral-introducao-e-historico.md",
       "curated_markdown": "content/curated/visao-geral-introducao-e-historico.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/visao-geral-introducao-e-historico/visao-geral-introducao-e-historico.md",
@@ -902,16 +901,6 @@
         "55691241-63a8-4053-aea8-8a835c90f4f7"
       ],
       "coverage_units": [
-        {
-          "unit_slug": "unidade-de-aprendizagem-02-solucao-de-problemas",
-          "topics": [
-            "introducao a agentes",
-            "introducao a agentes em ambientes deterministicos",
-            "introducao aos algoritmos"
-          ],
-          "confidence": 0.7,
-          "rule": "card"
-        },
         {
           "unit_slug": "unidade-de-aprendizagem-01-visao-geral",
           "topics": [],
@@ -6973,16 +6962,6 @@
       ],
       "coverage_units": [
         {
-          "unit_slug": "unidade-de-aprendizagem-02-solucao-de-problemas",
-          "topics": [
-            "introducao a agentes",
-            "introducao a agentes em ambientes deterministicos",
-            "introducao aos algoritmos"
-          ],
-          "confidence": 0.7,
-          "rule": "card"
-        },
-        {
           "unit_slug": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
           "topics": [],
           "confidence": 0.5,
@@ -7608,16 +7587,6 @@
         "af22fe17-ee73-407f-9af5-d730739d71e0"
       ],
       "coverage_units": [
-        {
-          "unit_slug": "unidade-de-aprendizagem-02-solucao-de-problemas",
-          "topics": [
-            "introducao a agentes",
-            "introducao a agentes em ambientes deterministicos",
-            "introducao aos algoritmos"
-          ],
-          "confidence": 0.7,
-          "rule": "card"
-        },
         {
           "unit_slug": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
           "topics": [],
@@ -9554,12 +9523,6 @@
           ],
           "confidence": 1.0,
           "rule": "avaliacao"
-        },
-        {
-          "unit_slug": "unidade-de-aprendizagem-01-visao-geral",
-          "topics": [],
-          "confidence": 0.5,
-          "rule": "unidade-atribuida"
         }
       ],
       "posting_date": "2026-02-24",
@@ -10050,7 +10013,6 @@
         {
           "unit_slug": "unidade-de-aprendizagem-02-solucao-de-problemas",
           "topics": [
-            "agentes",
             "agentes e algoritmos de busca",
             "algoritmos de busca com informacao",
             "aula 05 - agentes e algoritmos de busca sup 1 /sup",
@@ -10330,6 +10292,20 @@
         "bloco-17",
         "bloco-19",
         "bloco-24"
+      ],
+      "coverage_units": [
+        {
+          "unit_slug": "unidade-de-aprendizagem-02-solucao-de-problemas",
+          "topics": [],
+          "confidence": 0.6,
+          "rule": "calendario"
+        },
+        {
+          "unit_slug": "unidade-de-aprendizagem-03-raciocinio-planejamento-e-representacao-de-conhecimento",
+          "topics": [],
+          "confidence": 0.6,
+          "rule": "calendario"
+        }
       ],
       "computed_block_method": "concept-fused"
     },
@@ -13772,7 +13748,7 @@
       "language": "jupyter"
     }
   ],
-  "updated_at": "2026-08-27T02:20:19",
+  "updated_at": "2026-08-27T02:54:38",
   "failed_entries": [
     {
       "id": "k-nn-exemplocardio",
