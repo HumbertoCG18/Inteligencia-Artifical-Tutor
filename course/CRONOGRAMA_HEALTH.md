@@ -99,7 +99,7 @@
 
 ## Blocos pobres (0 materiais)
 
-bloco-06, bloco-08, bloco-10, bloco-11, bloco-12, bloco-14, bloco-18, bloco-19, bloco-21, bloco-22, bloco-23, bloco-24
+bloco-06, bloco-08, bloco-10, bloco-11, bloco-12, bloco-14, bloco-18, bloco-19, bloco-20, bloco-21, bloco-22, bloco-23
 
 ## Blocos mais ricos
 
