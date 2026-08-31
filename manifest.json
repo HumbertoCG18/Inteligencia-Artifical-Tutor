@@ -6954,7 +6954,6 @@
         "fbf15f4c-54b1-489d-bb02-f9bd33dc1bd3",
         "af22fe17-ee73-407f-9af5-d730739d71e0"
       ],
-      "computed_block_method": "concept-fused",
       "coverage_units": [
         {
           "unit_slug": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
@@ -6962,7 +6961,8 @@
           "confidence": 0.5,
           "rule": "unidade-atribuida"
         }
-      ]
+      ],
+      "computed_block_method": "concept-fused"
     },
     {
       "id": "introducao-a-ml",
@@ -13741,7 +13741,7 @@
       "language": "jupyter"
     }
   ],
-  "updated_at": "2026-08-31T01:35:09",
+  "updated_at": "2026-08-31T02:53:08",
   "failed_entries": [
     {
       "id": "k-nn-exemplocardio",

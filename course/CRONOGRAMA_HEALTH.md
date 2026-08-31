@@ -111,4 +111,4 @@ bloco-06, bloco-08, bloco-10, bloco-11, bloco-12, bloco-14, bloco-18, bloco-19, 
 
 ## Conflitos de curadoria
 
-- ⚠️ `bloco-03` (1 dia · 09/03/2026) unidade: manual `unidade-de-aprendizagem-05-aprendizado-de-maquina` ≠ auto `unidade-de-aprendizagem-01-visao-geral` (100%)
+_Nenhum conflito de curadoria._
