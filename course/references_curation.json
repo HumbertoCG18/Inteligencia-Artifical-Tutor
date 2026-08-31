@@ -66,12 +66,20 @@
       "matcher_version": 2
     },
     "artigo-usando-agrupamento": {
-      "ref_summary": "",
-      "ref_concepts": [],
+      "ref_summary": "Este artigo apresenta uma abordagem híbrida e não supervisionada para extrair conceitos a partir de textos em língua portuguesa usando algoritmos de agrupamento. Para mitigar o alto custo de construção manual de taxonomias e ontologias, as autoras combinam técnicas de processamento de linguagem natural com as métricas TF-IDF e C-Value para selecionar termos candidatos. O agrupamento dos termos é executado pela ferramenta CLUTO e avaliado manualmente, servindo como um excelente guia prático para estudos de mineração de textos e estruturação conceitual.",
+      "ref_concepts": [
+        "extração de conceitos",
+        "agrupamento conceitual",
+        "TF-IDF",
+        "C-Value",
+        "mineração de textos",
+        "processamento de linguagem natural",
+        "lematização"
+      ],
       "coverage_units": [],
       "computed_ref_unit": "",
       "computed_ref_topics": [],
-      "content_hash": "3e963e3b4902151917e089f89b2785761e4b2421",
+      "content_hash": "09954e35e05327d41d889b7bc53a6fc251b1a5d1",
       "matcher_version": 2
     }
   }

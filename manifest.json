@@ -9155,8 +9155,7 @@
       "tags": "",
       "manual_tags": [],
       "auto_tags": [
-        "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina",
-        "subunit:modelos-descritivos"
+        "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina"
       ],
       "manual_unit_slug": "",
       "notes": "",
@@ -9235,16 +9234,16 @@
       "posting_date_created": "2026-04-22",
       "computed_unit_slug": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
       "unit_match_reasons": [
-        "winner_score=8.49",
-        "topic_score=4.10"
+        "winner_score=40.11",
+        "topic_score=13.49"
       ],
-      "unit_match_confidence": 1.0,
+      "unit_match_confidence": 0.6652586334667259,
       "unit_block_conflict": {},
       "computed_subunit_slug": "modelos-descritivos",
       "subunit_match_reasons": [
-        "winner_score=4.10"
+        "winner_score=12.59"
       ],
-      "subunit_match_confidence": 0.9701754385964912,
+      "subunit_match_confidence": 0.5600381194409148,
       "coverage_units": [
         {
           "unit_slug": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
@@ -13743,7 +13742,7 @@
       "language": "jupyter"
     }
   ],
-  "updated_at": "2026-08-31T03:25:35",
+  "updated_at": "2026-08-31T16:20:47",
   "failed_entries": [
     {
       "id": "k-nn-exemplocardio",

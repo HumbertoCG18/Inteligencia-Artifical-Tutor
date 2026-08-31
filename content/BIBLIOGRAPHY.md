@@ -13,6 +13,7 @@
 
 ### Artigo usando agrupamento
 - **URL:** C:\Users\Humberto\Desktop\Moodle\inteligencia-artificial\Semana 8 - 20.04 a 24.04 - ML - Aprendizado Não Supervisionado\Artigo usando agrupamento.pdf
+- **Resumo:** Este artigo apresenta uma abordagem híbrida e não supervisionada para extrair conceitos a partir de textos em língua portuguesa usando algoritmos de agrupamento. Para mitigar o alto custo de construção manual de taxonomias e ontologias, as autoras combinam técnicas de processamento de linguagem natural com as métricas TF-IDF e C-Value para selecionar termos candidatos. O agrupamento dos termos é executado pela ferramenta CLUTO e avaliado manualmente, servindo como um excelente guia prático para estudos de mineração de textos e estruturação conceitual.
 - **Incluir no bundle:** sim
 
 ## Relevância por tópico
