@@ -113,7 +113,7 @@
 
 ## Introdução ao aprendizado de máquina
 **Definição:** Área da IA que aprende padrões a partir de dados para descrever ou prever comportamentos.
-**Sinônimos aceitos:** machine learning
+**Sinônimos aceitos:** machine learning, análise exploratória de dados, análise exploratória, exploração de dados, EDA, tipos de dados e preparação, preparação de dados
 **Não confundir com:** planejamento clássico
 **Aparece em:** Unidade de Aprendizagem 5 — Aprendizado de máquina
 

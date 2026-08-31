@@ -46,7 +46,7 @@ _Sem códigos vinculados a esta aula._
 
 ---
 
-## 2 dias · 11/03/2026 a 16/03/2026 — Tipos dados preparacao
+## 2 dias · 11/03/2026 a 16/03/2026 — Introdução ao aprendizado de máquina
 
 **Unidade**: unidade-de-aprendizagem-05-aprendizado-de-maquina
 **Tópicos cobertos**: tipos dados preparacao dados, preparacao dados
