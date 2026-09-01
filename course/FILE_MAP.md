@@ -25,7 +25,7 @@ mode: routing_index
 | # | Título | Categoria | Quando abrir | Prioridade | Markdown | Seções | Unidade | Subtópico | Confiança | Período |
 |---|---|---|---|---|---|---|---|---|---|---|
 | 1 | O que é Inteligência Artificial (IA)? | Oracle Brasil | references | consulta pontual | alta | `content/curated/o-que-é-inteligência-artificial-ia-oracle-brasil-43437f.md` | Conteúdo Extraído  Termos da Inteligência Artificial  IA e desenvolvedores  Como a tecnologia de IA pode ajudar as organizações | curso-inteiro |  | Alta |  |
-|  | ↳ rastreabilidade |  | tags: `unit:unidade-de-aprendizagem-01-visao-geral` |  |  |  |  |  |  |  |
+|  | ↳ rastreabilidade |  | tags: `unit:unidade-de-aprendizagem-01-visao-geral; subunit:breve-historico-de-ia` |  |  |  |  |  |  |  |
 | 2 | IA Responsável | references | consulta pontual | alta | `content/curated/ia-responsável-7c4626.md` |  | curso-inteiro |  | Alta |  |
 |  | ↳ rastreabilidade |  | tags: `unit:unidade-de-aprendizagem-01-visao-geral` |  |  |  |  |  |  |  |
 | 3 | Visão Geral - Introdução e Histórico | material-de-aula | teoria base | alta | `content/curated/visao-geral-introducao-e-historico.md` | Roteiro  A conversa com você  ChatGPT  Copilot icon Copilot | unidade-de-aprendizagem-01-visao-geral | Conceituação | Baixa | 1 dia · 04/03/2026 |
@@ -38,7 +38,7 @@ mode: routing_index
 |  | ↳ rastreabilidade |  | raw: `raw/pdfs/material-de-aula/rede-perceptron.pdf`; tags: `tipo:material-base; bloco:bloco-05; unit:unidade-de-aprendizagem-05-aprendizado-de-maquina` |  |  |  |  |  |  |  |
 | 7 | MLP | material-de-aula | teoria base | alta | `content/curated/mlp.md` | Redes Feed Forward  Rede MultiLayer Perceptron  Arquitetura e Topologia  Como definir a topologia de uma rede MLP? | unidade-de-aprendizagem-05-aprendizado-de-maquina | Modelos Preditivos | Alta | 9 dias · 18/03/2026 a 15/04/2026 |
 |  | ↳ rastreabilidade |  | raw: `raw/pdfs/material-de-aula/mlp.pdf`; tags: `tipo:material-base; bloco:bloco-05; unit:unidade-de-aprendizagem-05-aprendizado-de-maquina` |  |  |  |  |  |  |  |
-| 8 | Árvores de Decisão | material-de-aula | teoria base | alta | `content/curated/arvores-de-decisao.md` | Aprendizado Supervisionado Parte 2  Roteiro  Subáreas da Inteligência Artificial  Aplicando o Modelo aos Dados de Teste | unidade-de-aprendizagem-05-aprendizado-de-maquina |  | Média | 9 dias · 18/03/2026 a 15/04/2026 |
+| 8 | Árvores de Decisão | material-de-aula | teoria base | alta | `content/curated/arvores-de-decisao.md` | Aprendizado Supervisionado Parte 2  Roteiro  Subáreas da Inteligência Artificial  Aplicando o Modelo aos Dados de Teste | unidade-de-aprendizagem-05-aprendizado-de-maquina | Modelos Preditivos | Alta | 9 dias · 18/03/2026 a 15/04/2026 |
 |  | ↳ rastreabilidade |  | raw: `raw/pdfs/material-de-aula/arvores-de-decisao.pdf`; tags: `topico:aprendizado-nao-supervisionado; topico:aprendizado-supervisionado; topico:aprendizado-supervisionado-parte-2` |  |  |  |  |  |  |  |
 | 9 | Aula sobre Agrupamento - parte 1 (particional) | material-de-aula | teoria base | alta | `content/curated/aula-sobre-agrupamento-parte-1-particional.md` | Subáreas da Inteligência Artificial  Recalculando os centróides:  Recalculando os centróides:  k-means: Algoritmo de agrupamento particional | unidade-de-aprendizagem-05-aprendizado-de-maquina | Modelos Descritivos | Alta | 2 dias · 22/04/2026 a 27/04/2026 |
 |  | ↳ rastreabilidade |  | raw: `raw/pdfs/material-de-aula/aula-sobre-agrupamento-parte-1-particional.pdf`; tags: `topico:aprendizado-nao-supervisionado; topico:aprendizado-supervisionado; topico:aprendizado-supervisionado-parte-2` |  |  |  |  |  |  |  |
@@ -66,6 +66,5 @@ mode: routing_index
 |  | ↳ rastreabilidade |  | raw: `raw/pdfs/material-de-aula/caracteristicas-dos-dados.pdf`; tags: `tipo:material-base; bloco:bloco-04; unit:unidade-de-aprendizagem-05-aprendizado-de-maquina` |  |  |  |  |  |  |  |
 | 21 | Introdução a ML | material-de-aula | teoria base | alta | `content/curated/introducao-a-ml.md` | Conceito  **Machine Learning**  Conceito  Por que estudar Machine Learning? | unidade-de-aprendizagem-05-aprendizado-de-maquina | Introdução ao aprendizado de máquina | Alta | 1 dia · 09/03/2026 |
 |  | ↳ rastreabilidade |  | raw: `raw/pdfs/material-de-aula/introducao-a-ml.pdf`; tags: `tipo:material-base; bloco:bloco-05; unit:unidade-de-aprendizagem-05-aprendizado-de-maquina` |  |  |  |  |  |  |  |
-| 22 | Algoritmo de Classificação k-NN | material-de-aula | teoria base | alta | `content/curated/algoritmo-de-classificacao-k-nn.md` | Classificação com k-NN  Roteiro  Subáreas da Inteligência Artificial  Aprendizado Supervisionado | unidade-de-aprendizagem-05-aprendizado-de-maquina | Modelos Preditivos | Alta | 9 dias · 18/03/2026 a 15/04/2026 |
 
 > Conteúdo truncado para manter course/FILE_MAP.md compacto e roteável.

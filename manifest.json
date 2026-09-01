@@ -51,22 +51,23 @@
       "review_status": "approved",
       "manual_tags": [],
       "auto_tags": [
-        "unit:unidade-de-aprendizagem-01-visao-geral"
+        "unit:unidade-de-aprendizagem-01-visao-geral",
+        "subunit:breve-historico-de-ia"
       ],
       "unit_match_reasons": [
-        "winner_score=39.52",
+        "winner_score=39.72",
         "topic_score=4.56",
         "herdada_do_bloco=bloco-01",
         "herdada_do_vizinho=bloco-02"
       ],
-      "unit_match_confidence": 0.446649633322046,
+      "unit_match_confidence": 0.44037304268181887,
       "subunit_match_reasons": [
-        "empate-exato 2x score=0.12"
+        "winner_score=0.91"
       ],
-      "subunit_match_confidence": 0.0,
+      "subunit_match_confidence": 0.865079365079365,
       "computed_unit_slug": "unidade-de-aprendizagem-01-visao-geral",
       "unit_block_conflict": {},
-      "computed_subunit_slug": "",
+      "computed_subunit_slug": "breve-historico-de-ia",
       "temporal_block_id": "43b6f936-7dc9-49fa-8f19-a88b66dc9b98",
       "temporal_block_method": "ref-generica",
       "temporal_block_band": "media",
@@ -108,14 +109,14 @@
       ],
       "unit_match_reasons": [
         "winner_score=0.00",
-        "topic_score=0.00",
+        "topic_score=0.12",
         "ambiguous",
         "herdada_do_bloco=bloco-01",
         "herdada_do_vizinho=bloco-02"
       ],
       "unit_match_confidence": 0.0,
       "subunit_match_reasons": [
-        "sem-sinal (winner_score=0)"
+        "empate-exato 2x score=0.12"
       ],
       "subunit_match_confidence": 0.0,
       "computed_unit_slug": "unidade-de-aprendizagem-01-visao-geral",
@@ -873,18 +874,18 @@
       "computed_block_confidence": 0.02777777777777789,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
-        "winner_score=49.37",
-        "topic_score=12.59",
+        "winner_score=49.55",
+        "topic_score=12.81",
         "ambiguous",
         "herdada_do_bloco=bloco-02"
       ],
-      "unit_match_confidence": 0.028244660108950187,
+      "unit_match_confidence": 0.031911877233550545,
       "unit_block_conflict": {},
       "computed_subunit_slug": "conceituacao",
       "subunit_match_reasons": [
         "winner_score=11.92"
       ],
-      "subunit_match_confidence": 0.8755704697986577,
+      "subunit_match_confidence": 0.8622818791946308,
       "approved_markdown": "content/curated/visao-geral-introducao-e-historico.md",
       "curated_markdown": "content/curated/visao-geral-introducao-e-historico.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/visao-geral-introducao-e-historico/visao-geral-introducao-e-historico.md",
@@ -1139,10 +1140,10 @@
       "computed_block_confidence": 0.3454545454545454,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=84.46",
-        "topic_score=12.87"
+        "winner_score=93.31",
+        "topic_score=22.34"
       ],
-      "unit_match_confidence": 0.6251581387042442,
+      "unit_match_confidence": 0.7257061008907391,
       "unit_block_conflict": {},
       "computed_subunit_slug": "introducao-a-agentes-em-ambientes-deterministicos",
       "subunit_match_reasons": [
@@ -1540,7 +1541,7 @@
       "computed_block_confidence": 0.3333333333333333,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=89.10",
+        "winner_score=94.34",
         "topic_score=36.64"
       ],
       "unit_match_confidence": 0.95,
@@ -2389,7 +2390,7 @@
       "computed_block_confidence": 0.5625,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=53.15",
+        "winner_score=54.35",
         "topic_score=30.17"
       ],
       "unit_match_confidence": 0.8681803115677825,
@@ -3488,7 +3489,8 @@
         "topico:subareas-da-inteligencia-artificial",
         "tipo:material-base",
         "bloco:bloco-05",
-        "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina"
+        "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina",
+        "subunit:modelos-preditivos"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -4120,17 +4122,16 @@
       "computed_block_confidence": 0.578125,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=65.68",
-        "topic_score=29.84"
+        "winner_score=82.02",
+        "topic_score=47.88"
       ],
-      "unit_match_confidence": 0.8425780071723029,
+      "unit_match_confidence": 0.9018944378302733,
       "unit_block_conflict": {},
       "computed_subunit_slug": "modelos-preditivos",
       "subunit_match_reasons": [
-        "winner_score=20.07",
-        "ambiguous"
+        "winner_score=34.50"
       ],
-      "subunit_match_confidence": 0.07927048036675279,
+      "subunit_match_confidence": 0.4644289855072465,
       "approved_markdown": "content/curated/arvores-de-decisao.md",
       "curated_markdown": "content/curated/arvores-de-decisao.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/arvores-de-decisao/arvores-de-decisao.md",
@@ -4459,16 +4460,16 @@
       "computed_block_confidence": 0.19047619047619055,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
-        "winner_score=63.30",
-        "topic_score=34.89"
+        "winner_score=71.17",
+        "topic_score=38.50"
       ],
       "unit_match_confidence": 0.95,
       "unit_block_conflict": {},
       "computed_subunit_slug": "modelos-descritivos",
       "subunit_match_reasons": [
-        "winner_score=31.27"
+        "winner_score=34.88"
       ],
-      "subunit_match_confidence": 0.4511288775183884,
+      "subunit_match_confidence": 0.5079075635070819,
       "approved_markdown": "content/curated/aula-sobre-agrupamento-parte-1-particional.md",
       "curated_markdown": "content/curated/aula-sobre-agrupamento-parte-1-particional.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/aula-sobre-agrupamento-parte-1-particional/aula-sobre-agrupamento-parte-1-particional.md",
@@ -5502,8 +5503,8 @@
       "computed_block_confidence": 0.2,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=93.58",
-        "topic_score=24.82"
+        "winner_score=101.05",
+        "topic_score=30.55"
       ],
       "unit_match_confidence": 0.95,
       "unit_block_conflict": {},
@@ -6931,10 +6932,10 @@
       "computed_block_confidence": 0.6761133603238866,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=26.12",
-        "topic_score=8.42"
+        "winner_score=29.19",
+        "topic_score=12.03"
       ],
-      "unit_match_confidence": 0.8923076923076924,
+      "unit_match_confidence": 0.9246010638297872,
       "unit_block_conflict": {},
       "computed_subunit_slug": "introducao-ao-aprendizado-de-maquina",
       "subunit_match_reasons": [
@@ -7557,16 +7558,16 @@
       "computed_block_confidence": 0.5970149253731343,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=81.13",
-        "topic_score=29.14"
+        "winner_score=89.27",
+        "topic_score=36.36"
       ],
-      "unit_match_confidence": 0.7575060906564184,
+      "unit_match_confidence": 0.8056327181715669,
       "unit_block_conflict": {},
       "computed_subunit_slug": "introducao-ao-aprendizado-de-maquina",
       "subunit_match_reasons": [
-        "winner_score=15.90"
+        "winner_score=19.51"
       ],
-      "subunit_match_confidence": 0.6146396679662934,
+      "subunit_match_confidence": 0.5009738595592004,
       "approved_markdown": "content/curated/introducao-a-ml.md",
       "curated_markdown": "content/curated/introducao-a-ml.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/introducao-a-ml/introducao-a-ml.md",
@@ -7895,16 +7896,16 @@
       "computed_block_confidence": 0.15416666666666679,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
-        "winner_score=57.69",
-        "topic_score=34.40"
+        "winner_score=63.82",
+        "topic_score=41.61"
       ],
-      "unit_match_confidence": 0.9137424775416462,
+      "unit_match_confidence": 0.928700165813568,
       "unit_block_conflict": {},
       "computed_subunit_slug": "modelos-preditivos",
       "subunit_match_reasons": [
-        "winner_score=30.78"
+        "winner_score=37.99"
       ],
-      "subunit_match_confidence": 0.5579049970758335,
+      "subunit_match_confidence": 0.6418697689108807,
       "approved_markdown": "content/curated/algoritmo-de-classificacao-k-nn.md",
       "curated_markdown": "content/curated/algoritmo-de-classificacao-k-nn.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/algoritmo-de-classificacao-k-nn/algoritmo-de-classificacao-k-nn.md",
@@ -7985,9 +7986,9 @@
       "unit_block_conflict": {},
       "computed_subunit_slug": "introducao-ao-aprendizado-de-maquina",
       "subunit_match_reasons": [
-        "winner_score=20.35"
+        "winner_score=23.96"
       ],
-      "subunit_match_confidence": 0.9433850992726558,
+      "subunit_match_confidence": 0.9519118383703455,
       "computed_block_rationale": "O material foca diretamente na preparação e análise de dados usando ferramentas de profiling, alinhando-se perfeitamente com os tópicos de 'Tipos dados preparacao' do bloco-04.",
       "computed_block_match_confidence": 0.75,
       "temporal_block_id": "af22fe17-ee73-407f-9af5-d730739d71e0",
@@ -8930,16 +8931,16 @@
       "computed_block_confidence": 0.28156250000000005,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=27.72",
-        "topic_score=12.57"
+        "winner_score=30.78",
+        "topic_score=16.18"
       ],
-      "unit_match_confidence": 0.6454588834102115,
+      "unit_match_confidence": 0.7245087133852428,
       "unit_block_conflict": {},
       "computed_subunit_slug": "metricas-de-avaliacao",
       "subunit_match_reasons": [
-        "winner_score=12.57"
+        "winner_score=16.18"
       ],
-      "subunit_match_confidence": 0.2869413074598376,
+      "subunit_match_confidence": 0.4235570386849585,
       "approved_markdown": "content/curated/como-analisar-resultados-acc-pr-re-e-f1.md",
       "curated_markdown": "content/curated/como-analisar-resultados-acc-pr-re-e-f1.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/como-analisar-resultados-acc-pr-re-e-f1/como-analisar-resultados-acc-pr-re-e-f1.md",
@@ -9020,7 +9021,7 @@
       "computed_block_confidence": 0.12916666666666665,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
-        "winner_score=59.21",
+        "winner_score=60.21",
         "topic_score=30.60"
       ],
       "unit_match_confidence": 0.95,
@@ -9978,7 +9979,7 @@
       "computed_block_confidence": 0.0,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
-        "winner_score=90.29",
+        "winner_score=92.57",
         "topic_score=31.56",
         "reconciliada_do_bloco=bloco-17"
       ],
@@ -10434,16 +10435,16 @@
       "computed_block_confidence": 0.006945544554455452,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
-        "winner_score=15.32",
-        "topic_score=13.72"
+        "winner_score=18.38",
+        "topic_score=17.33"
       ],
       "unit_match_confidence": 0.95,
       "unit_block_conflict": {},
       "computed_subunit_slug": "modelos-preditivos",
       "subunit_match_reasons": [
-        "winner_score=12.82"
+        "winner_score=16.43"
       ],
-      "subunit_match_confidence": 0.7752300733114958,
+      "subunit_match_confidence": 0.8245891661594644,
       "computed_block_rationale": "O material demonstra um algoritmo de classificação, o k-NN, que é uma técnica fundamental em aprendizagem supervisionada, alinhando-se diretamente com o tópico 'abordagem supervisionada'.",
       "computed_block_match_confidence": 0.6,
       "temporal_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
@@ -10513,16 +10514,16 @@
       "computed_block_confidence": 0.11772126245847174,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
-        "winner_score=19.80",
-        "topic_score=12.71"
+        "winner_score=22.86",
+        "topic_score=16.32"
       ],
       "unit_match_confidence": 0.95,
       "unit_block_conflict": {},
       "computed_subunit_slug": "modelos-preditivos",
       "subunit_match_reasons": [
-        "winner_score=11.81"
+        "winner_score=15.42"
       ],
-      "subunit_match_confidence": 0.7560108364375211,
+      "subunit_match_confidence": 0.8130998702983139,
       "temporal_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
       "temporal_block_method": "llm",
       "temporal_block_band": "media",
@@ -10592,16 +10593,16 @@
       "computed_block_confidence": 0.632051282051282,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=20.13",
-        "topic_score=13.00"
+        "winner_score=24.20",
+        "topic_score=16.61"
       ],
       "unit_match_confidence": 0.95,
       "unit_block_conflict": {},
       "computed_subunit_slug": "modelos-preditivos",
       "subunit_match_reasons": [
-        "winner_score=13.00"
+        "winner_score=16.61"
       ],
-      "subunit_match_confidence": 0.9113982464236272,
+      "subunit_match_confidence": 0.9306441902468392,
       "computed_block_rationale": "O material apresenta uma solução completa para um exercício que envolve a implementação e treinamento de um Perceptron, um modelo fundamental de aprendizado de máquina supervisionado.",
       "computed_block_match_confidence": 0.6,
       "temporal_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
@@ -11546,7 +11547,7 @@
       "computed_block_confidence": 0.44977699203187255,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=29.93",
+        "winner_score=30.93",
         "topic_score=17.88"
       ],
       "unit_match_confidence": 0.95,
@@ -11632,7 +11633,7 @@
       "computed_block_confidence": 0.6438746438746439,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=26.84",
+        "winner_score=27.84",
         "topic_score=14.26"
       ],
       "unit_match_confidence": 0.95,
@@ -11720,16 +11721,16 @@
       "computed_block_confidence": 0.3008547008547008,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=55.22",
-        "topic_score=36.80"
+        "winner_score=59.29",
+        "topic_score=40.41"
       ],
       "unit_match_confidence": 0.95,
       "unit_block_conflict": {},
       "computed_subunit_slug": "modelos-preditivos",
       "subunit_match_reasons": [
-        "winner_score=26.14"
+        "winner_score=29.75"
       ],
-      "subunit_match_confidence": 0.3758971612212106,
+      "subunit_match_confidence": 0.45159685335843475,
       "computed_block_rationale": "O notebook aborda diretamente a aplicação de algoritmos de classificação dentro da abordagem supervisionada de Machine Learning.",
       "computed_block_match_confidence": 0.6,
       "temporal_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
@@ -11808,16 +11809,16 @@
       "computed_block_confidence": 0.4221078376983304,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=58.49",
-        "topic_score=40.18"
+        "winner_score=65.62",
+        "topic_score=47.39"
       ],
       "unit_match_confidence": 0.95,
       "unit_block_conflict": {},
       "computed_subunit_slug": "modelos-preditivos",
       "subunit_match_reasons": [
-        "winner_score=29.52"
+        "winner_score=36.73"
       ],
-      "subunit_match_confidence": 0.44732348556715007,
+      "subunit_match_confidence": 0.5558967657628227,
       "computed_block_rationale": "O notebook aplica uma técnica de aprendizado supervisionado (árvores de decisão para regressão) e aborda a preparação dos dados.",
       "computed_block_match_confidence": 0.429,
       "temporal_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
@@ -11894,16 +11895,16 @@
       "computed_block_confidence": 0.715099715099715,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=55.52",
+        "winner_score=56.32",
         "topic_score=45.22"
       ],
       "unit_match_confidence": 0.95,
       "unit_block_conflict": {},
       "computed_subunit_slug": "modelos-preditivos",
       "subunit_match_reasons": [
-        "winner_score=27.22"
+        "winner_score=30.83"
       ],
-      "subunit_match_confidence": 0.21429096252755334,
+      "subunit_match_confidence": 0.30624756714674967,
       "computed_block_rationale": "O material apresenta uma abordagem supervisionada para classificação de dados, utilizando árvores de decisão, que se alinha perfeitamente com o tópico 'abordagem supervisionada' do bloco 05.",
       "computed_block_match_confidence": 0.6,
       "temporal_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
@@ -13754,7 +13755,7 @@
       "language": "jupyter"
     }
   ],
-  "updated_at": "2026-09-01T01:17:01",
+  "updated_at": "2026-09-01T02:37:11",
   "failed_entries": [
     {
       "id": "k-nn-exemplocardio",
