@@ -917,7 +917,8 @@
         "topico:introducao-aos-algoritmos",
         "tipo:material-base",
         "bloco:bloco-05",
-        "unit:unidade-de-aprendizagem-02-solucao-de-problemas"
+        "unit:unidade-de-aprendizagem-02-solucao-de-problemas",
+        "subunit:introducao-a-agentes-em-ambientes-deterministicos"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -4183,7 +4184,8 @@
         "topico:subareas-da-inteligencia-artificial",
         "tipo:material-base",
         "bloco:bloco-04",
-        "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina"
+        "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina",
+        "subunit:modelos-descritivos"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -4521,7 +4523,8 @@
         "topico:aprendizado-supervisionado-parte-2",
         "topico:subareas-da-inteligencia-artificial",
         "bloco:bloco-05",
-        "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina"
+        "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina",
+        "subunit:modelos-descritivos"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -5066,7 +5069,8 @@
         "topico:agentes-e-algoritmos-de-busca",
         "tipo:material-base",
         "bloco:bloco-01",
-        "unit:unidade-de-aprendizagem-02-solucao-de-problemas"
+        "unit:unidade-de-aprendizagem-02-solucao-de-problemas",
+        "subunit:algoritmos-de-busca-com-informacao"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -6222,7 +6226,8 @@
         "topico:algoritmos-de-busca-com-informacao",
         "tipo:material-base",
         "bloco:bloco-01",
-        "unit:unidade-de-aprendizagem-02-solucao-de-problemas"
+        "unit:unidade-de-aprendizagem-02-solucao-de-problemas",
+        "subunit:algoritmos-de-busca-com-informacao"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -7606,7 +7611,8 @@
         "topico:subareas-da-inteligencia-artificial",
         "tipo:material-base",
         "bloco:bloco-05",
-        "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina"
+        "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina",
+        "subunit:modelos-preditivos"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -8789,7 +8795,8 @@
       "auto_tags": [
         "tipo:material-base",
         "bloco:bloco-01",
-        "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina"
+        "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina",
+        "subunit:metricas-de-avaliacao"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -9072,7 +9079,8 @@
         "topico:aprendizado-supervisionado",
         "tipo:codigo",
         "bloco:bloco-07",
-        "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina"
+        "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina",
+        "subunit:modelos-descritivos"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -9155,7 +9163,8 @@
       "tags": "",
       "manual_tags": [],
       "auto_tags": [
-        "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina"
+        "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina",
+        "subunit:modelos-descritivos"
       ],
       "manual_unit_slug": "",
       "notes": "",
@@ -9412,7 +9421,8 @@
       "auto_tags": [
         "tipo:prova",
         "bloco:bloco-09",
-        "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina"
+        "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina",
+        "subunit:modelos-preditivos"
       ],
       "manual_unit_slug": "unidade-de-aprendizagem-01-visao-geral",
       "manual_timeline_block_id": "5256ec08-7e5d-4c55-8a3c-e1a7f981ac71",
@@ -11682,7 +11692,8 @@
         "topico:aprendizado-supervisionado",
         "tipo:codigo",
         "bloco:bloco-05",
-        "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina"
+        "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina",
+        "subunit:modelos-preditivos"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -11769,7 +11780,8 @@
         "topico:aprendizado-supervisionado",
         "tipo:codigo",
         "bloco:bloco-05",
-        "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina"
+        "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina",
+        "subunit:modelos-preditivos"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -11854,7 +11866,8 @@
       "auto_tags": [
         "tipo:codigo",
         "bloco:bloco-05",
-        "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina"
+        "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina",
+        "subunit:modelos-preditivos"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -11942,7 +11955,8 @@
         "topico:aprendizado-supervisionado",
         "tipo:codigo",
         "bloco:bloco-07",
-        "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina"
+        "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina",
+        "subunit:modelos-descritivos"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -12030,7 +12044,8 @@
         "topico:aprendizado-supervisionado",
         "tipo:codigo",
         "bloco:bloco-07",
-        "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina"
+        "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina",
+        "subunit:modelos-descritivos"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -13743,7 +13758,7 @@
       "language": "jupyter"
     }
   ],
-  "updated_at": "2026-09-01T00:04:29",
+  "updated_at": "2026-09-01T00:53:02",
   "failed_entries": [
     {
       "id": "k-nn-exemplocardio",
