@@ -10031,8 +10031,7 @@
       "auto_tags": [
         "tipo:prova",
         "bloco:bloco-05",
-        "unit:unidade-de-aprendizagem-03-raciocinio-planejamento-e-representacao-de-conhecimento",
-        "subunit:planejamento-classico"
+        "unit:unidade-de-aprendizagem-02-solucao-de-problemas"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -10097,26 +10096,27 @@
         "signals": [],
         "markdown_path": "staging/markdown-auto/datalab/p2-202401/p2-202401.md"
       },
-      "computed_unit_slug": "unidade-de-aprendizagem-03-raciocinio-planejamento-e-representacao-de-conhecimento",
+      "computed_unit_slug": "unidade-de-aprendizagem-02-solucao-de-problemas",
       "computed_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
       "computed_block_confidence": 0.6521739130434783,
       "computed_block_band": "alta",
       "unit_match_reasons": [
         "winner_score=33.84",
         "topic_score=18.33",
-        "reconciliada_do_bloco=bloco-24"
+        "reconciliada_do_bloco=bloco-16"
       ],
       "unit_match_confidence": 0.813202400436443,
       "unit_block_conflict": {
         "unit": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
-        "block_unit": "unidade-de-aprendizagem-03-raciocinio-planejamento-e-representacao-de-conhecimento",
-        "block_id": "bloco-24"
+        "block_unit": "unidade-de-aprendizagem-02-solucao-de-problemas",
+        "block_id": "bloco-16"
       },
-      "computed_subunit_slug": "planejamento-classico",
+      "computed_subunit_slug": "algoritmos-de-busca-com-informacao",
       "subunit_match_reasons": [
-        "winner_score=3.98"
+        "winner_score=1.17",
+        "ambiguous"
       ],
-      "subunit_match_confidence": 1.0,
+      "subunit_match_confidence": 0.11111111111111124,
       "approved_markdown": "exams/past-exams/p2-202401.md",
       "curated_markdown": "exams/past-exams/p2-202401.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/p2-202401/p2-202401.md",
@@ -10139,7 +10139,7 @@
           "rule": "avaliacao"
         }
       ],
-      "temporal_block_id": "d0e31a6f-832e-44f1-b550-dc711edb9196",
+      "temporal_block_id": "4062d883-01e9-47d1-be03-61ea23b0adff",
       "temporal_block_method": "llm-funil",
       "temporal_block_band": "media",
       "temporal_block_flag": true,
@@ -10159,7 +10159,7 @@
         "bloco-16",
         "bloco-17",
         "bloco-19",
-        "bloco-24"
+        "bloco-21"
       ],
       "computed_block_method": "concept-fused"
     },
@@ -10248,7 +10248,8 @@
       "unit_match_reasons": [
         "winner_score=38.21",
         "topic_score=5.00",
-        "herdada_do_bloco=bloco-24"
+        "herdada_do_bloco=bloco-19",
+        "herdada_do_vizinho=bloco-17"
       ],
       "unit_match_confidence": 0.34749400030881716,
       "unit_block_conflict": {},
@@ -10265,7 +10266,7 @@
       "moodle_label": "P2 2024/02",
       "posting_date": "2026-06-23",
       "posting_date_created": "2026-06-23",
-      "temporal_block_id": "d0e31a6f-832e-44f1-b550-dc711edb9196",
+      "temporal_block_id": "5f917e10-322b-40f4-807d-cef684be70fd",
       "temporal_block_method": "llm-funil",
       "temporal_block_band": "media",
       "temporal_block_flag": true,
@@ -10285,7 +10286,7 @@
         "bloco-16",
         "bloco-17",
         "bloco-19",
-        "bloco-24"
+        "bloco-21"
       ],
       "coverage_units": [
         {
@@ -13742,7 +13743,7 @@
       "language": "jupyter"
     }
   ],
-  "updated_at": "2026-08-31T16:20:47",
+  "updated_at": "2026-09-01T00:04:29",
   "failed_entries": [
     {
       "id": "k-nn-exemplocardio",

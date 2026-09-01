@@ -200,10 +200,10 @@
       "window_uuids": []
     },
     "ac264d1d45ed9072c157a7ab7f504ef9": {
-      "block_id": "bloco-24",
-      "block_uuid": "d0e31a6f-832e-44f1-b550-dc711edb9196",
+      "block_id": "bloco-16",
+      "block_uuid": "4062d883-01e9-47d1-be03-61ea23b0adff",
       "confianca": "alta",
-      "justificativa": "A P2 (segunda prova do semestre) cobre conteúdos de todo o semestre (Aprendizado de Máquina e Algoritmos Genéticos), sendo tipicamente aplicada no encerramento do período letivo, representado pelo blo",
+      "justificativa": "O material é a P2 de um semestre anterior, que aborda Redes Neurais (MLP) e Algoritmos Genéticos (Busca). O bloco-16 foca em exercícios de algoritmos de busca e preparação, sendo o momento ideal para ",
       "model": "gemini-3.5-flash",
       "window": [
         "bloco-01",
@@ -220,13 +220,14 @@
         "bloco-16",
         "bloco-17",
         "bloco-19",
-        "bloco-24"
+        "bloco-21"
       ],
       "window_uuids": [
         "0b986383-663a-4a54-b000-4b97ebce59c4",
         "17ea65f3-5f84-47c7-9357-e090ee1f80ed",
         "1de905a2-724e-4841-8d7b-a62bf7a42212",
         "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
+        "38627373-95a6-4a0b-8504-de82c6ce8723",
         "4062d883-01e9-47d1-be03-61ea23b0adff",
         "43b6f936-7dc9-49fa-8f19-a88b66dc9b98",
         "5256ec08-7e5d-4c55-8a3c-e1a7f981ac71",
@@ -236,15 +237,14 @@
         "7aa48de9-e821-4cb7-8e89-3c68c530e552",
         "7eb6a214-73e1-48c7-a4a7-8bf66cf66385",
         "af22fe17-ee73-407f-9af5-d730739d71e0",
-        "d0e31a6f-832e-44f1-b550-dc711edb9196",
         "fbf15f4c-54b1-489d-bb02-f9bd33dc1bd3"
       ]
     },
     "60a5a6fbd1cd8ae098d126ceb3878114": {
-      "block_id": "bloco-24",
-      "block_uuid": "d0e31a6f-832e-44f1-b550-dc711edb9196",
+      "block_id": "bloco-19",
+      "block_uuid": "5f917e10-322b-40f4-807d-cef684be70fd",
       "confianca": "alta",
-      "justificativa": "A P2 (Prova 2) engloba os topicos de Algoritmos de Busca (incluindo Minimax, SA, GA) e Planejamento Classico, que sao os ultimos conteudos ministrados no curso ate o bloco-17 e bloco-19 (T2). Portanto",
+      "justificativa": "A P2 (Prova 2) engloba os assuntos de algoritmos de busca (Minimax, Algoritmos Genéticos, Hill Climbing, Simulated Annealing) e Planejamento Clássico, ministrados até o bloco-17. Portanto, a avaliação",
       "model": "gemini-3.5-flash",
       "window": [
         "bloco-01",
@@ -261,13 +261,14 @@
         "bloco-16",
         "bloco-17",
         "bloco-19",
-        "bloco-24"
+        "bloco-21"
       ],
       "window_uuids": [
         "0b986383-663a-4a54-b000-4b97ebce59c4",
         "17ea65f3-5f84-47c7-9357-e090ee1f80ed",
         "1de905a2-724e-4841-8d7b-a62bf7a42212",
         "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
+        "38627373-95a6-4a0b-8504-de82c6ce8723",
         "4062d883-01e9-47d1-be03-61ea23b0adff",
         "43b6f936-7dc9-49fa-8f19-a88b66dc9b98",
         "5256ec08-7e5d-4c55-8a3c-e1a7f981ac71",
@@ -277,7 +278,6 @@
         "7aa48de9-e821-4cb7-8e89-3c68c530e552",
         "7eb6a214-73e1-48c7-a4a7-8bf66cf66385",
         "af22fe17-ee73-407f-9af5-d730739d71e0",
-        "d0e31a6f-832e-44f1-b550-dc711edb9196",
         "fbf15f4c-54b1-489d-bb02-f9bd33dc1bd3"
       ]
     },

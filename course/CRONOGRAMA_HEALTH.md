@@ -102,14 +102,14 @@
 
 ## Blocos pobres (0 materiais)
 
-bloco-06, bloco-08, bloco-10, bloco-11, bloco-12, bloco-14, bloco-18, bloco-19, bloco-20, bloco-21, bloco-22, bloco-23
+bloco-06, bloco-08, bloco-10, bloco-11, bloco-12, bloco-14, bloco-18, bloco-20, bloco-21, bloco-22, bloco-23, bloco-24
 
 ## Blocos mais ricos
 
 - bloco-05: 27 material(is)
 - bloco-07: 8 material(is)
 - bloco-13: 6 material(is)
-- bloco-16: 4 material(is)
+- bloco-16: 5 material(is)
 - bloco-15: 3 material(is)
 
 ## Conflitos de curadoria

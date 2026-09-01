@@ -446,7 +446,6 @@ _Sem códigos vinculados a esta aula._
 
 ## 1 dia · 15/07/2026
 
-**Unidade**: unidade-de-aprendizagem-03-raciocinio-planejamento-e-representacao-de-conhecimento
 
 ### Sessões
 
