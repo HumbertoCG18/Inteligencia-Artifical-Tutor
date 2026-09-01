@@ -55,12 +55,12 @@
         "subunit:breve-historico-de-ia"
       ],
       "unit_match_reasons": [
-        "winner_score=39.72",
-        "topic_score=4.56",
+        "winner_score=38.35",
+        "topic_score=2.94",
         "herdada_do_bloco=bloco-01",
         "herdada_do_vizinho=bloco-02"
       ],
-      "unit_match_confidence": 0.44037304268181887,
+      "unit_match_confidence": 0.42031586815937677,
       "subunit_match_reasons": [
         "winner_score=0.91"
       ],
@@ -874,12 +874,12 @@
       "computed_block_confidence": 0.02777777777777789,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
-        "winner_score=49.55",
-        "topic_score=12.81",
+        "winner_score=48.79",
+        "topic_score=11.92",
         "ambiguous",
         "herdada_do_bloco=bloco-02"
       ],
-      "unit_match_confidence": 0.031911877233550545,
+      "unit_match_confidence": 0.04498749777966048,
       "unit_block_conflict": {},
       "computed_subunit_slug": "conceituacao",
       "subunit_match_reasons": [
@@ -1140,16 +1140,16 @@
       "computed_block_confidence": 0.3454545454545454,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=93.31",
-        "topic_score=22.34"
+        "winner_score=82.93",
+        "topic_score=10.14"
       ],
-      "unit_match_confidence": 0.7257061008907391,
+      "unit_match_confidence": 0.618266660771775,
       "unit_block_conflict": {},
       "computed_subunit_slug": "introducao-a-agentes-em-ambientes-deterministicos",
       "subunit_match_reasons": [
         "winner_score=7.24"
       ],
-      "subunit_match_confidence": 0.370266983582997,
+      "subunit_match_confidence": 0.5937206345696756,
       "approved_markdown": "content/curated/cap-sobre-algoritmos-geneticos-lacerda-e-outros.md",
       "curated_markdown": "content/curated/cap-sobre-algoritmos-geneticos-lacerda-e-outros.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/cap-sobre-algoritmos-geneticos-lacerda-e-outros/cap-sobre-algoritmos-geneticos-lacerda-e-outros.md",
@@ -1541,16 +1541,16 @@
       "computed_block_confidence": 0.3333333333333333,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=94.34",
-        "topic_score=36.64"
+        "winner_score=83.70",
+        "topic_score=24.11"
       ],
       "unit_match_confidence": 0.95,
       "unit_block_conflict": {},
       "computed_subunit_slug": "busca-adversaria",
       "subunit_match_reasons": [
-        "winner_score=29.83"
+        "winner_score=17.31"
       ],
-      "subunit_match_confidence": 0.9391761424586998,
+      "subunit_match_confidence": 0.8951577487576563,
       "approved_markdown": "content/curated/minimax-teoria.md",
       "curated_markdown": "content/curated/minimax-teoria.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/minimax-teoria/minimax-teoria.md",
@@ -2393,7 +2393,7 @@
         "winner_score=54.35",
         "topic_score=30.17"
       ],
-      "unit_match_confidence": 0.8681803115677825,
+      "unit_match_confidence": 0.9217765992707988,
       "unit_block_conflict": {},
       "computed_subunit_slug": "modelos-preditivos",
       "subunit_match_reasons": [
@@ -3430,7 +3430,7 @@
         "winner_score=54.87",
         "topic_score=27.99"
       ],
-      "unit_match_confidence": 0.7970916106902958,
+      "unit_match_confidence": 0.8548663713019865,
       "unit_block_conflict": {},
       "computed_subunit_slug": "modelos-preditivos",
       "subunit_match_reasons": [
@@ -4122,10 +4122,10 @@
       "computed_block_confidence": 0.578125,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=82.02",
-        "topic_score=47.88"
+        "winner_score=80.64",
+        "topic_score=46.26"
       ],
-      "unit_match_confidence": 0.9018944378302733,
+      "unit_match_confidence": 0.9334198011240813,
       "unit_block_conflict": {},
       "computed_subunit_slug": "modelos-preditivos",
       "subunit_match_reasons": [
@@ -4460,8 +4460,8 @@
       "computed_block_confidence": 0.19047619047619055,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
-        "winner_score=71.17",
-        "topic_score=38.50"
+        "winner_score=69.79",
+        "topic_score=36.88"
       ],
       "unit_match_confidence": 0.95,
       "unit_block_conflict": {},
@@ -5012,7 +5012,7 @@
         "winner_score=63.51",
         "topic_score=37.45"
       ],
-      "unit_match_confidence": 0.9207777504832905,
+      "unit_match_confidence": 0.95,
       "unit_block_conflict": {},
       "computed_subunit_slug": "modelos-descritivos",
       "subunit_match_reasons": [
@@ -5247,10 +5247,10 @@
       "computed_block_confidence": 0.31875000000000003,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=60.72",
-        "topic_score=16.35"
+        "winner_score=60.54",
+        "topic_score=16.13"
       ],
-      "unit_match_confidence": 0.7354031340599654,
+      "unit_match_confidence": 0.7318439909746844,
       "unit_block_conflict": {},
       "computed_subunit_slug": "algoritmos-de-busca-com-informacao",
       "subunit_match_reasons": [
@@ -5503,8 +5503,8 @@
       "computed_block_confidence": 0.2,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=101.05",
-        "topic_score=30.55"
+        "winner_score=91.30",
+        "topic_score=19.08"
       ],
       "unit_match_confidence": 0.95,
       "unit_block_conflict": {},
@@ -5755,8 +5755,8 @@
       "computed_block_confidence": 0.3325416666666667,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=26.48",
-        "topic_score=9.88"
+        "winner_score=21.61",
+        "topic_score=4.15"
       ],
       "unit_match_confidence": 0.95,
       "unit_block_conflict": {},
@@ -5805,7 +5805,8 @@
       "auto_tags": [
         "tipo:codigo",
         "bloco:bloco-13",
-        "unit:unidade-de-aprendizagem-02-solucao-de-problemas"
+        "unit:unidade-de-aprendizagem-02-solucao-de-problemas",
+        "subunit:algoritmos-de-busca-com-informacao"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -5836,15 +5837,14 @@
       "computed_block_confidence": 0.4180387931034483,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=24.19",
-        "topic_score=9.88"
+        "winner_score=19.32",
+        "topic_score=4.15"
       ],
       "unit_match_confidence": 0.95,
       "unit_block_conflict": {},
       "computed_subunit_slug": "algoritmos-de-busca-com-informacao",
       "subunit_match_reasons": [
-        "winner_score=1.04",
-        "ambiguous"
+        "winner_score=1.04"
       ],
       "subunit_match_confidence": 0.12499999999999994,
       "moodle_label": "AG feito em aula pelo Luca",
@@ -6340,16 +6340,16 @@
       "computed_block_confidence": 0.10625000000000001,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
-        "winner_score=87.13",
-        "topic_score=36.59"
+        "winner_score=76.48",
+        "topic_score=24.06"
       ],
       "unit_match_confidence": 0.95,
       "unit_block_conflict": {},
       "computed_subunit_slug": "algoritmos-de-busca-com-informacao",
       "subunit_match_reasons": [
-        "winner_score=9.69"
+        "winner_score=9.37"
       ],
-      "subunit_match_confidence": 0.529692241005635,
+      "subunit_match_confidence": 0.6860986547085203,
       "approved_markdown": "content/curated/hill-climbing-e-simulated-annealing.md",
       "curated_markdown": "content/curated/hill-climbing-e-simulated-annealing.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/hill-climbing-e-simulated-annealing/hill-climbing-e-simulated-annealing.md",
@@ -6443,8 +6443,8 @@
       "computed_block_confidence": 0.17966666666666672,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
-        "winner_score=37.18",
-        "topic_score=9.88"
+        "winner_score=32.57",
+        "topic_score=4.46"
       ],
       "unit_match_confidence": 0.95,
       "unit_block_conflict": {},
@@ -6549,16 +6549,16 @@
       "computed_block_confidence": 0.36447484025559107,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=39.01",
-        "topic_score=14.27"
+        "winner_score=34.14",
+        "topic_score=8.54"
       ],
       "unit_match_confidence": 0.95,
       "unit_block_conflict": {},
       "computed_subunit_slug": "busca-adversaria",
       "subunit_match_reasons": [
-        "winner_score=11.07"
+        "winner_score=5.34"
       ],
-      "subunit_match_confidence": 0.9180709834733135,
+      "subunit_match_confidence": 0.8301123595505618,
       "temporal_block_id": "4062d883-01e9-47d1-be03-61ea23b0adff",
       "temporal_block_method": "llm",
       "moodle_label": "ImplementacaoMInimax",
@@ -7558,10 +7558,10 @@
       "computed_block_confidence": 0.5970149253731343,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=89.27",
-        "topic_score=36.36"
+        "winner_score=84.39",
+        "topic_score=30.63"
       ],
-      "unit_match_confidence": 0.8056327181715669,
+      "unit_match_confidence": 0.8220466270489127,
       "unit_block_conflict": {},
       "computed_subunit_slug": "introducao-ao-aprendizado-de-maquina",
       "subunit_match_reasons": [
@@ -7896,10 +7896,10 @@
       "computed_block_confidence": 0.15416666666666679,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
-        "winner_score=63.82",
-        "topic_score=41.61"
+        "winner_score=62.44",
+        "topic_score=40.00"
       ],
-      "unit_match_confidence": 0.928700165813568,
+      "unit_match_confidence": 0.95,
       "unit_block_conflict": {},
       "computed_subunit_slug": "modelos-preditivos",
       "subunit_match_reasons": [
@@ -8122,11 +8122,12 @@
       "posting_date_created": "2026-02-24",
       "computed_unit_slug": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
       "unit_match_reasons": [
-        "winner_score=51.23",
-        "topic_score=11.43",
+        "winner_score=46.36",
+        "topic_score=5.70",
+        "ambiguous",
         "herdada_do_bloco=bloco-05"
       ],
-      "unit_match_confidence": 0.15620312535072126,
+      "unit_match_confidence": 0.0982938122834012,
       "unit_block_conflict": {},
       "computed_subunit_slug": "modelos-preditivos",
       "subunit_match_reasons": [
@@ -9244,7 +9245,7 @@
         "winner_score=40.11",
         "topic_score=13.49"
       ],
-      "unit_match_confidence": 0.6652586334667259,
+      "unit_match_confidence": 0.7444790277160218,
       "unit_block_conflict": {},
       "computed_subunit_slug": "modelos-descritivos",
       "subunit_match_reasons": [
@@ -9630,16 +9631,16 @@
       "computed_block_confidence": 0.0,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
-        "winner_score=71.05",
-        "topic_score=15.07"
+        "winner_score=66.18",
+        "topic_score=9.34"
       ],
       "unit_match_confidence": 0.95,
       "unit_block_conflict": {},
       "computed_subunit_slug": "algoritmos-de-busca-com-informacao",
       "subunit_match_reasons": [
-        "winner_score=11.87"
+        "winner_score=6.14"
       ],
-      "subunit_match_confidence": 0.6177882590752126,
+      "subunit_match_confidence": 0.26091205211726387,
       "approved_markdown": "exercises/lists/lista-de-exercicios-i.md",
       "curated_markdown": "exercises/lists/lista-de-exercicios-i.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/lista-de-exercicios-i/lista-de-exercicios-i.md",
@@ -9772,10 +9773,10 @@
       "computed_block_confidence": 0.25,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=64.18",
-        "topic_score=9.24"
+        "winner_score=62.80",
+        "topic_score=7.62"
       ],
-      "unit_match_confidence": 0.6006717239434292,
+      "unit_match_confidence": 0.5994169133347237,
       "unit_block_conflict": {},
       "computed_subunit_slug": "introducao-a-agentes-em-ambientes-deterministicos",
       "subunit_match_reasons": [
@@ -9979,11 +9980,11 @@
       "computed_block_confidence": 0.0,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
-        "winner_score=92.57",
-        "topic_score=31.56",
+        "winner_score=87.70",
+        "topic_score=25.83",
         "reconciliada_do_bloco=bloco-17"
       ],
-      "unit_match_confidence": 0.6868881440130784,
+      "unit_match_confidence": 0.8393390835746473,
       "unit_block_conflict": {
         "unit": "unidade-de-aprendizagem-02-solucao-de-problemas",
         "block_unit": "unidade-de-aprendizagem-03-raciocinio-planejamento-e-representacao-de-conhecimento",
@@ -10256,14 +10257,18 @@
       "unit_match_reasons": [
         "winner_score=38.21",
         "topic_score=5.00",
-        "herdada_do_bloco=bloco-19",
+        "reconciliada_do_bloco=bloco-19",
         "herdada_do_vizinho=bloco-17"
       ],
-      "unit_match_confidence": 0.34749400030881716,
-      "unit_block_conflict": {},
+      "unit_match_confidence": 0.5278111244497797,
+      "unit_block_conflict": {
+        "unit": "unidade-de-aprendizagem-02-solucao-de-problemas",
+        "block_unit": "unidade-de-aprendizagem-03-raciocinio-planejamento-e-representacao-de-conhecimento",
+        "block_id": "bloco-19"
+      },
       "computed_subunit_slug": "planejamento-classico",
       "subunit_match_reasons": [
-        "winner_score=3.98"
+        "winner_score=2.36"
       ],
       "subunit_match_confidence": 1.0,
       "approved_markdown": "exams/past-exams/p2-202402.md",
@@ -10767,8 +10772,8 @@
       "computed_block_confidence": 0.17456636528028932,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
-        "winner_score=46.74",
-        "topic_score=26.20"
+        "winner_score=45.37",
+        "topic_score=24.58"
       ],
       "unit_match_confidence": 0.95,
       "unit_block_conflict": {},
@@ -11292,7 +11297,7 @@
         "winner_score=20.38",
         "topic_score=10.46"
       ],
-      "unit_match_confidence": 0.8175040478877384,
+      "unit_match_confidence": 0.95,
       "unit_block_conflict": {},
       "computed_subunit_slug": "modelos-preditivos",
       "subunit_match_reasons": [
@@ -11384,7 +11389,7 @@
       "subunit_match_reasons": [
         "winner_score=33.24"
       ],
-      "subunit_match_confidence": 0.7718575124857092,
+      "subunit_match_confidence": 0.8205066490161863,
       "computed_block_rationale": "O notebook aplica uma abordagem de aprendizado supervisionado (classificação) para resolver um problema, com foco na preparação de dados e otimização de modelos.",
       "computed_block_match_confidence": 0.6,
       "temporal_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
@@ -11547,8 +11552,8 @@
       "computed_block_confidence": 0.44977699203187255,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=30.93",
-        "topic_score=17.88"
+        "winner_score=29.56",
+        "topic_score=16.27"
       ],
       "unit_match_confidence": 0.95,
       "unit_block_conflict": {},
@@ -11895,8 +11900,8 @@
       "computed_block_confidence": 0.715099715099715,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=56.32",
-        "topic_score=45.22"
+        "winner_score=51.45",
+        "topic_score=39.48"
       ],
       "unit_match_confidence": 0.95,
       "unit_block_conflict": {},
@@ -11904,7 +11909,7 @@
       "subunit_match_reasons": [
         "winner_score=30.83"
       ],
-      "subunit_match_confidence": 0.30624756714674967,
+      "subunit_match_confidence": 0.4922148695990659,
       "computed_block_rationale": "O material apresenta uma abordagem supervisionada para classificação de dados, utilizando árvores de decisão, que se alinha perfeitamente com o tópico 'abordagem supervisionada' do bloco 05.",
       "computed_block_match_confidence": 0.6,
       "temporal_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
@@ -13755,7 +13760,7 @@
       "language": "jupyter"
     }
   ],
-  "updated_at": "2026-09-01T02:37:11",
+  "updated_at": "2026-09-01T20:13:00",
   "failed_entries": [
     {
       "id": "k-nn-exemplocardio",
