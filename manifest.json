@@ -75,7 +75,8 @@
       "temporal_block_provider": "ref-generica",
       "temporal_block_window": [
         "bloco-01"
-      ]
+      ],
+      "revisar": "ok"
     },
     {
       "id": "ia-responsável-7c4626",
@@ -129,7 +130,8 @@
       "temporal_block_provider": "ref-generica",
       "temporal_block_window": [
         "bloco-01"
-      ]
+      ],
+      "revisar": "duvida"
     },
     {
       "id": "visao-geral-introducao-e-historico",
@@ -903,7 +905,8 @@
         "43b6f936-7dc9-49fa-8f19-a88b66dc9b98",
         "55691241-63a8-4053-aea8-8a835c90f4f7"
       ],
-      "computed_block_method": "concept-fused"
+      "computed_block_method": "concept-fused",
+      "revisar": "llm"
     },
     {
       "id": "cap-sobre-algoritmos-geneticos-lacerda-e-outros",
@@ -1180,7 +1183,8 @@
           "rule": "card"
         }
       ],
-      "computed_block_method": "concept-fused"
+      "computed_block_method": "concept-fused",
+      "revisar": "ok"
     },
     {
       "id": "minimax-teoria",
@@ -1582,7 +1586,8 @@
       "posting_date": "2026-02-24",
       "posting_date_created": "2026-02-24",
       "moodle_label": "Minimax",
-      "computed_block_method": "concept-fused"
+      "computed_block_method": "concept-fused",
+      "revisar": "llm"
     },
     {
       "id": "rede-perceptron",
@@ -2435,7 +2440,8 @@
           "rule": "card"
         }
       ],
-      "computed_block_method": "concept-fused"
+      "computed_block_method": "concept-fused",
+      "revisar": "ok"
     },
     {
       "id": "mlp",
@@ -3471,7 +3477,8 @@
           "rule": "card"
         }
       ],
-      "computed_block_method": "concept-fused"
+      "computed_block_method": "concept-fused",
+      "revisar": "ok"
     },
     {
       "id": "arvores-de-decisao",
@@ -4166,7 +4173,8 @@
           "rule": "card"
         }
       ],
-      "computed_block_method": "concept-fused"
+      "computed_block_method": "concept-fused",
+      "revisar": "ok"
     },
     {
       "id": "aula-sobre-agrupamento-parte-1-particional",
@@ -4504,7 +4512,8 @@
           "rule": "card"
         }
       ],
-      "computed_block_method": "concept-fused"
+      "computed_block_method": "concept-fused",
+      "revisar": "ok"
     },
     {
       "id": "aula-sobre-agrupamento-parte-2-hierarquico",
@@ -5053,7 +5062,8 @@
           "rule": "card"
         }
       ],
-      "computed_block_method": "concept-fused"
+      "computed_block_method": "concept-fused",
+      "revisar": "ok"
     },
     {
       "id": "algoritmo-genetico",
@@ -5287,7 +5297,8 @@
           "rule": "card"
         }
       ],
-      "computed_block_method": "concept-fused"
+      "computed_block_method": "concept-fused",
+      "revisar": "ok"
     },
     {
       "id": "introducao-a-busca-informada",
@@ -5544,7 +5555,8 @@
           "rule": "card"
         }
       ],
-      "computed_block_method": "concept-fused"
+      "computed_block_method": "concept-fused",
+      "revisar": "duvida"
     },
     {
       "id": "outros-operadores",
@@ -5668,7 +5680,8 @@
           "rule": "card"
         }
       ],
-      "computed_block_method": "concept-fused"
+      "computed_block_method": "concept-fused",
+      "revisar": "duvida"
     },
     {
       "id": "programa-exemplo-ag",
@@ -5791,7 +5804,8 @@
           "confidence": 0.7,
           "rule": "card"
         }
-      ]
+      ],
+      "revisar": "duvida"
     },
     {
       "id": "ag-feito-em-aula-pelo-luca",
@@ -5873,7 +5887,8 @@
       "temporal_block_provider": "labels",
       "temporal_block_window": [
         "0b986383-663a-4a54-b000-4b97ebce59c4"
-      ]
+      ],
+      "revisar": "ok"
     },
     {
       "id": "algoritmo-dijkstra",
@@ -6210,7 +6225,8 @@
           "rule": "card"
         }
       ],
-      "computed_block_method": "concept-fused"
+      "computed_block_method": "concept-fused",
+      "revisar": "ok"
     },
     {
       "id": "hill-climbing-e-simulated-annealing",
@@ -6380,7 +6396,8 @@
           "rule": "card"
         }
       ],
-      "computed_block_method": "concept-fused"
+      "computed_block_method": "concept-fused",
+      "revisar": "ok"
     },
     {
       "id": "programas-exemplo-hc-sa-versao-para-nrainhas-e-distribuicao-de-cargas",
@@ -6479,7 +6496,8 @@
           "confidence": 0.7,
           "rule": "card"
         }
-      ]
+      ],
+      "revisar": "duvida"
     },
     {
       "id": "implementacaominimax",
@@ -6586,7 +6604,8 @@
           "confidence": 0.7,
           "rule": "card"
         }
-      ]
+      ],
+      "revisar": "llm"
     },
     {
       "id": "caracteristicas-dos-dados",
@@ -6967,7 +6986,8 @@
           "rule": "unidade-atribuida"
         }
       ],
-      "computed_block_method": "concept-fused"
+      "computed_block_method": "concept-fused",
+      "revisar": "ok"
     },
     {
       "id": "introducao-a-ml",
@@ -7593,7 +7613,8 @@
           "rule": "unidade-atribuida"
         }
       ],
-      "computed_block_method": "concept-fused"
+      "computed_block_method": "concept-fused",
+      "revisar": "llm"
     },
     {
       "id": "algoritmo-de-classificacao-k-nn",
@@ -7933,7 +7954,8 @@
           "rule": "card"
         }
       ],
-      "computed_block_method": "concept-fused"
+      "computed_block_method": "concept-fused",
+      "revisar": "llm"
     },
     {
       "id": "analise-exploratoria-dos-dados-exemplo-2",
@@ -8012,7 +8034,8 @@
           "confidence": 0.7,
           "rule": "card"
         }
-      ]
+      ],
+      "revisar": "ok"
     },
     {
       "id": "artigo-usando-k-nn-em-texto",
@@ -8152,7 +8175,8 @@
       "temporal_block_window": [
         "af22fe17-ee73-407f-9af5-d730739d71e0",
         "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f"
-      ]
+      ],
+      "revisar": "llm"
     },
     {
       "id": "exemplo-de-programa-com-k-nn-em-java",
@@ -8237,7 +8261,8 @@
           "confidence": 0.7,
           "rule": "card"
         }
-      ]
+      ],
+      "revisar": "llm"
     },
     {
       "id": "introducao-a-redes-neurais",
@@ -8635,7 +8660,8 @@
           "rule": "card"
         }
       ],
-      "computed_block_method": "concept-fused"
+      "computed_block_method": "concept-fused",
+      "revisar": "ok"
     },
     {
       "id": "rede-perceptron-e-equacao-de-reta",
@@ -8780,7 +8806,8 @@
           "rule": "card"
         }
       ],
-      "computed_block_method": "concept-fused"
+      "computed_block_method": "concept-fused",
+      "revisar": "ok"
     },
     {
       "id": "como-analisar-resultados-acc-pr-re-e-f1",
@@ -8976,7 +9003,8 @@
           "rule": "card"
         }
       ],
-      "computed_block_method": "concept-fused"
+      "computed_block_method": "concept-fused",
+      "revisar": "ok"
     },
     {
       "id": "agrupamento-usando-k-means-exemplo-1-ipynb",
@@ -9062,7 +9090,8 @@
           "confidence": 0.7,
           "rule": "card"
         }
-      ]
+      ],
+      "revisar": "ok"
     },
     {
       "id": "agrupamento-usando-k-means-exemplo-2-ipynb",
@@ -9150,7 +9179,8 @@
           "confidence": 0.7,
           "rule": "card"
         }
-      ]
+      ],
+      "revisar": "ok"
     },
     {
       "id": "artigo-usando-agrupamento",
@@ -9277,7 +9307,8 @@
       "temporal_block_provider": "labels",
       "temporal_block_window": [
         "17ea65f3-5f84-47c7-9357-e090ee1f80ed"
-      ]
+      ],
+      "revisar": "ok"
     },
     {
       "id": "survey-on-clustering",
@@ -9406,7 +9437,8 @@
           "rule": "card"
         }
       ],
-      "computed_block_method": "concept-fused"
+      "computed_block_method": "concept-fused",
+      "revisar": "ok"
     },
     {
       "id": "prova-1-2024-02",
@@ -9530,7 +9562,8 @@
       ],
       "posting_date": "2026-02-24",
       "posting_date_created": "2026-02-24",
-      "moodle_label": "Prova 1 2024/02"
+      "moodle_label": "Prova 1 2024/02",
+      "revisar": "ok"
     },
     {
       "id": "lista-de-exercicios-i",
@@ -9672,7 +9705,8 @@
           "rule": "card"
         }
       ],
-      "computed_block_method": "concept-fused"
+      "computed_block_method": "concept-fused",
+      "revisar": "llm"
     },
     {
       "id": "respostas-da-lista-i-feito-pela-aluna-chiara",
@@ -9814,7 +9848,8 @@
           "rule": "card"
         }
       ],
-      "computed_block_method": "concept-fused"
+      "computed_block_method": "concept-fused",
+      "revisar": "llm"
     },
     {
       "id": "introducao-a-agentes",
@@ -10026,7 +10061,8 @@
           "rule": "card"
         }
       ],
-      "computed_block_method": "concept-fused"
+      "computed_block_method": "concept-fused",
+      "revisar": "duvida"
     },
     {
       "id": "p2-202401",
@@ -10170,7 +10206,8 @@
         "bloco-19",
         "bloco-21"
       ],
-      "computed_block_method": "concept-fused"
+      "computed_block_method": "concept-fused",
+      "revisar": "duvida"
     },
     {
       "id": "p2-202402",
@@ -10315,7 +10352,8 @@
           "rule": "calendario"
         }
       ],
-      "computed_block_method": "concept-fused"
+      "computed_block_method": "concept-fused",
+      "revisar": "duvida"
     },
     {
       "id": "analise-exploratoria-de-dados-exemplo-1",
@@ -10394,7 +10432,8 @@
       ],
       "moodle_label": "Análise Exploratória de Dados - Exemplo 1",
       "posting_date": "2026-02-24",
-      "posting_date_created": "2026-02-24"
+      "posting_date_created": "2026-02-24",
+      "revisar": "llm"
     },
     {
       "id": "exemplo-2-k-nn-com-iriscsv-mais-completo",
@@ -10473,7 +10512,8 @@
       ],
       "moodle_label": "Exemplo 2 k-NN (com IRIS.csv) - mais completo",
       "posting_date": "2026-03-24",
-      "posting_date_created": "2026-03-24"
+      "posting_date_created": "2026-03-24",
+      "revisar": "llm"
     },
     {
       "id": "exemplo-com-k-nn",
@@ -10552,7 +10592,8 @@
       ],
       "moodle_label": "Exemplo com k-NN.",
       "posting_date": "2026-02-24",
-      "posting_date_created": "2026-02-24"
+      "posting_date_created": "2026-02-24",
+      "revisar": "llm"
     },
     {
       "id": "exercicio-2-solucao-com-rede-perceptron-atualizado",
@@ -10639,7 +10680,8 @@
       ],
       "moodle_label": "Exercicio 2 - Solução com rede Perceptron (atualizado)",
       "posting_date": "2026-02-24",
-      "posting_date_created": "2026-02-24"
+      "posting_date_created": "2026-02-24",
+      "revisar": "ok"
     },
     {
       "id": "k-nn-para-classificacao-exemplo-cardio",
@@ -10726,7 +10768,8 @@
       ],
       "moodle_label": "K-NN para Classificação: Exemplo Cardio",
       "posting_date": "2026-02-24",
-      "posting_date_created": "2026-02-24"
+      "posting_date_created": "2026-02-24",
+      "revisar": "ok"
     },
     {
       "id": "k-nn-para-regressao-exemplo-imc",
@@ -10813,7 +10856,8 @@
       ],
       "moodle_label": "K-NN para Regressão: exemplo IMC",
       "posting_date": "2026-02-24",
-      "posting_date_created": "2026-02-24"
+      "posting_date_created": "2026-02-24",
+      "revisar": "ok"
     },
     {
       "id": "rede-perceptron-classificacao-planta-iris",
@@ -10900,7 +10944,8 @@
       ],
       "moodle_label": "Rede Perceptron - Classificacao - Planta Iris",
       "posting_date": "2026-02-24",
-      "posting_date_created": "2026-02-24"
+      "posting_date_created": "2026-02-24",
+      "revisar": "ok"
     },
     {
       "id": "rede-perceptron-classificacao-de-cliente",
@@ -10987,7 +11032,8 @@
       ],
       "moodle_label": "Rede Perceptron - Classificacao de Cliente",
       "posting_date": "2026-02-24",
-      "posting_date_created": "2026-02-24"
+      "posting_date_created": "2026-02-24",
+      "revisar": "ok"
     },
     {
       "id": "rede-perceptron-exemplo-atualizado",
@@ -11074,7 +11120,8 @@
       ],
       "moodle_label": "Rede Perceptron - Exemplo Atualizado",
       "posting_date": "2026-02-24",
-      "posting_date_created": "2026-02-24"
+      "posting_date_created": "2026-02-24",
+      "revisar": "ok"
     },
     {
       "id": "rede-perceptron-or-em-python",
@@ -11161,7 +11208,8 @@
       ],
       "moodle_label": "Rede Perceptron - OR em Python",
       "posting_date": "2026-02-24",
-      "posting_date_created": "2026-02-24"
+      "posting_date_created": "2026-02-24",
+      "revisar": "ok"
     },
     {
       "id": "rede-perceptron-reconhecendo-letras",
@@ -11248,7 +11296,8 @@
       ],
       "moodle_label": "Rede Perceptron - Reconhecendo Letras",
       "posting_date": "2026-02-24",
-      "posting_date_created": "2026-02-24"
+      "posting_date_created": "2026-02-24",
+      "revisar": "ok"
     },
     {
       "id": "mlp-xoripynb",
@@ -11334,7 +11383,8 @@
       ],
       "moodle_label": "MLP - XOR.ipynb",
       "posting_date": "2026-02-24",
-      "posting_date_created": "2026-02-24"
+      "posting_date_created": "2026-02-24",
+      "revisar": "ok"
     },
     {
       "id": "mlp-classificacao-inadimplencia-normalizacao-e-gridsearchcv",
@@ -11420,7 +11470,8 @@
       ],
       "moodle_label": "MLP Classificação - Inadimplência (normalização e GridSearchCV)",
       "posting_date": "2026-02-24",
-      "posting_date_created": "2026-02-24"
+      "posting_date_created": "2026-02-24",
+      "revisar": "ok"
     },
     {
       "id": "mlp-classificacao-iris-atualizado",
@@ -11506,7 +11557,8 @@
       ],
       "moodle_label": "MLP Classificação - IRIS atualizado",
       "posting_date": "2026-02-24",
-      "posting_date_created": "2026-02-24"
+      "posting_date_created": "2026-02-24",
+      "revisar": "ok"
     },
     {
       "id": "mlp-regressao-cardio",
@@ -11592,7 +11644,8 @@
       ],
       "moodle_label": "MLP Regressão - Cardio",
       "posting_date": "2026-02-24",
-      "posting_date_created": "2026-02-24"
+      "posting_date_created": "2026-02-24",
+      "revisar": "ok"
     },
     {
       "id": "xor-backpropagation-em-python",
@@ -11678,7 +11731,8 @@
       ],
       "moodle_label": "XOR - Backpropagation em python",
       "posting_date": "2026-02-24",
-      "posting_date_created": "2026-02-24"
+      "posting_date_created": "2026-02-24",
+      "revisar": "ok"
     },
     {
       "id": "exemplo-1-arvores-de-decisao-classificacao-planta-iris",
@@ -11766,7 +11820,8 @@
       ],
       "moodle_label": "Exemplo 1 - Árvores de Decisão: Classificação - Planta Iris",
       "posting_date": "2026-02-24",
-      "posting_date_created": "2026-02-24"
+      "posting_date_created": "2026-02-24",
+      "revisar": "ok"
     },
     {
       "id": "exemplo-2-arvores-de-decisao-regressao-diabetes",
@@ -11854,7 +11909,8 @@
       ],
       "moodle_label": "Exemplo 2 - Arvores de Decisão - Regressão - Diabetes",
       "posting_date": "2026-02-24",
-      "posting_date_created": "2026-02-24"
+      "posting_date_created": "2026-02-24",
+      "revisar": "ok"
     },
     {
       "id": "exemplo-complementar-classificacao-com-arvores-de-decisao",
@@ -11940,7 +11996,8 @@
       ],
       "moodle_label": "Exemplo Complementar - Classificação com Árvores de Decisão",
       "posting_date": "2026-02-24",
-      "posting_date_created": "2026-02-24"
+      "posting_date_created": "2026-02-24",
+      "revisar": "ok"
     },
     {
       "id": "agrupamento-hierarquico-exemplo-1",
@@ -12029,7 +12086,8 @@
       ],
       "moodle_label": "agrupamento hierarquico - exemplo 1",
       "posting_date": "2026-02-24",
-      "posting_date_created": "2026-02-24"
+      "posting_date_created": "2026-02-24",
+      "revisar": "ok"
     },
     {
       "id": "agrupamento-hierarquico-exemplo-2-use-o-dataset-da-planta-iris",
@@ -12118,7 +12176,8 @@
       ],
       "moodle_label": "agrupamento hierarquico - exemplo 2 (use o dataset da planta IRIS)",
       "posting_date": "2026-02-24",
-      "posting_date_created": "2026-02-24"
+      "posting_date_created": "2026-02-24",
+      "revisar": "ok"
     }
   ],
   "logs": [
@@ -13760,7 +13819,7 @@
       "language": "jupyter"
     }
   ],
-  "updated_at": "2026-09-01T23:41:32",
+  "updated_at": "2026-09-02T01:31:24",
   "failed_entries": [
     {
       "id": "k-nn-exemplocardio",
