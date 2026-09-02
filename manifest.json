@@ -905,8 +905,8 @@
         "43b6f936-7dc9-49fa-8f19-a88b66dc9b98",
         "55691241-63a8-4053-aea8-8a835c90f4f7"
       ],
-      "computed_block_method": "concept-fused",
-      "revisar": "llm"
+      "revisar": "llm",
+      "computed_block_method": "concept-fused"
     },
     {
       "id": "cap-sobre-algoritmos-geneticos-lacerda-e-outros",
@@ -1183,8 +1183,8 @@
           "rule": "card"
         }
       ],
-      "computed_block_method": "concept-fused",
-      "revisar": "ok"
+      "revisar": "ok",
+      "computed_block_method": "concept-fused"
     },
     {
       "id": "minimax-teoria",
@@ -1586,8 +1586,8 @@
       "posting_date": "2026-02-24",
       "posting_date_created": "2026-02-24",
       "moodle_label": "Minimax",
-      "computed_block_method": "concept-fused",
-      "revisar": "llm"
+      "revisar": "llm",
+      "computed_block_method": "concept-fused"
     },
     {
       "id": "rede-perceptron",
@@ -2440,8 +2440,8 @@
           "rule": "card"
         }
       ],
-      "computed_block_method": "concept-fused",
-      "revisar": "ok"
+      "revisar": "ok",
+      "computed_block_method": "concept-fused"
     },
     {
       "id": "mlp",
@@ -3477,8 +3477,8 @@
           "rule": "card"
         }
       ],
-      "computed_block_method": "concept-fused",
-      "revisar": "ok"
+      "revisar": "ok",
+      "computed_block_method": "concept-fused"
     },
     {
       "id": "arvores-de-decisao",
@@ -4173,8 +4173,8 @@
           "rule": "card"
         }
       ],
-      "computed_block_method": "concept-fused",
-      "revisar": "ok"
+      "revisar": "ok",
+      "computed_block_method": "concept-fused"
     },
     {
       "id": "aula-sobre-agrupamento-parte-1-particional",
@@ -4512,8 +4512,8 @@
           "rule": "card"
         }
       ],
-      "computed_block_method": "concept-fused",
-      "revisar": "ok"
+      "revisar": "ok",
+      "computed_block_method": "concept-fused"
     },
     {
       "id": "aula-sobre-agrupamento-parte-2-hierarquico",
@@ -5062,8 +5062,8 @@
           "rule": "card"
         }
       ],
-      "computed_block_method": "concept-fused",
-      "revisar": "ok"
+      "revisar": "ok",
+      "computed_block_method": "concept-fused"
     },
     {
       "id": "algoritmo-genetico",
@@ -5297,8 +5297,8 @@
           "rule": "card"
         }
       ],
-      "computed_block_method": "concept-fused",
-      "revisar": "ok"
+      "revisar": "ok",
+      "computed_block_method": "concept-fused"
     },
     {
       "id": "introducao-a-busca-informada",
@@ -5555,8 +5555,8 @@
           "rule": "card"
         }
       ],
-      "computed_block_method": "concept-fused",
-      "revisar": "duvida"
+      "revisar": "duvida",
+      "computed_block_method": "concept-fused"
     },
     {
       "id": "outros-operadores",
@@ -5680,8 +5680,8 @@
           "rule": "card"
         }
       ],
-      "computed_block_method": "concept-fused",
-      "revisar": "duvida"
+      "revisar": "duvida",
+      "computed_block_method": "concept-fused"
     },
     {
       "id": "programa-exemplo-ag",
@@ -6225,8 +6225,8 @@
           "rule": "card"
         }
       ],
-      "computed_block_method": "concept-fused",
-      "revisar": "ok"
+      "revisar": "ok",
+      "computed_block_method": "concept-fused"
     },
     {
       "id": "hill-climbing-e-simulated-annealing",
@@ -6396,8 +6396,8 @@
           "rule": "card"
         }
       ],
-      "computed_block_method": "concept-fused",
-      "revisar": "ok"
+      "revisar": "ok",
+      "computed_block_method": "concept-fused"
     },
     {
       "id": "programas-exemplo-hc-sa-versao-para-nrainhas-e-distribuicao-de-cargas",
@@ -6986,8 +6986,8 @@
           "rule": "unidade-atribuida"
         }
       ],
-      "computed_block_method": "concept-fused",
-      "revisar": "ok"
+      "revisar": "ok",
+      "computed_block_method": "concept-fused"
     },
     {
       "id": "introducao-a-ml",
@@ -7613,8 +7613,8 @@
           "rule": "unidade-atribuida"
         }
       ],
-      "computed_block_method": "concept-fused",
-      "revisar": "llm"
+      "revisar": "llm",
+      "computed_block_method": "concept-fused"
     },
     {
       "id": "algoritmo-de-classificacao-k-nn",
@@ -7954,8 +7954,8 @@
           "rule": "card"
         }
       ],
-      "computed_block_method": "concept-fused",
-      "revisar": "llm"
+      "revisar": "llm",
+      "computed_block_method": "concept-fused"
     },
     {
       "id": "analise-exploratoria-dos-dados-exemplo-2",
@@ -8660,8 +8660,8 @@
           "rule": "card"
         }
       ],
-      "computed_block_method": "concept-fused",
-      "revisar": "ok"
+      "revisar": "ok",
+      "computed_block_method": "concept-fused"
     },
     {
       "id": "rede-perceptron-e-equacao-de-reta",
@@ -8806,8 +8806,8 @@
           "rule": "card"
         }
       ],
-      "computed_block_method": "concept-fused",
-      "revisar": "ok"
+      "revisar": "ok",
+      "computed_block_method": "concept-fused"
     },
     {
       "id": "como-analisar-resultados-acc-pr-re-e-f1",
@@ -9003,8 +9003,8 @@
           "rule": "card"
         }
       ],
-      "computed_block_method": "concept-fused",
-      "revisar": "ok"
+      "revisar": "ok",
+      "computed_block_method": "concept-fused"
     },
     {
       "id": "agrupamento-usando-k-means-exemplo-1-ipynb",
@@ -9437,8 +9437,8 @@
           "rule": "card"
         }
       ],
-      "computed_block_method": "concept-fused",
-      "revisar": "ok"
+      "revisar": "ok",
+      "computed_block_method": "concept-fused"
     },
     {
       "id": "prova-1-2024-02",
@@ -9705,8 +9705,8 @@
           "rule": "card"
         }
       ],
-      "computed_block_method": "concept-fused",
-      "revisar": "llm"
+      "revisar": "llm",
+      "computed_block_method": "concept-fused"
     },
     {
       "id": "respostas-da-lista-i-feito-pela-aluna-chiara",
@@ -9848,8 +9848,8 @@
           "rule": "card"
         }
       ],
-      "computed_block_method": "concept-fused",
-      "revisar": "llm"
+      "revisar": "llm",
+      "computed_block_method": "concept-fused"
     },
     {
       "id": "introducao-a-agentes",
@@ -10061,8 +10061,8 @@
           "rule": "card"
         }
       ],
-      "computed_block_method": "concept-fused",
-      "revisar": "duvida"
+      "revisar": "duvida",
+      "computed_block_method": "concept-fused"
     },
     {
       "id": "p2-202401",
@@ -10206,8 +10206,8 @@
         "bloco-19",
         "bloco-21"
       ],
-      "computed_block_method": "concept-fused",
-      "revisar": "duvida"
+      "revisar": "duvida",
+      "computed_block_method": "concept-fused"
     },
     {
       "id": "p2-202402",
@@ -10352,8 +10352,8 @@
           "rule": "calendario"
         }
       ],
-      "computed_block_method": "concept-fused",
-      "revisar": "duvida"
+      "revisar": "duvida",
+      "computed_block_method": "concept-fused"
     },
     {
       "id": "analise-exploratoria-de-dados-exemplo-1",
@@ -13819,7 +13819,7 @@
       "language": "jupyter"
     }
   ],
-  "updated_at": "2026-09-02T01:31:24",
+  "updated_at": "2026-09-02T11:11:57",
   "failed_entries": [
     {
       "id": "k-nn-exemplocardio",
