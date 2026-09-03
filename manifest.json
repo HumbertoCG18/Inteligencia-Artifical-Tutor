@@ -8307,13 +8307,13 @@
       "computed_block_rationale": "O algoritmo k-NN é um método fundamental de aprendizado de máquina supervisionado, alinhando-se diretamente com o tópico 'Abordagem supervisionada' do bloco.",
       "computed_block_match_confidence": 0.6,
       "temporal_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
-      "temporal_block_method": "llm",
+      "temporal_block_method": "disamb-curto",
       "moodle_label": "Exemplo de programa com k-NN (em java)",
       "posting_date": "2026-02-24",
       "posting_date_created": "2026-02-24",
-      "temporal_block_band": "media",
+      "temporal_block_band": "alta",
       "temporal_block_flag": false,
-      "temporal_block_provider": "llm",
+      "temporal_block_provider": "labels",
       "temporal_block_window": [
         "af22fe17-ee73-407f-9af5-d730739d71e0",
         "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f"
@@ -8328,7 +8328,7 @@
           "rule": "card"
         }
       ],
-      "revisar": "llm",
+      "revisar": "ok",
       "moodle_section_index": 8,
       "moodle_module_index": 11,
       "moodle_week_label": ""
@@ -10603,10 +10603,10 @@
       "computed_block_rationale": "O material demonstra um algoritmo de classificação, o k-NN, que é uma técnica fundamental em aprendizagem supervisionada, alinhando-se diretamente com o tópico 'abordagem supervisionada'.",
       "computed_block_match_confidence": 0.6,
       "temporal_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
-      "temporal_block_method": "llm",
-      "temporal_block_band": "media",
+      "temporal_block_method": "disamb-curto",
+      "temporal_block_band": "alta",
       "temporal_block_flag": false,
-      "temporal_block_provider": "llm",
+      "temporal_block_provider": "labels",
       "temporal_block_window": [
         "af22fe17-ee73-407f-9af5-d730739d71e0",
         "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f"
@@ -10624,7 +10624,7 @@
       "moodle_label": "Exemplo 2 k-NN (com IRIS.csv) - mais completo",
       "posting_date": "2026-03-24",
       "posting_date_created": "2026-03-24",
-      "revisar": "llm",
+      "revisar": "ok",
       "moodle_section_index": 8,
       "moodle_module_index": 10,
       "moodle_week_label": ""
@@ -10684,10 +10684,10 @@
       ],
       "subunit_match_confidence": 0.8130998702983139,
       "temporal_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
-      "temporal_block_method": "llm",
-      "temporal_block_band": "media",
+      "temporal_block_method": "disamb-curto",
+      "temporal_block_band": "alta",
       "temporal_block_flag": false,
-      "temporal_block_provider": "llm",
+      "temporal_block_provider": "labels",
       "temporal_block_window": [
         "af22fe17-ee73-407f-9af5-d730739d71e0",
         "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f"
@@ -10707,7 +10707,7 @@
       "moodle_label": "Exemplo com k-NN.",
       "posting_date": "2026-02-24",
       "posting_date_created": "2026-02-24",
-      "revisar": "llm",
+      "revisar": "ok",
       "moodle_section_index": 8,
       "moodle_module_index": 8,
       "moodle_week_label": ""
@@ -13990,7 +13990,7 @@
       "language": "jupyter"
     }
   ],
-  "updated_at": "2026-09-03T01:10:30",
+  "updated_at": "2026-09-03T02:34:34",
   "failed_entries": [
     {
       "id": "k-nn-exemplocardio",
