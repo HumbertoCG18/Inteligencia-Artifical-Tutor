@@ -231,7 +231,7 @@ _Sem códigos vinculados a esta aula._
 
 ---
 
-## 1 dia · 04/05/2026 — Trabalho · Apresentacao do t1 trabalho
+## 1 dia · 04/05/2026 — Trabalho
 
 **Tópicos cobertos**: trabalho
 
@@ -243,7 +243,7 @@ _Sem códigos vinculados a esta aula._
 
 ---
 
-## 1 dia · 06/05/2026 — Trabalho · Apresentacao do t1 trabalho
+## 1 dia · 06/05/2026 — Trabalho
 
 **Tópicos cobertos**: trabalho
 
@@ -381,7 +381,7 @@ _Sem códigos vinculados a esta aula._
 
 ---
 
-## 1 dia · 29/06/2026 — Trabalho · Apresentacao t2 trabalho
+## 1 dia · 29/06/2026 — Trabalho
 
 **Tópicos cobertos**: trabalho
 
@@ -393,7 +393,7 @@ _Sem códigos vinculados a esta aula._
 
 ---
 
-## 1 dia · 01/07/2026 — Conteúdo: unidade-de-aprendizagem-01-visao-geral, unidade-de-aprendizagem-05-aprendizado-de-maquina, unidade-de-aprendizagem-02-solucao-de-problemas, unidade-de-aprendizagem-03-raciocinio-planejamento-e-representacao-de-conhecimento · Prova p2 prova
+## 1 dia · 01/07/2026 — Conteúdo: unidade-de-aprendizagem-01-visao-geral, unidade-de-aprendizagem-05-aprendizado-de-maquina, unidade-de-aprendizagem-02-solucao-de-problemas, unidade-de-aprendizagem-03-raciocinio-planejamento-e-representacao-de-conhecimento
 
 
 ### Sessões
@@ -433,7 +433,7 @@ _Sem códigos vinculados a esta aula._
 
 ---
 
-## 1 dia · 13/07/2026 — Conteúdo: unidade-de-aprendizagem-01-visao-geral, unidade-de-aprendizagem-05-aprendizado-de-maquina, unidade-de-aprendizagem-02-solucao-de-problemas, unidade-de-aprendizagem-03-raciocinio-planejamento-e-representacao-de-conhecimento · Prova g2 prova de g2
+## 1 dia · 13/07/2026 — Conteúdo: unidade-de-aprendizagem-01-visao-geral, unidade-de-aprendizagem-05-aprendizado-de-maquina, unidade-de-aprendizagem-02-solucao-de-problemas, unidade-de-aprendizagem-03-raciocinio-planejamento-e-representacao-de-conhecimento
 
 
 ### Sessões
