@@ -9541,12 +9541,11 @@
       "manual_tags": [],
       "auto_tags": [
         "tipo:prova",
-        "bloco:bloco-09",
-        "unit:unidade-de-aprendizagem-05-aprendizado-de-maquina",
-        "subunit:modelos-preditivos"
+        "bloco:bloco-05",
+        "unit:unidade-de-aprendizagem-01-visao-geral"
       ],
       "manual_unit_slug": "unidade-de-aprendizagem-01-visao-geral",
-      "manual_timeline_block_id": "5256ec08-7e5d-4c55-8a3c-e1a7f981ac71",
+      "manual_timeline_block_id": "",
       "notes": "",
       "professor_signal": "",
       "include_in_bundle": true,
@@ -9608,22 +9607,21 @@
         "signals": [],
         "markdown_path": "staging/markdown-auto/datalab/prova-1-2024-02/prova-1-2024-02.md"
       },
-      "computed_unit_slug": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
-      "computed_block_method": "manual",
-      "computed_block_id": "5256ec08-7e5d-4c55-8a3c-e1a7f981ac71",
-      "computed_block_confidence": 1.0,
-      "computed_block_band": "alta",
+      "computed_unit_slug": "unidade-de-aprendizagem-01-visao-geral",
+      "computed_block_method": "concept-fused",
+      "computed_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
+      "computed_block_confidence": 0.4444444444444444,
+      "computed_block_band": "media",
       "unit_match_reasons": [
-        "manual",
-        "unidade_do_bloco_manual"
+        "manual"
       ],
       "unit_match_confidence": 1.0,
       "unit_block_conflict": {},
-      "computed_subunit_slug": "modelos-preditivos",
+      "computed_subunit_slug": "",
       "subunit_match_reasons": [
-        "winner_score=21.40"
+        "empate-exato 2x score=0.11"
       ],
-      "subunit_match_confidence": 0.326416152551879,
+      "subunit_match_confidence": 0.0,
       "approved_markdown": "exams/past-exams/prova-1-2024-02.md",
       "curated_markdown": "exams/past-exams/prova-1-2024-02.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/prova-1-2024-02/prova-1-2024-02.md",
@@ -9653,7 +9651,7 @@
       "posting_date": "2026-02-24",
       "posting_date_created": "2026-02-24",
       "moodle_label": "Prova 1 2024/02",
-      "revisar": "ok",
+      "revisar": "duvida",
       "moodle_section_index": 4,
       "moodle_module_index": 4,
       "moodle_week_label": ""
@@ -13990,7 +13988,7 @@
       "language": "jupyter"
     }
   ],
-  "updated_at": "2026-09-05T01:22:06",
+  "updated_at": "2026-09-05T03:15:15",
   "failed_entries": [
     {
       "id": "k-nn-exemplocardio",

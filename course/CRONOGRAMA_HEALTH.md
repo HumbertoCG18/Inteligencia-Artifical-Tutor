@@ -16,8 +16,8 @@
 
 | Faixa | Materiais |
 |---|---|
-| alta | 22 |
-| media | 18 |
+| alta | 21 |
+| media | 19 |
 | baixa | 15 |
 
 ## Votos de LLM (motor TIER 3)
@@ -70,6 +70,7 @@
     - candidato `17ea65f3-5f84-47c7-9357-e090ee1f80ed` (score —)
 - **Survey on Clustering** — bloco `bloco-07` (faixa baixa, conf 0.00, auto)
     - candidato `17ea65f3-5f84-47c7-9357-e090ee1f80ed` (score —)
+- **Prova 1 2024 02** — bloco `2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f` (faixa media, conf 0.44, auto)
 - **Lista de Exercicios I** — bloco `bloco-16` (faixa baixa, conf 0.00, auto)
     - candidato `1de905a2-724e-4841-8d7b-a62bf7a42212` (score —)
     - candidato `4062d883-01e9-47d1-be03-61ea23b0adff` (score —)
@@ -107,7 +108,7 @@
 
 ## Blocos pobres (0 materiais)
 
-bloco-06, bloco-08, bloco-10, bloco-11, bloco-12, bloco-14, bloco-18, bloco-20, bloco-21, bloco-22, bloco-23, bloco-24
+bloco-06, bloco-08, bloco-09, bloco-10, bloco-11, bloco-12, bloco-14, bloco-18, bloco-20, bloco-21, bloco-22, bloco-23, bloco-24
 
 ## Blocos mais ricos
 

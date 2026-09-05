@@ -36,7 +36,7 @@
 | 30 | agrupamento usando k-Means: exemplo 2 (.ipynb) | raw: `raw/code/professor/agrupamento-usando-k-means-exemplo-2-ipynb.ipynb`; tags: `topico:aprendizado-nao-supervisionado; topico:aprendizado-supervisionado; tipo:codigo` |
 | 31 | Artigo usando agrupamento | raw: `raw/pdfs/bibliografia/artigo-usando-agrupamento.pdf`; tags: `unit:unidade-de-aprendizagem-05-aprendizado-de-maquina; subunit:modelos-descritivos` |
 | 32 | Survey on Clustering | raw: `raw/pdfs/material-de-aula/survey-on-clustering.pdf`; tags: `tipo:material-base; bloco:bloco-05; unit:unidade-de-aprendizagem-05-aprendizado-de-maquina` |
-| 33 | Prova 1 2024/02 | raw: `raw/pdfs/provas/prova-1-2024-02.pdf`; tags: `tipo:prova; bloco:bloco-09; unit:unidade-de-aprendizagem-05-aprendizado-de-maquina`; unidade-manual: `unidade-de-aprendizagem-01-visao-geral`; bloco-manual: `5256ec08-7e5d-4c55-8a3c-e1a7f981ac71` |
+| 33 | Prova 1 2024/02 | raw: `raw/pdfs/provas/prova-1-2024-02.pdf`; tags: `tipo:prova; bloco:bloco-05; unit:unidade-de-aprendizagem-01-visao-geral`; unidade-manual: `unidade-de-aprendizagem-01-visao-geral` |
 | 34 | Lista de Exercicios I | raw: `raw/pdfs/listas/lista-de-exercicios-i.pdf`; tags: `tipo:lista; bloco:bloco-17; unit:unidade-de-aprendizagem-02-solucao-de-problemas` |
 | 35 | Respostas da lista I (feito pela aluna Chiara) | raw: `raw/pdfs/gabaritos/respostas-da-lista-i-feito-pela-aluna-chiara.pdf`; tags: `tipo:gabarito; bloco:bloco-17; unit:unidade-de-aprendizagem-02-solucao-de-problemas` |
 | 36 | Introducao a agentes | raw: `raw/pdfs/material-de-aula/introducao-a-agentes.pdf`; tags: `topico:agentes; topico:introducao-a-agentes; tipo:material-base` |
