@@ -24,7 +24,7 @@ mode: routing_index
 
 | # | Título | Categoria | Quando abrir | Prioridade | Markdown | Seções | Unidade | Subtópico | Confiança | Período |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 1 | O que é Inteligência Artificial (IA)? | Oracle Brasil | references | consulta pontual | alta | `content/curated/o-que-é-inteligência-artificial-ia-oracle-brasil-43437f.md` | Conteúdo Extraído  Termos da Inteligência Artificial  IA e desenvolvedores | curso-inteiro |  | Alta |  |
+| 1 | O que é Inteligência Artificial (IA)? / Oracle Brasil | references | consulta pontual | alta | `content/curated/o-que-é-inteligência-artificial-ia-oracle-brasil-43437f.md` | Conteúdo Extraído  Termos da Inteligência Artificial  IA e desenvolvedores | curso-inteiro |  | Alta |  |
 | 2 | IA Responsável | references | consulta pontual | alta | `content/curated/ia-responsável-7c4626.md` |  | curso-inteiro |  | Alta |  |
 | 3 | Visão Geral - Introdução e Histórico | material-de-aula | teoria base | alta | `content/curated/visao-geral-introducao-e-historico.md` | Roteiro  A conversa com você  ChatGPT | unidade-de-aprendizagem-01-visao-geral | Conceituação | Baixa | 1 dia · 04/03/2026 |
 | 4 | Cap. sobre Algoritmos Geneticos (Lacerda e outros) | material-de-aula | teoria base | alta | `content/curated/cap-sobre-algoritmos-geneticos-lacerda-e-outros.md` | INTRODUÇÃO AOS ALGORITMOS  GENÉTICOS  3.2 REPRESENTAÇÃO REAL | unidade-de-aprendizagem-02-solucao-de-problemas | Introdução a agentes em ambientes determinísticos | Alta | 3 dias · 18/05/2026 a 25/05/2026 |

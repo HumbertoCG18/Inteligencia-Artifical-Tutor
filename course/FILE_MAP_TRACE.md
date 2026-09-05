@@ -4,7 +4,7 @@
 
 | # | Título | Rastreabilidade |
 |---|---|---|
-| 1 | O que é Inteligência Artificial (IA)? | Oracle Brasil | tags: `unit:unidade-de-aprendizagem-01-visao-geral; subunit:breve-historico-de-ia` |
+| 1 | O que é Inteligência Artificial (IA)? / Oracle Brasil | tags: `unit:unidade-de-aprendizagem-01-visao-geral; subunit:breve-historico-de-ia` |
 | 2 | IA Responsável | tags: `unit:unidade-de-aprendizagem-01-visao-geral` |
 | 3 | Visão Geral - Introdução e Histórico | raw: `raw/pdfs/material-de-aula/visao-geral-introducao-e-historico.pdf`; tags: `tipo:material-base; bloco:bloco-01; unit:unidade-de-aprendizagem-01-visao-geral` |
 | 4 | Cap. sobre Algoritmos Geneticos (Lacerda e outros) | raw: `raw/pdfs/material-de-aula/cap-sobre-algoritmos-geneticos-lacerda-e-outros.pdf`; tags: `topico:introducao-aos-algoritmos; tipo:material-base; bloco:bloco-05` |
