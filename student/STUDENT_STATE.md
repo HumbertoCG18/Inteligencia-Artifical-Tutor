@@ -1,6 +1,6 @@
 ---
 course: Inteligencia Artificial
 student: Humberto
-updated: 2026-09-04
+updated: 2026-09-05
 
 ---
