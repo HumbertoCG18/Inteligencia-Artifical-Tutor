@@ -20,6 +20,11 @@
 | media | 18 |
 | baixa | 15 |
 
+## Votos de LLM (motor TIER 3)
+
+- **Decisões por voto**: 14/59 entries (23.7 por 100) — `llm` 12 · `llm-funil` 2
+- **Flagados (fila de dúvida)**: 2/59 entries (3.4 por 100)
+
 ## Materiais de baixa confiança (revisar)
 
 - **Visão Geral - Introdução e Histórico** — bloco `bloco-02` (faixa baixa, conf 0.03, auto)
