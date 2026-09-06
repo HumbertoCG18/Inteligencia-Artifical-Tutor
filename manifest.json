@@ -4151,9 +4151,10 @@
       "unit_block_conflict": {},
       "computed_subunit_slug": "modelos-preditivos",
       "subunit_match_reasons": [
-        "winner_score=34.50"
+        "winner_score=49.19",
+        "propagado-headings"
       ],
-      "subunit_match_confidence": 0.4644289855072465,
+      "subunit_match_confidence": 0.6243860790372419,
       "approved_markdown": "content/curated/arvores-de-decisao.md",
       "curated_markdown": "content/curated/arvores-de-decisao.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/arvores-de-decisao/arvores-de-decisao.md",
@@ -7981,9 +7982,10 @@
       "unit_block_conflict": {},
       "computed_subunit_slug": "modelos-preditivos",
       "subunit_match_reasons": [
-        "winner_score=37.99"
+        "winner_score=58.70",
+        "propagado-headings"
       ],
-      "subunit_match_confidence": 0.6418697689108807,
+      "subunit_match_confidence": 0.7682134096484056,
       "approved_markdown": "content/curated/algoritmo-de-classificacao-k-nn.md",
       "curated_markdown": "content/curated/algoritmo-de-classificacao-k-nn.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/algoritmo-de-classificacao-k-nn/algoritmo-de-classificacao-k-nn.md",
@@ -8217,9 +8219,10 @@
       "unit_block_conflict": {},
       "computed_subunit_slug": "modelos-preditivos",
       "subunit_match_reasons": [
-        "winner_score=12.28"
+        "winner_score=23.36",
+        "propagado-headings"
       ],
-      "subunit_match_confidence": 0.6183417494705977,
+      "subunit_match_confidence": 0.7994178580600976,
       "coverage_units": [
         {
           "unit_slug": "unidade-de-aprendizagem-05-aprendizado-de-maquina",
@@ -9608,7 +9611,6 @@
         "markdown_path": "staging/markdown-auto/datalab/prova-1-2024-02/prova-1-2024-02.md"
       },
       "computed_unit_slug": "unidade-de-aprendizagem-01-visao-geral",
-      "computed_block_method": "concept-fused",
       "computed_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
       "computed_block_confidence": 0.4444444444444444,
       "computed_block_band": "media",
@@ -9654,7 +9656,8 @@
       "revisar": "duvida",
       "moodle_section_index": 4,
       "moodle_module_index": 4,
-      "moodle_week_label": ""
+      "moodle_week_label": "",
+      "computed_block_method": "concept-fused"
     },
     {
       "id": "lista-de-exercicios-i",
@@ -9668,8 +9671,7 @@
       "auto_tags": [
         "tipo:lista",
         "bloco:bloco-17",
-        "unit:unidade-de-aprendizagem-02-solucao-de-problemas",
-        "subunit:algoritmos-de-busca-com-informacao"
+        "unit:unidade-de-aprendizagem-02-solucao-de-problemas"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -9760,11 +9762,13 @@
       ],
       "unit_match_confidence": 0.95,
       "unit_block_conflict": {},
-      "computed_subunit_slug": "algoritmos-de-busca-com-informacao",
+      "computed_subunit_slug": "busca-adversaria",
       "subunit_match_reasons": [
-        "winner_score=6.14"
+        "winner_score=6.16",
+        "ambiguous",
+        "propagado-headings"
       ],
-      "subunit_match_confidence": 0.26091205211726387,
+      "subunit_match_confidence": 0.0032467532467531776,
       "approved_markdown": "exercises/lists/lista-de-exercicios-i.md",
       "curated_markdown": "exercises/lists/lista-de-exercicios-i.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/lista-de-exercicios-i/lista-de-exercicios-i.md",
@@ -9796,7 +9800,7 @@
           "rule": "card"
         }
       ],
-      "revisar": "llm",
+      "revisar": "duvida",
       "moodle_section_index": 20,
       "moodle_module_index": 4,
       "moodle_week_label": "",
@@ -10176,7 +10180,8 @@
       "auto_tags": [
         "tipo:prova",
         "bloco:bloco-05",
-        "unit:unidade-de-aprendizagem-02-solucao-de-problemas"
+        "unit:unidade-de-aprendizagem-02-solucao-de-problemas",
+        "subunit:busca-adversaria"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -10256,12 +10261,12 @@
         "block_unit": "unidade-de-aprendizagem-02-solucao-de-problemas",
         "block_id": "bloco-16"
       },
-      "computed_subunit_slug": "algoritmos-de-busca-com-informacao",
+      "computed_subunit_slug": "busca-adversaria",
       "subunit_match_reasons": [
-        "winner_score=1.17",
-        "ambiguous"
+        "winner_score=2.52",
+        "propagado-headings"
       ],
-      "subunit_match_confidence": 0.11111111111111124,
+      "subunit_match_confidence": 0.5375099127676447,
       "approved_markdown": "exams/past-exams/p2-202401.md",
       "curated_markdown": "exams/past-exams/p2-202401.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/p2-202401/p2-202401.md",
@@ -11941,9 +11946,10 @@
       "unit_block_conflict": {},
       "computed_subunit_slug": "modelos-preditivos",
       "subunit_match_reasons": [
-        "winner_score=29.75"
+        "winner_score=30.83",
+        "propagado-headings"
       ],
-      "subunit_match_confidence": 0.45159685335843475,
+      "subunit_match_confidence": 0.4708446866485014,
       "computed_block_rationale": "O notebook aborda diretamente a aplicação de algoritmos de classificação dentro da abordagem supervisionada de Machine Learning.",
       "computed_block_match_confidence": 0.6,
       "temporal_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
@@ -12123,9 +12129,10 @@
       "unit_block_conflict": {},
       "computed_subunit_slug": "modelos-preditivos",
       "subunit_match_reasons": [
-        "winner_score=30.83"
+        "winner_score=32.99",
+        "propagado-headings"
       ],
-      "subunit_match_confidence": 0.4922148695990659,
+      "subunit_match_confidence": 0.5255213385063048,
       "computed_block_rationale": "O material apresenta uma abordagem supervisionada para classificação de dados, utilizando árvores de decisão, que se alinha perfeitamente com o tópico 'abordagem supervisionada' do bloco 05.",
       "computed_block_match_confidence": 0.6,
       "temporal_block_id": "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
@@ -13988,7 +13995,7 @@
       "language": "jupyter"
     }
   ],
-  "updated_at": "2026-09-05T03:15:15",
+  "updated_at": "2026-09-05T23:30:22",
   "failed_entries": [
     {
       "id": "k-nn-exemplocardio",
