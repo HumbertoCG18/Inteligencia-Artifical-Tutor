@@ -5602,7 +5602,8 @@
       "auto_tags": [
         "tipo:material-base",
         "bloco:bloco-01",
-        "unit:unidade-de-aprendizagem-02-solucao-de-problemas"
+        "unit:unidade-de-aprendizagem-02-solucao-de-problemas",
+        "subunit:algoritmos-de-busca-com-informacao"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -5677,11 +5678,11 @@
       ],
       "unit_match_confidence": 0.5675844806007508,
       "unit_block_conflict": {},
-      "computed_subunit_slug": "",
+      "computed_subunit_slug": "algoritmos-de-busca-com-informacao",
       "subunit_match_reasons": [
-        "empate-exato 2x score=0.11"
+        "secao-nomeia-subtopico"
       ],
-      "subunit_match_confidence": 0.0,
+      "subunit_match_confidence": 0.7,
       "approved_markdown": "content/curated/outros-operadores.md",
       "curated_markdown": "content/curated/outros-operadores.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/outros-operadores/outros-operadores.md",
@@ -5712,7 +5713,7 @@
           "rule": "card"
         }
       ],
-      "revisar": "duvida",
+      "revisar": "ok",
       "moodle_section_index": 17,
       "moodle_module_index": 5,
       "moodle_week_label": "",
@@ -5730,7 +5731,8 @@
       "auto_tags": [
         "tipo:codigo",
         "bloco:bloco-13",
-        "unit:unidade-de-aprendizagem-02-solucao-de-problemas"
+        "unit:unidade-de-aprendizagem-02-solucao-de-problemas",
+        "subunit:algoritmos-de-busca-com-informacao"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -5808,11 +5810,11 @@
       ],
       "unit_match_confidence": 0.95,
       "unit_block_conflict": {},
-      "computed_subunit_slug": "",
+      "computed_subunit_slug": "algoritmos-de-busca-com-informacao",
       "subunit_match_reasons": [
-        "empate-exato 3x score=0.11"
+        "secao-nomeia-subtopico"
       ],
-      "subunit_match_confidence": 0.0,
+      "subunit_match_confidence": 0.7,
       "computed_block_rationale": "O código implementa um algoritmo genético, uma heurística de busca para resolver o Problema das N-Rainhas, alinhado com o tema de algoritmos de busca.",
       "computed_block_match_confidence": 0.6,
       "moodle_label": "programa-exemplo AG",
@@ -5840,7 +5842,7 @@
           "rule": "card"
         }
       ],
-      "revisar": "duvida",
+      "revisar": "ok",
       "moodle_section_index": 17,
       "moodle_module_index": 3,
       "moodle_week_label": ""
@@ -9676,7 +9678,8 @@
       "auto_tags": [
         "tipo:lista",
         "bloco:bloco-17",
-        "unit:unidade-de-aprendizagem-02-solucao-de-problemas"
+        "unit:unidade-de-aprendizagem-02-solucao-de-problemas",
+        "subunit:algoritmos-de-busca-com-informacao"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -9767,13 +9770,13 @@
       ],
       "unit_match_confidence": 0.95,
       "unit_block_conflict": {},
-      "computed_subunit_slug": "busca-adversaria",
+      "computed_subunit_slug": "algoritmos-de-busca-com-informacao",
       "subunit_match_reasons": [
         "winner_score=6.16",
-        "ambiguous",
-        "propagado-headings"
+        "propagado-headings",
+        "secao-nomeia-subtopico"
       ],
-      "subunit_match_confidence": 0.0032467532467531776,
+      "subunit_match_confidence": 0.7,
       "approved_markdown": "exercises/lists/lista-de-exercicios-i.md",
       "curated_markdown": "exercises/lists/lista-de-exercicios-i.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/lista-de-exercicios-i/lista-de-exercicios-i.md",
@@ -9805,7 +9808,7 @@
           "rule": "card"
         }
       ],
-      "revisar": "duvida",
+      "revisar": "ok",
       "moodle_section_index": 20,
       "moodle_module_index": 4,
       "moodle_week_label": "",
@@ -14000,7 +14003,7 @@
       "language": "jupyter"
     }
   ],
-  "updated_at": "2026-09-06T03:22:54",
+  "updated_at": "2026-09-06T18:06:43",
   "failed_entries": [
     {
       "id": "k-nn-exemplocardio",
