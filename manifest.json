@@ -905,7 +905,7 @@
         "43b6f936-7dc9-49fa-8f19-a88b66dc9b98",
         "55691241-63a8-4053-aea8-8a835c90f4f7"
       ],
-      "revisar": "llm",
+      "revisar": "ok",
       "moodle_section_index": 6,
       "moodle_module_index": 4,
       "moodle_week_label": "",
@@ -1592,7 +1592,7 @@
       "posting_date": "2026-02-24",
       "posting_date_created": "2026-02-24",
       "moodle_label": "Minimax",
-      "revisar": "llm",
+      "revisar": "ok",
       "moodle_section_index": 20,
       "moodle_module_index": 3,
       "moodle_week_label": "",
@@ -6654,7 +6654,7 @@
           "rule": "card"
         }
       ],
-      "revisar": "llm",
+      "revisar": "ok",
       "moodle_section_index": 20,
       "moodle_module_index": 2,
       "moodle_week_label": ""
@@ -7668,7 +7668,7 @@
           "rule": "unidade-atribuida"
         }
       ],
-      "revisar": "llm",
+      "revisar": "ok",
       "moodle_section_index": 7,
       "moodle_module_index": 1,
       "moodle_week_label": "",
@@ -8013,7 +8013,7 @@
           "rule": "card"
         }
       ],
-      "revisar": "llm",
+      "revisar": "ok",
       "moodle_section_index": 8,
       "moodle_module_index": 2,
       "moodle_week_label": "",
@@ -8242,7 +8242,7 @@
         "af22fe17-ee73-407f-9af5-d730739d71e0",
         "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f"
       ],
-      "revisar": "llm",
+      "revisar": "ok",
       "moodle_section_index": 8,
       "moodle_module_index": 3,
       "moodle_week_label": ""
@@ -8331,7 +8331,7 @@
           "rule": "card"
         }
       ],
-      "revisar": "llm",
+      "revisar": "ok",
       "moodle_section_index": 8,
       "moodle_module_index": 11,
       "moodle_week_label": ""
@@ -9946,7 +9946,7 @@
           "rule": "card"
         }
       ],
-      "revisar": "llm",
+      "revisar": "ok",
       "moodle_section_index": 20,
       "moodle_module_index": 5,
       "moodle_week_label": "",
@@ -10544,7 +10544,7 @@
       "moodle_label": "Análise Exploratória de Dados - Exemplo 1",
       "posting_date": "2026-02-24",
       "posting_date_created": "2026-02-24",
-      "revisar": "llm",
+      "revisar": "ok",
       "moodle_section_index": 8,
       "moodle_module_index": 5,
       "moodle_week_label": ""
@@ -10627,7 +10627,7 @@
       "moodle_label": "Exemplo 2 k-NN (com IRIS.csv) - mais completo",
       "posting_date": "2026-03-24",
       "posting_date_created": "2026-03-24",
-      "revisar": "llm",
+      "revisar": "ok",
       "moodle_section_index": 8,
       "moodle_module_index": 10,
       "moodle_week_label": ""
@@ -10710,7 +10710,7 @@
       "moodle_label": "Exemplo com k-NN.",
       "posting_date": "2026-02-24",
       "posting_date_created": "2026-02-24",
-      "revisar": "llm",
+      "revisar": "ok",
       "moodle_section_index": 8,
       "moodle_module_index": 8,
       "moodle_week_label": ""
@@ -13995,7 +13995,7 @@
       "language": "jupyter"
     }
   ],
-  "updated_at": "2026-09-05T23:30:22",
+  "updated_at": "2026-09-06T02:56:17",
   "failed_entries": [
     {
       "id": "k-nn-exemplocardio",
