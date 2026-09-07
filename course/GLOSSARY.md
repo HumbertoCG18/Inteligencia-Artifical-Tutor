@@ -25,61 +25,61 @@
 **Definição:** Conceito central de visão geral que deve ser reconhecido e usado corretamente nas respostas e revisões.
 **Sinônimos aceitos:** visão geral
 **Não confundir com:** detalhamento técnico
-**Aparece em:** Unidade de Aprendizagem 1 — Visão Geral (5%)
+**Aparece em:** Unidade de Aprendizagem 1 — Visão Geral
 
 ## Breve Histórico de IA
 **Definição:** Conceito central de visão geral que deve ser reconhecido e usado corretamente nas respostas e revisões.
 **Sinônimos aceitos:** contexto histórico
 **Não confundir com:** estado da arte detalhado
-**Aparece em:** Unidade de Aprendizagem 1 — Visão Geral (5%)
+**Aparece em:** Unidade de Aprendizagem 1 — Visão Geral
 
 ## Subáreas e disciplinas afins
 **Definição:** Conceito central de visão geral que deve ser reconhecido e usado corretamente nas respostas e revisões.
 **Sinônimos aceitos:** —
 **Não confundir com:** —
-**Aparece em:** Unidade de Aprendizagem 1 — Visão Geral (5%)
+**Aparece em:** Unidade de Aprendizagem 1 — Visão Geral
 
 ## Questões filosóficas de IA
 **Definição:** Conceito central de visão geral que deve ser reconhecido e usado corretamente nas respostas e revisões.
 **Sinônimos aceitos:** —
 **Não confundir com:** —
-**Aparece em:** Unidade de Aprendizagem 1 — Visão Geral (5%)
+**Aparece em:** Unidade de Aprendizagem 1 — Visão Geral
 
 ## Introdução a agentes em ambientes determinísticos
 **Definição:** Modelo de agente que percebe o ambiente e escolhe ações segundo uma representação formal.
 **Sinônimos aceitos:** agentes racionais
 **Não confundir com:** classificadores supervisionados
-**Aparece em:** Unidade de Aprendizagem 2 — Solução de Problemas (10%)
+**Aparece em:** Unidade de Aprendizagem 2 — Solução de Problemas
 
 ## Representação de problemas
 **Definição:** Forma de modelar estados, ações, restrições e objetivos para permitir resolução algorítmica.
 **Sinônimos aceitos:** modelagem do problema
 **Não confundir com:** pré-processamento de dados
-**Aparece em:** Unidade de Aprendizagem 2 — Solução de Problemas (10%)
+**Aparece em:** Unidade de Aprendizagem 2 — Solução de Problemas
 
 ## Busca informada (heurística)
 **Definição:** Busca guiada por heurísticas para explorar primeiro estados mais promissores.
 **Sinônimos aceitos:** busca heurística
 **Não confundir com:** busca cega
-**Aparece em:** Unidade de Aprendizagem 2 — Solução de Problemas (10%)
+**Aparece em:** Unidade de Aprendizagem 2 — Solução de Problemas
 
 ## Algoritmos de Busca com Informação
 **Definição:** Procedimentos para explorar espaços de estados e encontrar soluções para problemas modelados.
 **Sinônimos aceitos:** search algorithms
 **Não confundir com:** métodos de otimização contínua
-**Aparece em:** Unidade de Aprendizagem 2 — Solução de Problemas (10%)
+**Aparece em:** Unidade de Aprendizagem 2 — Solução de Problemas
 
 ## Problemas de Otimização
 **Definição:** Conceito central de solução de problemas que deve ser reconhecido e usado corretamente nas respostas e revisões.
 **Sinônimos aceitos:** —
 **Não confundir com:** —
-**Aparece em:** Unidade de Aprendizagem 2 — Solução de Problemas (10%)
+**Aparece em:** Unidade de Aprendizagem 2 — Solução de Problemas
 
 ## Busca Adversária
 **Definição:** Estratégia de decisão para problemas competitivos em que as ações dependem do oponente.
 **Sinônimos aceitos:** jogos adversariais
 **Não confundir com:** busca heurística simples
-**Aparece em:** Unidade de Aprendizagem 2 — Solução de Problemas (10%)
+**Aparece em:** Unidade de Aprendizagem 2 — Solução de Problemas
 
 ## Agentes em Lógica
 **Definição:** Modelo de agente que percebe o ambiente e escolhe ações segundo uma representação formal.
