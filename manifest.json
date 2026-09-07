@@ -4487,7 +4487,7 @@
       "computed_block_confidence": 0.19047619047619055,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
-        "winner_score=69.79",
+        "winner_score=71.89",
         "topic_score=36.88"
       ],
       "unit_match_confidence": 0.95,
@@ -5282,7 +5282,7 @@
       "computed_block_confidence": 0.31875000000000003,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=60.54",
+        "winner_score=67.24",
         "topic_score=16.13"
       ],
       "unit_match_confidence": 0.7318439909746844,
@@ -6402,7 +6402,7 @@
       "computed_block_confidence": 0.10625000000000001,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
-        "winner_score=76.48",
+        "winner_score=78.58",
         "topic_score=24.06"
       ],
       "unit_match_confidence": 0.95,
@@ -7638,7 +7638,7 @@
       "computed_block_confidence": 0.5970149253731343,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=84.39",
+        "winner_score=86.49",
         "topic_score=30.63"
       ],
       "unit_match_confidence": 0.8220466270489127,
@@ -7980,7 +7980,7 @@
       "computed_block_confidence": 0.15416666666666679,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
-        "winner_score=62.44",
+        "winner_score=68.17",
         "topic_score=40.00"
       ],
       "unit_match_confidence": 0.95,
@@ -7990,7 +7990,7 @@
         "winner_score=58.70",
         "propagado-headings"
       ],
-      "subunit_match_confidence": 0.7682134096484056,
+      "subunit_match_confidence": 0.7291019351321887,
       "approved_markdown": "content/curated/algoritmo-de-classificacao-k-nn.md",
       "curated_markdown": "content/curated/algoritmo-de-classificacao-k-nn.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/algoritmo-de-classificacao-k-nn/algoritmo-de-classificacao-k-nn.md",
@@ -8692,7 +8692,7 @@
       "computed_block_confidence": 0.6712328767123288,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=33.15",
+        "winner_score=34.15",
         "topic_score=21.20"
       ],
       "unit_match_confidence": 0.95,
@@ -9913,10 +9913,10 @@
       "computed_block_confidence": 0.25,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=62.80",
+        "winner_score=63.15",
         "topic_score=7.62"
       ],
-      "unit_match_confidence": 0.5994169133347237,
+      "unit_match_confidence": 0.6016369587213416,
       "unit_block_conflict": {},
       "computed_subunit_slug": "introducao-a-agentes-em-ambientes-deterministicos",
       "subunit_match_reasons": [
@@ -14003,7 +14003,7 @@
       "language": "jupyter"
     }
   ],
-  "updated_at": "2026-09-07T17:29:31",
+  "updated_at": "2026-09-07T19:20:31",
   "failed_entries": [
     {
       "id": "k-nn-exemplocardio",
