@@ -27,14 +27,14 @@
 | 21 | Introdução a ML | raw: `raw/pdfs/material-de-aula/introducao-a-ml.pdf`; tags: `tipo:material-base; bloco:bloco-05; unit:unidade-de-aprendizagem-05-aprendizado-de-maquina` |
 | 22 | Algoritmo de Classificação k-NN | raw: `raw/pdfs/material-de-aula/algoritmo-de-classificacao-k-nn.pdf`; tags: `topico:aprendizado-nao-supervisionado; topico:aprendizado-supervisionado; topico:subareas-da-inteligencia-artificial` |
 | 23 | Analise Exploratória dos Dados - Exemplo 2 | raw: `raw/code/professor/analise-exploratoria-dos-dados-exemplo-2.ipynb`; tags: `tipo:codigo; bloco:bloco-04; unit:unidade-de-aprendizagem-05-aprendizado-de-maquina` |
-| 24 | Artigo usando k-NN em texto | raw: `raw/pdfs/bibliografia/artigo-usando-k-nn-em-texto.pdf`; tags: `unit:unidade-de-aprendizagem-05-aprendizado-de-maquina; subunit:modelos-preditivos` |
+| 24 | Artigo usando k-NN em texto | raw: `raw/pdfs/bibliografia/artigo-usando-k-nn-em-texto.pdf`; tags: `unit:unidade-de-aprendizagem-05-aprendizado-de-maquina; subunit:introducao-ao-aprendizado-de-maquina` |
 | 25 | Exemplo de programa com k-NN (em java) | raw: `raw/zip/exemplo-de-programa-com-k-nn-em-java.zip`; tags: `tipo:codigo; bloco:bloco-05; unit:unidade-de-aprendizagem-05-aprendizado-de-maquina` |
 | 26 | Introducao a redes neurais | raw: `raw/pdfs/material-de-aula/introducao-a-redes-neurais.pdf`; tags: `tipo:material-base; bloco:bloco-05; unit:unidade-de-aprendizagem-05-aprendizado-de-maquina` |
 | 27 | Rede Perceptron e Equação de Reta | raw: `raw/pdfs/material-de-aula/rede-perceptron-e-equacao-de-reta.pdf`; tags: `tipo:material-base; bloco:bloco-05; unit:unidade-de-aprendizagem-05-aprendizado-de-maquina` |
 | 28 | Como analisar resultados: Acc, Pr, Re e F1 | raw: `raw/pdfs/material-de-aula/como-analisar-resultados-acc-pr-re-e-f1.pdf`; tags: `tipo:material-base; bloco:bloco-01; unit:unidade-de-aprendizagem-05-aprendizado-de-maquina` |
 | 29 | agrupamento usando k-Means: exemplo 1 (.ipynb) | raw: `raw/code/professor/agrupamento-usando-k-means-exemplo-1-ipynb.ipynb`; tags: `tipo:codigo; bloco:bloco-07; unit:unidade-de-aprendizagem-05-aprendizado-de-maquina` |
 | 30 | agrupamento usando k-Means: exemplo 2 (.ipynb) | raw: `raw/code/professor/agrupamento-usando-k-means-exemplo-2-ipynb.ipynb`; tags: `topico:aprendizado-nao-supervisionado; topico:aprendizado-supervisionado; tipo:codigo` |
-| 31 | Artigo usando agrupamento | raw: `raw/pdfs/bibliografia/artigo-usando-agrupamento.pdf`; tags: `unit:unidade-de-aprendizagem-05-aprendizado-de-maquina; subunit:modelos-descritivos` |
+| 31 | Artigo usando agrupamento | raw: `raw/pdfs/bibliografia/artigo-usando-agrupamento.pdf`; tags: `unit:unidade-de-aprendizagem-05-aprendizado-de-maquina; subunit:introducao-ao-aprendizado-de-maquina` |
 | 32 | Survey on Clustering | raw: `raw/pdfs/material-de-aula/survey-on-clustering.pdf`; tags: `tipo:material-base; bloco:bloco-05; unit:unidade-de-aprendizagem-05-aprendizado-de-maquina` |
 | 33 | Prova 1 2024/02 | raw: `raw/pdfs/provas/prova-1-2024-02.pdf`; tags: `tipo:prova; bloco:bloco-05; unit:unidade-de-aprendizagem-01-visao-geral`; unidade-manual: `unidade-de-aprendizagem-01-visao-geral` |
 | 34 | Lista de Exercicios I | raw: `raw/pdfs/listas/lista-de-exercicios-i.pdf`; tags: `tipo:lista; bloco:bloco-17; unit:unidade-de-aprendizagem-02-solucao-de-problemas` |

@@ -65,7 +65,7 @@
 
 ## Algoritmos de Busca com Informação
 **Definição:** Procedimentos para explorar espaços de estados e encontrar soluções para problemas modelados.
-**Sinônimos aceitos:** search algorithms
+**Sinônimos aceitos:** search algorithms, aluna, barabstract, braid, capitulo, cargas, chiara, crosseovers, crossover, demo, geneticas, geneticos, implementacaominimax, lacerda, luca, nrainhas, operadores, programas, rectangleinteligencia, ribbons
 **Não confundir com:** métodos de otimização contínua
 **Aparece em:** Unidade de Aprendizagem 2 — Solução de Problemas
 
@@ -113,7 +113,7 @@
 
 ## Introdução ao aprendizado de máquina
 **Definição:** Área da IA que aprende padrões a partir de dados para descrever ou prever comportamentos.
-**Sinônimos aceitos:** machine learning, análise exploratória de dados, análise exploratória, exploração de dados, EDA, tipos de dados e preparação, preparação de dados
+**Sinônimos aceitos:** machine learning, exploratoria, java
 **Não confundir com:** planejamento clássico
 **Aparece em:** Unidade de Aprendizagem 5 — Aprendizado de máquina
 
@@ -125,18 +125,18 @@
 
 ## Modelos Preditivos
 **Definição:** Modelos voltados a prever saídas, classes ou valores a partir de exemplos observados.
-**Sinônimos aceitos:** modelos supervisionados, perceptron, rede neural, redes neurais, MLP, multilayer perceptron, k-NN, kNN, vizinhos mais próximos, árvore de decisão, árvores de decisão, regressão, classificação, classificador, backpropagation
+**Sinônimos aceitos:** modelos supervisionados
 **Não confundir com:** modelos descritivos
 **Aparece em:** Unidade de Aprendizagem 5 — Aprendizado de máquina
 
 ## Modelos Descritivos
 **Definição:** Modelos usados para revelar estrutura, agrupamentos ou relações presentes nos dados.
-**Sinônimos aceitos:** modelos exploratórios, agrupamento, clustering, cluster, k-means, kmeans, agrupamento hierárquico, dendrograma, particional
+**Sinônimos aceitos:** modelos exploratórios
 **Não confundir com:** modelos preditivos
 **Aparece em:** Unidade de Aprendizagem 5 — Aprendizado de máquina
 
 ## Métricas de Avaliação
 **Definição:** Critérios quantitativos usados para comparar desempenho e qualidade de modelos.
-**Sinônimos aceitos:** medidas de desempenho, acurácia, precisão, recall, F1, matriz de confusão, medidas de avaliação
+**Sinônimos aceitos:** medidas de desempenho
 **Não confundir com:** função objetivo do problema
 **Aparece em:** Unidade de Aprendizagem 5 — Aprendizado de máquina

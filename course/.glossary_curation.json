@@ -1,15 +1,99 @@
 {
-  "_nota": "Curadoria de sinonimos do GLOSSARY.md (alavanca iii da subunidade, 2026-08-25). O plano nomeia CATEGORIAS (preditivo/descritivo); o material nomeia ALGORITMOS. Termos = vocabulario dos materiais da u05 (proposto-claude, medido contra subunit_gt_IA: 4 -> 37/39). Revisar/estender a mao; sobrevive ao reprocess. Formato: {\"<Termo do plano>\": {\"synonyms\": [...]}}",
+  "Algoritmos de Busca com Informação": {
+    "synonyms": [
+      "aluna",
+      "barabstract",
+      "braid",
+      "capitulo",
+      "cargas",
+      "chiara",
+      "crosseovers",
+      "crossover",
+      "demo",
+      "geneticas",
+      "geneticos",
+      "implementacaominimax",
+      "lacerda",
+      "luca",
+      "nrainhas",
+      "operadores",
+      "programas",
+      "rectangleinteligencia",
+      "ribbons"
+    ],
+    "_origem": {
+      "aluna": [
+        "secao"
+      ],
+      "barabstract": [
+        "secao"
+      ],
+      "braid": [
+        "secao"
+      ],
+      "capitulo": [
+        "secao"
+      ],
+      "cargas": [
+        "secao"
+      ],
+      "chiara": [
+        "secao"
+      ],
+      "crosseovers": [
+        "secao"
+      ],
+      "crossover": [
+        "secao"
+      ],
+      "demo": [
+        "secao"
+      ],
+      "geneticas": [
+        "secao"
+      ],
+      "geneticos": [
+        "secao"
+      ],
+      "implementacaominimax": [
+        "secao"
+      ],
+      "lacerda": [
+        "secao"
+      ],
+      "luca": [
+        "secao"
+      ],
+      "nrainhas": [
+        "secao"
+      ],
+      "operadores": [
+        "secao"
+      ],
+      "programas": [
+        "secao"
+      ],
+      "rectangleinteligencia": [
+        "secao"
+      ],
+      "ribbons": [
+        "secao"
+      ]
+    }
+  },
   "Introdução ao aprendizado de máquina": {
-    "synonyms": ["análise exploratória de dados", "análise exploratória", "exploração de dados", "EDA", "tipos de dados e preparação", "preparação de dados"]
+    "synonyms": [
+      "exploratoria",
+      "java"
+    ],
+    "_origem": {
+      "exploratoria": [
+        "secao"
+      ],
+      "java": [
+        "secao"
+      ]
+    }
   },
-  "Modelos Preditivos": {
-    "synonyms": ["perceptron", "rede neural", "redes neurais", "MLP", "multilayer perceptron", "k-NN", "kNN", "vizinhos mais próximos", "árvore de decisão", "árvores de decisão", "regressão", "classificação", "classificador", "backpropagation"]
-  },
-  "Modelos Descritivos": {
-    "synonyms": ["agrupamento", "clustering", "cluster", "k-means", "kmeans", "agrupamento hierárquico", "dendrograma", "particional"]
-  },
-  "Métricas de Avaliação": {
-    "synonyms": ["acurácia", "precisão", "recall", "F1", "matriz de confusão", "medidas de avaliação"]
-  }
+  "_nota": "GERADO automaticamente de fontes do PROFESSOR (SARC + secao do Moodle + titulo/headings dos materiais da secao), sem olhar gold nenhum — `c1-3/gera_sidecar_professor.py`, 2026-09-07. Substitui o sidecar anterior, que era 'proposto-claude a partir de subunit_gt' e contaminava a regua (medido: 86/93 -> 26/93 ao remove-lo). Filtros: df > 15% dos materiais, token no vocabulario de outro topico, boilerplate academico (SEMANTIC_TOKEN_STOPWORDS + TIMELINE_GENERIC_TOKENS), token disperso (menos de 80% das ocorrencias na secao que doa), token com menos de 4 chars ou numerico, stopwords do motor. `_origem` diz de que fonte veio cada termo."
 }

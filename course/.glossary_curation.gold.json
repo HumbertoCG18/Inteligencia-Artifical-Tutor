@@ -1,0 +1,54 @@
+{
+  "_nota": "Curadoria de sinonimos do GLOSSARY.md (alavanca iii da subunidade, 2026-08-25). O plano nomeia CATEGORIAS (preditivo/descritivo); o material nomeia ALGORITMOS. Termos = vocabulario dos materiais da u05 (proposto-claude, medido contra subunit_gt_IA: 4 -> 37/39). Revisar/estender a mao; sobrevive ao reprocess. Formato: {\"<Termo do plano>\": {\"synonyms\": [...]}}",
+  "Introdução ao aprendizado de máquina": {
+    "synonyms": [
+      "análise exploratória de dados",
+      "análise exploratória",
+      "exploração de dados",
+      "EDA",
+      "tipos de dados e preparação",
+      "preparação de dados"
+    ]
+  },
+  "Modelos Preditivos": {
+    "synonyms": [
+      "perceptron",
+      "rede neural",
+      "redes neurais",
+      "MLP",
+      "multilayer perceptron",
+      "k-NN",
+      "kNN",
+      "vizinhos mais próximos",
+      "árvore de decisão",
+      "árvores de decisão",
+      "regressão",
+      "classificação",
+      "classificador",
+      "backpropagation"
+    ]
+  },
+  "Modelos Descritivos": {
+    "synonyms": [
+      "agrupamento",
+      "clustering",
+      "cluster",
+      "k-means",
+      "kmeans",
+      "agrupamento hierárquico",
+      "dendrograma",
+      "particional"
+    ]
+  },
+  "Métricas de Avaliação": {
+    "synonyms": [
+      "acurácia",
+      "precisão",
+      "recall",
+      "F1",
+      "matriz de confusão",
+      "medidas de avaliação"
+    ]
+  },
+  "_ARQUIVADO": "ARQUIVADO em 2026-09-07. Este sidecar foi derivado do GOLD ('proposto-claude a partir de subunit_gt'), o que invalidava a regua: o motor era medido contra o mesmo gold que originou seu vocabulario. Ablacao pela rota real: subunidade 86/93 -> 26/93 nos 4 cursos ao remove-lo. NAO restaurar sem decidir explicitamente que o numero medido passa a ser reportado como contaminado. Substituido por `.glossary_curation.json` gerado de SARC + Moodle + headings (`c1-3/gera_sidecar_professor.py`)."
+}
