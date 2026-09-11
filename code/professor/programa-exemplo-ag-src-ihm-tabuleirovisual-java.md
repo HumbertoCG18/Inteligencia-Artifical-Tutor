@@ -1,10 +1,10 @@
 ---
-entry_id: "tabuleirovisual"
+entry_id: "programa-exemplo-ag-src-ihm-tabuleirovisual-java"
 title: "src\\ihm\\TabuleiroVisual.java"
 language: "java"
 category: "codigo-professor"
 unit: ""
-source: "raw/code/professor/tabuleirovisual.java"
+source: "raw/code/professor/programa-exemplo-ag-src-ihm-tabuleirovisual-java.java"
 ---
 # src\ihm\TabuleiroVisual.java
 

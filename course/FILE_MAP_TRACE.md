@@ -4,8 +4,8 @@
 
 | # | Título | Rastreabilidade |
 |---|---|---|
-| 1 | O que é Inteligência Artificial (IA)? / Oracle Brasil | tags: `unit:unidade-de-aprendizagem-01-visao-geral; subunit:breve-historico-de-ia` |
-| 2 | IA Responsável | tags: `unit:unidade-de-aprendizagem-01-visao-geral` |
+| 1 | O que é Inteligência Artificial (IA)? / Oracle Brasil | tags: `unit:unidade-de-aprendizagem-01-visao-geral; subunit:conceituacao` |
+| 2 | IA Responsável | tags: `unit:unidade-de-aprendizagem-01-visao-geral; subunit:questoes-filosoficas-de-ia` |
 | 3 | Visão Geral - Introdução e Histórico | raw: `raw/pdfs/material-de-aula/visao-geral-introducao-e-historico.pdf`; tags: `tipo:material-base; bloco:bloco-01; unit:unidade-de-aprendizagem-01-visao-geral` |
 | 4 | Cap. sobre Algoritmos Geneticos (Lacerda e outros) | raw: `raw/pdfs/material-de-aula/cap-sobre-algoritmos-geneticos-lacerda-e-outros.pdf`; tags: `topico:introducao-aos-algoritmos; tipo:material-base; bloco:bloco-05` |
 | 5 | Minimax | raw: `raw/pdfs/material-de-aula/minimax-teoria.pdf`; tags: `topico:busca-adversaria; tipo:material-base; bloco:bloco-01` |
@@ -27,14 +27,14 @@
 | 21 | Introdução a ML | raw: `raw/pdfs/material-de-aula/introducao-a-ml.pdf`; tags: `tipo:material-base; bloco:bloco-05; unit:unidade-de-aprendizagem-05-aprendizado-de-maquina` |
 | 22 | Algoritmo de Classificação k-NN | raw: `raw/pdfs/material-de-aula/algoritmo-de-classificacao-k-nn.pdf`; tags: `topico:aprendizado-nao-supervisionado; topico:aprendizado-supervisionado; topico:subareas-da-inteligencia-artificial` |
 | 23 | Analise Exploratória dos Dados - Exemplo 2 | raw: `raw/code/professor/analise-exploratoria-dos-dados-exemplo-2.ipynb`; tags: `tipo:codigo; bloco:bloco-04; unit:unidade-de-aprendizagem-05-aprendizado-de-maquina` |
-| 24 | Artigo usando k-NN em texto | raw: `raw/pdfs/bibliografia/artigo-usando-k-nn-em-texto.pdf`; tags: `unit:unidade-de-aprendizagem-05-aprendizado-de-maquina; subunit:introducao-ao-aprendizado-de-maquina` |
-| 25 | Exemplo de programa com k-NN (em java) | raw: `raw/zip/exemplo-de-programa-com-k-nn-em-java.zip`; tags: `tipo:codigo; bloco:bloco-05; unit:unidade-de-aprendizagem-05-aprendizado-de-maquina` |
+| 24 | Artigo usando k-NN em texto | raw: `raw/pdfs/bibliografia/artigo-usando-k-nn-em-texto.pdf`; tags: `unit:unidade-de-aprendizagem-05-aprendizado-de-maquina; subunit:modelos-preditivos` |
+| 25 | Exemplo de programa com k-NN (em java) | raw: `raw/zip/exemplo-de-programa-com-k-nn-em-java.zip`; tags: `tipo:codigo; bloco:bloco-04; unit:unidade-de-aprendizagem-05-aprendizado-de-maquina` |
 | 26 | Introducao a redes neurais | raw: `raw/pdfs/material-de-aula/introducao-a-redes-neurais.pdf`; tags: `tipo:material-base; bloco:bloco-05; unit:unidade-de-aprendizagem-05-aprendizado-de-maquina` |
 | 27 | Rede Perceptron e Equação de Reta | raw: `raw/pdfs/material-de-aula/rede-perceptron-e-equacao-de-reta.pdf`; tags: `tipo:material-base; bloco:bloco-05; unit:unidade-de-aprendizagem-05-aprendizado-de-maquina` |
 | 28 | Como analisar resultados: Acc, Pr, Re e F1 | raw: `raw/pdfs/material-de-aula/como-analisar-resultados-acc-pr-re-e-f1.pdf`; tags: `tipo:material-base; bloco:bloco-01; unit:unidade-de-aprendizagem-05-aprendizado-de-maquina` |
 | 29 | agrupamento usando k-Means: exemplo 1 (.ipynb) | raw: `raw/code/professor/agrupamento-usando-k-means-exemplo-1-ipynb.ipynb`; tags: `tipo:codigo; bloco:bloco-07; unit:unidade-de-aprendizagem-05-aprendizado-de-maquina` |
 | 30 | agrupamento usando k-Means: exemplo 2 (.ipynb) | raw: `raw/code/professor/agrupamento-usando-k-means-exemplo-2-ipynb.ipynb`; tags: `topico:aprendizado-nao-supervisionado; topico:aprendizado-supervisionado; tipo:codigo` |
-| 31 | Artigo usando agrupamento | raw: `raw/pdfs/bibliografia/artigo-usando-agrupamento.pdf`; tags: `unit:unidade-de-aprendizagem-05-aprendizado-de-maquina; subunit:introducao-ao-aprendizado-de-maquina` |
+| 31 | Artigo usando agrupamento | raw: `raw/pdfs/bibliografia/artigo-usando-agrupamento.pdf`; tags: `unit:unidade-de-aprendizagem-05-aprendizado-de-maquina; subunit:modelos-descritivos` |
 | 32 | Survey on Clustering | raw: `raw/pdfs/material-de-aula/survey-on-clustering.pdf`; tags: `tipo:material-base; bloco:bloco-05; unit:unidade-de-aprendizagem-05-aprendizado-de-maquina` |
 | 33 | Prova 1 2024/02 | raw: `raw/pdfs/provas/prova-1-2024-02.pdf`; tags: `tipo:prova; bloco:bloco-05; unit:unidade-de-aprendizagem-01-visao-geral`; unidade-manual: `unidade-de-aprendizagem-01-visao-geral` |
 | 34 | Lista de Exercicios I | raw: `raw/pdfs/listas/lista-de-exercicios-i.pdf`; tags: `tipo:lista; bloco:bloco-17; unit:unidade-de-aprendizagem-02-solucao-de-problemas` |
@@ -43,10 +43,10 @@
 | 37 | P2 2024/01 | raw: `raw/pdfs/provas/p2-202401.pdf`; tags: `tipo:prova; bloco:bloco-05; unit:unidade-de-aprendizagem-02-solucao-de-problemas` |
 | 38 | P2 2024/02 | raw: `raw/pdfs/provas/p2-202402.pdf`; tags: `tipo:prova; bloco:bloco-05; unit:unidade-de-aprendizagem-03-raciocinio-planejamento-e-representacao-de-conhecimento` |
 | 39 | Análise Exploratória de Dados - Exemplo 1 | raw: `raw/code/professor/analise-exploratoria-de-dados-exemplo-1.ipynb`; tags: `tipo:codigo; bloco:bloco-04; unit:unidade-de-aprendizagem-05-aprendizado-de-maquina` |
-| 40 | Exemplo 2 k-NN (com IRIS.csv) - mais completo | raw: `raw/code/professor/exemplo-2-k-nn-com-iriscsv-mais-completo.ipynb`; tags: `tipo:codigo; bloco:bloco-05; unit:unidade-de-aprendizagem-05-aprendizado-de-maquina` |
+| 40 | Exemplo 2 k-NN (com IRIS.csv) - mais completo | raw: `raw/code/professor/exemplo-2-k-nn-com-iriscsv-mais-completo.ipynb`; tags: `tipo:codigo; bloco:bloco-08; unit:unidade-de-aprendizagem-05-aprendizado-de-maquina` |
 | 41 | Exemplo com k-NN. | raw: `raw/code/professor/exemplo-com-k-nn.ipynb`; tags: `tipo:codigo; bloco:bloco-04; unit:unidade-de-aprendizagem-05-aprendizado-de-maquina` |
 | 42 | Exercicio 2 - Solução com rede Perceptron (atualizado) | raw: `raw/code/professor/exercicio-2-solucao-com-rede-perceptron-atualizado.ipynb`; tags: `tipo:codigo; bloco:bloco-05; unit:unidade-de-aprendizagem-05-aprendizado-de-maquina` |
-| 43 | K-NN para Classificação: Exemplo Cardio | raw: `raw/code/professor/k-nn-para-classificacao-exemplo-cardio.ipynb`; tags: `tipo:codigo; bloco:bloco-04; unit:unidade-de-aprendizagem-05-aprendizado-de-maquina` |
+| 43 | K-NN para Classificação: Exemplo Cardio | raw: `raw/code/professor/k-nn-para-classificacao-exemplo-cardio.ipynb`; tags: `tipo:codigo; bloco:bloco-08; unit:unidade-de-aprendizagem-05-aprendizado-de-maquina` |
 | 44 | K-NN para Regressão: exemplo IMC | raw: `raw/code/professor/k-nn-para-regressao-exemplo-imc.ipynb`; tags: `tipo:codigo; bloco:bloco-05; unit:unidade-de-aprendizagem-05-aprendizado-de-maquina` |
 | 45 | Rede Perceptron - Classificacao - Planta Iris | raw: `raw/code/professor/rede-perceptron-classificacao-planta-iris.ipynb`; tags: `tipo:codigo; bloco:bloco-05; unit:unidade-de-aprendizagem-05-aprendizado-de-maquina` |
 | 46 | Rede Perceptron - Classificacao de Cliente | raw: `raw/code/professor/rede-perceptron-classificacao-de-cliente.ipynb`; tags: `tipo:codigo; bloco:bloco-05; unit:unidade-de-aprendizagem-05-aprendizado-de-maquina` |

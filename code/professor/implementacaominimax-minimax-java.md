@@ -1,10 +1,10 @@
 ---
-entry_id: "minimax"
+entry_id: "implementacaominimax-minimax-java"
 title: "Minimax.java"
 language: "java"
 category: "codigo-professor"
 unit: ""
-source: "raw/code/professor/minimax.java"
+source: "raw/code/professor/implementacaominimax-minimax-java.java"
 ---
 # Minimax.java
 

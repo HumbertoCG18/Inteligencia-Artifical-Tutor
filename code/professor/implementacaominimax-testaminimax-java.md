@@ -1,10 +1,10 @@
 ---
-entry_id: "testaminimax"
+entry_id: "implementacaominimax-testaminimax-java"
 title: "TestaMinimax.java"
 language: "java"
 category: "codigo-professor"
 unit: ""
-source: "raw/code/professor/testaminimax.java"
+source: "raw/code/professor/implementacaominimax-testaminimax-java.java"
 ---
 # TestaMinimax.java
 

@@ -1,10 +1,10 @@
 ---
-entry_id: "tabuleiro"
+entry_id: "programa-exemplo-ag-src-dominio-tabuleiro-java"
 title: "src\\dominio\\Tabuleiro.java"
 language: "java"
 category: "codigo-professor"
 unit: ""
-source: "raw/code/professor/tabuleiro.java"
+source: "raw/code/professor/programa-exemplo-ag-src-dominio-tabuleiro-java.java"
 ---
 # src\dominio\Tabuleiro.java
 

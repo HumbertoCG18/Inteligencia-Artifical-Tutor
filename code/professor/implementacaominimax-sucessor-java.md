@@ -1,10 +1,10 @@
 ---
-entry_id: "sucessor"
+entry_id: "implementacaominimax-sucessor-java"
 title: "Sucessor.java"
 language: "java"
 category: "codigo-professor"
 unit: ""
-source: "raw/code/professor/sucessor.java"
+source: "raw/code/professor/implementacaominimax-sucessor-java.java"
 ---
 # Sucessor.java
 

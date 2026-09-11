@@ -1,10 +1,10 @@
 ---
-entry_id: "frame"
+entry_id: "programa-exemplo-ag-src-ihm-frame-java"
 title: "src\\ihm\\Frame.java"
 language: "java"
 category: "codigo-professor"
 unit: ""
-source: "raw/code/professor/frame.java"
+source: "raw/code/professor/programa-exemplo-ag-src-ihm-frame-java.java"
 ---
 # src\ihm\Frame.java
 

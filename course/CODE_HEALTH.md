@@ -4,11 +4,11 @@
 
 ## Cobertura de resumos
 - Códigos totais: **29**
-- Com resumo Gemini: **29 / 29 (100%)**
-- Sem resumo: **0**
+- Com resumo Gemini: **4 / 29 (14%)**
+- Sem resumo: **25**
 
 ## Cobertura timeline
-- Vinculados a aula: **29 / 29**
+- Vinculados a aula: **29 / 4**
 - Órfãos (resumo sem aula): **0**
 
 ## Cobertura por unidade

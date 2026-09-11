@@ -23,7 +23,7 @@
 
 ## Conceituação
 **Definição:** Conceito central de visão geral que deve ser reconhecido e usado corretamente nas respostas e revisões.
-**Sinônimos aceitos:** visão geral
+**Sinônimos aceitos:** visão geral, Inteligência Artificial, Inteligência Adaptativa, modelos de IA
 **Não confundir com:** detalhamento técnico
 **Aparece em:** Unidade de Aprendizagem 1 — Visão Geral
 
@@ -35,55 +35,55 @@
 
 ## Subáreas e disciplinas afins
 **Definição:** Conceito central de visão geral que deve ser reconhecido e usado corretamente nas respostas e revisões.
-**Sinônimos aceitos:** —
+**Sinônimos aceitos:** IA generativa, generative, ChatGPT, Copilot
 **Não confundir com:** —
 **Aparece em:** Unidade de Aprendizagem 1 — Visão Geral
 
 ## Questões filosóficas de IA
 **Definição:** Conceito central de visão geral que deve ser reconhecido e usado corretamente nas respostas e revisões.
-**Sinônimos aceitos:** —
+**Sinônimos aceitos:** IA Responsável
 **Não confundir com:** —
 **Aparece em:** Unidade de Aprendizagem 1 — Visão Geral
 
 ## Introdução a agentes em ambientes determinísticos
 **Definição:** Modelo de agente que percebe o ambiente e escolhe ações segundo uma representação formal.
-**Sinônimos aceitos:** agentes racionais
+**Sinônimos aceitos:** agentes racionais, Agentes e Algoritmos de Busca
 **Não confundir com:** classificadores supervisionados
 **Aparece em:** Unidade de Aprendizagem 2 — Solução de Problemas
 
 ## Representação de problemas
 **Definição:** Forma de modelar estados, ações, restrições e objetivos para permitir resolução algorítmica.
-**Sinônimos aceitos:** modelagem do problema
+**Sinônimos aceitos:** modelagem do problema, Estados de mundo, Estado de Mundo, Espaço de Busca
 **Não confundir com:** pré-processamento de dados
 **Aparece em:** Unidade de Aprendizagem 2 — Solução de Problemas
 
 ## Busca informada (heurística)
 **Definição:** Busca guiada por heurísticas para explorar primeiro estados mais promissores.
-**Sinônimos aceitos:** busca heurística
+**Sinônimos aceitos:** busca heurística, Algoritmos de Busca Informada, Busca Informada
 **Não confundir com:** busca cega
 **Aparece em:** Unidade de Aprendizagem 2 — Solução de Problemas
 
 ## Algoritmos de Busca com Informação
 **Definição:** Procedimentos para explorar espaços de estados e encontrar soluções para problemas modelados.
-**Sinônimos aceitos:** search algorithms, aluna, barabstract, braid, capitulo, cargas, chiara, crosseovers, crossover, demo, geneticas, geneticos, implementacaominimax, lacerda, luca, nrainhas, operadores, programas, rectangleinteligencia, ribbons
+**Sinônimos aceitos:** search algorithms, aluna, barabstract, braid, capitulo, cargas, chiara, crosseovers, crossover, demo, geneticas, geneticos, implementacaominimax, lacerda, luca, nrainhas, operadores, programas, rectangleinteligencia, ribbons, Algoritmo Hill-Climbing, Hill-Climbing, Algoritmo Simulated Annealing, Simulated Annealing, Busca Local por Refinamentos Sucessivos, Dijkstra, Algoritmo de Dijkstra
 **Não confundir com:** métodos de otimização contínua
 **Aparece em:** Unidade de Aprendizagem 2 — Solução de Problemas
 
 ## Problemas de Otimização
 **Definição:** Conceito central de solução de problemas que deve ser reconhecido e usado corretamente nas respostas e revisões.
-**Sinônimos aceitos:** —
+**Sinônimos aceitos:** Algoritmos Genéticos, Algoritmo Genético, Algoritmo Genético Simples, Roda da Roleta, Crossover e Mutação, Elitismo, Crossover de N Pontos, Representação Real, Representação Binária, Cálculo da Aptidão, Seleção, Operações Genéticas, Crossover OBX, Crossover PBX, Crossover PMX, Crossover CX, Otimização Convencional
 **Não confundir com:** —
 **Aparece em:** Unidade de Aprendizagem 2 — Solução de Problemas
 
 ## Busca Adversária
 **Definição:** Estratégia de decisão para problemas competitivos em que as ações dependem do oponente.
-**Sinônimos aceitos:** jogos adversariais
+**Sinônimos aceitos:** jogos adversariais, Teoria dos Jogos, Árvore de Busca, Transposição, Redução por simetria, Algoritmo Minimax, Minimax
 **Não confundir com:** busca heurística simples
 **Aparece em:** Unidade de Aprendizagem 2 — Solução de Problemas
 
 ## Agentes em Lógica
 **Definição:** Modelo de agente que percebe o ambiente e escolhe ações segundo uma representação formal.
-**Sinônimos aceitos:** agentes racionais
+**Sinônimos aceitos:** agentes racionais, Ambientes, Agentes puramente reativos, Agentes Reativos, Agente Reativo baseado em Modelo, Agente Reativo baseado em Modelos
 **Não confundir com:** classificadores supervisionados
 **Aparece em:** Unidade de Aprendizagem 3 — Raciocínio, Planejamento e Representação de Conhecimento
 
@@ -113,30 +113,30 @@
 
 ## Introdução ao aprendizado de máquina
 **Definição:** Área da IA que aprende padrões a partir de dados para descrever ou prever comportamentos.
-**Sinônimos aceitos:** machine learning, exploratoria, java
+**Sinônimos aceitos:** machine learning, exploratoria, java, Deep Learning, aprendizado indutivo, Exploração dos Dados, Análise Exploratória dos Dados, Caracterização dos Dados, Generalização
 **Não confundir com:** planejamento clássico
 **Aparece em:** Unidade de Aprendizagem 5 — Aprendizado de máquina
 
 ## Paradigmas de aprendizado
 **Definição:** Categorias de estratégias de aprendizado, como supervisionado, não supervisionado e por reforço.
-**Sinônimos aceitos:** tipos de aprendizado
+**Sinônimos aceitos:** tipos de aprendizado, Aprendizado Supervisionado, Aprendizado Não Supervisionado
 **Não confundir com:** métricas de avaliação
 **Aparece em:** Unidade de Aprendizagem 5 — Aprendizado de máquina
 
 ## Modelos Preditivos
 **Definição:** Modelos voltados a prever saídas, classes ou valores a partir de exemplos observados.
-**Sinônimos aceitos:** modelos supervisionados
+**Sinônimos aceitos:** modelos supervisionados, Classificação, Regressão, Rede Neural Perceptron, Rede Perceptron, MultiLayer Perceptron, Árvores de Decisão, Árvore de Decisão, k-NN, Classificador Linear, Redes Feed Forward, Redes Recorrentes, Backpropagation
 **Não confundir com:** modelos descritivos
 **Aparece em:** Unidade de Aprendizagem 5 — Aprendizado de máquina
 
 ## Modelos Descritivos
 **Definição:** Modelos usados para revelar estrutura, agrupamentos ou relações presentes nos dados.
-**Sinônimos aceitos:** modelos exploratórios
+**Sinônimos aceitos:** modelos exploratórios, Agrupamento, Agrupamento Hierárquico, Agrupamento Particional, k-Means, Clustering, Mapa auto-organizável
 **Não confundir com:** modelos preditivos
 **Aparece em:** Unidade de Aprendizagem 5 — Aprendizado de máquina
 
 ## Métricas de Avaliação
 **Definição:** Critérios quantitativos usados para comparar desempenho e qualidade de modelos.
-**Sinônimos aceitos:** medidas de desempenho
+**Sinônimos aceitos:** medidas de desempenho, Matriz de Confusão, Accuracy, Micro-médias, Macro-médias
 **Não confundir com:** função objetivo do problema
 **Aparece em:** Unidade de Aprendizagem 5 — Aprendizado de máquina

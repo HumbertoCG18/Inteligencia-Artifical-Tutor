@@ -1,10 +1,10 @@
 ---
-entry_id: "distribuicaodecargas"
+entry_id: "programas-exemplo-hc-sa-versao-para-nrainhas-e-distribuicao-de-cargas-distribuicaodecargas-java"
 title: "DistribuicaoDeCargas.java"
 language: "java"
 category: "codigo-professor"
 unit: ""
-source: "raw/code/professor/distribuicaodecargas.java"
+source: "raw/code/professor/programas-exemplo-hc-sa-versao-para-nrainhas-e-distribuicao-de-cargas-distribuicaodecargas-java.java"
 ---
 # DistribuicaoDeCargas.java
 

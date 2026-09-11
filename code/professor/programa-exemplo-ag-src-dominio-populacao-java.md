@@ -1,10 +1,10 @@
 ---
-entry_id: "populacao"
+entry_id: "programa-exemplo-ag-src-dominio-populacao-java"
 title: "src\\dominio\\Populacao.java"
 language: "java"
 category: "codigo-professor"
 unit: ""
-source: "raw/code/professor/populacao.java"
+source: "raw/code/professor/programa-exemplo-ag-src-dominio-populacao-java.java"
 ---
 # src\dominio\Populacao.java
 

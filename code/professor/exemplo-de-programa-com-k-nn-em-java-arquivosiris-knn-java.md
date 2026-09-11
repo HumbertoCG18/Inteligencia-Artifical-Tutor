@@ -1,10 +1,10 @@
 ---
-entry_id: "knn"
+entry_id: "exemplo-de-programa-com-k-nn-em-java-arquivosiris-knn-java"
 title: "arquivosIris\\Knn.java"
 language: "java"
 category: "codigo-professor"
 unit: ""
-source: "raw/code/professor/knn.java"
+source: "raw/code/professor/exemplo-de-programa-com-k-nn-em-java-arquivosiris-knn-java.java"
 ---
 # arquivosIris\Knn.java
 

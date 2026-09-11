@@ -1,10 +1,10 @@
 ---
-entry_id: "algoritimo"
+entry_id: "programa-exemplo-ag-src-operacao-algoritimo-java"
 title: "src\\operacao\\Algoritimo.java"
 language: "java"
 category: "codigo-professor"
 unit: ""
-source: "raw/code/professor/algoritimo.java"
+source: "raw/code/professor/programa-exemplo-ag-src-operacao-algoritimo-java.java"
 ---
 # src\operacao\Algoritimo.java
 

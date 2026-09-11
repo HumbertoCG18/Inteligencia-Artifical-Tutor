@@ -1,12 +1,12 @@
 ---
-entry_id: "nrainhashc"
-title: "NRainhasHC.java"
+entry_id: "programas-exemplo-hc-sa-versao-para-nrainhas-e-distribuicao-de-cargas-nrainhas-java"
+title: "NRainhas.java"
 language: "java"
 category: "codigo-professor"
 unit: ""
-source: "raw/code/professor/nrainhashc.java"
+source: "raw/code/professor/programas-exemplo-hc-sa-versao-para-nrainhas-e-distribuicao-de-cargas-nrainhas-java.java"
 ---
-# NRainhasHC.java
+# NRainhas.java
 
 > **Linguagem:** java
 > Extraído de: Programas-exemplo HC, SA (versão para NRainhas e Distribuição de Cargas)
@@ -14,34 +14,32 @@ source: "raw/code/professor/nrainhashc.java"
 ```java
 
 /**
- * Implementação do Hill Climbing para o problema das N Rainhas
+ * Implementação do Simulated Annealing para o problema das N Rainhas
  * 
  * @author Sílvia
  * @version 10/09/2013 - Atualizado em 08/04/2021
  */
 import java.util.Random;
-public class NRainhasHC
+public class NRainhas
 {
-    private Character[][] tabuleiro, tabuleiroAux, tabuleiroMelhorVizinho;
-    private int[] solucaoAtual, solucaoVizinha, solucaoMelhorVizinho;
+    private Character[][] tabuleiro, tabuleiroAux;
+    private int[] solucaoAtual, solucaoVizinha;
     private int dimensao;
        
     public static void main(String args[]){
-    	int N = 8;
-    	NRainhasHC rainhas = new NRainhasHC(N);
-    	rainhas.executaHillClimbing();
+    	int N = 128;
+    	NRainhas rainhas = new NRainhas(N);
+    	rainhas.executaSimulatedAnnealing();
     }
     
     
     /*Cria o tabuleiro das NRainhas*/
-    public NRainhasHC(int dimensao){
+    public NRainhas(int dimensao){
         this.dimensao = dimensao;
         tabuleiro = new Character[dimensao][dimensao];
         tabuleiroAux = new Character[dimensao][dimensao];
-        tabuleiroMelhorVizinho = new Character[dimensao][dimensao];
         solucaoAtual = new int[dimensao];
         solucaoVizinha = new int[dimensao];
-        solucaoMelhorVizinho = new int[dimensao];
         inicializa();
     }
     
@@ -124,25 +122,28 @@ public class NRainhasHC
         return ataques;
     }
     
-    public void copiaTabuleiro(Character [][] tab1, Character [][] tab2){
+    public void copiaTabuleiro(Character [][] tab){
     	 for(int i=0; i<dimensao; i++)
             for(int j=0; j<dimensao; j++){
-            	tab1[i][j] = tab2[i][j];
+            	tabuleiro[i][j] = tab[i][j];
             }
          
     }
 
-    public void copiaSolucao(int v1[], int v2[]){
+    public void copiaSolucao(int v[]){
     	for(int i=0; i<dimensao; i++){
-    		v1[i] = v2[i];
+    		solucaoAtual[i] = v[i];
     	}
     }
     
-    public void geraSolucaoVizinha(int ind){
-        copiaSolucao(solucaoVizinha,solucaoAtual);
+    public void geraSolucaoVizinha(){
+    	for(int i=0; i<dimensao; i++){
+    		solucaoVizinha[i] = solucaoAtual[i];
+        }
         
         Random gera = new Random();
         int novaLinha;
+        int ind = gera.nextInt(dimensao);   //escolhe aa rainha
         do{
         	novaLinha = gera.nextInt(dimensao);
         } while(novaLinha == solucaoAtual[ind]);
@@ -153,58 +154,48 @@ public class NRainhasHC
         	
     }
     
-    public void geraSolucaoVizinhaTodas(int linha,int coluna){
-        copiaSolucao(solucaoVizinha,solucaoAtual);
-        
-        solucaoVizinha[linha] = coluna;
-       
-        limpaTabuleiro(tabuleiroAux);
-        incluiRainhas(tabuleiroAux,solucaoVizinha);
-        	
-    }
-    
-    public void executaHillClimbing(){
+    public void executaSimulatedAnnealing(){
         Random r = new Random();
         
-        double valorSolucaoAtual, valorSolucaoVizinha,melhorVizinho;
-        int iteracoes = 50000;
+        double valorSolucaoAtual, valorSolucaoVizinha;
+        double energia,probabilidade,valor;
+        double T = 1000000;
+        int iteracoes = 200000;
         
-        
-        System.out.println("Hill Climbing\nDimensão: " + dimensao+"\n");
+        System.out.println("Simulated Annealing\nDimensão: " + dimensao+"\n");
         inicializa();
-   
     	
         for(int t=1; t<=iteracoes; t++){  
             valorSolucaoAtual = h(tabuleiro);
-            System.out.print( "Ciclo: " + t + " -") ;  
+            System.out.print( "Ciclo: " + t + "- Temperatura: " + T + " -") ;  
     	    System.out.println("Solução Atual - h=" + valorSolucaoAtual);
  //   	    System.out.println(escreveTabuleiro(tabuleiro));
             if(valorSolucaoAtual==0) break;
             
-            melhorVizinho = 9999;
-            
-            for(int j=0; j<dimensao; j++)
-            for(int i=0; i<dimensao; i++){
-            	geraSolucaoVizinhaTodas(i,j);
-  //          	geraSolucaoVizinha(i);   //coluna aleatoria
-            	valorSolucaoVizinha = h(tabuleiroAux);
+            geraSolucaoVizinha();
+            valorSolucaoVizinha = h(tabuleiroAux);
  //           System.out.println("Solução Vizinha - h=" + valorSolucaoVizinha + "\n" +escreveTabuleiro(tabuleiroAux));
- 		if(valorSolucaoVizinha < melhorVizinho){
- 			melhorVizinho = valorSolucaoVizinha;
- 			copiaSolucao(solucaoMelhorVizinho,solucaoVizinha);
- 			copiaTabuleiro(tabuleiroMelhorVizinho,tabuleiroAux);
- 		}
-            }
-            if(melhorVizinho<valorSolucaoAtual){
-            		System.out.println("Achou um vizinho melhor");
- 			copiaSolucao(solucaoAtual, solucaoMelhorVizinho);
- 			copiaTabuleiro(tabuleiro, tabuleiroMelhorVizinho);
+            
+            energia = valorSolucaoVizinha - valorSolucaoAtual;
+            if(energia<=0){
+            	copiaSolucao(solucaoVizinha);
+            	copiaTabuleiro(tabuleiroAux);
             }
             else {
-            	System.out.println("Não há vizinho melhor que o atual");
-            	break;
+            	 probabilidade = Math.exp(-energia/T);
+            	 valor = r.nextDouble();
+ //           	 System.out.println("Valor Gerado: " + valor + " Probabilidade: " + probabilidade);
+            	 if(valor <probabilidade) {
+            	 	System.out.println("Aceitou uma solução pior...");
+            	 	copiaSolucao(solucaoVizinha);
+            		copiaTabuleiro(tabuleiroAux);
+            	 }
             }
-         }  
+              T = T * 0.6; 
+            //T = T* 0.65;
+            //T = T * 0.5;
+
+        }  
         
         System.out.println("Solução Atual - h=" + h(tabuleiro));
         System.out.println(escreveTabuleiro(tabuleiro));

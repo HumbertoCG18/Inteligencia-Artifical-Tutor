@@ -318,6 +318,47 @@
         "17ea65f3-5f84-47c7-9357-e090ee1f80ed",
         "69d347eb-fd6c-4962-a3cc-41264dcdfdf8"
       ]
+    },
+    "6c47b95d24ab7fbd9c95017496b645b7": {
+      "block_id": "bloco-13",
+      "block_uuid": "0b986383-663a-4a54-b000-4b97ebce59c4",
+      "confianca": "alta",
+      "justificativa": "A Prova 1 (P1) avalia o conteudo visto ate o bloco-07 (aprendizado supervisionado e nao supervisionado) e sua correcao ocorre na aula do bloco-13 (conforme indicado por 'correcao' no roteiro, seguido ",
+      "model": "gemini-3.5-flash",
+      "window": [
+        "bloco-01",
+        "bloco-02",
+        "bloco-03",
+        "bloco-04",
+        "bloco-05",
+        "bloco-07",
+        "bloco-09",
+        "bloco-10",
+        "bloco-11",
+        "bloco-13",
+        "bloco-15",
+        "bloco-16",
+        "bloco-17",
+        "bloco-19",
+        "bloco-21"
+      ],
+      "window_uuids": [
+        "0b986383-663a-4a54-b000-4b97ebce59c4",
+        "17ea65f3-5f84-47c7-9357-e090ee1f80ed",
+        "1de905a2-724e-4841-8d7b-a62bf7a42212",
+        "2fdbf4f5-fe92-46c7-b3d6-b4a09d87615f",
+        "38627373-95a6-4a0b-8504-de82c6ce8723",
+        "4062d883-01e9-47d1-be03-61ea23b0adff",
+        "43b6f936-7dc9-49fa-8f19-a88b66dc9b98",
+        "5256ec08-7e5d-4c55-8a3c-e1a7f981ac71",
+        "55691241-63a8-4053-aea8-8a835c90f4f7",
+        "55c7cdd4-b450-458e-880b-7c5e4ffb1ba4",
+        "5f917e10-322b-40f4-807d-cef684be70fd",
+        "7aa48de9-e821-4cb7-8e89-3c68c530e552",
+        "7eb6a214-73e1-48c7-a4a7-8bf66cf66385",
+        "af22fe17-ee73-407f-9af5-d730739d71e0",
+        "fbf15f4c-54b1-489d-bb02-f9bd33dc1bd3"
+      ]
     }
   }
 }

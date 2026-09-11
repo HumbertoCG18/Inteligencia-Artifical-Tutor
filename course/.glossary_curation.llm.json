@@ -1,0 +1,269 @@
+{
+  "_provenance": "llm",
+  "_modelo": "gemini-3.5-flash",
+  "_nota": "Vocabulario compilado por LLM (Fase 1b, 1 chamada por unidade com material; termos dos titulos/headings dos materiais classificados nos topicos do plano). Cache: reprocess nao rechama; recompilar = flag recompile_vocab; refiltrar sem chamar = refilter_vocab (usa _raw). Para curar a mao, edite/crie .glossary_curation.json (o loader funde os dois).",
+  "_raw": {
+    "Conceituação": [
+      "Inteligência Artificial",
+      "IA",
+      "Inteligência Adaptativa",
+      "modelos de IA"
+    ],
+    "Breve Histórico de IA": [],
+    "Subáreas e disciplinas afins": [
+      "IA generativa",
+      "generative",
+      "LLM",
+      "ChatGPT",
+      "Copilot"
+    ],
+    "Questões filosóficas de IA": [
+      "IA Responsável"
+    ],
+    "Introdução a agentes em ambientes determinísticos": [
+      "Agentes",
+      "Agentes e Algoritmos de Busca"
+    ],
+    "Representação de problemas": [
+      "Estados de mundo",
+      "Estado de Mundo",
+      "Espaço de Busca"
+    ],
+    "Busca informada (heurística)": [
+      "Algoritmos de Busca Informada",
+      "Busca Informada"
+    ],
+    "Algoritmos de Busca com Informação": [
+      "Algoritmo Hill-Climbing",
+      "Hill-Climbing",
+      "Algoritmo Simulated Annealing",
+      "Simulated Annealing",
+      "Busca Local por Refinamentos Sucessivos",
+      "Dijkstra",
+      "Algoritmo de Dijkstra"
+    ],
+    "Problemas de Otimização": [
+      "Algoritmos Genéticos",
+      "Algoritmo Genético",
+      "Algoritmo Genético Simples",
+      "Roda da Roleta",
+      "Crossover e Mutação",
+      "Elitismo",
+      "Crossover de N Pontos",
+      "Representação Real",
+      "Representação Binária",
+      "Cálculo da Aptidão",
+      "Seleção",
+      "Operações Genéticas",
+      "Crossover OBX",
+      "Crossover PBX",
+      "Crossover PMX",
+      "Crossover CX",
+      "Otimização Convencional"
+    ],
+    "Busca Adversária": [
+      "Teoria dos Jogos",
+      "Árvore de Busca",
+      "Transposição",
+      "Redução por simetria",
+      "Algoritmo Minimax",
+      "Minimax"
+    ],
+    "Agentes em Lógica": [
+      "Agentes",
+      "Ambientes",
+      "Agentes puramente reativos",
+      "Agentes Reativos",
+      "Agente Reativo baseado em Modelo",
+      "Agente Reativo baseado em Modelos"
+    ],
+    "Planejamento Clássico": [],
+    "Introdução ao aprendizado de máquina": [
+      "Machine Learning",
+      "Deep Learning",
+      "aprendizado indutivo",
+      "Exploração dos Dados",
+      "Análise Exploratória dos Dados",
+      "Caracterização dos Dados",
+      "Generalização"
+    ],
+    "Paradigmas de aprendizado": [
+      "Aprendizado Supervisionado",
+      "Aprendizado Não Supervisionado"
+    ],
+    "Modelos Preditivos": [
+      "Classificação",
+      "Regressão",
+      "Rede Neural Perceptron",
+      "Rede Perceptron",
+      "MultiLayer Perceptron",
+      "MLP",
+      "Árvores de Decisão",
+      "Árvore de Decisão",
+      "k-NN",
+      "Classificador Linear",
+      "Redes Feed Forward",
+      "Redes Recorrentes",
+      "Backpropagation"
+    ],
+    "Modelos Descritivos": [
+      "Agrupamento",
+      "Agrupamento Hierárquico",
+      "Agrupamento Particional",
+      "k-Means",
+      "Clustering",
+      "Mapa auto-organizável"
+    ],
+    "Métricas de Avaliação": [
+      "Acc",
+      "Pr",
+      "Re",
+      "F1",
+      "SSE",
+      "Matriz de Confusão",
+      "Accuracy",
+      "Micro-médias",
+      "Macro-médias"
+    ]
+  },
+  "Conceituação": {
+    "synonyms": [
+      "Inteligência Artificial",
+      "Inteligência Adaptativa",
+      "modelos de IA"
+    ]
+  },
+  "Subáreas e disciplinas afins": {
+    "synonyms": [
+      "IA generativa",
+      "generative",
+      "ChatGPT",
+      "Copilot"
+    ]
+  },
+  "Questões filosóficas de IA": {
+    "synonyms": [
+      "IA Responsável"
+    ]
+  },
+  "Introdução a agentes em ambientes determinísticos": {
+    "synonyms": [
+      "Agentes e Algoritmos de Busca"
+    ]
+  },
+  "Representação de problemas": {
+    "synonyms": [
+      "Estados de mundo",
+      "Estado de Mundo",
+      "Espaço de Busca"
+    ]
+  },
+  "Busca informada (heurística)": {
+    "synonyms": [
+      "Algoritmos de Busca Informada",
+      "Busca Informada"
+    ]
+  },
+  "Algoritmos de Busca com Informação": {
+    "synonyms": [
+      "Algoritmo Hill-Climbing",
+      "Hill-Climbing",
+      "Algoritmo Simulated Annealing",
+      "Simulated Annealing",
+      "Busca Local por Refinamentos Sucessivos",
+      "Dijkstra",
+      "Algoritmo de Dijkstra"
+    ]
+  },
+  "Problemas de Otimização": {
+    "synonyms": [
+      "Algoritmos Genéticos",
+      "Algoritmo Genético",
+      "Algoritmo Genético Simples",
+      "Roda da Roleta",
+      "Crossover e Mutação",
+      "Elitismo",
+      "Crossover de N Pontos",
+      "Representação Real",
+      "Representação Binária",
+      "Cálculo da Aptidão",
+      "Seleção",
+      "Operações Genéticas",
+      "Crossover OBX",
+      "Crossover PBX",
+      "Crossover PMX",
+      "Crossover CX",
+      "Otimização Convencional"
+    ]
+  },
+  "Busca Adversária": {
+    "synonyms": [
+      "Teoria dos Jogos",
+      "Árvore de Busca",
+      "Transposição",
+      "Redução por simetria",
+      "Algoritmo Minimax",
+      "Minimax"
+    ]
+  },
+  "Agentes em Lógica": {
+    "synonyms": [
+      "Ambientes",
+      "Agentes puramente reativos",
+      "Agentes Reativos",
+      "Agente Reativo baseado em Modelo",
+      "Agente Reativo baseado em Modelos"
+    ]
+  },
+  "Introdução ao aprendizado de máquina": {
+    "synonyms": [
+      "Machine Learning",
+      "Deep Learning",
+      "aprendizado indutivo",
+      "Exploração dos Dados",
+      "Análise Exploratória dos Dados",
+      "Caracterização dos Dados",
+      "Generalização"
+    ]
+  },
+  "Paradigmas de aprendizado": {
+    "synonyms": [
+      "Aprendizado Supervisionado",
+      "Aprendizado Não Supervisionado"
+    ]
+  },
+  "Modelos Preditivos": {
+    "synonyms": [
+      "Classificação",
+      "Regressão",
+      "Rede Neural Perceptron",
+      "Rede Perceptron",
+      "MultiLayer Perceptron",
+      "Árvores de Decisão",
+      "Árvore de Decisão",
+      "k-NN",
+      "Classificador Linear",
+      "Redes Feed Forward",
+      "Redes Recorrentes",
+      "Backpropagation"
+    ]
+  },
+  "Modelos Descritivos": {
+    "synonyms": [
+      "Agrupamento",
+      "Agrupamento Hierárquico",
+      "Agrupamento Particional",
+      "k-Means",
+      "Clustering",
+      "Mapa auto-organizável"
+    ]
+  },
+  "Métricas de Avaliação": {
+    "synonyms": [
+      "Matriz de Confusão",
+      "Accuracy",
+      "Micro-médias",
+      "Macro-médias"
+    ]
+  }
+}

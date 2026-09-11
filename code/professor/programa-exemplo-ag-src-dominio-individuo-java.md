@@ -1,10 +1,10 @@
 ---
-entry_id: "individuo"
+entry_id: "programa-exemplo-ag-src-dominio-individuo-java"
 title: "src\\dominio\\Individuo.java"
 language: "java"
 category: "codigo-professor"
 unit: ""
-source: "raw/code/professor/individuo.java"
+source: "raw/code/professor/programa-exemplo-ag-src-dominio-individuo-java.java"
 ---
 # src\dominio\Individuo.java
 

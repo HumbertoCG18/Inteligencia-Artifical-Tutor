@@ -1,10 +1,10 @@
 ---
-entry_id: "chart"
+entry_id: "programa-exemplo-ag-src-ihm-chart-java"
 title: "src\\ihm\\Chart.java"
 language: "java"
 category: "codigo-professor"
 unit: ""
-source: "raw/code/professor/chart.java"
+source: "raw/code/professor/programa-exemplo-ag-src-ihm-chart-java.java"
 ---
 # src\ihm\Chart.java
 

@@ -1,10 +1,10 @@
 ---
-entry_id: "jogovelha"
+entry_id: "implementacaominimax-jogovelha-java"
 title: "JogoVelha.java"
 language: "java"
 category: "codigo-professor"
 unit: ""
-source: "raw/code/professor/jogovelha.java"
+source: "raw/code/professor/implementacaominimax-jogovelha-java.java"
 ---
 # JogoVelha.java
 
